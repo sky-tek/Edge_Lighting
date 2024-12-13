@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ٻين ائپس تي ڏيکاريو</string>
+  <string name="open_nav">نيويگيشن دراز کوليو</string>
+  <string name="close_nav">نيويگيشن دراز کي بند ڪريو</string>
+  <string name="show_while_charging">چارج ڪرڻ دوران ڏيکاريو</string>
+  <string name="text_enable_wallpaper">وال پيپر کي فعال ڪريو</string>
+  <string name="number_of_colors">رنگن جو تعداد</string>
+  <string name="click_a_color_to_edit">تبديل ڪرڻ لاء هڪ رنگ تي ڪلڪ ڪريو</string>
+  <string name="mtrl_picker_confirm">ٺيڪ</string>
+  <string name="SelectLanguage">ٻولي چونڊيو</string>
+  <string name="text_cancel">منسوخ ڪريو</string>
+  <string name="text_border_type">سرحد جو قسم</string>
+  <string name="text_animation_speed">انيميشن جي رفتار</string>
+  <string name="text_border_size">سرحد جي ماپ</string>
+  <string name="text_radius_top">ريڊيس مٿي</string>
+  <string name="text_radius_bottom">ريڊيس هيٺان</string>
+  <string name="text_enable_display_notch">نوچ کي فعال ڪريو</string>
+  <string name="text_notch_width_top">چوٽيءَ جي چوٽي</string>
+  <string name="text_notch_width_bottom">چوٽيءَ جي هيٺان</string>
+  <string name="text_notch_height">چوٽي جي اوچائي</string>
+  <string name="text_notch_radius_top">ناچ ريڊيس مٿي</string>
+  <string name="text_notch_radius_bottom">هيٺان نشان ريڊيس</string>
+  <string name="select_wallpaper">وال پيپر چونڊيو</string>
+  <string name="allow_display_over_other_apps">ٻين ائپس تي ڊسپلي جي اجازت ڏيو</string>
+  <string name="continue_">جاري رکو</string>
+  <string name="app_name_service">کليل اسڪرين اوورلي</string>
+  <string name="permission_request">اجازت جي درخواست</string>
+  <string name="power_connected">پاور ڪيبل ڳنڍيل</string>
+  <string name="power_disconnected">پاور ڪيبل منقطع</string>
+  <string name="draw_over_cancelled">اوورلي جي اجازت اڃا تائين نه ڏني وئي آهي. ٻيهر ڪوشش ڪريو</string>
+  <string name="draw_over_granted">ڊرا اوورلي اجازتن جي درخواست ڏني وئي</string>
+  <string name="app_name">ڪنڊ جي روشني</string>
+  <string name="please_wait">مهرباني ڪري انتظار ڪريو وال پيپر ڊائون لوڊ ٿي رهيو آهي…</string>
+  <string name="no_internet">انٽرنيٽ ناهي</string>
+  <string name="to_use_this">ھن خصوصيت کي استعمال ڪرڻ لاءِ رسائي جي اجازت گھربل آھي</string>
+  <string name="draw_over_denied">اوورلي جي اجازت اڃا تائين نه ڏني وئي آهي. ٻيهر ڪوشش ڪريو</string>
+  <string name="no_internet_war">توھان آف لائن آھيو مھرباني ڪري ايج لائٽنگ وال پيپر حاصل ڪرڻ لاءِ پنھنجو انٽرنيٽ آن ڪريو.</string>
+  <string name="you_must">توهان کي فعال ڪرڻ گهرجي \"ڊرا اوور ٻين ائپس\" جي اجازت \"ايج لائٽنگ\" لاءِ صحيح ڪم ڪرڻ لاءِ.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">خلاصو</string>
+  <string name="nature">فطرت</string>
+  <string name="neon">نيون</string>
+  <string name="quotes">اقتباس</string>
+  <string name="sunset">سج اڀرڻ</string>
+  <string name="top">مٿي</string>
+  <string name="text_name_notification">سروس شروع ڪريو</string>
+  <string name="No_topic_selected">ڪو به موضوع نه چونڊيو ويو آهي</string>
+  <string name="Update_finish">تازه ڪاري ختم</string>
+  <string name="loading_ad">لوڊ ڪندي اشتهار</string>
+  <string name="low_battery">گھٽ بيٽري ايج لائٽنگ</string>
+  <string name="battery_one">بيٽري 1</string>
+  <string name="battery_two">بيٽري 2</string>
+  <string name="edge_service">هلندڙ خدمت</string>
+  <string name="wallpaper">وال پيپر</string>
+  <string name="magical_wallpaper">جيئڻ</string>
+  <string name="main_ongoing_download">ٺاھڻ جو ڏيک</string>
+  <string name="permission_required">اجازت گهربل</string>
+  <string name="title_onboarding_1">رسائي جي اجازت</string>
+  <string name="description_onboarding_1">رسائي هڪ بنيادي خصوصيت آهي</string>
+  <string name="string_text_onboarding_complete_description">بنيادي خصوصيت جي طور تي رسائي جي اجازت لازمي آهي Edge Lighting لاءِ ٻين ايپس تي ڪم ڪرڻ ۽ اسڪرين کي لاڪ ڪرڻ لاءِ</string>
+  <string name="title_onboarding_2">رسائي جي اجازت</string>
+  <string name="description_onboarding_2">اجازت هن ريت ڏئي سگهجي ٿي: \n \n رسائي > انسٽال ٿيل ائپس/سروسز > ايج لائٽنگ \n يا \n رسائي > وڌيڪ ڊائون لوڊ خدمتون > ايج لائٽنگ</string>
+  <string name="title_onboarding_3">ڪوڊ خوبصورت ائپس</string>
+  <string name="description_onboarding_3">اسان جو مشن مفيد ۽ ذيلي ايپس ٺاهڻ آهي. اسان پسند ڪندا آهيون ماڻهن کي وقت بچائڻ لاءِ اوپن سورس شين سان، پر اسان نئين شيون ٺاهي زندگي کي به آسان بڻائي سگهون ٿا. سٺو ڪوڊنگ!</string>
+  <string name="start_text_advice">هن ايپليڪيشن تي جاري رکڻ سان توهان متفق آهيو اسان جي استعمال جي شرطن ۽ رازداري جي پاليسي</string>
+  <string name="start">شروع</string>
+  <string name="skip">ڇڏڻ</string>
+  <string name="finish">ختم ڪر</string>
+  <string name="next">اڳيان</string>
+  <string name="back">پوئتي</string>
+  <string name="allow">اجازت ڏيو</string>
+  <string name="slider_Edge">ڪنڊ جي روشني</string>
+  <string name="slider_Edge1">ڪنڊن جي مٿان روشني ڏيکاريو</string>
+  <string name="alert_Edge">گھٽ بيٽري جي خبرداري</string>
+  <string name="alert_Edge1">گهٽ بيٽري جي خبرداري لاءِ نارنگي ايج لائٽنگ</string>
+  <string name="warning_Edge">گھٽ بيٽري ڊيڄاريندڙ</string>
+  <string name="warning_Edge1">تمام گهٽ بيٽري وارننگ لاءِ ڳاڙهي ڪنڊ لائٽنگ</string>
+  <string name="notch_Edge">نشان</string>
+  <string name="notch_Edge1">نوچ سان ڪنڊ لائٽنگ کي فعال ڪريو</string>
+  <string name="wallpaper_Edge">وال پيپر</string>
+  <string name="wallpaper_Edge1">وال پيپر سان ايج لائٽنگ</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>وائرليس</item> 
+  </string-array>
+  <string name="hello_blank_fragment">هيلو خالي ٽڪرو</string>
+  <string name="apply">لاڳو ڪريو</string>
+  <string name="applied">لاڳو ٿيل</string>
+  <string name="always_on_display_edge_lighting">هميشه ڊسپلي ڪنڊ لائٽنگ تي</string>
+  <string name="confirm_exit">نڪرڻ جي تصديق ڪريو؟</string>
+  <string name="yes">ها</string>
+  <string name="no">نه</string>
+  <string name="wallpapers">وال پيپر</string>
+  <string name="ok">ٺيڪ</string>
+  <string name="what_would_you_like_to_do">توهان ڇا ڪرڻ چاهيندا؟</string>
+  <string name="set_home_screen">گھر جي اسڪرين سيٽ ڪريو</string>
+  <string name="set_lock_screen">لاڪ اسڪرين سيٽ ڪريو</string>
+  <string name="set_both_screens">ٻئي اسڪرين کي سيٽ ڪريو</string>
+  <string name="adjust_screen">اسڪرين کي ترتيب ڏيو</string>
+  <string name="please_wait_ad_is_loading">مھرباني ڪري انتظار ڪريو، اشتهار لوڊ ٿي رھيو آھي</string>
+  <string name="home">گهر</string>
+  <string name="edge_lighting_border">ڪنڊ لائيٽنگ بارڊر</string>
+  <string name="view_more">وڌيڪ ڏسو</string>
+  <string name="brighten_up_by_stunning_edges">شاندار ڪنارن سان روشن ڪريو</string>
+  <string name="live_wallpapers">لائيو وال پيپر</string>
+  <string name="stunning_wallpapers">شاندار وال پيپر</string>
+  <string name="experience_by_interactive_wallpapers">انٽرويو وال پيپر پاران تجربو</string>
+  <string name="dismiss">برطرف</string>
+  <string name="language">ٻولي</string>
+  <string name="privacy_policy">رازداري پاليسي</string>
+  <string name="rate_us">اسان جي شرح</string>
+  <string name="more_app">وڌيڪ ايپ</string>
+  <string name="exit">نڪرڻ</string>
+  <string name="alert">خبرداري</string>
+  <string name="warning">ڊيڄاريندڙ</string>
+  <string name="trending">رجحان</string>
+  <string name="applying_wallpaper">وال پيپر لڳائڻ</string>
+  <string name="wallpaper_applied">وال پيپر لاڳو</string>
+  <string name="accessibility_service_level_permission">رسائي جي خدمت جي سطح جي اجازت:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">بنيادي خصوصيت جي طور تي رسائي جي اجازت لازمي آهي Edge Lighting لاءِ ٻين ايپس تي ڪم ڪرڻ ۽ اسڪرين کي لاڪ ڪرڻ لاءِ</string>
+  <string name="this_permission_can_be_granted_as_follow">هي اجازت ڏنل طور تي ڏئي سگهجي ٿو:</string>
+  <string name="go_to_settings">سيٽنگون ڏانھن وڃو</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">رسائي > انسٽال ٿيل ائپس/سروسز > ايج لائٽنگ</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">رسائي > وڌيڪ ڊائون لوڊ خدمتون > ايج لائٽنگ</string>
+  <string name="grant_permission_now">هاڻي اجازت ڏيو؟</string>
+  <string name="later">بعد ۾</string>
+  <string name="yes_now">ها، هاڻي</string>
+</resources>

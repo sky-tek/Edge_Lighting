@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Uri fuq apps oħra</string>
+  <string name="open_nav">Iftaħ Kexxun tan-Navigazzjoni</string>
+  <string name="close_nav">Agħlaq Kexxun tan-Navigazzjoni</string>
+  <string name="show_while_charging">Uri waqt l-iċċarġjar</string>
+  <string name="text_enable_wallpaper">Ippermetti Wallpaper</string>
+  <string name="number_of_colors">Numru ta\' Kuluri</string>
+  <string name="click_a_color_to_edit">Ikklikkja kulur biex teditja</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Agħżel Lingwa</string>
+  <string name="text_cancel">Ikkanċella</string>
+  <string name="text_border_type">Tip ta\' fruntiera</string>
+  <string name="text_animation_speed">Veloċità tal-animazzjoni</string>
+  <string name="text_border_size">Daqs tal-fruntiera</string>
+  <string name="text_radius_top">Top tar-raġġ</string>
+  <string name="text_radius_bottom">Raġġ tal-qiegħ</string>
+  <string name="text_enable_display_notch">Ippermetti Notch</string>
+  <string name="text_notch_width_top">Wisa \'talja ta\' fuq</string>
+  <string name="text_notch_width_bottom">Wisa \'talja qiegħ</string>
+  <string name="text_notch_height">Għoli talja</string>
+  <string name="text_notch_radius_top">Top tar-raġġ tal-talja</string>
+  <string name="text_notch_radius_bottom">Talja tal-qiegħ tar-raġġ</string>
+  <string name="select_wallpaper">Agħżel Wallpaper</string>
+  <string name="allow_display_over_other_apps">Ħalli l-wiri fuq apps oħra</string>
+  <string name="continue_">Kompli</string>
+  <string name="app_name_service">Iftaħ overlay tal-iskrin</string>
+  <string name="permission_request">Talba ta\' Permess</string>
+  <string name="power_connected">Kejbil tal-Enerġija Konnessi</string>
+  <string name="power_disconnected">Kejbil tal-Enerġija Skonnettjat</string>
+  <string name="draw_over_cancelled">Il-permess tat-tpinġija ta\' overlay għadu mhux mogħti. Erġa\' pprova</string>
+  <string name="draw_over_granted">Ittieħdet it-talba għal permessi ta\' overlay</string>
+  <string name="app_name">Xifer Dawl</string>
+  <string name="please_wait">Jekk jogħġbok stenna Tniżżil tal-wallpaper...</string>
+  <string name="no_internet">L-ebda internet</string>
+  <string name="to_use_this">Biex tuża din il-karatteristika Permess ta\' Aċċessibilità huwa meħtieġ</string>
+  <string name="draw_over_denied">Il-permess tat-tpinġija ta\' overlay għadu mhux mogħti. Erġa\' pprova</string>
+  <string name="no_internet_war">Inti offline jekk jogħġbok ixgħel l-internet tiegħek biex tikseb wallpapers tad-dawl tat-tarf.</string>
+  <string name="you_must">Int trid tippermetti l-permess \"Draw Over Other Apps\" biex \"Edge Lighting\" taħdem sew.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Astratt</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Kwotazzjonijiet</string>
+  <string name="sunset">Inżul ix-xemx</string>
+  <string name="top">Fuq</string>
+  <string name="text_name_notification">Ibda s-servizz</string>
+  <string name="No_topic_selected">Ebda suġġett magħżul</string>
+  <string name="Update_finish">Aġġorna l-finitura</string>
+  <string name="loading_ad">Tagħbija Ad</string>
+  <string name="low_battery">Dawl tat-Tarf tal-Batterija Baxxa</string>
+  <string name="battery_one">Batterija 1</string>
+  <string name="battery_two">Batterija 2</string>
+  <string name="edge_service">Servizz ta\' tmexxija</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Ġenerazzjoni Preview</string>
+  <string name="permission_required">Permess Meħtieġa</string>
+  <string name="title_onboarding_1">Permess ta\' Aċċessibbiltà</string>
+  <string name="description_onboarding_1">L-aċċessibbiltà hija karatteristika ewlenija</string>
+  <string name="string_text_onboarding_complete_description">Il-Permess għall-Aċċessibilità bħala karatteristika ewlenija hija obbligatorja biex id-Dawl tat-Titfa jaħdem fuq apps oħra u lock screen</string>
+  <string name="title_onboarding_2">Permess ta\' Aċċessibbiltà</string>
+  <string name="description_onboarding_2">Il-Permess jista\' jingħata kif ġej: \n \n Aċċessibilità > Apps/Servizzi Installati > Dawl tat-Titfer \n JEW \n Aċċessibilità > Servizzi ta\' Tniżżil Aktar > Dawl tat-Titfer</string>
+  <string name="title_onboarding_3">Kodifika apps sbieħ</string>
+  <string name="description_onboarding_3">Il-missjoni tagħna hija li nagħmlu apps utli u sottili. Aħna nħobbu ngħinu lin-nies jiffrankaw il-ħin b\'oġġetti open-source, iżda nagħmlu wkoll il-ħajja aktar faċli billi noħolqu affarijiet ġodda. Kodifikazzjoni Tajba!</string>
+  <string name="start_text_advice">Billi tkompli fuq din l-applikazzjoni taqbel mat-Termini tal-Użu u l-Politika tal-Privatezza tagħna</string>
+  <string name="start">Ibda</string>
+  <string name="skip">Aqbeż</string>
+  <string name="finish">Temm</string>
+  <string name="next">Li jmiss</string>
+  <string name="back">Lura</string>
+  <string name="allow">Ħalli</string>
+  <string name="slider_Edge">Xifer Dawl</string>
+  <string name="slider_Edge1">Uri dwal tat-tarf fuq Truf</string>
+  <string name="alert_Edge">Twissija Batterija Baxxa</string>
+  <string name="alert_Edge1">Dawl ta \'tarf oranġjo għal twissija ta\' batterija baxxa</string>
+  <string name="warning_Edge">Twissija ta\' Batterija Baxxa</string>
+  <string name="warning_Edge1">Dawl ta \'tarf aħmar għal twissija ta\' batterija baxxa ħafna</string>
+  <string name="notch_Edge">Talja</string>
+  <string name="notch_Edge1">Ippermetti dwal tat-tarf b\'talja</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Dawl tat-tarf bil-wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Bla fili</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello framment vojt</string>
+  <string name="apply">Applika</string>
+  <string name="applied">Applikata</string>
+  <string name="always_on_display_edge_lighting">Dejjem fuq id-dawl tat-tarf tal-wiri</string>
+  <string name="confirm_exit">Ikkonferma Ħruġ?</string>
+  <string name="yes">Iva</string>
+  <string name="no">Nru</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">X\'tixtieq tagħmel?</string>
+  <string name="set_home_screen">Issettja l-Iskrin tad-Dar</string>
+  <string name="set_lock_screen">Issettja Lock Screen</string>
+  <string name="set_both_screens">Issettja ż-Żewġ Skrins</string>
+  <string name="adjust_screen">Aġġusta l-Iskrin</string>
+  <string name="please_wait_ad_is_loading">Jekk jogħġbok stenna, ir-reklam qed jgħabbi</string>
+  <string name="home">Dar</string>
+  <string name="edge_lighting_border">Bord tad-Dawl tat-Tarf</string>
+  <string name="view_more">Ara aktar</string>
+  <string name="brighten_up_by_stunning_edges">Brighten up minn Truf isturdament</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">Wallpapers Stordament</string>
+  <string name="experience_by_interactive_wallpapers">Esperjenza minn Wallpapers Interattivi</string>
+  <string name="dismiss">Tkeċċi</string>
+  <string name="language">Lingwa</string>
+  <string name="privacy_policy">Politika ta\' Privatezza</string>
+  <string name="rate_us">Rata lilna</string>
+  <string name="more_app">Aktar App</string>
+  <string name="exit">Ħruġ</string>
+  <string name="alert">Twissija</string>
+  <string name="warning">Twissija</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Applikazzjoni Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applikata</string>
+  <string name="accessibility_service_level_permission">Permess tal-Livell ta\' Servizz ta\' Aċċessibilità:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Il-Permess għall-Aċċessibilità bħala karatteristika ewlenija hija obbligatorja biex id-Dawl tat-Titfa jaħdem fuq apps oħra u lock screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Dan il-Permess jista’ jingħata kif ġej:</string>
+  <string name="go_to_settings">Mur fil-Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aċċessibilità > Apps/Servizzi Installati > Dawl tax-Xfer</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aċċessibilità > Aktar Servizzi ta’ Niżżel > Dawl tat-Titfer</string>
+  <string name="grant_permission_now">Agħti Permess Issa?</string>
+  <string name="later">Aktar tard</string>
+  <string name="yes_now">Iva, issa</string>
+</resources>

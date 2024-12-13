@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Hōʻike ma luna o nā polokalamu ʻē aʻe</string>
+  <string name="open_nav">Wehe i ka Drawer Navigation</string>
+  <string name="close_nav">Pani i ka Navigation Drawer</string>
+  <string name="show_while_charging">Hōʻike i ke kau ʻana</string>
+  <string name="text_enable_wallpaper">E ho\'ā i ka Wallpaper</string>
+  <string name="number_of_colors">Ka helu o nā kala</string>
+  <string name="click_a_color_to_edit">Kaomi i kahi kala e hoʻoponopono</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">E koho i ka ʻōlelo</string>
+  <string name="text_cancel">Hoʻopau</string>
+  <string name="text_border_type">ʻAno palena</string>
+  <string name="text_animation_speed">ʻO ka wikiwiki hoʻolālā</string>
+  <string name="text_border_size">Nui palena</string>
+  <string name="text_radius_top">ʻO luna radius</string>
+  <string name="text_radius_bottom">Radius lalo</string>
+  <string name="text_enable_display_notch">E ho\'ā i ka Notch</string>
+  <string name="text_notch_width_top">Luna laula notch</string>
+  <string name="text_notch_width_bottom">Notch laula lalo</string>
+  <string name="text_notch_height">Kiʻekiʻe notch</string>
+  <string name="text_notch_radius_top">Luna radius notch</string>
+  <string name="text_notch_radius_bottom">Notch radius lalo</string>
+  <string name="select_wallpaper">E koho i ka Wallpaper</string>
+  <string name="allow_display_over_other_apps">E ʻae i ka hōʻike ʻana ma luna o nā polokalamu ʻē aʻe</string>
+  <string name="continue_">E hoʻomau</string>
+  <string name="app_name_service">Wehe ka uhi pale</string>
+  <string name="permission_request">Noi ʻae</string>
+  <string name="power_connected">Hoʻopili ʻia ke Uea Mana</string>
+  <string name="power_disconnected">Hoʻokuʻu ʻia ke kaula uila</string>
+  <string name="draw_over_cancelled">ʻAʻole i hāʻawi ʻia ka ʻae kaha kiʻi. Hana hou</string>
+  <string name="draw_over_granted">Ua hāʻawi ʻia ka noi ʻae kaha kiʻi</string>
+  <string name="app_name">Ke kukui lihi</string>
+  <string name="please_wait">E ʻoluʻolu e kali i ka hoʻoiho ʻana i ka pepa pepa…</string>
+  <string name="no_internet">ʻAʻohe pūnaewele</string>
+  <string name="to_use_this">No ka hoʻohana ʻana i kēia hiʻohiʻona pono ka ʻae ʻana</string>
+  <string name="draw_over_denied">ʻAʻole i hāʻawi ʻia ka ʻae kaha kiʻi. Hana hou</string>
+  <string name="no_internet_war">Aia ʻoe ma waho, e ʻoluʻolu e hoʻā i kāu pūnaewele no ka loaʻa ʻana o nā kiʻi kukui kukui.</string>
+  <string name="you_must">Pono ʻoe e ʻae i ka \"Draw Over Other Apps\" no ka \"Edge Lighting\" e hana pono.</string>
+  <string name="wallpaper_description">Ola_wallpaper</string>
+  <string name="abstract_">ʻĀpana</string>
+  <string name="nature">ʻAno</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Nā huaʻōlelo</string>
+  <string name="sunset">Napoo ka lā</string>
+  <string name="top">Luna</string>
+  <string name="text_name_notification">Hoʻomaka i ka lawelawe</string>
+  <string name="No_topic_selected">ʻAʻohe kumuhana i koho ʻia</string>
+  <string name="Update_finish">Hoʻopau hou</string>
+  <string name="loading_ad">Hoʻouka Hoʻolaha</string>
+  <string name="low_battery">Kukui Uila Haahaa</string>
+  <string name="battery_one">Bateri 1</string>
+  <string name="battery_two">Bateri 2</string>
+  <string name="edge_service">Hana lawelawe</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Ola</string>
+  <string name="main_ongoing_download">Hana ana i namua</string>
+  <string name="permission_required">Pono ka ʻae</string>
+  <string name="title_onboarding_1">ʻAe hiki ke komo</string>
+  <string name="description_onboarding_1">ʻO ke komo ʻana he hiʻohiʻona nui</string>
+  <string name="string_text_onboarding_complete_description">ʻO ka ʻae ʻae ʻana ma ke ʻano he hiʻohiʻona nui no ka Edge Light e hana ma luna o nā polokalamu ʻē aʻe a me ka pale laka</string>
+  <string name="title_onboarding_2">ʻAe hiki ke komo</string>
+  <string name="description_onboarding_2">Hiki ke ʻae ʻia ka ʻae e like me kēia: \n \n Accessibility > Installed Apps/Services > Edge Lighting \n OR \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Hoʻopili i nā polokalamu nani</string>
+  <string name="description_onboarding_3">ʻO kā mākou misionari ka hana ʻana i nā polokalamu pono a maʻalahi. Makemake mākou i ke kōkua ʻana i ka poʻe e mālama i ka manawa me nā mea open-source, akā maʻalahi mākou i ke ola ma o ka hana ʻana i nā mea hou. Heluhelu maikaʻi!</string>
+  <string name="start_text_advice">Ma ka hoʻomau ʻana i kēia noi ua ʻae ʻoe i kā mākou Kūlana o ka hoʻohana a me nā kulekele pilikino</string>
+  <string name="start">Hoʻomaka</string>
+  <string name="skip">Holoi</string>
+  <string name="finish">Hoʻopau</string>
+  <string name="next">Aʻe</string>
+  <string name="back">Ke kua</string>
+  <string name="allow">ʻAe</string>
+  <string name="slider_Edge">Ke kukui lihi</string>
+  <string name="slider_Edge1">E hōʻike i nā kukui lihi ma luna o Edges</string>
+  <string name="alert_Edge">Makaʻala Haʻahaʻa Battery</string>
+  <string name="alert_Edge1">Ke kukui lihi ʻalani no ka makaʻala haʻahaʻa</string>
+  <string name="warning_Edge">\'Ōlelo Haʻahaʻa Battery</string>
+  <string name="warning_Edge1">ʻO ke kukui lihi ʻulaʻula no ka ʻōlelo aʻo haʻahaʻa haʻahaʻa</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">E ho\'ā i ke kukui lihi me ka notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ke kukui lihi me ka Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Uwea ole</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Aloha ʻāpana hakahaka</string>
+  <string name="apply">E noi</string>
+  <string name="applied">Hoʻopili ʻia</string>
+  <string name="always_on_display_edge_lighting">I nā manawa a pau ma ka hōʻike kukui lihi</string>
+  <string name="confirm_exit">E hōʻoia i waho ?</string>
+  <string name="yes">ʻAe</string>
+  <string name="no">ʻAʻole</string>
+  <string name="wallpapers">Nā kiʻi paʻi kiʻi</string>
+  <string name="ok">ʻAe</string>
+  <string name="what_would_you_like_to_do">He aha kāu makemake e hana ai?</string>
+  <string name="set_home_screen">E hoʻonoho i ka pale Home</string>
+  <string name="set_lock_screen">E hoʻonohonoho i ka pale laka</string>
+  <string name="set_both_screens">E hoʻonoho i nā pale ʻelua</string>
+  <string name="adjust_screen">Hoʻoponopono pale</string>
+  <string name="please_wait_ad_is_loading">E ʻoluʻolu e kali, hoʻouka ʻia ka hoʻolaha</string>
+  <string name="home">Home</string>
+  <string name="edge_lighting_border">Palena kukui lihi</string>
+  <string name="view_more">Nānā hou aku</string>
+  <string name="brighten_up_by_stunning_edges">E hoʻomālamalama ʻia e nā Edges nani</string>
+  <string name="live_wallpapers">Nā Kiʻi Paʻi Ola</string>
+  <string name="stunning_wallpapers">Nā Kiʻi Paʻi Kūʻē</string>
+  <string name="experience_by_interactive_wallpapers">ʻIke e nā Wallpaper Interactive</string>
+  <string name="dismiss">Hoʻokuʻu</string>
+  <string name="language">ʻŌlelo</string>
+  <string name="privacy_policy">Kulekele pilikino</string>
+  <string name="rate_us">E helu iā mākou</string>
+  <string name="more_app">App hou aku</string>
+  <string name="exit">Puka</string>
+  <string name="alert">Makaʻala</string>
+  <string name="warning">ʻŌlelo aʻo</string>
+  <string name="trending">Kaulana</string>
+  <string name="applying_wallpaper">Ke noi nei i ka Wallpaper</string>
+  <string name="wallpaper_applied">Hoʻohana ʻia ka pepa kiʻi</string>
+  <string name="accessibility_service_level_permission">\'Ae</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">ʻO ka ʻae ʻae ʻana ma ke ʻano he hiʻohiʻona nui no ka Edge Light e hana ma luna o nā polokalamu ʻē aʻe a me ka pale laka</string>
+  <string name="this_permission_can_be_granted_as_follow">Hiki ke hāʻawi ʻia kēia ʻae e like me kēia:</string>
+  <string name="go_to_settings">E hele i ka Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Loaʻa > Nā polokalamu / lawelawe i hoʻokomo ʻia > Ke kukui ʻaoʻao</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Loaʻa > Nā lawelawe hoʻoiho hou aku > Ke kukui ʻo Edge</string>
+  <string name="grant_permission_now">Hāʻawi i ka ʻae i kēia manawa?</string>
+  <string name="later">Ma hope aku</string>
+  <string name="yes_now">ʻAe, i kēia manawa</string>
+</resources>

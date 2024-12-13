@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Parādīt pāri citām lietotnēm</string>
+  <string name="open_nav">Atveriet navigācijas atvilktni</string>
+  <string name="close_nav">Aizveriet navigācijas atvilktni</string>
+  <string name="show_while_charging">Rādīt uzlādes laikā</string>
+  <string name="text_enable_wallpaper">Iespējot fona attēlu</string>
+  <string name="number_of_colors">Krāsu skaits</string>
+  <string name="click_a_color_to_edit">Noklikšķiniet uz krāsas, lai rediģētu</string>
+  <string name="mtrl_picker_confirm">Labi</string>
+  <string name="SelectLanguage">Izvēlieties valodu</string>
+  <string name="text_cancel">Atcelt</string>
+  <string name="text_border_type">Apmales veids</string>
+  <string name="text_animation_speed">Animācijas ātrums</string>
+  <string name="text_border_size">Apmales izmērs</string>
+  <string name="text_radius_top">Rādiusa augšdaļa</string>
+  <string name="text_radius_bottom">Rādiuss apakšā</string>
+  <string name="text_enable_display_notch">Iespējot Notch</string>
+  <string name="text_notch_width_top">Iecirtuma platuma augšdaļa</string>
+  <string name="text_notch_width_bottom">Iecirtuma platums apakšā</string>
+  <string name="text_notch_height">Iecirtuma augstums</string>
+  <string name="text_notch_radius_top">Izgriezuma rādiuss augšpusē</string>
+  <string name="text_notch_radius_bottom">Izgriezuma rādiuss apakšā</string>
+  <string name="select_wallpaper">Atlasiet Fona attēls</string>
+  <string name="allow_display_over_other_apps">Atļaut attēlošanu virs citām lietotnēm</string>
+  <string name="continue_">Turpināt</string>
+  <string name="app_name_service">Atvērt ekrāna pārklājumu</string>
+  <string name="permission_request">Atļaujas pieprasījums</string>
+  <string name="power_connected">Pievienots strāvas kabelis</string>
+  <string name="power_disconnected">Strāvas kabelis ir atvienots</string>
+  <string name="draw_over_cancelled">Zīmēšanas pārklājuma atļauja vēl nav piešķirta. Mēģiniet vēlreiz</string>
+  <string name="draw_over_granted">Zīmēšanas pārklājuma atļauju pieprasījums ir piešķirts</string>
+  <string name="app_name">Malu apgaismojums</string>
+  <string name="please_wait">Lūdzu, uzgaidiet. Notiek fona tapetes lejupielāde…</string>
+  <string name="no_internet">Nav interneta</string>
+  <string name="to_use_this">Lai izmantotu šo funkciju, ir nepieciešama pieejamības atļauja</string>
+  <string name="draw_over_denied">Zīmēšanas pārklājuma atļauja vēl nav piešķirta. Mēģiniet vēlreiz</string>
+  <string name="no_internet_war">Jūs esat bezsaistē, lūdzu, ieslēdziet internetu, lai iegūtu malu apgaismojuma tapetes.</string>
+  <string name="you_must">Lai \"Edge Lighting\" darbotos pareizi, ir jāiespējo atļauja \"Draw Over Other Apps\".</string>
+  <string name="wallpaper_description">Live_walpaper</string>
+  <string name="abstract_">Abstrakts</string>
+  <string name="nature">Daba</string>
+  <string name="neon">Neona</string>
+  <string name="quotes">Citāti</string>
+  <string name="sunset">Saulriets</string>
+  <string name="top">Augšā</string>
+  <string name="text_name_notification">Sāciet pakalpojumu</string>
+  <string name="No_topic_selected">Nav atlasīta neviena tēma</string>
+  <string name="Update_finish">Atjaunināšanas pabeigšana</string>
+  <string name="loading_ad">Notiek sludinājuma ielāde</string>
+  <string name="low_battery">Zema akumulatora malas apgaismojums</string>
+  <string name="battery_one">Akumulators 1</string>
+  <string name="battery_two">2. akumulators</string>
+  <string name="edge_service">Skriešanas serviss</string>
+  <string name="wallpaper">Tapetes</string>
+  <string name="magical_wallpaper">Tiešraidē</string>
+  <string name="main_ongoing_download">Priekšskatījuma ģenerēšana</string>
+  <string name="permission_required">Nepieciešama atļauja</string>
+  <string name="title_onboarding_1">Pieejamības atļauja</string>
+  <string name="description_onboarding_1">Pieejamība ir galvenā funkcija</string>
+  <string name="string_text_onboarding_complete_description">Pieejamības atļauja kā pamatfunkcija ir nepieciešama, lai Edge Lighting darbotos pār citām lietotnēm un bloķētu ekrānu.</string>
+  <string name="title_onboarding_2">Pieejamības atļauja</string>
+  <string name="description_onboarding_2">Atļauju var piešķirt šādi: \n \n Pieejamība > Instalētās lietotnes/pakalpojumi > Edge Lighting \n VAI \n Pieejamība > Citi lejupielādes pakalpojumi > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodējiet skaistas lietotnes</string>
+  <string name="description_onboarding_3">Mūsu misija ir izveidot noderīgas un smalkas lietotnes. Mums patīk palīdzēt cilvēkiem ietaupīt laiku, izmantojot atvērtā pirmkoda materiālus, taču mēs arī atvieglojam dzīvi, radot jaunas lietas. Laba kodēšana!</string>
+  <string name="start_text_advice">Turpinot darbu ar šo lietojumprogrammu, jūs piekrītat mūsu lietošanas noteikumiem un konfidencialitātes politikai</string>
+  <string name="start">Sākt</string>
+  <string name="skip">Izlaist</string>
+  <string name="finish">Pabeigt</string>
+  <string name="next">Tālāk</string>
+  <string name="back">Atpakaļ</string>
+  <string name="allow">Atļaut</string>
+  <string name="slider_Edge">Malu apgaismojums</string>
+  <string name="slider_Edge1">Displeja malu apgaismojums virs malām</string>
+  <string name="alert_Edge">Brīdinājums par zemu akumulatora uzlādes līmeni</string>
+  <string name="alert_Edge1">Oranžs malu apgaismojums brīdinājumam par zemu akumulatora uzlādes līmeni</string>
+  <string name="warning_Edge">Brīdinājums par zemu akumulatora uzlādes līmeni</string>
+  <string name="warning_Edge1">Sarkanās malas apgaismojums brīdinājumam par ļoti zemu akumulatora uzlādes līmeni</string>
+  <string name="notch_Edge">Iecirtums</string>
+  <string name="notch_Edge1">Iespējot malu apgaismojumu ar iegriezumu</string>
+  <string name="wallpaper_Edge">Tapetes</string>
+  <string name="wallpaper_Edge1">Malu apgaismojums ar tapetēm</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Bezvadu</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Sveiki, tukšs fragments</string>
+  <string name="apply">Pieteikties</string>
+  <string name="applied">Pielietots</string>
+  <string name="always_on_display_edge_lighting">Vienmēr redzams displeja malu apgaismojums</string>
+  <string name="confirm_exit">Apstiprināt izeju?</string>
+  <string name="yes">Jā</string>
+  <string name="no">Nē</string>
+  <string name="wallpapers">Tapetes</string>
+  <string name="ok">Labi</string>
+  <string name="what_would_you_like_to_do">Ko jūs vēlētos darīt?</string>
+  <string name="set_home_screen">Iestatīt sākuma ekrānu</string>
+  <string name="set_lock_screen">Iestatiet bloķēšanas ekrānu</string>
+  <string name="set_both_screens">Iestatiet abus ekrānus</string>
+  <string name="adjust_screen">Pielāgot ekrānu</string>
+  <string name="please_wait_ad_is_loading">Lūdzu, uzgaidiet, sludinājums tiek ielādēts</string>
+  <string name="home">Sākums</string>
+  <string name="edge_lighting_border">Malu apgaismojuma apmale</string>
+  <string name="view_more">Skatīt vairāk</string>
+  <string name="brighten_up_by_stunning_edges">Padariet gaišāku, izmantojot satriecošās Edges</string>
+  <string name="live_wallpapers">Dzīvās fona tapetes</string>
+  <string name="stunning_wallpapers">Satriecoši tapetes</string>
+  <string name="experience_by_interactive_wallpapers">Pieredze, izmantojot interaktīvos tapetes</string>
+  <string name="dismiss">Atlaist</string>
+  <string name="language">Valoda</string>
+  <string name="privacy_policy">Privātuma politika</string>
+  <string name="rate_us">Novērtējiet mūs</string>
+  <string name="more_app">Vairāk lietotņu</string>
+  <string name="exit">Iziet</string>
+  <string name="alert">Brīdinājums</string>
+  <string name="warning">Brīdinājums</string>
+  <string name="trending">Tendences</string>
+  <string name="applying_wallpaper">Tapetes uzlikšana</string>
+  <string name="wallpaper_applied">Uzklāta tapete</string>
+  <string name="accessibility_service_level_permission">Pieejamības pakalpojuma līmeņa atļauja:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Pieejamības atļauja kā pamatfunkcija ir nepieciešama, lai Edge Lighting darbotos pār citām lietotnēm un bloķētu ekrānu.</string>
+  <string name="this_permission_can_be_granted_as_follow">Šo atļauju var piešķirt šādi:</string>
+  <string name="go_to_settings">Dodieties uz Iestatījumi</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Pieejamība > Instalētās lietotnes/pakalpojumi > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Pieejamība > Citi lejupielādes pakalpojumi > Edge Lighting</string>
+  <string name="grant_permission_now">Vai piešķirt atļauju tūlīt?</string>
+  <string name="later">Vēlāk</string>
+  <string name="yes_now">Jā, tagad</string>
+</resources>

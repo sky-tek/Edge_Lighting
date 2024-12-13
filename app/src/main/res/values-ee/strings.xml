@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ðee fia le dɔwɔnu bubuwo dzi</string>
+  <string name="open_nav">Ʋu Navigation Drawer</string>
+  <string name="close_nav">Do Navigation Drawer la ɖa</string>
+  <string name="show_while_charging">Fia esime nèle agba xɔm</string>
+  <string name="text_enable_wallpaper">Na Wallpaper nawɔ dɔ</string>
+  <string name="number_of_colors">Amadedewo ƒe Xexlẽme</string>
+  <string name="click_a_color_to_edit">Zi amadede aɖe dzi be nàtrɔ asi le eŋu</string>
+  <string name="mtrl_picker_confirm">ENYO</string>
+  <string name="SelectLanguage">Tia Gbegbɔgblɔ</string>
+  <string name="text_cancel">Te fli ɖe eme</string>
+  <string name="text_border_type">Liƒo ƒe ƒomevi</string>
+  <string name="text_animation_speed">Animation ƒe duƒuƒu</string>
+  <string name="text_border_size">Liƒo ƒe lolome</string>
+  <string name="text_radius_top">Radius ƒe tame</string>
+  <string name="text_radius_bottom">Radius ƒe anyime</string>
+  <string name="text_enable_display_notch">Na Notch nawɔ dɔ</string>
+  <string name="text_notch_width_top">Notch kekeme tame</string>
+  <string name="text_notch_width_bottom">Notch kekeme le ete</string>
+  <string name="text_notch_height">Notch ƒe kɔkɔme</string>
+  <string name="text_notch_radius_top">Notch radius ƒe tame</string>
+  <string name="text_notch_radius_bottom">Notch radius ƒe gɔme</string>
+  <string name="select_wallpaper">Tia Wallpaper ƒe nɔnɔmetata</string>
+  <string name="allow_display_over_other_apps">Ðe mɔ woaɖee afia le dɔwɔnu bubuwo dzi</string>
+  <string name="continue_">Yi edzi</string>
+  <string name="app_name_service">Ʋu screen ƒe nutsyɔnu</string>
+  <string name="permission_request">Mɔɖeɖe Biabia</string>
+  <string name="power_connected">Ŋusẽka si Wotsɔ Do Ƒome Kplii</string>
+  <string name="power_disconnected">Woɖe Elektrikkaƒomɔ̃a ɖa</string>
+  <string name="draw_over_cancelled">Draw overlay mɔɖeɖe womeɖe mɔ na haɖe o. Gadze agbagba ake</string>
+  <string name="draw_over_granted">Draw overlay mɔɖeɖewo biabia si woɖe mɔ na</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Taflatse lala Wallpaper Downloading...</string>
+  <string name="no_internet">Internet aɖeke meli o</string>
+  <string name="to_use_this">Be nàzã nɔnɔme sia la, ehiã be Mɔɖeɖe le Mɔɖeɖe ɖe Nu Ŋu</string>
+  <string name="draw_over_denied">Draw overlay mɔɖeɖe womeɖe mɔ na haɖe o. Gadze agbagba ake</string>
+  <string name="no_internet_war">Èle offline taflatse ʋu wò internet be nàxɔ edge lighting wallpapers.</string>
+  <string name="you_must">Ele be nàna \"Draw Over Other Apps\" ƒe mɔɖeɖe nawɔ dɔ hafi \"Edge Lighting\" nawɔ dɔ nyuie.</string>
+  <string name="wallpaper_description">Live_wallpaper ƒe agbalẽ</string>
+  <string name="abstract_">Totoɖeme</string>
+  <string name="nature">Dzᴐdzᴐme</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Nyatotowo</string>
+  <string name="sunset">Ɣetoɖoɖo</string>
+  <string name="top">Dzi</string>
+  <string name="text_name_notification">Dze subɔsubɔdɔa gɔme</string>
+  <string name="No_topic_selected">Wometia tanya aɖeke o</string>
+  <string name="Update_finish">Update wu enu</string>
+  <string name="loading_ad">Boblododo si Wole Xɔm</string>
+  <string name="low_battery">Batriki ƒe Nugbɔ ƒe Akaɖi si le bɔbɔe</string>
+  <string name="battery_one">Batriki 1</string>
+  <string name="battery_two">Batriki 2 lia</string>
+  <string name="edge_service">Subɔsubɔdɔ si le du dzi</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Nɔ agbe</string>
+  <string name="main_ongoing_download">Do ŋgɔ na Nukpɔkpɔ</string>
+  <string name="permission_required">Mɔɖeɖe hiã</string>
+  <string name="title_onboarding_1">Mɔɖeɖe le Mɔɖeɖe ɖe Ame Ŋu be Woage Ðe Amewo Ŋu</string>
+  <string name="description_onboarding_1">Mɔɖeɖe ɖe nu ŋu nye nu vevi aɖe</string>
+  <string name="string_text_onboarding_complete_description">Mɔɖeɖe si nye Mɔɖeɖe ɖe Mɔnukpɔkpɔ Ŋu abe nu vevi aɖe ene la, ele be Edge Lighting nawɔ dɔ le dɔwɔnu bubuwo dzi eye wòaxe screen</string>
+  <string name="title_onboarding_2">Mɔɖeɖe le Mɔɖeɖe ɖe Ame Ŋu be Woage Ðe Amewo Ŋu</string>
+  <string name="description_onboarding_2">Woateŋu ana Mɔɖeɖea abe alesi gbɔna ene: \n \n Mɔɖeɖe > Dɔwɔɖoɖo/Dɔwɔwɔ siwo woda > Edge Lighting \n ALOO \n Mɔɖeɖe > Dɔwɔna bubuwo ƒe kɔpi > Edge Lighting</string>
+  <string name="title_onboarding_3">Code dzeani apps</string>
+  <string name="description_onboarding_3">Míaƒe dɔdeasie nye be míawɔ dɔwɔnu siwo ŋu viɖe le &amp; siwo menya kpɔna dzea sii bɔbɔe o. Míelɔ̃a kpekpeɖeŋu nana amewo be woaɖe ɣeyiɣi dzi akpɔtɔ kple nusiwo woate ŋu azã faa, gake míenaa agbea nɔa bɔbɔe hã to nu yeyewo toto vɛ me. Coding Nyui aɖe!</string>
+  <string name="start_text_advice">Ne èyi dɔwɔnu sia dzi la, efia be èlɔ̃ ɖe míaƒe Zãzã Ŋuti Ðoɖowo Kple Ameŋunyatakakawo Ŋuti Ðoɖowo dzi</string>
+  <string name="start">Dze egᴐme</string>
+  <string name="skip">Dzo to eta</string>
+  <string name="finish">Wu enu</string>
+  <string name="next">Esi kplᴐe ɖo</string>
+  <string name="back">Megbe</string>
+  <string name="allow">Ɖe asi le eŋu</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Fia nugbɔ ƒe akaɖiwo ɖe Edges dzi</string>
+  <string name="alert_Edge">Batriki si mebɔ o ƒe Nuxlɔ̃ame</string>
+  <string name="alert_Edge1">Orange edge lighting na batri si mebɔ o ƒe nuxlɔ̃ame</string>
+  <string name="warning_Edge">Batriki ƒe Nuxlɔ̃ame</string>
+  <string name="warning_Edge1">Red edge lighting na batri ƒe nuxlɔ̃ame si bɔbɔ ŋutɔ</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Na nugbɔ kekeli nawɔ dɔ kple notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge kekeli kple Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Kaƒomɔ̃ dzi</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Mido gbe nam ƒuƒlu kakɛ</string>
+  <string name="apply">Tsᴐe wᴐ dᴐ</string>
+  <string name="applied">Wozãe</string>
+  <string name="always_on_display_edge_lighting">Ɣesiaɣi le ɖeɖefia nugbɔ akaɖiwo</string>
+  <string name="confirm_exit">Ðo kpe edzi be Dodo le eme ?</string>
+  <string name="yes">Ɛ̃</string>
+  <string name="no">Ao</string>
+  <string name="wallpapers">Wallpapers ƒe nɔnɔmetatawo</string>
+  <string name="ok">Enyo</string>
+  <string name="what_would_you_like_to_do">Nukae nàdi be yeawɔ?</string>
+  <string name="set_home_screen">Ðo Aƒeme Screen</string>
+  <string name="set_lock_screen">Ðo Lock Screen dzi</string>
+  <string name="set_both_screens">Ðo Screen eveawo siaa</string>
+  <string name="adjust_screen">Trɔ Asi Le Screen Ŋu</string>
+  <string name="please_wait_ad_is_loading">Taflatse lala, boblododo le agba dzi</string>
+  <string name="home">Aƒeme</string>
+  <string name="edge_lighting_border">Edge Lighting ƒe Liƒo</string>
+  <string name="view_more">Kpɔ Nu Bubuwo</string>
+  <string name="brighten_up_by_stunning_edges">Klẽ to Edges wɔdɔɖeamedziwo dzi</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">Wallpaper Wɔdɔɖeamedziwo</string>
+  <string name="experience_by_interactive_wallpapers">Nuteƒekpɔkpɔ to Interactive Wallpapers dzi</string>
+  <string name="dismiss">Ɖe asi le eŋu</string>
+  <string name="language">Gbegbᴐgblᴐ</string>
+  <string name="privacy_policy">Ameŋunyatakakawo Ŋuti Ðoɖo</string>
+  <string name="rate_us">Da Dzeside Na Mí</string>
+  <string name="more_app">App Bubuwo</string>
+  <string name="exit">Do</string>
+  <string name="alert">Ŋute</string>
+  <string name="warning">Kpɔnyuiedodo</string>
+  <string name="trending">Nusiwo le ŋgɔ yim</string>
+  <string name="applying_wallpaper">Wallpaper zazã</string>
+  <string name="wallpaper_applied">Wallpaper Si Wozã</string>
+  <string name="accessibility_service_level_permission">Mɔɖeɖe le Dɔwɔƒe si Kpɔa Mɔnukpɔkpɔwo Gbɔ ƒe Dzeside:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Mɔɖeɖe si nye Mɔɖeɖe ɖe Mɔnukpɔkpɔ Ŋu abe nu vevi aɖe ene la, ele be Edge Lighting nawɔ dɔ le dɔwɔnu bubuwo dzi eye wòaxe screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Woate ŋu ana Mɔɖeɖe sia ale:</string>
+  <string name="go_to_settings">Yi Settings dzi</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Mɔnukpɔkpɔ > Dɔwɔɖoɖo/Dɔwɔƒe siwo Woda > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Mɔɖeɖe > Dɔwɔna Bubuwo ƒe Kɔpiwɔwɔ > Edge Lighting</string>
+  <string name="grant_permission_now">Na Mɔɖeɖe Fifiaa?</string>
+  <string name="later">Emegbe</string>
+  <string name="yes_now">Ẽ, fifia</string>
+</resources>

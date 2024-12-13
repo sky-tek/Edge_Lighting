@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout tools:context=".activities.MainActivity" android:padding="20dp" android:orientation="vertical" android:gravity="center_horizontal" android:layout_height="wrap_content" android:layout_width="match_parent" xmlns:tools="http://schemas.android.com/tools" xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ImageView android:layout_height="100dp" android:layout_width="100dp" android:layout_margin="20dp" android:src="@drawable/ic_launcher_round"/>
+
+    <Button android:layout_height="50dp" android:layout_width="match_parent" android:textSize="14sp" android:textColor="@color/md_white_1000" android:text="Example 1" android:onClick="onClick" android:background="@drawable/btn_blue_selector" android:layout_marginBottom="10dp" android:id="@+id/btn_example1"/>
+
+    <Button android:layout_height="50dp" android:layout_width="match_parent" android:textSize="14sp" android:textColor="@color/md_white_1000" android:text="Example 2" android:onClick="onClick" android:background="@drawable/btn_blue_selector" android:layout_marginBottom="10dp" android:id="@+id/btn_example2"/>
+
+    <Button android:layout_height="50dp" android:layout_width="match_parent" android:textSize="14sp" android:textColor="@color/md_white_1000" android:text="Example 3" android:onClick="onClick" android:background="@drawable/btn_blue_selector" android:layout_marginBottom="10dp" android:id="@+id/btn_example3"/>
+
+    <Button android:layout_height="50dp" android:layout_width="match_parent" android:textSize="14sp" android:textColor="@color/md_white_1000" android:text="Example 4" android:onClick="onClick" android:background="@drawable/btn_blue_selector" android:layout_marginBottom="10dp" android:id="@+id/btn_example4"/>
+
+</LinearLayout>

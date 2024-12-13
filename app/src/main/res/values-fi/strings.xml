@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Näytä muiden sovellusten päällä</string>
+  <string name="open_nav">Avaa navigointilaatikko</string>
+  <string name="close_nav">Sulje navigointilaatikko</string>
+  <string name="show_while_charging">Näytä latauksen aikana</string>
+  <string name="text_enable_wallpaper">Ota taustakuva käyttöön</string>
+  <string name="number_of_colors">Värien määrä</string>
+  <string name="click_a_color_to_edit">Napsauta väriä muokataksesi</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Valitse Kieli</string>
+  <string name="text_cancel">Peruuttaa</string>
+  <string name="text_border_type">Reunuksen tyyppi</string>
+  <string name="text_animation_speed">Animaation nopeus</string>
+  <string name="text_border_size">Reunuksen koko</string>
+  <string name="text_radius_top">Säteen yläosa</string>
+  <string name="text_radius_bottom">Säteen alaosa</string>
+  <string name="text_enable_display_notch">Ota Notch käyttöön</string>
+  <string name="text_notch_width_top">Lovileveä yläosa</string>
+  <string name="text_notch_width_bottom">Lovileveys pohjassa</string>
+  <string name="text_notch_height">Lovi korkeus</string>
+  <string name="text_notch_radius_top">Lovi säde yläreunassa</string>
+  <string name="text_notch_radius_bottom">Lovi säde pohjassa</string>
+  <string name="select_wallpaper">Valitse Taustakuva</string>
+  <string name="allow_display_over_other_apps">Salli näyttö muiden sovellusten päällä</string>
+  <string name="continue_">Jatkaa</string>
+  <string name="app_name_service">Avaa näytön peittokuva</string>
+  <string name="permission_request">Lupapyyntö</string>
+  <string name="power_connected">Virtakaapeli kytketty</string>
+  <string name="power_disconnected">Virtakaapeli irrotettu</string>
+  <string name="draw_over_cancelled">Piirustuspeittolupaa ei ole vielä myönnetty. Yritä uudelleen</string>
+  <string name="draw_over_granted">Piirustuspeittolupapyyntö myönnetty</string>
+  <string name="app_name">Reunan valaistus</string>
+  <string name="please_wait">Odota, taustakuvaa ladataan…</string>
+  <string name="no_internet">Ei Internetiä</string>
+  <string name="to_use_this">Tämän ominaisuuden käyttäminen edellyttää esteettömyyslupaa</string>
+  <string name="draw_over_denied">Piirustuspeittolupaa ei ole vielä myönnetty. Yritä uudelleen</string>
+  <string name="no_internet_war">Olet offline-tilassa, ota Internet käyttöön saadaksesi reunavalaistustaustakuvia.</string>
+  <string name="you_must">Sinun on otettava käyttöön \"Draw Over Other Apps\" -käyttöoikeus, jotta \"Edge Lighting\" toimii oikein.</string>
+  <string name="wallpaper_description">Live_taustakuva</string>
+  <string name="abstract_">Abstrakti</string>
+  <string name="nature">Luonto</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Lainausmerkit</string>
+  <string name="sunset">Auringonlasku</string>
+  <string name="top">Ylös</string>
+  <string name="text_name_notification">Aloita palvelu</string>
+  <string name="No_topic_selected">Ei valittua aihetta</string>
+  <string name="Update_finish">Päivityksen viimeistely</string>
+  <string name="loading_ad">Ladataan mainosta</string>
+  <string name="low_battery">Alhaisen akun reunan valaistus</string>
+  <string name="battery_one">Akku 1</string>
+  <string name="battery_two">Akku 2</string>
+  <string name="edge_service">Ajopalvelu</string>
+  <string name="wallpaper">Taustakuva</string>
+  <string name="magical_wallpaper">Elää</string>
+  <string name="main_ongoing_download">Esikatselun luominen</string>
+  <string name="permission_required">Lupa vaaditaan</string>
+  <string name="title_onboarding_1">Esteettömyyslupa</string>
+  <string name="description_onboarding_1">Esteettömyys on keskeinen ominaisuus</string>
+  <string name="string_text_onboarding_complete_description">Esteettömyyslupa on keskeinen ominaisuus, jotta Edge Lighting toimii muiden sovellusten ja lukitusnäytön kanssa</string>
+  <string name="title_onboarding_2">Esteettömyyslupa</string>
+  <string name="description_onboarding_2">Lupa voidaan myöntää seuraavasti: \n \n Esteettömyys > Asennetut sovellukset/palvelut > Edge Lighting \n TAI \n Esteettömyys > Lisää latauspalveluita > Edge Lighting</string>
+  <string name="title_onboarding_3">Koodaa kauniita sovelluksia</string>
+  <string name="description_onboarding_3">Missiomme on tehdä hyödyllisiä ja hienovaraisia ​​sovelluksia. Haluamme auttaa ihmisiä säästämään aikaa avoimen lähdekoodin materiaaleilla, mutta myös helpotamme elämää luomalla uusia asioita. Hyvää koodausta!</string>
+  <string name="start_text_advice">Jatkamalla tätä sovellusta hyväksyt käyttöehtomme ja tietosuojakäytäntömme</string>
+  <string name="start">Aloita</string>
+  <string name="skip">Ohita</string>
+  <string name="finish">Valmis</string>
+  <string name="next">Seuraavaksi</string>
+  <string name="back">Takaisin</string>
+  <string name="allow">Salli</string>
+  <string name="slider_Edge">Reunan valaistus</string>
+  <string name="slider_Edge1">Näytön reunavalaistus reunojen yli</string>
+  <string name="alert_Edge">Alhaisen akun varoitus</string>
+  <string name="alert_Edge1">Oranssi reunavalo varoittaa akun heikentymisestä</string>
+  <string name="warning_Edge">Alhaisen akun varoitus</string>
+  <string name="warning_Edge1">Punainen reunavalo varoittaa erittäin alhaisesta paristosta</string>
+  <string name="notch_Edge">Lovi</string>
+  <string name="notch_Edge1">Ota reunavalaistus käyttöön lovella</string>
+  <string name="wallpaper_Edge">Taustakuva</string>
+  <string name="wallpaper_Edge1">Reunavalaistus taustakuvalla</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Langaton</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hei tyhjä fragmentti</string>
+  <string name="apply">Käytä</string>
+  <string name="applied">Sovellettu</string>
+  <string name="always_on_display_edge_lighting">Aina näytön reunavalaistus</string>
+  <string name="confirm_exit">Vahvista poistuminen?</string>
+  <string name="yes">Kyllä</string>
+  <string name="no">Ei</string>
+  <string name="wallpapers">Taustakuvat</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Mitä haluaisit tehdä?</string>
+  <string name="set_home_screen">Aseta aloitusnäyttö</string>
+  <string name="set_lock_screen">Aseta lukitusnäyttö</string>
+  <string name="set_both_screens">Aseta molemmat näytöt</string>
+  <string name="adjust_screen">Säädä näyttöä</string>
+  <string name="please_wait_ad_is_loading">Odota, mainos latautuu</string>
+  <string name="home">Kotiin</string>
+  <string name="edge_lighting_border">Reunan valaistusreuna</string>
+  <string name="view_more">Näytä lisää</string>
+  <string name="brighten_up_by_stunning_edges">Piristä upeat reunat</string>
+  <string name="live_wallpapers">Live-taustakuvat</string>
+  <string name="stunning_wallpapers">Upeat taustakuvat</string>
+  <string name="experience_by_interactive_wallpapers">Kokemus Interactive Wallpapersista</string>
+  <string name="dismiss">Hylkää</string>
+  <string name="language">Kieli</string>
+  <string name="privacy_policy">Tietosuojakäytäntö</string>
+  <string name="rate_us">Arvioi meidät</string>
+  <string name="more_app">Lisää sovellus</string>
+  <string name="exit">Poistu</string>
+  <string name="alert">Varoitus</string>
+  <string name="warning">Varoitus</string>
+  <string name="trending">Trendaavat</string>
+  <string name="applying_wallpaper">Taustakuvan asettaminen</string>
+  <string name="wallpaper_applied">Tapetti Applied</string>
+  <string name="accessibility_service_level_permission">Esteettömyyspalvelutason lupa:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Esteettömyyslupa on keskeinen ominaisuus, jotta Edge Lighting toimii muiden sovellusten ja lukitusnäytön kanssa</string>
+  <string name="this_permission_can_be_granted_as_follow">Tämä lupa voidaan myöntää seuraavasti:</string>
+  <string name="go_to_settings">Siirry kohtaan Asetukset</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Esteettömyys > Asennetut sovellukset/palvelut > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Esteettömyys > Lisää latauspalveluita > Edge Lighting</string>
+  <string name="grant_permission_now">Myönnetäänkö lupa nyt?</string>
+  <string name="later">Myöhemmin</string>
+  <string name="yes_now">Kyllä, nyt</string>
+</resources>

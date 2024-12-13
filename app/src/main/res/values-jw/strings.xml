@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Tampilan liwat app liyane</string>
+  <string name="open_nav">Bukak Navigasi Drawer</string>
+  <string name="close_nav">Nutup Navigation Drawer</string>
+  <string name="show_while_charging">Tampilake nalika ngisi daya</string>
+  <string name="text_enable_wallpaper">Aktifake Wallpaper</string>
+  <string name="number_of_colors">Jumlah Werna</string>
+  <string name="click_a_color_to_edit">Klik werna kanggo ngowahi</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Pilih Basa</string>
+  <string name="text_cancel">Batal</string>
+  <string name="text_border_type">Jinis wates</string>
+  <string name="text_animation_speed">Kacepetan animasi</string>
+  <string name="text_border_size">Ukuran wates</string>
+  <string name="text_radius_top">Radius ndhuwur</string>
+  <string name="text_radius_bottom">Radius ngisor</string>
+  <string name="text_enable_display_notch">Aktifake Notch</string>
+  <string name="text_notch_width_top">Notch jembaré ndhuwur</string>
+  <string name="text_notch_width_bottom">Notch jembaré ngisor</string>
+  <string name="text_notch_height">Dhuwur notch</string>
+  <string name="text_notch_radius_top">Pucuk radius ndhuwur</string>
+  <string name="text_notch_radius_bottom">Notch radius ngisor</string>
+  <string name="select_wallpaper">Pilih Wallpaper</string>
+  <string name="allow_display_over_other_apps">Allow tampilan liwat app liyane</string>
+  <string name="continue_">Terus</string>
+  <string name="app_name_service">Bukak overlay layar</string>
+  <string name="permission_request">Panjaluk Idin</string>
+  <string name="power_connected">Kabel Daya Disambungake</string>
+  <string name="power_disconnected">Kabel Daya Pedhot</string>
+  <string name="draw_over_cancelled">Ijin overlay gambar durung diwenehake. Coba maneh</string>
+  <string name="draw_over_granted">Panyuwunan ijin overlay sing diwenehake</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Mangga ngenteni Download Wallpaper…</string>
+  <string name="no_internet">Ora ana internet</string>
+  <string name="to_use_this">Kanggo nggunakake fitur iki, Ijin Aksesibilitas dibutuhake</string>
+  <string name="draw_over_denied">Ijin overlay gambar durung diwenehake. Coba maneh</string>
+  <string name="no_internet_war">Sampeyan lagi offline, bukak internet kanggo entuk wallpaper lampu pinggir.</string>
+  <string name="you_must">Sampeyan kudu ngaktifake ijin \"Draw Over Other Apps\" supaya \"Edge Lighting\" bisa mlaku kanthi bener.</string>
+  <string name="wallpaper_description">Urip_wallpaper</string>
+  <string name="abstract_">Abstrak</string>
+  <string name="nature">Alam</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Kutipan</string>
+  <string name="sunset">Sunset</string>
+  <string name="top">Ndhuwur</string>
+  <string name="text_name_notification">Miwiti layanan</string>
+  <string name="No_topic_selected">Ora ana topik sing dipilih</string>
+  <string name="Update_finish">Nganyari rampung</string>
+  <string name="loading_ad">Loading Iklan</string>
+  <string name="low_battery">Lampu Edge Baterei Kurang</string>
+  <string name="battery_one">Baterei 1</string>
+  <string name="battery_two">Baterei 2</string>
+  <string name="edge_service">Layanan mlaku</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Urip</string>
+  <string name="main_ongoing_download">Ngasilake Pratinjau</string>
+  <string name="permission_required">Ijin Dibutuhake</string>
+  <string name="title_onboarding_1">Izin Aksesibilitas</string>
+  <string name="description_onboarding_1">Aksesibilitas minangka fitur inti</string>
+  <string name="string_text_onboarding_complete_description">Idin Aksesibilitas minangka fitur inti kudu kanggo Edge Lighting bisa digunakake ing aplikasi liyane lan layar kunci</string>
+  <string name="title_onboarding_2">Izin Aksesibilitas</string>
+  <string name="description_onboarding_2">Idin bisa diwenehake kaya ing ngisor iki: \n \n Aksesibilitas > Aplikasi/Layanan sing Diinstal > Lampu Edge \n UTAWA \n Aksesibilitas > Layanan Download Liyane > Lampu Edge</string>
+  <string name="title_onboarding_3">Kode app ayu</string>
+  <string name="description_onboarding_3">Misi kita yaiku nggawe aplikasi sing migunani &amp; subtle. Kita seneng mbantu wong ngirit wektu nganggo barang open-source, nanging kita uga nggawe urip luwih gampang kanthi nggawe barang anyar. Coding apik!</string>
+  <string name="start_text_advice">Kanthi nerusake aplikasi iki, sampeyan setuju karo Katentuan Panggunaan lan Kebijakan Privasi</string>
+  <string name="start">Miwiti</string>
+  <string name="skip">Skip</string>
+  <string name="finish">Rampung</string>
+  <string name="next">Sabanjure</string>
+  <string name="back">Mbalik</string>
+  <string name="allow">Ngidini</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Tampilake cahya pinggiran liwat Edges</string>
+  <string name="alert_Edge">Tandha Baterei Kurang</string>
+  <string name="alert_Edge1">Lampu pinggir oranye kanggo tandha baterei sithik</string>
+  <string name="warning_Edge">Bebaya Baterei Kurang</string>
+  <string name="warning_Edge1">Lampu pinggiran abang kanggo bebaya baterei sithik</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Aktifake cahya pinggiran kanthi kedudukan</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Lampu pinggir nganggo Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Nirkabel</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Halo fragmen kosong</string>
+  <string name="apply">Nglamar</string>
+  <string name="applied">Ditrapake</string>
+  <string name="always_on_display_edge_lighting">Tansah ing tampilan cahya pinggiran</string>
+  <string name="confirm_exit">Konfirmasi metu?</string>
+  <string name="yes">Ya wis</string>
+  <string name="no">Ora</string>
+  <string name="wallpapers">Wallpaper</string>
+  <string name="ok">Oke</string>
+  <string name="what_would_you_like_to_do">Apa sing arep sampeyan lakoni?</string>
+  <string name="set_home_screen">Setel Layar Ngarep</string>
+  <string name="set_lock_screen">Setel Lock Screen</string>
+  <string name="set_both_screens">Setel Loro Layar</string>
+  <string name="adjust_screen">Nyetel Layar</string>
+  <string name="please_wait_ad_is_loading">Mangga ngenteni, iklan lagi dimuat</string>
+  <string name="home">Ngarep</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Ndeleng Liyane</string>
+  <string name="brighten_up_by_stunning_edges">Padhangake dening Edges nggumunke</string>
+  <string name="live_wallpapers">Wallpaper Urip</string>
+  <string name="stunning_wallpapers">Wallpaper sing nggumunke</string>
+  <string name="experience_by_interactive_wallpapers">Pengalaman dening Wallpaper Interaktif</string>
+  <string name="dismiss">Ngilangi</string>
+  <string name="language">Basa</string>
+  <string name="privacy_policy">Kebijakan Privasi</string>
+  <string name="rate_us">Rate Kita</string>
+  <string name="more_app">Aplikasi liyane</string>
+  <string name="exit">Metu</string>
+  <string name="alert">Tandha</string>
+  <string name="warning">Pènget</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Nglamar Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Izin Tingkat Layanan Aksesibilitas:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Idin Aksesibilitas minangka fitur inti kudu kanggo Edge Lighting bisa digunakake ing aplikasi liyane lan layar kunci</string>
+  <string name="this_permission_can_be_granted_as_follow">Idin iki bisa diwenehake minangka nderek:</string>
+  <string name="go_to_settings">Pindhah menyang Setelan</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aksesibilitas > Aplikasi/Layanan sing Diinstal > Lampu Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aksesibilitas > Layanan Download Liyane > Lampu Edge</string>
+  <string name="grant_permission_now">Menehi Idin Saiki?</string>
+  <string name="later">Mengko</string>
+  <string name="yes_now">Ya saiki</string>
+</resources>

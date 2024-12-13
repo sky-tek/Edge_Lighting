@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ipakita sa iba pang mga app</string>
+  <string name="open_nav">Buksan ang Navigation Drawer</string>
+  <string name="close_nav">Isara ang Navigation Drawer</string>
+  <string name="show_while_charging">Ipakita habang nagcha-charge</string>
+  <string name="text_enable_wallpaper">Paganahin ang Wallpaper</string>
+  <string name="number_of_colors">Bilang ng Kulay</string>
+  <string name="click_a_color_to_edit">Mag-click ng kulay para i-edit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Piliin ang Wika</string>
+  <string name="text_cancel">Kanselahin</string>
+  <string name="text_border_type">Uri ng hangganan</string>
+  <string name="text_animation_speed">Bilis ng animation</string>
+  <string name="text_border_size">Laki ng hangganan</string>
+  <string name="text_radius_top">Radius sa itaas</string>
+  <string name="text_radius_bottom">Radius sa ibaba</string>
+  <string name="text_enable_display_notch">Paganahin ang Notch</string>
+  <string name="text_notch_width_top">Notch na lapad sa itaas</string>
+  <string name="text_notch_width_bottom">Notch lapad sa ibaba</string>
+  <string name="text_notch_height">Taas ng bingaw</string>
+  <string name="text_notch_radius_top">Notch radius sa itaas</string>
+  <string name="text_notch_radius_bottom">Notch radius sa ibaba</string>
+  <string name="select_wallpaper">Piliin ang Wallpaper</string>
+  <string name="allow_display_over_other_apps">Payagan ang pagpapakita sa iba pang mga app</string>
+  <string name="continue_">Magpatuloy</string>
+  <string name="app_name_service">Buksan ang overlay ng screen</string>
+  <string name="permission_request">Kahilingan ng Pahintulot</string>
+  <string name="power_connected">Nakakonekta ang Power Cable</string>
+  <string name="power_disconnected">Nadiskonekta ang Power Cable</string>
+  <string name="draw_over_cancelled">Hindi pa binibigyan ng pahintulot ang pagguhit ng overlay. Subukan muli</string>
+  <string name="draw_over_granted">Ipinagkaloob ang kahilingan sa mga pahintulot sa pagguhit ng overlay</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Mangyaring maghintay sa Pag-download ng Wallpaper…</string>
+  <string name="no_internet">Walang internet</string>
+  <string name="to_use_this">Upang magamit ang tampok na ito, kinakailangan ang Pahintulot sa Pagiging Magagamit</string>
+  <string name="draw_over_denied">Hindi pa binibigyan ng pahintulot ang pagguhit ng overlay. Subukan muli</string>
+  <string name="no_internet_war">Offline ka mangyaring i-on ang iyong internet para makakuha ng mga edge lighting na wallpaper.</string>
+  <string name="you_must">Dapat mong paganahin ang pahintulot na \"Draw Over Other Apps\" para gumana nang maayos ang \"Edge Lighting.\"</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Kalikasan</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Mga quotes</string>
+  <string name="sunset">Paglubog ng araw</string>
+  <string name="top">Nangunguna</string>
+  <string name="text_name_notification">Simulan ang serbisyo</string>
+  <string name="No_topic_selected">Walang napiling paksa</string>
+  <string name="Update_finish">Tapusin ang pag-update</string>
+  <string name="loading_ad">Naglo-load ng Ad</string>
+  <string name="low_battery">Mababang Baterya sa Edge Lighting</string>
+  <string name="battery_one">Baterya 1</string>
+  <string name="battery_two">Baterya 2</string>
+  <string name="edge_service">Pagpapatakbo ng serbisyo</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Mabuhay</string>
+  <string name="main_ongoing_download">Pagbuo ng Preview</string>
+  <string name="permission_required">Kinakailangan ang Pahintulot</string>
+  <string name="title_onboarding_1">Pahintulot sa Accessibility</string>
+  <string name="description_onboarding_1">Ang pagiging naa-access ay isang pangunahing tampok</string>
+  <string name="string_text_onboarding_complete_description">Ang Pahintulot sa Accessibility bilang pangunahing feature ay dapat para gumana ang Edge Lighting sa iba pang app at lock screen</string>
+  <string name="title_onboarding_2">Pahintulot sa Accessibility</string>
+  <string name="description_onboarding_2">Maaaring ibigay ang Pahintulot tulad ng sumusunod: \n \n Accessibility > Naka-install na Apps/Services > Edge Lighting \n O \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Mag-code ng magagandang app</string>
+  <string name="description_onboarding_3">Ang aming misyon ay gumawa ng kapaki-pakinabang at banayad na mga app. Gustung-gusto naming tulungan ang mga tao na makatipid ng oras sa mga open-source na bagay, ngunit pinapadali rin namin ang buhay sa pamamagitan ng paglikha ng mga bagong bagay. Magandang Coding!</string>
+  <string name="start_text_advice">Sa pamamagitan ng pagpapatuloy sa application na ito sumasang-ayon ka sa aming Mga Tuntunin ng Paggamit at Patakaran sa Privacy</string>
+  <string name="start">Magsimula</string>
+  <string name="skip">Laktawan</string>
+  <string name="finish">Tapusin</string>
+  <string name="next">Susunod</string>
+  <string name="back">Bumalik</string>
+  <string name="allow">Payagan</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Ipakita ang ilaw sa gilid sa ibabaw ng Edges</string>
+  <string name="alert_Edge">Alerto sa Mababang Baterya</string>
+  <string name="alert_Edge1">Orange na ilaw sa gilid para sa mababang alerto sa baterya</string>
+  <string name="warning_Edge">Babala sa Mababang Baterya</string>
+  <string name="warning_Edge1">Pulang gilid na ilaw para sa napakababang babala ng baterya</string>
+  <string name="notch_Edge">Bingaw</string>
+  <string name="notch_Edge1">Paganahin ang pag-iilaw sa gilid na may bingaw</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge lighting na may Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="apply">Mag-apply</string>
+  <string name="applied">Inilapat</string>
+  <string name="always_on_display_edge_lighting">Palaging nasa display edge lighting</string>
+  <string name="confirm_exit">Kumpirmahin ang Paglabas ?</string>
+  <string name="yes">Oo</string>
+  <string name="no">Hindi</string>
+  <string name="wallpapers">Mga Wallpaper</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Ano ang gusto mong gawin?</string>
+  <string name="set_home_screen">Itakda ang Home Screen</string>
+  <string name="set_lock_screen">Itakda ang Lock Screen</string>
+  <string name="set_both_screens">Itakda ang Parehong Screen</string>
+  <string name="adjust_screen">Ayusin ang Screen</string>
+  <string name="please_wait_ad_is_loading">Mangyaring maghintay, naglo-load ang ad</string>
+  <string name="home">Bahay</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Tingnan ang Higit Pa</string>
+  <string name="brighten_up_by_stunning_edges">Lumiwanag sa pamamagitan ng nakamamanghang Edges</string>
+  <string name="live_wallpapers">Mga Live na Wallpaper</string>
+  <string name="stunning_wallpapers">Mga nakamamanghang Wallpaper</string>
+  <string name="experience_by_interactive_wallpapers">Karanasan sa pamamagitan ng Mga Interactive na Wallpaper</string>
+  <string name="dismiss">I-dismiss</string>
+  <string name="language">Wika</string>
+  <string name="privacy_policy">Patakaran sa Privacy</string>
+  <string name="rate_us">I-rate Kami</string>
+  <string name="more_app">Higit pang App</string>
+  <string name="exit">Labasan</string>
+  <string name="alert">Alerto</string>
+  <string name="warning">Babala</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Paglalapat ng Wallpaper</string>
+  <string name="wallpaper_applied">Inilapat ang Wallpaper</string>
+  <string name="accessibility_service_level_permission">Pahintulot sa Antas ng Serbisyo sa Accessibility:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ang Pahintulot sa Accessibility bilang pangunahing feature ay dapat para gumana ang Edge Lighting sa iba pang app at lock screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Ang Pahintulot na ito ay maaaring ibigay bilang sumusunod:</string>
+  <string name="go_to_settings">Pumunta sa Mga Setting</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility > Naka-install na Apps/Serbisyo > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibility > Higit pang Mga Serbisyo sa Pag-download > Edge Lighting</string>
+  <string name="grant_permission_now">Magbigay ng Pahintulot Ngayon?</string>
+  <string name="later">Mamaya</string>
+  <string name="yes_now">Oo, ngayon</string>
+</resources>

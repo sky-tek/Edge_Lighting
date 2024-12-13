@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Display in aliis apps</string>
+  <string name="open_nav">Open Navigation Drawer</string>
+  <string name="close_nav">Prope Navigationem Drawer</string>
+  <string name="show_while_charging">Monstra dum stultum</string>
+  <string name="text_enable_wallpaper">Admitte Wallpaper</string>
+  <string name="number_of_colors">Numerus Colorum</string>
+  <string name="click_a_color_to_edit">Tessera color est recensere</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Linguae Selectae</string>
+  <string name="text_cancel">Cancel</string>
+  <string name="text_border_type">Terminus type</string>
+  <string name="text_animation_speed">Celeritas animationis</string>
+  <string name="text_border_size">Terminus magnitudine</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radii bottom</string>
+  <string name="text_enable_display_notch">Admitte SCARIFICATIO</string>
+  <string name="text_notch_width_top">SCARIFICATIO summo latitudine</string>
+  <string name="text_notch_width_bottom">SCARIFICATIO width fundo</string>
+  <string name="text_notch_height">SCARIFICATIO altitudo</string>
+  <string name="text_notch_radius_top">Radii vertice SCARIFATIO</string>
+  <string name="text_notch_radius_bottom">SCARIFICATIO radii deorsum</string>
+  <string name="select_wallpaper">Lego Wallpaper</string>
+  <string name="allow_display_over_other_apps">Patitur propono aliis apps</string>
+  <string name="continue_">Continue</string>
+  <string name="app_name_service">Apertum screen operies</string>
+  <string name="permission_request">Permission Request</string>
+  <string name="power_connected">Potentia Cable Connected</string>
+  <string name="power_disconnected">Potentia Cable Disconnected</string>
+  <string name="draw_over_cancelled">Indue licentiam nondum concessam. Iterum conare</string>
+  <string name="draw_over_granted">Trahe deaurabis permissiones petentibus</string>
+  <string name="app_name">Ora Lucendi</string>
+  <string name="please_wait">Please wait Wallpaper Downloading…</string>
+  <string name="no_internet">Non interrete</string>
+  <string name="to_use_this">Uti hoc pluma Accessibility Permissio requiritur</string>
+  <string name="draw_over_denied">Indue licentiam nondum concessam. Iterum conare</string>
+  <string name="no_internet_war">Tu es offline, quaeso, in interrete tuo converte ut in margine accensis moenibus invenias.</string>
+  <string name="you_must">Potestatem \"Trahere Super Alia Apps\" permissio \"Edge Accendendi\" ad recte operandum.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Solis occasu</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Satus ministerium</string>
+  <string name="No_topic_selected">Nullus locus electus</string>
+  <string name="Update_finish">Renova metam</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Humilis Pugna Edge lucendi</string>
+  <string name="battery_one">Pugna 1</string>
+  <string name="battery_two">Pugna 2</string>
+  <string name="edge_service">Currens ministerium</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Vivamus</string>
+  <string name="main_ongoing_download">Generans Praevius</string>
+  <string name="permission_required">Permission required</string>
+  <string name="title_onboarding_1">Accessibility Permission</string>
+  <string name="description_onboarding_1">Accessibility core pluma est</string>
+  <string name="string_text_onboarding_complete_description">Accessibilitas Permissio sicut core pluma est pro Edge accendendi ad operandum in aliis apps et cincinno screen</string>
+  <string name="title_onboarding_2">Accessibility Permission</string>
+  <string name="description_onboarding_2">Licentia sic concedi potest: \n \n Accessibility > Installed Apps/Services > Edge Lighting \n OR \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Code pulchra apps</string>
+  <string name="description_onboarding_3">Nostra missio est ad appla utilia &amp; subtilia. Amamus auxilium hominibus ad tempus conservandum cum promptu fonte patente, sed facilius vitam quoque facimus novis rebus creando. Good Coding!</string>
+  <string name="start_text_advice">In hac applicatione continuando assentire ad Terms of Use and Privacy Policy</string>
+  <string name="start">Satus</string>
+  <string name="skip">Skip</string>
+  <string name="finish">Perago</string>
+  <string name="next">Proximum</string>
+  <string name="back">Retro</string>
+  <string name="allow">Patitur \"</string>
+  <string name="slider_Edge">Ora Lucendi</string>
+  <string name="slider_Edge1">Ostentationem ore accensis in marginibus</string>
+  <string name="alert_Edge">Humilis altilium erecti</string>
+  <string name="alert_Edge1">Orange ore sedendo ad low altilium erecti</string>
+  <string name="warning_Edge">Monitum humilis altilium</string>
+  <string name="warning_Edge1">Red ore lucernam nimis altilium monitionem</string>
+  <string name="notch_Edge">SCARIFICATIO</string>
+  <string name="notch_Edge1">Admitte ore lucendi cum SCARIFATIO</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ora lucendi cum Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb *</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salve blank fragmentum</string>
+  <string name="apply">Applicare</string>
+  <string name="applied">Applicata</string>
+  <string name="always_on_display_edge_lighting">Semper in ostentationem ore lucendi</string>
+  <string name="confirm_exit">Exitus confirmare?</string>
+  <string name="yes">Ita</string>
+  <string name="no">No</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Bene</string>
+  <string name="what_would_you_like_to_do">Quid vis facere?</string>
+  <string name="set_home_screen">Set Home \'collaborative</string>
+  <string name="set_lock_screen">Set sursum \'collaborative</string>
+  <string name="set_both_screens">Set utrumque Screens</string>
+  <string name="adjust_screen">Adjust \'collaborative</string>
+  <string name="please_wait_ad_is_loading">Obsecro, ad is loading</string>
+  <string name="home">Home</string>
+  <string name="edge_lighting_border">Ore lucendi limite</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">Perspicuus est attonitus marginibus</string>
+  <string name="live_wallpapers">Vivamus Wallpapers</string>
+  <string name="stunning_wallpapers">Suspendisse Wallpapers</string>
+  <string name="experience_by_interactive_wallpapers">Experientia per Interactive Wallpapers</string>
+  <string name="dismiss">Dimitte</string>
+  <string name="language">Linguae</string>
+  <string name="privacy_policy">Privacy Policy</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="more_app">More App</string>
+  <string name="exit">Exitus</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Monitum</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Applicando Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Acta</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level Permission:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Accessibilitas Permissio sicut core pluma est pro Edge accendendi ad operandum in aliis apps et cincinno screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Haec permissio concedi potest ut sequitur:</string>
+  <string name="go_to_settings">Ad Occasus</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility> Apps Installed / Services> Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibility > More Download Services > Edge Lighting</string>
+  <string name="grant_permission_now">Da Nunc permission?</string>
+  <string name="later">Postea</string>
+  <string name="yes_now">Etiam nunc</string>
+</resources>

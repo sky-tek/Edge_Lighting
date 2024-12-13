@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">په نورو ایپسونو کې ښکاره کړئ</string>
+  <string name="open_nav">د نیویګیشن دراز خلاص کړئ</string>
+  <string name="close_nav">د نیویګیشن دراز بندول</string>
+  <string name="show_while_charging">د چارج کولو پرمهال وښایاست</string>
+  <string name="text_enable_wallpaper">وال پیپر فعال کړئ</string>
+  <string name="number_of_colors">د رنګونو شمیر</string>
+  <string name="click_a_color_to_edit">د سمون لپاره په رنګ کلیک وکړئ</string>
+  <string name="mtrl_picker_confirm">سمه ده</string>
+  <string name="SelectLanguage">ژبه غوره کړئ</string>
+  <string name="text_cancel">لغوه کړئ</string>
+  <string name="text_border_type">د سرحد ډول</string>
+  <string name="text_animation_speed">د حرکت سرعت</string>
+  <string name="text_border_size">د سرحد اندازه</string>
+  <string name="text_radius_top">د وړانګو پورته</string>
+  <string name="text_radius_bottom">د وړانګو لاندې</string>
+  <string name="text_enable_display_notch">نوچ فعال کړئ</string>
+  <string name="text_notch_width_top">پورتنۍ چوکۍ</string>
+  <string name="text_notch_width_bottom">د ښکته پلنوالی</string>
+  <string name="text_notch_height">د نخچ لوړوالی</string>
+  <string name="text_notch_radius_top">د نڅا وړانګو پورته</string>
+  <string name="text_notch_radius_bottom">د نڅا وړانګو لاندې</string>
+  <string name="select_wallpaper">وال پیپر غوره کړئ</string>
+  <string name="allow_display_over_other_apps">په نورو ایپسونو کې ښودلو ته اجازه ورکړئ</string>
+  <string name="continue_">ادامه ورکړئ</string>
+  <string name="app_name_service">د سکرین پوښښ خلاص کړئ</string>
+  <string name="permission_request">د اجازې غوښتنه</string>
+  <string name="power_connected">د بریښنا کیبل نښلول شوی</string>
+  <string name="power_disconnected">د بریښنا کیبل قطع شوی</string>
+  <string name="draw_over_cancelled">د پوښښ اجازه تر اوسه نه ده ورکړل شوې. بیا هڅه وکړئ</string>
+  <string name="draw_over_granted">د پوښښ اجازې غوښتنه منل شوې</string>
+  <string name="app_name">څنډه رڼا</string>
+  <string name="please_wait">مهرباني وکړئ د وال پیپر ډاونلوډ کولو ته انتظار وکړئ…</string>
+  <string name="no_internet">انټرنیټ نشته</string>
+  <string name="to_use_this">د دې خصوصیت کارولو لپاره د لاسرسي اجازې ته اړتیا ده</string>
+  <string name="draw_over_denied">د پوښښ اجازه تر اوسه نه ده ورکړل شوې. بیا هڅه وکړئ</string>
+  <string name="no_internet_war">تاسو آفلاین یاست مهرباني وکړئ خپل انټرنیټ چالان کړئ ترڅو د څراغونو څراغ وال پیپرونه ترلاسه کړئ.</string>
+  <string name="you_must">تاسو باید د سم کار کولو لپاره د \"ایج لایټینګ\" لپاره د \"نورو ایپسونو څخه ډرا\" اجازه فعاله کړئ.</string>
+  <string name="wallpaper_description">ژوندی_وال پیپر</string>
+  <string name="abstract_">خلاصون</string>
+  <string name="nature">طبیعت</string>
+  <string name="neon">نیون</string>
+  <string name="quotes">اقتباسات</string>
+  <string name="sunset">لمر</string>
+  <string name="top">پورته</string>
+  <string name="text_name_notification">خدمت پیل کړئ</string>
+  <string name="No_topic_selected">کومه موضوع نه ده ټاکل شوې</string>
+  <string name="Update_finish">د تازه کولو پای</string>
+  <string name="loading_ad">د اعلان پورته کول</string>
+  <string name="low_battery">د ټیټ بیټرۍ څنډه رڼا</string>
+  <string name="battery_one">بیټرۍ 1</string>
+  <string name="battery_two">بیټرۍ 2</string>
+  <string name="edge_service">د چلولو خدمت</string>
+  <string name="wallpaper">وال پیپر</string>
+  <string name="magical_wallpaper">ژوندی</string>
+  <string name="main_ongoing_download">د مخکتنې پیدا کول</string>
+  <string name="permission_required">اجازې ته اړتیا ده</string>
+  <string name="title_onboarding_1">د لاسرسي اجازه</string>
+  <string name="description_onboarding_1">لاسرسی یو اصلي ځانګړتیا ده</string>
+  <string name="string_text_onboarding_complete_description">د اصلي ځانګړتیا په توګه د لاسرسي اجازې د Edge Lighting لپاره اړینه ده چې په نورو ایپسونو کار وکړي او سکرین لاک کړي</string>
+  <string name="title_onboarding_2">د لاسرسي اجازه</string>
+  <string name="description_onboarding_2">اجازه په لاندې ډول ورکول کیدی شي: \n \n لاسرسي> نصب شوي ایپس/خدمات> د څنډې رڼا \n یا \n لاسرسي> نور ډاونلوډ خدمات> د څنډې رڼا</string>
+  <string name="title_onboarding_3">ښکلي ایپس کوډ کړئ</string>
+  <string name="description_onboarding_3">زموږ دنده د ګټورو او فرعي ایپسونو جوړول دي. موږ د خلکو سره د خلاصې سرچینې توکو سره د وخت خوندي کولو کې مرسته خوښوو ، مګر موږ د نوي شیانو په رامینځته کولو سره ژوند هم اسانه کوو. ښه کوډ کول!</string>
+  <string name="start_text_advice">د دې غوښتنلیک په دوام سره تاسو زموږ د کارولو شرایطو او محرمیت پالیسۍ سره موافق یاست</string>
+  <string name="start">پیل</string>
+  <string name="skip">پریږده</string>
+  <string name="finish">ختم</string>
+  <string name="next">بل</string>
+  <string name="back">شاته</string>
+  <string name="allow">اجازه راکړئ</string>
+  <string name="slider_Edge">څنډه رڼا</string>
+  <string name="slider_Edge1">په څنډو کې څراغونه ښکاره کړئ</string>
+  <string name="alert_Edge">د ټیټ بیټرۍ خبرتیا</string>
+  <string name="alert_Edge1">د ټیټ بیټرۍ خبرتیا لپاره نارنجي څنډه رڼا</string>
+  <string name="warning_Edge">د ټیټ بیټرۍ خبرداری</string>
+  <string name="warning_Edge1">د خورا ټیټ بیټرۍ خبرداری لپاره سره څنډه څراغونه</string>
+  <string name="notch_Edge">نوچ</string>
+  <string name="notch_Edge1">د نوچ سره د څنډې څراغونه فعال کړئ</string>
+  <string name="wallpaper_Edge">وال پیپر</string>
+  <string name="wallpaper_Edge1">د وال پیپر سره څراغونه</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>بې سیم</item> 
+  </string-array>
+  <string name="hello_blank_fragment">سلام خالي ټوټه</string>
+  <string name="apply">درخواست وکړئ</string>
+  <string name="applied">تطبیق شوی</string>
+  <string name="always_on_display_edge_lighting">تل د څراغ څراغونه نندارې ته وړاندې کړئ</string>
+  <string name="confirm_exit">د وتلو تایید؟</string>
+  <string name="yes">هو</string>
+  <string name="no">نه</string>
+  <string name="wallpapers">وال پیپرونه</string>
+  <string name="ok">سمه ده</string>
+  <string name="what_would_you_like_to_do">تاسو به څه کول غواړئ؟</string>
+  <string name="set_home_screen">د کور سکرین تنظیم کړئ</string>
+  <string name="set_lock_screen">د لاک سکرین تنظیم کړئ</string>
+  <string name="set_both_screens">دواړه سکرینونه تنظیم کړئ</string>
+  <string name="adjust_screen">سکرین تنظیم کړئ</string>
+  <string name="please_wait_ad_is_loading">مهرباني وکړئ انتظار وکړئ، اعلان پورته کیږي</string>
+  <string name="home">کور</string>
+  <string name="edge_lighting_border">د څنډې د رڼا سرحد</string>
+  <string name="view_more">نور وګوره</string>
+  <string name="brighten_up_by_stunning_edges">په زړه پورې څنډو سره روښانه کړئ</string>
+  <string name="live_wallpapers">ژوندی وال پیپرونه</string>
+  <string name="stunning_wallpapers">په زړه پورې وال پیپرونه</string>
+  <string name="experience_by_interactive_wallpapers">د متقابل وال پیپرونو تجربه</string>
+  <string name="dismiss">ګوښه کول</string>
+  <string name="language">ژبه</string>
+  <string name="privacy_policy">د محرمیت پالیسي</string>
+  <string name="rate_us">موږ ته درجه ورکړئ</string>
+  <string name="more_app">نور اپلیکیشن</string>
+  <string name="exit">وتل</string>
+  <string name="alert">خبرتیا</string>
+  <string name="warning">خبرتیا</string>
+  <string name="trending">رجحان</string>
+  <string name="applying_wallpaper">د وال پیپر پلي کول</string>
+  <string name="wallpaper_applied">وال پیپر تطبیق شوی</string>
+  <string name="accessibility_service_level_permission">د لاسرسي خدماتو کچې اجازه:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">د اصلي ځانګړتیا په توګه د لاسرسي اجازې د Edge Lighting لپاره اړینه ده چې په نورو ایپسونو کار وکړي او سکرین لاک کړي</string>
+  <string name="this_permission_can_be_granted_as_follow">دا اجازه په لاندې ډول ورکول کیدی شي:</string>
+  <string name="go_to_settings">ترتیبات ته لاړ شئ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">لاسرسي> نصب شوي ایپس/خدمتونه> د څنډې څراغونه</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">لاسرسي> نور ډاونلوډ خدمات> د څنډې رڼا</string>
+  <string name="grant_permission_now">اوس اجازه راکړئ؟</string>
+  <string name="later">وروسته</string>
+  <string name="yes_now">هو، اوس</string>
+</resources>

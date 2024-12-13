@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Mostra sopra altre app</string>
+  <string name="open_nav">Apertura di Navigazione Drawer</string>
+  <string name="close_nav">Chjude Navigazione Drawer</string>
+  <string name="show_while_charging">Mostra durante a carica</string>
+  <string name="text_enable_wallpaper">Attivà u wallpaper</string>
+  <string name="number_of_colors">Numero di Culori</string>
+  <string name="click_a_color_to_edit">Cliccate un culore per edità</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Selezziunà a lingua</string>
+  <string name="text_cancel">Cancella</string>
+  <string name="text_border_type">Tipu di cunfini</string>
+  <string name="text_animation_speed">A velocità di l\'animazione</string>
+  <string name="text_border_size">Dimensione di u cunfini</string>
+  <string name="text_radius_top">Radius cima</string>
+  <string name="text_radius_bottom">Radius fondu</string>
+  <string name="text_enable_display_notch">Attivà Notch</string>
+  <string name="text_notch_width_top">A larghezza di a tacca superiore</string>
+  <string name="text_notch_width_bottom">A larghezza di a tacca in fondu</string>
+  <string name="text_notch_height">Altezza di tacca</string>
+  <string name="text_notch_radius_top">Notch radius cima</string>
+  <string name="text_notch_radius_bottom">Notch radius fund</string>
+  <string name="select_wallpaper">Selezziunà Wallpaper</string>
+  <string name="allow_display_over_other_apps">Permette a visualizazione nantu à altre app</string>
+  <string name="continue_">Cuntinuà</string>
+  <string name="app_name_service">Apertura a superposizione di u screnu</string>
+  <string name="permission_request">Richiesta di permessu</string>
+  <string name="power_connected">Cavu d\'alimentazione cunnessu</string>
+  <string name="power_disconnected">Cavu d\'alimentazione Disconnected</string>
+  <string name="draw_over_cancelled">Permissione di sovrapposizione di disegnà ùn hè micca ancora cuncessa. Prova dinò</string>
+  <string name="draw_over_granted">Disegnu a dumanda di permessi di sovrapposizione cuncessa</string>
+  <string name="app_name">Illuminazione di bordu</string>
+  <string name="please_wait">Per piacè aspettate Scaricamentu di u wallpaper...</string>
+  <string name="no_internet">Nisun internet</string>
+  <string name="to_use_this">Per utilizà sta funzione Accessibilità Permissione hè necessaria</string>
+  <string name="draw_over_denied">Permissione di sovrapposizione di disegnà ùn hè micca ancora cuncessa. Prova dinò</string>
+  <string name="no_internet_war">Siete offline per piacè accende u vostru Internet per uttene sfondi di illuminazione di punta.</string>
+  <string name="you_must">Duvete attivà l\'autorizazione \"Draw Over Other Apps\" per \"Edge Lighting\" per travaglià bè.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Astrattu</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Tramontu</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Cumincià u serviziu</string>
+  <string name="No_topic_selected">Nisun tema sceltu</string>
+  <string name="Update_finish">Aghjurnà finitu</string>
+  <string name="loading_ad">Carica l\'annunziu</string>
+  <string name="low_battery">Illuminazione di bordu di batteria bassa</string>
+  <string name="battery_one">Batteria 1</string>
+  <string name="battery_two">Batteria 2</string>
+  <string name="edge_service">Serviziu in esecuzione</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Generazione di Preview</string>
+  <string name="permission_required">Permissione Necessaria</string>
+  <string name="title_onboarding_1">Permissione d\'accessibilità</string>
+  <string name="description_onboarding_1">L\'accessibilità hè una funzione centrale</string>
+  <string name="string_text_onboarding_complete_description">U Permissu di Accessibilità cum\'è una funzione core hè necessariu per Edge Lighting per travaglià nantu à altre app è schermu di serratura</string>
+  <string name="title_onboarding_2">Permissione d\'accessibilità</string>
+  <string name="description_onboarding_2">L\'autorizazione pò esse cuncessa cum\'è a siguenti: \n \n Accessibilità > Apps / Servizi installati > Edge Lighting \n O \n Accessibilità > Più servizii di scaricamentu > Edge Lighting</string>
+  <string name="title_onboarding_3">Code belle app</string>
+  <string name="description_onboarding_3">A nostra missione hè di fà app utili è sottili. Amamu aiutà e persone per risparmià tempu cù e cose open-source, ma ancu facemu a vita più faciule creendu cose novi. Bona codificazione!</string>
+  <string name="start_text_advice">Cuntinuendu in questa applicazione accettete i nostri Termini d\'usu è Politica di privacy</string>
+  <string name="start">Principià</string>
+  <string name="skip">Saltà</string>
+  <string name="finish">Finisci</string>
+  <string name="next">Dopu</string>
+  <string name="back">Torna</string>
+  <string name="allow">Permette</string>
+  <string name="slider_Edge">Illuminazione di bordu</string>
+  <string name="slider_Edge1">Mostra l\'illuminazione di bordu sopra i bordi</string>
+  <string name="alert_Edge">Alerta Batteria Bassa</string>
+  <string name="alert_Edge1">Illuminazione di bordu aranciu per l\'alerta di batteria bassa</string>
+  <string name="warning_Edge">Avvisu di batteria bassa</string>
+  <string name="warning_Edge1">Illuminazione di u bordu rossu per avvisu di batteria assai bassa</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Abilita l\'illuminazione di bordu cù tacca</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Illuminazione di bordu cù Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salutu fragmentu in biancu</string>
+  <string name="apply">Applica</string>
+  <string name="applied">Applicata</string>
+  <string name="always_on_display_edge_lighting">Sempre nantu à l\'illuminazione di bordu di mostra</string>
+  <string name="confirm_exit">Cunfirmà l\'uscita ?</string>
+  <string name="yes">Iè</string>
+  <string name="no">Innò</string>
+  <string name="wallpapers">Sfondi</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Chì vulete fà ?</string>
+  <string name="set_home_screen">Set Screen Home</string>
+  <string name="set_lock_screen">Set Lock Screen</string>
+  <string name="set_both_screens">Set i dui schermi</string>
+  <string name="adjust_screen">Adjust Screen</string>
+  <string name="please_wait_ad_is_loading">Per piacè aspettate, l\'annunziu hè in carica</string>
+  <string name="home">A casa</string>
+  <string name="edge_lighting_border">Bordu di illuminazione di bordu</string>
+  <string name="view_more">Vede più</string>
+  <string name="brighten_up_by_stunning_edges">Illuminate da i bordi stupendenti</string>
+  <string name="live_wallpapers">Sfondi Animati</string>
+  <string name="stunning_wallpapers">Sfondi stupenti</string>
+  <string name="experience_by_interactive_wallpapers">Esperienza di Sfondi Interattivi</string>
+  <string name="dismiss">Licenziate</string>
+  <string name="language">Lingua</string>
+  <string name="privacy_policy">Pulitica di privacy</string>
+  <string name="rate_us">Valutaci</string>
+  <string name="more_app">Più App</string>
+  <string name="exit">Esce</string>
+  <string name="alert">Alerta</string>
+  <string name="warning">Attenzione</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Applicazione di u wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Permissione di Livellu di Serviziu di Accessibilità:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">U Permissu di Accessibilità cum\'è una funzione core hè necessariu per Edge Lighting per travaglià nantu à altre app è schermu di serratura</string>
+  <string name="this_permission_can_be_granted_as_follow">Stu permessu pò esse cuncessu cum\'è seguitu:</string>
+  <string name="go_to_settings">Andà à Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibilità> Apps / Servizi installati> Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibilità> More Download Services> Edge Lighting</string>
+  <string name="grant_permission_now">Concede u permessu avà?</string>
+  <string name="later">Più tardi</string>
+  <string name="yes_now">Iè, avà</string>
+</resources>

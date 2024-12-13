@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Yi kyerɛ wɔ app afoforo so</string>
+  <string name="open_nav">Bue Navigation Drawer no mu</string>
+  <string name="close_nav">To Navigation Drawer no mu</string>
+  <string name="show_while_charging">Kyerɛ bere a worebɔ charge no</string>
+  <string name="text_enable_wallpaper">Ma Wallpaper nyɛ adwuma</string>
+  <string name="number_of_colors">Kɔla Dodow</string>
+  <string name="click_a_color_to_edit">Klik kɔla bi so na sesa</string>
+  <string name="mtrl_picker_confirm">YOO</string>
+  <string name="SelectLanguage">Paw Kasa</string>
+  <string name="text_cancel">Twam</string>
+  <string name="text_border_type">Border type</string>
+  <string name="text_animation_speed">Animation ahoɔhare</string>
+  <string name="text_border_size">Ɔhye no kɛse</string>
+  <string name="text_radius_top">Radius a ɛwɔ soro</string>
+  <string name="text_radius_bottom">Radius ase</string>
+  <string name="text_enable_display_notch">Ma Notch nyɛ adwuma</string>
+  <string name="text_notch_width_top">Notch trɛw a ɛwɔ soro</string>
+  <string name="text_notch_width_bottom">Notch trɛw ase</string>
+  <string name="text_notch_height">Notch sorokɔ</string>
+  <string name="text_notch_radius_top">Notch radius a ɛwɔ soro</string>
+  <string name="text_notch_radius_bottom">Notch radius ase hɔ</string>
+  <string name="select_wallpaper">Paw Wallpaper</string>
+  <string name="allow_display_over_other_apps">Ma kwan ma wɔayi no adi wɔ app afoforo so</string>
+  <string name="continue_">Toa so</string>
+  <string name="app_name_service">Bue screen a wɔde kata so</string>
+  <string name="permission_request">Akwankyerɛ a Wɔsrɛ</string>
+  <string name="power_connected">Tumi Nhama a Wɔabɔ Mu</string>
+  <string name="power_disconnected">Wɔatwa Power Cable no mu</string>
+  <string name="draw_over_cancelled">Draw overlay kwan no nnya mmae. Bɔ mmɔden bio</string>
+  <string name="draw_over_granted">Draw overlay tumi krataa abisade a wɔama</string>
+  <string name="app_name">Edge Kanea a Wɔde Yɛ Adwuma</string>
+  <string name="please_wait">Yɛsrɛ wo twɛn Wallpaper Downloading...</string>
+  <string name="no_internet">Intanɛt biara nni hɔ</string>
+  <string name="to_use_this">Sɛ wode saa ade yi bedi dwuma a, ɛsɛ sɛ wonya Accessibility Permission</string>
+  <string name="draw_over_denied">Draw overlay kwan no nnya mmae. Bɔ mmɔden bio</string>
+  <string name="no_internet_war">Wo offline yɛsrɛ wo dane wo internet na woanya edge lighting wallpapers.</string>
+  <string name="you_must">Ɛsɛ sɛ wo ma \"Draw Over Other Apps\" kwan ma \"Edge Lighting\" yɛ adwuma yiye.</string>
+  <string name="wallpaper_description">Live_wallpaper a wɔde kyerɛw nsɛm</string>
+  <string name="abstract_">Nhyɛnmu</string>
+  <string name="nature">Abɔdeɛ</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Asɛnka</string>
+  <string name="sunset">Owigya</string>
+  <string name="top">Soro</string>
+  <string name="text_name_notification">Fi ase som adwuma</string>
+  <string name="No_topic_selected">Wɔanpaw asɛmti biara</string>
+  <string name="Update_finish">Update wie</string>
+  <string name="loading_ad">Loading Ad a Wɔde Rehyɛ Mu</string>
+  <string name="low_battery">Battery Edge Kanea a Ɛba Fam</string>
+  <string name="battery_one">Battery a wɔde yɛ adwuma 1</string>
+  <string name="battery_two">Battery a wɔde yɛ adwuma 2</string>
+  <string name="edge_service">Ɔsom a ɛretu mmirika</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Te ase</string>
+  <string name="main_ongoing_download">Generating Nhwɛso a Wɔde Di Dwuma</string>
+  <string name="permission_required">Hokwan a Wɔhwehwɛ</string>
+  <string name="title_onboarding_1">Hokwan a Wɔde Kɔ hɔ</string>
+  <string name="description_onboarding_1">Sɛnea wotumi kɔ hɔ no yɛ ade titiriw</string>
+  <string name="string_text_onboarding_complete_description">Accessibility Permission sɛ ade titiriw no yɛ nea ɛsɛ sɛ Edge Lighting yɛ adwuma wɔ apps afoforo so na ɛto screen</string>
+  <string name="title_onboarding_2">Hokwan a Wɔde Kɔ hɔ</string>
+  <string name="description_onboarding_2">Wobetumi ama Hokwan no sɛnea edidi so yi: \n \n Nneɛma a Wɔde Kɔ > Apps/Services a Wɔde Ahyɛ Mu > Edge Lighting \n ANAA \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Code apps a ɛyɛ fɛ</string>
+  <string name="description_onboarding_3">Yɛn asɛmpatrɛw ne sɛ yɛbɛyɛ apps a mfaso wɔ so &amp; subtle. Yɛdɔ sɛ yɛbɛboa nkurɔfo ma wɔakora bere so denam nneɛma a wɔabue ano so, nanso yɛma asetra nso yɛ mmerɛw denam nneɛma foforo a yɛbɔ so. Coding Pa!</string>
+  <string name="start_text_advice">Sɛ wotoa application yi so a, ɛkyerɛ sɛ woapene yɛn Mmara a Wɔde Di Dwuma ne Kokoam Nsɛm Ho Nhyehyɛe no so</string>
+  <string name="start">Hyɛ aseɛ</string>
+  <string name="skip">Bɔ tra</string>
+  <string name="finish">Wie</string>
+  <string name="next">Deɛ ɛdi hɔ</string>
+  <string name="back">Akyire</string>
+  <string name="allow">Ma kwan</string>
+  <string name="slider_Edge">Edge Kanea a Wɔde Yɛ Adwuma</string>
+  <string name="slider_Edge1">Kyerɛ edge kanea wɔ Edges so</string>
+  <string name="alert_Edge">Battery a Ɛba Fam Kɔkɔbɔ</string>
+  <string name="alert_Edge1">Orange edge kanea ma battery a ɛba fam kɔkɔbɔ</string>
+  <string name="warning_Edge">Battery a Ɛba Fam Kɔkɔbɔ</string>
+  <string name="warning_Edge1">Red edge lighting ma battery kɔkɔbɔ a ɛba fam yiye</string>
+  <string name="notch_Edge">Notch a wɔde yɛ adwuma</string>
+  <string name="notch_Edge1">Ma edge kanea a ɛwɔ notch nyɛ adwuma</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge kanea a wɔde Wallpaper ayɛ</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1. Nnipa a wɔte saa</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello blank asinasin</string>
+  <string name="apply">Pere</string>
+  <string name="applied">Wɔde dii dwuma</string>
+  <string name="always_on_display_edge_lighting">Bere nyinaa wɔ display edge kanea so</string>
+  <string name="confirm_exit">Si so dua sɛ Wofi Mu ?</string>
+  <string name="yes">Aane</string>
+  <string name="no">Daabi</string>
+  <string name="wallpapers">Wallpapers a wɔde kyerɛw nsɛm</string>
+  <string name="ok">Yoo</string>
+  <string name="what_would_you_like_to_do">Dɛn na wobɛpɛ sɛ woyɛ?</string>
+  <string name="set_home_screen">Set Home Screen no</string>
+  <string name="set_lock_screen">Fa Lock Screen no si hɔ</string>
+  <string name="set_both_screens">Set Screens Abien no Nyinaa</string>
+  <string name="adjust_screen">Adjust Screen no mu</string>
+  <string name="please_wait_ad_is_loading">Yɛsrɛ sɛ twɛn, ad no rekɔ so</string>
+  <string name="home">Fie</string>
+  <string name="edge_lighting_border">Edge Kanea Ɔhye so</string>
+  <string name="view_more">Hwɛ Nsɛm Pii</string>
+  <string name="brighten_up_by_stunning_edges">Brighten up denam Edges a ɛyɛ nwonwa so</string>
+  <string name="live_wallpapers">Nkwammoaa a Wɔde Di Dwuma</string>
+  <string name="stunning_wallpapers">Wallpapers a Ɛyɛ Nwonwa</string>
+  <string name="experience_by_interactive_wallpapers">Osuahu a ɛnam Interactive Wallpapers so</string>
+  <string name="dismiss">Po</string>
+  <string name="language">Kasa</string>
+  <string name="privacy_policy">Kokoam Nsɛm Ho Nhyehyɛe</string>
+  <string name="rate_us">Rate Yɛn</string>
+  <string name="more_app">App pii</string>
+  <string name="exit">Firi</string>
+  <string name="alert">Nkaebɔ</string>
+  <string name="warning">Kɔkɔbɔ</string>
+  <string name="trending">Trending a ɛrekɔ so</string>
+  <string name="applying_wallpaper">Wallpaper a Wɔde Di Dwuma</string>
+  <string name="wallpaper_applied">Wallpaper a Wɔde Di Dwuma</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level Ho kwan a Wɔde Ma:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Accessibility Permission sɛ ade titiriw no yɛ nea ɛsɛ sɛ Edge Lighting yɛ adwuma wɔ apps afoforo so na ɛto screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Wobetumi ama saa Tumi yi sɛnea edidi so yi:</string>
+  <string name="go_to_settings">Kɔ Settings so</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Nneɛma a wobetumi anya > Apps/Services a wɔde ahyɛ mu > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Nneɛma a Wɔde Kɔ > Nnwuma Pii a Wɔde Twe > Edge Lighting</string>
+  <string name="grant_permission_now">Ma Hokwan Seesei?</string>
+  <string name="later">Akyire</string>
+  <string name="yes_now">Yiw, afei</string>
+</resources>

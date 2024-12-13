@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Εμφάνιση πάνω από άλλες εφαρμογές</string>
+  <string name="open_nav">Ανοίξτε το Συρτάρι πλοήγησης</string>
+  <string name="close_nav">Κλείστε το Συρτάρι πλοήγησης</string>
+  <string name="show_while_charging">Εμφάνιση κατά τη φόρτιση</string>
+  <string name="text_enable_wallpaper">Ενεργοποίηση ταπετσαρίας</string>
+  <string name="number_of_colors">Αριθμός Χρωμάτων</string>
+  <string name="click_a_color_to_edit">Κάντε κλικ σε ένα χρώμα για επεξεργασία</string>
+  <string name="mtrl_picker_confirm">ΕΝΤΑΞΕΙ</string>
+  <string name="SelectLanguage">Επιλέξτε Γλώσσα</string>
+  <string name="text_cancel">Ματαίωση</string>
+  <string name="text_border_type">Τύπος συνόρων</string>
+  <string name="text_animation_speed">Ταχύτητα κινούμενων σχεδίων</string>
+  <string name="text_border_size">Μέγεθος περιγράμματος</string>
+  <string name="text_radius_top">Κορυφή ακτίνας</string>
+  <string name="text_radius_bottom">Ακτίνα κάτω</string>
+  <string name="text_enable_display_notch">Ενεργοποιήστε το Notch</string>
+  <string name="text_notch_width_top">Πάνω πλάτος εγκοπής</string>
+  <string name="text_notch_width_bottom">Πλάτος εγκοπής κάτω</string>
+  <string name="text_notch_height">Ύψος εγκοπής</string>
+  <string name="text_notch_radius_top">Κορυφή ακτίνας εγκοπής</string>
+  <string name="text_notch_radius_bottom">Ακτίνα εγκοπής κάτω</string>
+  <string name="select_wallpaper">Επιλέξτε Ταπετσαρία</string>
+  <string name="allow_display_over_other_apps">Να επιτρέπεται η προβολή σε άλλες εφαρμογές</string>
+  <string name="continue_">Συνεχίζω</string>
+  <string name="app_name_service">Ανοίξτε την επικάλυψη οθόνης</string>
+  <string name="permission_request">Αίτημα άδειας</string>
+  <string name="power_connected">Συνδέθηκε καλώδιο τροφοδοσίας</string>
+  <string name="power_disconnected">Το καλώδιο τροφοδοσίας αποσυνδέθηκε</string>
+  <string name="draw_over_cancelled">Η άδεια επικάλυψης σχεδίασης δεν έχει χορηγηθεί ακόμη. Προσπαθήστε ξανά</string>
+  <string name="draw_over_granted">Χορηγήθηκε το αίτημα αδειών επικάλυψης σχεδίασης</string>
+  <string name="app_name">Φωτισμός άκρων</string>
+  <string name="please_wait">Περιμένετε Λήψη ταπετσαρίας…</string>
+  <string name="no_internet">Χωρίς internet</string>
+  <string name="to_use_this">Για να χρησιμοποιήσετε αυτήν τη δυνατότητα απαιτείται άδεια προσβασιμότητας</string>
+  <string name="draw_over_denied">Η άδεια επικάλυψης σχεδίασης δεν έχει χορηγηθεί ακόμη. Προσπαθήστε ξανά</string>
+  <string name="no_internet_war">Είστε εκτός σύνδεσης, ενεργοποιήστε το Διαδίκτυό σας για να λάβετε ταπετσαρίες φωτισμού άκρων.</string>
+  <string name="you_must">Πρέπει να ενεργοποιήσετε την άδεια \"Draw Over Other Apps\" για να λειτουργεί σωστά το \"Edge Lighting\".</string>
+  <string name="wallpaper_description">Ζωντανή_ταπετσαρία</string>
+  <string name="abstract_">Περίληψη</string>
+  <string name="nature">Φύση</string>
+  <string name="neon">Νέο</string>
+  <string name="quotes">Εισαγωγικά</string>
+  <string name="sunset">Ηλιοβασίλεμα</string>
+  <string name="top">Κορυφή</string>
+  <string name="text_name_notification">Ξεκινήστε την υπηρεσία</string>
+  <string name="No_topic_selected">Δεν έχει επιλεγεί θέμα</string>
+  <string name="Update_finish">Φινίρισμα ενημέρωσης</string>
+  <string name="loading_ad">Φόρτωση διαφήμισης</string>
+  <string name="low_battery">Φωτισμός άκρων χαμηλής μπαταρίας</string>
+  <string name="battery_one">Μπαταρία 1</string>
+  <string name="battery_two">Μπαταρία 2</string>
+  <string name="edge_service">Υπηρεσία τρεξίματος</string>
+  <string name="wallpaper">Ταπετσαρία</string>
+  <string name="magical_wallpaper">Ζω</string>
+  <string name="main_ongoing_download">Δημιουργία προεπισκόπησης</string>
+  <string name="permission_required">Απαιτείται άδεια</string>
+  <string name="title_onboarding_1">Άδεια προσβασιμότητας</string>
+  <string name="description_onboarding_1">Η προσβασιμότητα είναι ένα βασικό χαρακτηριστικό</string>
+  <string name="string_text_onboarding_complete_description">Η Άδεια Προσβασιμότητας ως βασική δυνατότητα είναι απαραίτητη για να λειτουργεί το Edge Lighting πάνω από άλλες εφαρμογές και την οθόνη κλειδώματος</string>
+  <string name="title_onboarding_2">Άδεια προσβασιμότητας</string>
+  <string name="description_onboarding_2">Η άδεια μπορεί να εκχωρηθεί ως εξής: \n \n Προσβασιμότητα > Εγκατεστημένες εφαρμογές/υπηρεσίες > Edge Lighting \n Ή \n Προσβασιμότητα > Περισσότερες υπηρεσίες λήψης > Edge Lighting</string>
+  <string name="title_onboarding_3">Κωδικοποιήστε όμορφες εφαρμογές</string>
+  <string name="description_onboarding_3">Η αποστολή μας είναι να κάνουμε χρήσιμες και λεπτές εφαρμογές. Μας αρέσει να βοηθάμε τους ανθρώπους να εξοικονομούν χρόνο με υλικά ανοιχτού κώδικα, αλλά κάνουμε επίσης τη ζωή ευκολότερη δημιουργώντας νέα πράγματα. Καλή κωδικοποίηση!</string>
+  <string name="start_text_advice">Συνεχίζοντας σε αυτήν την εφαρμογή συμφωνείτε με τους Όρους Χρήσης και την Πολιτική Απορρήτου μας</string>
+  <string name="start">Αρχή</string>
+  <string name="skip">Παραλείπω</string>
+  <string name="finish">Φινίρισμα</string>
+  <string name="next">Επόμενος</string>
+  <string name="back">Πίσω</string>
+  <string name="allow">Επιτρέπω</string>
+  <string name="slider_Edge">Φωτισμός άκρων</string>
+  <string name="slider_Edge1">Εμφάνιση φωτισμού άκρων πάνω από άκρες</string>
+  <string name="alert_Edge">Ειδοποίηση χαμηλής μπαταρίας</string>
+  <string name="alert_Edge1">Πορτοκαλί φωτισμός άκρων για ειδοποίηση χαμηλής μπαταρίας</string>
+  <string name="warning_Edge">Προειδοποίηση χαμηλής μπαταρίας</string>
+  <string name="warning_Edge1">Φωτισμός κόκκινου άκρου για προειδοποίηση πολύ χαμηλής μπαταρίας</string>
+  <string name="notch_Edge">Εγκοπή</string>
+  <string name="notch_Edge1">Ενεργοποιήστε τον φωτισμό άκρων με εγκοπή</string>
+  <string name="wallpaper_Edge">Ταπετσαρία</string>
+  <string name="wallpaper_Edge1">Φωτισμός άκρων με ταπετσαρία</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Ασύρματος</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Γεια σου κενό κομμάτι</string>
+  <string name="apply">Εφαρμόζω</string>
+  <string name="applied">Εφαρμοσμένος</string>
+  <string name="always_on_display_edge_lighting">Πάντα σε οθόνη φωτισμού άκρης</string>
+  <string name="confirm_exit">Επιβεβαίωση Έξοδος;</string>
+  <string name="yes">Ναί</string>
+  <string name="no">Οχι</string>
+  <string name="wallpapers">Ταπετσαρίες</string>
+  <string name="ok">Εντάξει</string>
+  <string name="what_would_you_like_to_do">Τι θα ήθελες να κάνεις;</string>
+  <string name="set_home_screen">Ρύθμιση αρχικής οθόνης</string>
+  <string name="set_lock_screen">Ρύθμιση οθόνης κλειδώματος</string>
+  <string name="set_both_screens">Ρύθμιση και των δύο οθονών</string>
+  <string name="adjust_screen">Προσαρμογή οθόνης</string>
+  <string name="please_wait_ad_is_loading">Περιμένετε, η διαφήμιση φορτώνεται</string>
+  <string name="home">Σπίτι</string>
+  <string name="edge_lighting_border">Περίγραμμα φωτισμού άκρων</string>
+  <string name="view_more">Δείτε περισσότερα</string>
+  <string name="brighten_up_by_stunning_edges">Φωτίστε με εκπληκτικές άκρες</string>
+  <string name="live_wallpapers">Ζωντανές ταπετσαρίες</string>
+  <string name="stunning_wallpapers">Εκπληκτικές ταπετσαρίες</string>
+  <string name="experience_by_interactive_wallpapers">Εμπειρία από διαδραστικές ταπετσαρίες</string>
+  <string name="dismiss">Απολύω</string>
+  <string name="language">Γλώσσα</string>
+  <string name="privacy_policy">Πολιτική Απορρήτου</string>
+  <string name="rate_us">Αξιολογήστε μας</string>
+  <string name="more_app">Περισσότερα App</string>
+  <string name="exit">Έξοδος</string>
+  <string name="alert">Συναγερμός</string>
+  <string name="warning">Προειδοποίηση</string>
+  <string name="trending">Τάσεις</string>
+  <string name="applying_wallpaper">Εφαρμογή ταπετσαρίας</string>
+  <string name="wallpaper_applied">Εφαρμόστηκε ταπετσαρία</string>
+  <string name="accessibility_service_level_permission">Άδεια επιπέδου υπηρεσίας προσβασιμότητας:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Η Άδεια Προσβασιμότητας ως βασική δυνατότητα είναι απαραίτητη για να λειτουργεί το Edge Lighting πάνω από άλλες εφαρμογές και την οθόνη κλειδώματος</string>
+  <string name="this_permission_can_be_granted_as_follow">Αυτή η Άδεια μπορεί να χορηγηθεί ως εξής:</string>
+  <string name="go_to_settings">Μεταβείτε στις Ρυθμίσεις</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Προσβασιμότητα > Εγκατεστημένες εφαρμογές/υπηρεσίες > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Προσβασιμότητα > Περισσότερες υπηρεσίες λήψης > Edge Lighting</string>
+  <string name="grant_permission_now">Να δοθεί άδεια τώρα;</string>
+  <string name="later">Αργότερα</string>
+  <string name="yes_now">Ναι, τώρα</string>
+</resources>

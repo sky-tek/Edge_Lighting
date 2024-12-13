@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Bistaratu beste aplikazio batzuen gainean</string>
+  <string name="open_nav">Ireki nabigazio tiradera</string>
+  <string name="close_nav">Itxi Nabigazio tiradera</string>
+  <string name="show_while_charging">Erakutsi kargatzen ari zaren bitartean</string>
+  <string name="text_enable_wallpaper">Gaitu horma-papera</string>
+  <string name="number_of_colors">Kolore kopurua</string>
+  <string name="click_a_color_to_edit">Egin klik kolore batean editatzeko</string>
+  <string name="mtrl_picker_confirm">Ados</string>
+  <string name="SelectLanguage">Hautatu Hizkuntza</string>
+  <string name="text_cancel">Utzi</string>
+  <string name="text_border_type">Ertz mota</string>
+  <string name="text_animation_speed">Animazio abiadura</string>
+  <string name="text_border_size">Ertzaren tamaina</string>
+  <string name="text_radius_top">Erradioaren goialdea</string>
+  <string name="text_radius_bottom">Erradioaren behealdea</string>
+  <string name="text_enable_display_notch">Gaitu Notch</string>
+  <string name="text_notch_width_top">Notch zabalera goialdean</string>
+  <string name="text_notch_width_bottom">Notch zabalera behean</string>
+  <string name="text_notch_height">Notch altuera</string>
+  <string name="text_notch_radius_top">Notch erradioa goikoa</string>
+  <string name="text_notch_radius_bottom">Notch erradioa behean</string>
+  <string name="select_wallpaper">Hautatu Horma-papera</string>
+  <string name="allow_display_over_other_apps">Baimendu beste aplikazioen gainean bistaratzea</string>
+  <string name="continue_">Jarraitu</string>
+  <string name="app_name_service">Ireki pantaila gainjartzea</string>
+  <string name="permission_request">Baimen eskaera</string>
+  <string name="power_connected">Elikatze-kablea konektatuta</string>
+  <string name="power_disconnected">Elikatze-kablea Deskonektatuta</string>
+  <string name="draw_over_cancelled">Marrazteko gainjartzeko baimena oraindik ez da eman. Saiatu berriro</string>
+  <string name="draw_over_granted">Marrazteko gainjartzeko baimenen eskaera eman da</string>
+  <string name="app_name">Ertz Argiztapena</string>
+  <string name="please_wait">Mesedez, itxaron horma-papera deskargatzen…</string>
+  <string name="no_internet">Internetik ez</string>
+  <string name="to_use_this">Eginbide hau erabiltzeko Irisgarritasun-baimena behar da</string>
+  <string name="draw_over_denied">Marrazteko gainjartzeko baimena oraindik ez da eman. Saiatu berriro</string>
+  <string name="no_internet_war">Konexiorik gabe zaude, mesedez, aktibatu Internet ertzeko argiaren horma-irudiak lortzeko.</string>
+  <string name="you_must">\"Marraztu beste aplikazio batzuen gainean\" baimena gaitu behar duzu \"Edge Lighting\" behar bezala funtziona dezan.</string>
+  <string name="wallpaper_description">Zuzeneko_horma-papera</string>
+  <string name="abstract_">Abstraktua</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neoia</string>
+  <string name="quotes">Aipamenak</string>
+  <string name="sunset">Ilunabarra</string>
+  <string name="top">Goiena</string>
+  <string name="text_name_notification">Hasi zerbitzua</string>
+  <string name="No_topic_selected">Ez da gairik hautatu</string>
+  <string name="Update_finish">Eguneratu amaiera</string>
+  <string name="loading_ad">Iragarkia kargatzen</string>
+  <string name="low_battery">Bateria baxuko ertzaren argiztapena</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Korrika zerbitzua</string>
+  <string name="wallpaper">Horma-papera</string>
+  <string name="magical_wallpaper">Zuzenean</string>
+  <string name="main_ongoing_download">Aurrebista sortzea</string>
+  <string name="permission_required">Baimena Beharrezkoa</string>
+  <string name="title_onboarding_1">Irisgarritasun Baimena</string>
+  <string name="description_onboarding_1">Irisgarritasuna funtsezko ezaugarria da</string>
+  <string name="string_text_onboarding_complete_description">Irisgarritasun-baimena funtsezko eginbide gisa Edge Lighting-ek beste aplikazio batzuen eta blokeo-pantailaren gainean funtziona dezan ezinbestekoa da</string>
+  <string name="title_onboarding_2">Irisgarritasun Baimena</string>
+  <string name="description_onboarding_2">Baimena honela eman daiteke: \n \n Irisgarritasuna > Instalatutako aplikazioak/zerbitzuak > Edge Lighting \n EDO \n Irisgarritasuna > Deskarga zerbitzu gehiago > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodetu aplikazio ederrak</string>
+  <string name="description_onboarding_3">Gure eginkizuna aplikazio erabilgarriak eta sotilak egitea da. Asko gustatzen zaigu jendeari denbora aurrezteko kode irekiko gauzekin laguntzea, baina bizitza errazten dugu gauza berriak sortuz. Kodeketa ona!</string>
+  <string name="start_text_advice">Aplikazio honetan jarraituz gero, gure Erabilera Baldintzak eta Pribatutasun Politika onartzen dituzu</string>
+  <string name="start">Hasi</string>
+  <string name="skip">Saltatu</string>
+  <string name="finish">Amaitu</string>
+  <string name="next">Hurrengoa</string>
+  <string name="back">Itzuli</string>
+  <string name="allow">Baimendu</string>
+  <string name="slider_Edge">Ertz Argiztapena</string>
+  <string name="slider_Edge1">Erakutsi ertzetako argia Edges gainean</string>
+  <string name="alert_Edge">Bateria baxuaren alerta</string>
+  <string name="alert_Edge1">Ertz laranjako argiztapena bateria baxuaren alertarako</string>
+  <string name="warning_Edge">Bateria baxuaren abisua</string>
+  <string name="warning_Edge1">Ertz gorriko argiztapena bateria baxuaren abisua emateko</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Gaitu ertzeko argiztapena koska batekin</string>
+  <string name="wallpaper_Edge">Horma-papera</string>
+  <string name="wallpaper_Edge1">Ertz argiztapena horma-paperarekin</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ak</item>  
+    <item>Usb</item>  
+    <item>Haririk gabekoa</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Kaixo zati hutsa</string>
+  <string name="apply">Aplikatu</string>
+  <string name="applied">Aplikatua</string>
+  <string name="always_on_display_edge_lighting">Beti pantaila ertzeko argiztapena</string>
+  <string name="confirm_exit">Irteera berretsi?</string>
+  <string name="yes">Bai</string>
+  <string name="no">Ez</string>
+  <string name="wallpapers">Horma-irudiak</string>
+  <string name="ok">Ados</string>
+  <string name="what_would_you_like_to_do">Zer egin nahiko zenuke?</string>
+  <string name="set_home_screen">Ezarri hasierako pantaila</string>
+  <string name="set_lock_screen">Ezarri pantaila blokeatua</string>
+  <string name="set_both_screens">Ezarri bi pantailak</string>
+  <string name="adjust_screen">Doitu pantaila</string>
+  <string name="please_wait_ad_is_loading">Mesedez, itxaron, iragarkia kargatzen ari da</string>
+  <string name="home">Hasiera</string>
+  <string name="edge_lighting_border">Ertzaren Argiztapenaren Ertza</string>
+  <string name="view_more">Gehiago ikusi</string>
+  <string name="brighten_up_by_stunning_edges">Argitu Edges harrigarriekin</string>
+  <string name="live_wallpapers">Zuzeneko horma-irudiak</string>
+  <string name="stunning_wallpapers">Horma-irudi zoragarriak</string>
+  <string name="experience_by_interactive_wallpapers">Horma-irudi interaktiboen esperientzia</string>
+  <string name="dismiss">Baztertu</string>
+  <string name="language">Hizkuntza</string>
+  <string name="privacy_policy">Pribatutasun politika</string>
+  <string name="rate_us">Baloratu gaitzazu</string>
+  <string name="more_app">Aplikazio gehiago</string>
+  <string name="exit">Irten</string>
+  <string name="alert">Alerta</string>
+  <string name="warning">Abisua</string>
+  <string name="trending">Joera</string>
+  <string name="applying_wallpaper">Horma-papera aplikatzea</string>
+  <string name="wallpaper_applied">Horma-papera aplikatuta</string>
+  <string name="accessibility_service_level_permission">Irisgarritasun Zerbitzu Maila Baimena:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Irisgarritasun-baimena funtsezko eginbide gisa Edge Lighting-ek beste aplikazio batzuen eta blokeo-pantailaren gainean funtziona dezan ezinbestekoa da</string>
+  <string name="this_permission_can_be_granted_as_follow">Baimen hau honela eman daiteke:</string>
+  <string name="go_to_settings">Joan Ezarpenak atalera</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Irisgarritasuna > Instalatutako aplikazioak/zerbitzuak > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Irisgarritasuna > Deskarga zerbitzu gehiago > Edge Lighting</string>
+  <string name="grant_permission_now">Baimena eman orain?</string>
+  <string name="later">Geroago</string>
+  <string name="yes_now">Bai, orain</string>
+</resources>

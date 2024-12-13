@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_marginLeft="10dp"
+        android:id="@+id/linearLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <!--            <ImageView-->
+        <!--                android:padding="5dp"-->
+        <!--                android:scaleType="fitXY"-->
+        <!--                android:background="@drawable/bg_wallpaper"-->
+        <!--                android:src="@drawable/background9"-->
+        <!--                android:id="@+id/img"-->
+        <!--                android:layout_width="70dp"-->
+        <!--                android:layout_height="105dp"/>-->
+
+        <FrameLayout
+            android:id="@+id/imgPanel"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <com.google.android.material.imageview.ShapeableImageView
+                android:id="@+id/img"
+                android:scaleType="fitXY"
+                android:layout_width="70dp"
+                android:layout_height="105dp"
+                android:padding="4dp"
+                app:shapeAppearance="@style/ShapeAppearanceOverlay.Avatar"/>
+
+            <!--                <ProgressBar-->
+            <!--                    android:visibility="gone"-->
+            <!--                    android:id="@+id/progressBar"-->
+            <!--                    android:layout_gravity="center"-->
+            <!--                    android:layout_width="wrap_content"-->
+            <!--                    android:layout_height="wrap_content"-->
+            <!--                    android:indeterminateTint="@android:color/white">-->
+
+            <!--                </ProgressBar>-->
+
+            <ImageView
+                android:visibility="gone"
+                android:id="@+id/tick"
+                android:layout_gravity="center"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:scaleType="fitXY"
+                android:src="@drawable/ic_tick" />
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/wl_category"
+            android:layout_marginBottom="6dp"
+            android:background="@drawable/radiobutton_select"
+            android:text=""
+            android:gravity="center"
+            android:textSize="12dp"
+            android:textColor="@drawable/text_view_selector"
+            android:layout_width="70dp"
+            android:layout_height="30dp"/>
+
+    </LinearLayout>
+
+</LinearLayout>
+

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Lakisa likolo ya ba apps mosusu</string>
+  <string name="open_nav">Fungola Tiroir ya Navigation</string>
+  <string name="close_nav">Kanga Tiroir ya Navigation</string>
+  <string name="show_while_charging">Lakisa tango ozali ko charger</string>
+  <string name="text_enable_wallpaper">Activer Fond d\'écran</string>
+  <string name="number_of_colors">Motango ya Ba couleurs</string>
+  <string name="click_a_color_to_edit">Finá na langi moko mpo na kobongisa yango</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Poná Monoko</string>
+  <string name="text_cancel">Kolongola</string>
+  <string name="text_border_type">Lolenge ya ndelo</string>
+  <string name="text_animation_speed">Vitesse ya animation</string>
+  <string name="text_border_size">Bonene ya ndelo</string>
+  <string name="text_radius_top">Radius ya likolo</string>
+  <string name="text_radius_bottom">Radius na nse</string>
+  <string name="text_enable_display_notch">Activer Notch</string>
+  <string name="text_notch_width_top">Notch largeur likolo</string>
+  <string name="text_notch_width_bottom">Notch largeur na nse</string>
+  <string name="text_notch_height">Bolai ya notch</string>
+  <string name="text_notch_radius_top">Notch rayon likolo</string>
+  <string name="text_notch_radius_bottom">Notch rayon na nse</string>
+  <string name="select_wallpaper">Pona Fonds d\'écran</string>
+  <string name="allow_display_over_other_apps">Tika kolakisa likolo ya ba apps mosusu</string>
+  <string name="continue_">Kokoba</string>
+  <string name="app_name_service">Fungola esika ya kozipa écran</string>
+  <string name="permission_request">Kosɛnga ndingisa</string>
+  <string name="power_connected">Câble ya puissance ekangami</string>
+  <string name="power_disconnected">Câble ya puissance Ekabwani</string>
+  <string name="draw_over_cancelled">Ndingisa ya kozipa dessin epesami nanu te. Meká lisusu</string>
+  <string name="draw_over_granted">Bosengi ya ndingisa ya kozipa ya kobenda epesami</string>
+  <string name="app_name">Edge ya éclairage</string>
+  <string name="please_wait">Svp bozela Wallpaper Téléchargement...</string>
+  <string name="no_internet">Internet te</string>
+  <string name="to_use_this">Mpo na kosalela eloko oyo Ndingisa ya nzela ya kokɔta esengeli</string>
+  <string name="draw_over_denied">Ndingisa ya kozipa dessin epesami nanu te. Meká lisusu</string>
+  <string name="no_internet_war">Ozali hors ligne svp fungola internet na yo po ozua ba fond d\'écran ya éclairage ya bord.</string>
+  <string name="you_must">Esengeli ofungola ndingisa ya \"Draw Over Other Apps\" mpo \"Edge Lighting\" esalaka malamu.</string>
+  <string name="wallpaper_description">Papier_ya_modèle ya bomoi</string>
+  <string name="abstract_">Emonanaka te</string>
+  <string name="nature">Bozalisi</string>
+  <string name="neon">Néon</string>
+  <string name="quotes">Kozongela maloba</string>
+  <string name="sunset">Kozinda ya moi</string>
+  <string name="top">Likolo</string>
+  <string name="text_name_notification">Bandá mosala</string>
+  <string name="No_topic_selected">Sujet moko te eponami</string>
+  <string name="Update_finish">Mikolo oyo kosilisa</string>
+  <string name="loading_ad">Kokɔtisa Piblisite</string>
+  <string name="low_battery">Éclairage ya bord ya pile ya nse</string>
+  <string name="battery_one">Battery 1. Ezali na ntina mingi</string>
+  <string name="battery_two">Battery ya 2</string>
+  <string name="edge_service">Service ya kosala</string>
+  <string name="wallpaper">Fond d\'écran</string>
+  <string name="magical_wallpaper">Kofanda</string>
+  <string name="main_ongoing_download">Kobimisa Aperçu</string>
+  <string name="permission_required">Esengeli kozwa ndingisa</string>
+  <string name="title_onboarding_1">Ndingisa ya kozwa nzela</string>
+  <string name="description_onboarding_1">Accessibilité ezali likambo ya ntina mingi</string>
+  <string name="string_text_onboarding_complete_description">Ndingisa ya Accessibilité lokola fonctionnalité ya moboko ezali esengeli mpo Edge Lighting esalaka likolo ya ba apps mosusu mpe ekangama na écran</string>
+  <string name="title_onboarding_2">Ndingisa ya kozwa nzela</string>
+  <string name="description_onboarding_2">Ndingisa ekoki kopesama boye: \n \n Bokoki ya kozwa > Ba Applications/Services oyo etiamaki > Kongenga ya nsɔngɛ \n TO \n Bokoki ya kozwa > Misala mingi ya kozwa > Kongenga ya nsɔngɛ</string>
+  <string name="title_onboarding_3">Code ba apps kitoko</string>
+  <string name="description_onboarding_3">Mission na biso ezali ya kosala ba apps utile &amp; subtile. Tolingaka kosalisa bato mpo na kobomba ntango na biloko ya source ouverte, kasi tosalaka mpe bomoi pete na kokela biloko ya sika. Codage ya malamu!</string>
+  <string name="start_text_advice">Soki okobi kosalela programɛ oyo, ondimi Mibeko na biso ya kosalela mpe Mibeko na biso ya kobatela makambo ya moto ye moko</string>
+  <string name="start">Kobanda</string>
+  <string name="skip">Kokipe te</string>
+  <string name="finish">Kosilisa</string>
+  <string name="next">Oyo elandi</string>
+  <string name="back">Mukongo</string>
+  <string name="allow">Kopesa nzela</string>
+  <string name="slider_Edge">Edge ya éclairage</string>
+  <string name="slider_Edge1">Lakisa éclairage ya bord likolo ya Edges</string>
+  <string name="alert_Edge">Alerte ya pile ya nse</string>
+  <string name="alert_Edge1">Éclairage ya bord orange pona alerte ya pile ya nse</string>
+  <string name="warning_Edge">Kebisi ya pile ya nse</string>
+  <string name="warning_Edge1">Éclairage ya bord rouge pona avertissement ya pile très bas</string>
+  <string name="notch_Edge">Notch, oyo ezali na kati</string>
+  <string name="notch_Edge1">Activer éclairage ya bord na notch</string>
+  <string name="wallpaper_Edge">Fond d\'écran</string>
+  <string name="wallpaper_Edge1">Éclairage ya bord na Fond d\'écran</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. Ezali na ntina mingi</item>  
+    <item>2. Ezali na ntina mingi</item>  
+    <item>3. Ezali na ntina mingi</item>  
+    <item>4. Ezali na ntina mingi</item>  
+    <item>5. Ezali na ntina mingi</item>  
+    <item>6. Ezali na ntina te</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Sans fil</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Mbote fragment ya pamba</string>
+  <string name="apply">Kosalela</string>
+  <string name="applied">Basalelaki yango</string>
+  <string name="always_on_display_edge_lighting">Toujours na éclairage ya bord ya écran</string>
+  <string name="confirm_exit">Confirmer Kobima ?</string>
+  <string name="yes">Iyo</string>
+  <string name="no">Te</string>
+  <string name="wallpapers">Ba fond d\'écran</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Okolinga kosala nini?</string>
+  <string name="set_home_screen">Set Écran d\'accueil</string>
+  <string name="set_lock_screen">Set Ecran ya Blocage</string>
+  <string name="set_both_screens">Set Ba Écrans Mibale Mibale</string>
+  <string name="adjust_screen">Bobongisi Écran</string>
+  <string name="please_wait_ad_is_loading">Svp bozela, annonce ezali ko charger</string>
+  <string name="home">Ndako</string>
+  <string name="edge_lighting_border">Frontière ya éclairage ya bord</string>
+  <string name="view_more">Tala Makambo mosusu</string>
+  <string name="brighten_up_by_stunning_edges">Engɛngisa na Edges ya kokamwa</string>
+  <string name="live_wallpapers">Ba Fonds d\'écran en direct</string>
+  <string name="stunning_wallpapers">Ba Fonds d\'écran ya kokamwa</string>
+  <string name="experience_by_interactive_wallpapers">Expérience na ba Fonds d\'écran Interactifs</string>
+  <string name="dismiss">Kolongola</string>
+  <string name="language">Lokota</string>
+  <string name="privacy_policy">Politiki ya kobatela makambo ya moto ye moko</string>
+  <string name="rate_us">Bopesa Biso Note</string>
+  <string name="more_app">App mosusu</string>
+  <string name="exit">Kobima</string>
+  <string name="alert">Koyebisa</string>
+  <string name="warning">Likebisi</string>
+  <string name="trending">Ezali na tendance</string>
+  <string name="applying_wallpaper">Kosalela Papier peint</string>
+  <string name="wallpaper_applied">Fond d\'écran Appliqué</string>
+  <string name="accessibility_service_level_permission">Ndingisa ya Niveau ya Service ya Accessibilité:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ndingisa ya Accessibilité lokola fonctionnalité ya moboko ezali esengeli mpo Edge Lighting esalaka likolo ya ba apps mosusu mpe ekangama na écran</string>
+  <string name="this_permission_can_be_granted_as_follow">Ndingisa oyo ekoki kopesama boye:</string>
+  <string name="go_to_settings">Kende na Paramètres</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibilité > Ba Applications/Services oyo etiamaki > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibilité > Ba services ya téléchargement mosusu > Edge éclairage</string>
+  <string name="grant_permission_now">Pesa Ndingisa Sikawa?</string>
+  <string name="later">Nsima</string>
+  <string name="yes_now">Ɛɛ, sikoyo</string>
+</resources>

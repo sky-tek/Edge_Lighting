@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Digər proqramlar üzərində göstərin</string>
+  <string name="open_nav">Naviqasiya Çekmecesini açın</string>
+  <string name="close_nav">Naviqasiya Çekmecesini bağlayın</string>
+  <string name="show_while_charging">Doldurarkən göstərin</string>
+  <string name="text_enable_wallpaper">Divar kağızı aktivləşdirin</string>
+  <string name="number_of_colors">Rənglərin sayı</string>
+  <string name="click_a_color_to_edit">Redaktə etmək üçün rəngə klikləyin</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Dil seçin</string>
+  <string name="text_cancel">Ləğv et</string>
+  <string name="text_border_type">Sərhəd növü</string>
+  <string name="text_animation_speed">Animasiya sürəti</string>
+  <string name="text_border_size">Sərhəd ölçüsü</string>
+  <string name="text_radius_top">Radius üstü</string>
+  <string name="text_radius_bottom">Radius alt</string>
+  <string name="text_enable_display_notch">Notch-i aktivləşdirin</string>
+  <string name="text_notch_width_top">Üst çentik eni</string>
+  <string name="text_notch_width_bottom">Dibi eni</string>
+  <string name="text_notch_height">Kəsik hündürlüyü</string>
+  <string name="text_notch_radius_top">Çentik radiusunun yuxarı hissəsi</string>
+  <string name="text_notch_radius_bottom">Çentik radiusu aşağı</string>
+  <string name="select_wallpaper">Divar kağızı seçin</string>
+  <string name="allow_display_over_other_apps">Digər proqramlar üzərində göstərməyə icazə verin</string>
+  <string name="continue_">Davam et</string>
+  <string name="app_name_service">Ekran örtüyünü açın</string>
+  <string name="permission_request">İcazə sorğusu</string>
+  <string name="power_connected">Elektrik kabeli qoşulub</string>
+  <string name="power_disconnected">Elektrik kabeli ayrılıb</string>
+  <string name="draw_over_cancelled">Üst-üstə düşmə icazəsi hələ verilməyib. Yenidən cəhd edin</string>
+  <string name="draw_over_granted">Çəkmə icazələri sorğusu verildi</string>
+  <string name="app_name">Kənar İşıqlandırma</string>
+  <string name="please_wait">Divar kağızı endirilməsini gözləyin...</string>
+  <string name="no_internet">İnternet yoxdur</string>
+  <string name="to_use_this">Bu funksiyadan istifadə etmək üçün Əlçatımlılıq İcazəsi tələb olunur</string>
+  <string name="draw_over_denied">Üst-üstə düşmə icazəsi hələ verilməyib. Yenidən cəhd edin</string>
+  <string name="no_internet_war">Siz oflaynsınız, lütfən, kənar işıqlandırma divar kağızları əldə etmək üçün internetinizi yandırın.</string>
+  <string name="you_must">\"Kənar İşıqlandırma\"nın düzgün işləməsi üçün \"Digər Tətbiqlərin Üzərinə Çək\" icazəsini aktiv etməlisiniz.</string>
+  <string name="wallpaper_description">Canlı_divar kağızı</string>
+  <string name="abstract_">Mücərrəd</string>
+  <string name="nature">Təbiət</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Sitatlar</string>
+  <string name="sunset">Gün batımı</string>
+  <string name="top">Üst</string>
+  <string name="text_name_notification">Xidmətə başlayın</string>
+  <string name="No_topic_selected">Mövzu seçilməyib</string>
+  <string name="Update_finish">Yeniləmə tamamlandı</string>
+  <string name="loading_ad">Elan yüklənir</string>
+  <string name="low_battery">Aşağı Batareya Kənar İşıqlandırma</string>
+  <string name="battery_one">Batareya 1</string>
+  <string name="battery_two">Batareya 2</string>
+  <string name="edge_service">Qaçış xidməti</string>
+  <string name="wallpaper">Divar kağızı</string>
+  <string name="magical_wallpaper">Canlı</string>
+  <string name="main_ongoing_download">Önizləmə yaradılır</string>
+  <string name="permission_required">İcazə Tələb olunur</string>
+  <string name="title_onboarding_1">Əlçatanlıq İcazəsi</string>
+  <string name="description_onboarding_1">Əlçatanlıq əsas xüsusiyyətdir</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting-in digər proqramlar və kilid ekranı üzərində işləməsi üçün əsas xüsusiyyət kimi Əlçatımlılıq İcazəsi lazımdır.</string>
+  <string name="title_onboarding_2">Əlçatanlıq İcazəsi</string>
+  <string name="description_onboarding_2">İcazə aşağıdakı kimi verilə bilər: \n \n Əlçatanlıq > Quraşdırılmış Proqramlar/Xidmətlər > Edge İşıqlandırma \n VEYA \n Əlçatımlılıq > Əlavə Endirmə Xidmətləri > Kənar İşıqlandırma</string>
+  <string name="title_onboarding_3">Gözəl proqramları kodlayın</string>
+  <string name="description_onboarding_3">Bizim missiyamız faydalı və incə proqramlar yaratmaqdır. Biz insanlara açıq mənbə materialları ilə vaxta qənaət etməyə kömək etməyi sevirik, eyni zamanda yeni şeylər yaratmaqla həyatı asanlaşdırırıq. Yaxşı Kodlaşdırma!</string>
+  <string name="start_text_advice">Bu proqramda davam etməklə siz İstifadə Şərtlərimiz və Məxfilik Siyasətimizlə razılaşırsınız</string>
+  <string name="start">Başlayın</string>
+  <string name="skip">Keç</string>
+  <string name="finish">Bitir</string>
+  <string name="next">Sonrakı</string>
+  <string name="back">Geri</string>
+  <string name="allow">İcazə verin</string>
+  <string name="slider_Edge">Kənar İşıqlandırma</string>
+  <string name="slider_Edge1">Kənar işıqlandırmasını Kenarlar üzərində göstərin</string>
+  <string name="alert_Edge">Aşağı Batareya Xəbərdarlığı</string>
+  <string name="alert_Edge1">Az batareya xəbərdarlığı üçün narıncı kənar işıqlandırma</string>
+  <string name="warning_Edge">Aşağı Batareya Xəbərdarlığı</string>
+  <string name="warning_Edge1">Çox aşağı batareya xəbərdarlığı üçün qırmızı kənar işıqlandırma</string>
+  <string name="notch_Edge">Çentik</string>
+  <string name="notch_Edge1">Çəngəl ilə kənar işıqlandırmanı aktivləşdirin</string>
+  <string name="wallpaper_Edge">Divar kağızı</string>
+  <string name="wallpaper_Edge1">Divar kağızı ilə kənar işıqlandırma</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Simsiz</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salam boş fraqment</string>
+  <string name="apply">Müraciət edin</string>
+  <string name="applied">Tətbiq olunub</string>
+  <string name="always_on_display_edge_lighting">Həmişə ekran kənarında işıqlandırma</string>
+  <string name="confirm_exit">Çıxışı təsdiqləyin?</string>
+  <string name="yes">Bəli</string>
+  <string name="no">Yox</string>
+  <string name="wallpapers">Divar kağızları</string>
+  <string name="ok">Tamam</string>
+  <string name="what_would_you_like_to_do">Nə etmək istərdiniz?</string>
+  <string name="set_home_screen">Əsas Ekranı təyin edin</string>
+  <string name="set_lock_screen">Kilid Ekranını təyin edin</string>
+  <string name="set_both_screens">Hər iki ekranı təyin edin</string>
+  <string name="adjust_screen">Ekranı Tənzimləyin</string>
+  <string name="please_wait_ad_is_loading">Zəhmət olmasa gözləyin, elan yüklənir</string>
+  <string name="home">Ev</string>
+  <string name="edge_lighting_border">Kənar İşıqlandırma Sərhədi</string>
+  <string name="view_more">Ətraflı Baxın</string>
+  <string name="brighten_up_by_stunning_edges">Möhtəşəm Edges ilə parlaq olun</string>
+  <string name="live_wallpapers">Canlı divar kağızları</string>
+  <string name="stunning_wallpapers">Çarpıcı Divar kağızları</string>
+  <string name="experience_by_interactive_wallpapers">İnteraktiv Divar kağızları ilə təcrübə</string>
+  <string name="dismiss">Rədd et</string>
+  <string name="language">Dil</string>
+  <string name="privacy_policy">Məxfilik Siyasəti</string>
+  <string name="rate_us">Bizi Qiymətləndirin</string>
+  <string name="more_app">Daha çox proqram</string>
+  <string name="exit">Çıxış</string>
+  <string name="alert">Xəbərdarlıq</string>
+  <string name="warning">Xəbərdarlıq</string>
+  <string name="trending">Trend</string>
+  <string name="applying_wallpaper">Divar kağızı tətbiqi</string>
+  <string name="wallpaper_applied">Divar kağızı tətbiq olunur</string>
+  <string name="accessibility_service_level_permission">Əlçatanlıq Xidməti Səviyyəsi İcazəsi:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting-in digər proqramlar və kilid ekranı üzərində işləməsi üçün əsas xüsusiyyət kimi Əlçatımlılıq İcazəsi lazımdır.</string>
+  <string name="this_permission_can_be_granted_as_follow">Bu İcazə aşağıdakı kimi verilə bilər:</string>
+  <string name="go_to_settings">Parametrlərə keçin</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Əlçatanlıq > Quraşdırılmış Proqramlar/Xidmətlər > Kənar İşıqlandırma</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Əlçatanlıq > Əlavə Yükləmə Xidmətləri > Kənar İşıqlandırma</string>
+  <string name="grant_permission_now">İndi icazə verilsin?</string>
+  <string name="later">Daha sonra</string>
+  <string name="yes_now">Bəli, indi</string>
+</resources>

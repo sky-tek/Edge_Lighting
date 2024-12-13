@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ku muuji abka kale</string>
+  <string name="open_nav">Fur Drawer Navigation</string>
+  <string name="close_nav">U dhaw Drawer Navigation</string>
+  <string name="show_while_charging">Muuji marka la dallacay</string>
+  <string name="text_enable_wallpaper">Daar gidaarka</string>
+  <string name="number_of_colors">Tirada Midabada</string>
+  <string name="click_a_color_to_edit">Guji midab si aad wax uga beddesho</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Dooro Luuqad</string>
+  <string name="text_cancel">Jooji</string>
+  <string name="text_border_type">Nooca xadka</string>
+  <string name="text_animation_speed">Xawaaraha animation</string>
+  <string name="text_border_size">Cabbirka xadka</string>
+  <string name="text_radius_top">Radius sare</string>
+  <string name="text_radius_bottom">Salka hoose</string>
+  <string name="text_enable_display_notch">Daar Notch</string>
+  <string name="text_notch_width_top">Balaadhka dushiisa</string>
+  <string name="text_notch_width_bottom">Balaadhka cirifka hoose</string>
+  <string name="text_notch_height">Dhererka darajada</string>
+  <string name="text_notch_radius_top">Radius sare</string>
+  <string name="text_notch_radius_bottom">Radius hoose</string>
+  <string name="select_wallpaper">Dooro Wallpaper</string>
+  <string name="allow_display_over_other_apps">Oggolow in lagu muujiyo abka kale</string>
+  <string name="continue_">Sii wad</string>
+  <string name="app_name_service">Dusha sare ee shaashadda fur</string>
+  <string name="permission_request">Codsiga ogolaanshaha</string>
+  <string name="power_connected">Fiilada Korontada ayaa ku xiran</string>
+  <string name="power_disconnected">Korontada Cable-ka ayaa go\'ay</string>
+  <string name="draw_over_cancelled">Oggolaanshaha dulsaarka sawirka weli lama bixin. Isku day mar kale</string>
+  <string name="draw_over_granted">Codsiga oggolaanshaha dulsaarka sawirka waa la oggolaaday</string>
+  <string name="app_name">Iftiinka Cidhifka</string>
+  <string name="please_wait">Fadlan sug soo dejinta warqadda gidaarka…</string>
+  <string name="no_internet">Ma jiro internet</string>
+  <string name="to_use_this">Si aad u isticmaasho sifadan Ogolaanshaha gelitaanka ayaa loo baahan yahay</string>
+  <string name="draw_over_denied">Oggolaanshaha dulsaarka sawirka weli lama bixin. Isku day mar kale</string>
+  <string name="no_internet_war">Offline ayaad ku jirtaa fadlan daar intarneetkaaga si aad u hesho gidaarada ifaya.</string>
+  <string name="you_must">Waa inaad awood u siiso \"Draw Over Other Apps\" ogolaanshaha \"Edge Lighting\" inuu si sax ah u shaqeeyo.</string>
+  <string name="wallpaper_description">Warqad_dambiyeed</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Dabeecadda</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Xigasho</string>
+  <string name="sunset">Qorrax dhaca</string>
+  <string name="top">Sare</string>
+  <string name="text_name_notification">Bilow adeegga</string>
+  <string name="No_topic_selected">Ma jiro mawduuc la doortay</string>
+  <string name="Update_finish">Cusbooneysii dhammaatay</string>
+  <string name="loading_ad">Soodejinaya Xayeysiiska</string>
+  <string name="low_battery">Iftiinka Cidhifka Batari Hoose</string>
+  <string name="battery_one">Battery 1</string>
+  <string name="battery_two">Battery 2</string>
+  <string name="edge_service">Adeegga orodka</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Noolow</string>
+  <string name="main_ongoing_download">Soo saarista Horudhac</string>
+  <string name="permission_required">Ogolaanshaha ayaa loo baahan yahay</string>
+  <string name="title_onboarding_1">Ogolaanshaha gelitaanka</string>
+  <string name="description_onboarding_1">Helitaanka waa sifada xudunta u ah</string>
+  <string name="string_text_onboarding_complete_description">Ogolaanshaha gelitaanka ee sifada xudunta u ah waa in Edge Lighting uu kaga shaqeeyo abka kale iyo shaashadda qufulka</string>
+  <string name="title_onboarding_2">Ogolaanshaha gelitaanka</string>
+  <string name="description_onboarding_2">Oggolaanshaha waxa loo ogolaan karaa sidan soo socota: \n \n Helitaanka > Apps/Adeegyada Rakibaya> Iftiinka Cidhifka \n AMA \n Helitaanka > Adeegyada Soodejinta Dheeraadka ah > Iftiinka Edge</string>
+  <string name="title_onboarding_3">Codso apps qurux badan</string>
+  <string name="description_onboarding_3">Hadafkayagu waa inaanu samayno apps faa\'iido leh &amp; kuwo khiyaano leh. Waxaan jecelnahay in aan dadka ka caawinno in ay waqti ku badbaadiyaan agabka il furan, laakiin sidoo kale waxa aan nolosha ku fududaynnaa innagoo abuurna waxyaabo cusub. Codayn wanaagsan!</string>
+  <string name="start_text_advice">Markaad ku sii socoto arjigan waxaad ogolaatay Shuruudaha Isticmaalka iyo Siyaasaddayada Qarsoonnimada</string>
+  <string name="start">Bilow</string>
+  <string name="skip">Ka bood</string>
+  <string name="finish">Dhame</string>
+  <string name="next">Xiga</string>
+  <string name="back">Dib u noqo</string>
+  <string name="allow">Allow</string>
+  <string name="slider_Edge">Iftiinka Cidhifka</string>
+  <string name="slider_Edge1">Muuji nalka geesaha geesaha</string>
+  <string name="alert_Edge">Digniin Battery hooseeya</string>
+  <string name="alert_Edge1">Iftiinka cidhifka Orange ee digniinta baytari yar</string>
+  <string name="warning_Edge">Digniinta Battery hooseeya</string>
+  <string name="warning_Edge1">Iftiinka cidhifka cas ee digniinta batteriga aadka u hooseeya</string>
+  <string name="notch_Edge">Darajo</string>
+  <string name="notch_Edge1">Daar nalka cidhifka leh</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Iftiinka cidhifka leh xaashida</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello jajab maran</string>
+  <string name="apply">Codso</string>
+  <string name="applied">Codsaday</string>
+  <string name="always_on_display_edge_lighting">Had iyo jeer iftiiminta cidhifka</string>
+  <string name="confirm_exit">Xaqiiji Bixinta ?</string>
+  <string name="yes">Haa</string>
+  <string name="no">Maya</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Waayahay</string>
+  <string name="what_would_you_like_to_do">Maxaad jeclaan lahayd inaad sameyso?</string>
+  <string name="set_home_screen">Deji Shaashada Guriga</string>
+  <string name="set_lock_screen">Deji Shaashada Quful</string>
+  <string name="set_both_screens">Dhig Labada Shaashadood</string>
+  <string name="adjust_screen">Hagaajin Shaashada</string>
+  <string name="please_wait_ad_is_loading">Fadlan sug, xayeysiisku waa soo rarayaa</string>
+  <string name="home">Guriga</string>
+  <string name="edge_lighting_border">Xuduudka Iftiinka Cidhifka</string>
+  <string name="view_more">Daawo Wax Badan</string>
+  <string name="brighten_up_by_stunning_edges">Ku iftiimiyey geeso yaab leh</string>
+  <string name="live_wallpapers">Waraaqaha Tooska ah</string>
+  <string name="stunning_wallpapers">Waraaqo Cajiib ah</string>
+  <string name="experience_by_interactive_wallpapers">Khibrad u leh Wallpapers Interactive</string>
+  <string name="dismiss">Eryi</string>
+  <string name="language">Luuqad</string>
+  <string name="privacy_policy">Siyaasadda Qarsoonnimada</string>
+  <string name="rate_us">Nagu qiimee</string>
+  <string name="more_app">App ka badan</string>
+  <string name="exit">Bixid</string>
+  <string name="alert">Digniin</string>
+  <string name="warning">Digniin</string>
+  <string name="trending">La daalacanayo</string>
+  <string name="applying_wallpaper">Dalbashada Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Codsaday</string>
+  <string name="accessibility_service_level_permission">Oggolaanshaha Heerka Adeegga Helitaanka:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ogolaanshaha gelitaanka ee sifada xudunta u ah waa in Edge Lighting uu kaga shaqeeyo abka kale iyo shaashadda qufulka</string>
+  <string name="this_permission_can_be_granted_as_follow">Ogolaanshahan waxaa lagu bixin karaa sida soo socota:</string>
+  <string name="go_to_settings">Tag Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Helitaanka> Apps/Adeegyada Rakibaya> Iftiinka Cidhifka</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Helitaanka> Adeegyo soo dejin badan> Iftiinka Edge</string>
+  <string name="grant_permission_now">Ogolaanshaha Bixinta Hadda?</string>
+  <string name="later">Ka dib</string>
+  <string name="yes_now">Haa, hadda</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Mostra sobre altres aplicacions</string>
+  <string name="open_nav">Obriu el calaix de navegació</string>
+  <string name="close_nav">Tanca el calaix de navegació</string>
+  <string name="show_while_charging">Mostra mentre es carrega</string>
+  <string name="text_enable_wallpaper">Activa el fons de pantalla</string>
+  <string name="number_of_colors">Nombre de colors</string>
+  <string name="click_a_color_to_edit">Feu clic a un color per editar-lo</string>
+  <string name="mtrl_picker_confirm">D\'acord</string>
+  <string name="SelectLanguage">Seleccioneu Idioma</string>
+  <string name="text_cancel">Cancel·la</string>
+  <string name="text_border_type">Tipus de vora</string>
+  <string name="text_animation_speed">Velocitat d\'animació</string>
+  <string name="text_border_size">Mida de la vora</string>
+  <string name="text_radius_top">Radi superior</string>
+  <string name="text_radius_bottom">Radi inferior</string>
+  <string name="text_enable_display_notch">Activa Notch</string>
+  <string name="text_notch_width_top">Ample de l\'osca superior</string>
+  <string name="text_notch_width_bottom">Ample de l\'osca inferior</string>
+  <string name="text_notch_height">Alçada de l\'osca</string>
+  <string name="text_notch_radius_top">Radi de l\'osca superior</string>
+  <string name="text_notch_radius_bottom">Radi de l\'osca inferior</string>
+  <string name="select_wallpaper">Seleccioneu Fons de pantalla</string>
+  <string name="allow_display_over_other_apps">Permet la visualització sobre altres aplicacions</string>
+  <string name="continue_">Continua</string>
+  <string name="app_name_service">Obre la superposició de pantalla</string>
+  <string name="permission_request">Sol·licitud de permís</string>
+  <string name="power_connected">Cable d\'alimentació connectat</string>
+  <string name="power_disconnected">Cable d\'alimentació desconnectat</string>
+  <string name="draw_over_cancelled">El permís de superposició de dibuix encara no s\'ha concedit. Torna-ho a provar</string>
+  <string name="draw_over_granted">S\'ha concedit la sol·licitud de permisos de superposició de dibuix</string>
+  <string name="app_name">Il·luminació de vora</string>
+  <string name="please_wait">Si us plau, espereu que s\'està baixant el fons de pantalla...</string>
+  <string name="no_internet">Sense internet</string>
+  <string name="to_use_this">Per utilitzar aquesta funció, cal un permís d\'accessibilitat</string>
+  <string name="draw_over_denied">El permís de superposició de dibuix encara no s\'ha concedit. Torna-ho a provar</string>
+  <string name="no_internet_war">Esteu fora de línia, si us plau, enceneu Internet per obtenir fons de pantalla d\'il·luminació de vora.</string>
+  <string name="you_must">Heu d\'habilitar el permís \"Dibuixa sobre altres aplicacions\" perquè \"Edge Lighting\" funcioni correctament.</string>
+  <string name="wallpaper_description">Fons de pantalla en viu</string>
+  <string name="abstract_">Resum</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neó</string>
+  <string name="quotes">Cites</string>
+  <string name="sunset">Posta de sol</string>
+  <string name="top">A dalt</string>
+  <string name="text_name_notification">Iniciar servei</string>
+  <string name="No_topic_selected">No s\'ha seleccionat cap tema</string>
+  <string name="Update_finish">Finalització de l\'actualització</string>
+  <string name="loading_ad">Carregant anunci</string>
+  <string name="low_battery">Il·luminació de vora de bateria baixa</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Servei en funcionament</string>
+  <string name="wallpaper">Fons de pantalla</string>
+  <string name="magical_wallpaper">Viu</string>
+  <string name="main_ongoing_download">Generació de vista prèvia</string>
+  <string name="permission_required">Permís necessari</string>
+  <string name="title_onboarding_1">Permís d\'accessibilitat</string>
+  <string name="description_onboarding_1">L\'accessibilitat és una característica bàsica</string>
+  <string name="string_text_onboarding_complete_description">El permís d\'accessibilitat com a funció bàsica és imprescindible perquè Edge Lighting funcioni amb altres aplicacions i la pantalla de bloqueig</string>
+  <string name="title_onboarding_2">Permís d\'accessibilitat</string>
+  <string name="description_onboarding_2">El permís es pot concedir de la següent manera: \n \n Accessibilitat > Aplicacions/serveis instal·lats > Il·luminació Edge \n O \n Accessibilitat > Més serveis de descàrrega > Il·luminació Edge</string>
+  <string name="title_onboarding_3">Codificar aplicacions boniques</string>
+  <string name="description_onboarding_3">La nostra missió és crear aplicacions útils i subtils. Ens encanta ajudar les persones a estalviar temps amb material de codi obert, però també ens facilitem la vida creant coses noves. Bona codificació!</string>
+  <string name="start_text_advice">En continuar amb aquesta aplicació, accepteu les nostres Condicions d\'ús i la Política de privadesa</string>
+  <string name="start">Comença</string>
+  <string name="skip">Saltar</string>
+  <string name="finish">Acabar</string>
+  <string name="next">A continuació</string>
+  <string name="back">Enrere</string>
+  <string name="allow">Permetre</string>
+  <string name="slider_Edge">Il·luminació de vora</string>
+  <string name="slider_Edge1">Mostra la il·luminació de les vores sobre les vores</string>
+  <string name="alert_Edge">Alerta de bateria baixa</string>
+  <string name="alert_Edge1">Il·luminació de vora taronja per alerta de bateria baixa</string>
+  <string name="warning_Edge">Avís de bateria baixa</string>
+  <string name="warning_Edge1">Il·luminació de vora vermella per avís de bateria molt baixa</string>
+  <string name="notch_Edge">Osca</string>
+  <string name="notch_Edge1">Activa la il·luminació de vora amb una osca</string>
+  <string name="wallpaper_Edge">Fons de pantalla</string>
+  <string name="wallpaper_Edge1">Il·luminació de vora amb fons de pantalla</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Sense fil</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hola fragment en blanc</string>
+  <string name="apply">Aplicar</string>
+  <string name="applied">Aplicat</string>
+  <string name="always_on_display_edge_lighting">Sempre a l\'exhibició il·luminació de vora</string>
+  <string name="confirm_exit">Confirmeu la sortida?</string>
+  <string name="yes">Sí</string>
+  <string name="no">No</string>
+  <string name="wallpapers">Fons de pantalla</string>
+  <string name="ok">D\'acord</string>
+  <string name="what_would_you_like_to_do">Què t\'agradaria fer?</string>
+  <string name="set_home_screen">Estableix la pantalla d\'inici</string>
+  <string name="set_lock_screen">Estableix la pantalla de bloqueig</string>
+  <string name="set_both_screens">Estableix les dues pantalles</string>
+  <string name="adjust_screen">Ajust de pantalla</string>
+  <string name="please_wait_ad_is_loading">Espereu, l\'anunci s\'està carregant</string>
+  <string name="home">A casa</string>
+  <string name="edge_lighting_border">Bord d\'il·luminació de vora</string>
+  <string name="view_more">Veure més</string>
+  <string name="brighten_up_by_stunning_edges">Il·lumina amb Edges impressionants</string>
+  <string name="live_wallpapers">Fons de pantalla en viu</string>
+  <string name="stunning_wallpapers">Fons de pantalla impressionants</string>
+  <string name="experience_by_interactive_wallpapers">Experiència de fons de pantalla interactius</string>
+  <string name="dismiss">Descartar</string>
+  <string name="language">Llengua</string>
+  <string name="privacy_policy">Política de privadesa</string>
+  <string name="rate_us">Valora\'ns</string>
+  <string name="more_app">Més aplicació</string>
+  <string name="exit">Sortida</string>
+  <string name="alert">Alerta</string>
+  <string name="warning">Avís</string>
+  <string name="trending">Tendència</string>
+  <string name="applying_wallpaper">Aplicació de fons de pantalla</string>
+  <string name="wallpaper_applied">Fons de pantalla aplicat</string>
+  <string name="accessibility_service_level_permission">Permís de nivell de servei d\'accessibilitat:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">El permís d\'accessibilitat com a funció bàsica és imprescindible perquè Edge Lighting funcioni amb altres aplicacions i la pantalla de bloqueig</string>
+  <string name="this_permission_can_be_granted_as_follow">Aquest permís es pot concedir de la següent manera:</string>
+  <string name="go_to_settings">Vés a Configuració</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibilitat > Aplicacions/serveis instal·lats > Il·luminació Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibilitat > Més serveis de descàrrega > Il·luminació Edge</string>
+  <string name="grant_permission_now">Doneu permís ara?</string>
+  <string name="later">Més tard</string>
+  <string name="yes_now">Sí, ara</string>
+</resources>

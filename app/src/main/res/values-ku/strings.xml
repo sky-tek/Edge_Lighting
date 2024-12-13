@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Li ser sepanên din nîşan bidin</string>
+  <string name="open_nav">Berkêşka Navîgasyonê vekin</string>
+  <string name="close_nav">Girêdana Navîgasyon Drawer</string>
+  <string name="show_while_charging">Dema barkirinê nîşan bide</string>
+  <string name="text_enable_wallpaper">Wallpaper çalak bike</string>
+  <string name="number_of_colors">Hejmara Rengan</string>
+  <string name="click_a_color_to_edit">Rengek bikirtînin da ku biguherînin</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Ziman hilbijêrin</string>
+  <string name="text_cancel">Bişûndekirin</string>
+  <string name="text_border_type">Cureyê sînor</string>
+  <string name="text_animation_speed">Leza anîmasyon</string>
+  <string name="text_border_size">Mezinahiya sînor</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radius binê</string>
+  <string name="text_enable_display_notch">Notch çalak bike</string>
+  <string name="text_notch_width_top">Notch width top</string>
+  <string name="text_notch_width_bottom">Notch width bottom</string>
+  <string name="text_notch_height">Bilindahiya niçikê</string>
+  <string name="text_notch_radius_top">Notch radius top</string>
+  <string name="text_notch_radius_bottom">Radyoya notch binê</string>
+  <string name="select_wallpaper">Wallpaper hilbijêre</string>
+  <string name="allow_display_over_other_apps">Destûrê bide nîşandanê li ser sepanên din</string>
+  <string name="continue_">Berdewamkirin</string>
+  <string name="app_name_service">Zêdekirina ekranê vekin</string>
+  <string name="permission_request">Daxwaza Destûra</string>
+  <string name="power_connected">Cable Power Girêdayî</string>
+  <string name="power_disconnected">Cable Power Veqetandî</string>
+  <string name="draw_over_cancelled">Destûra xêzkirinê hêj nehatiye dayîn. Dubare bixebitin</string>
+  <string name="draw_over_granted">Daxwaza destûrnameyên xêzkirinê hate dayîn</string>
+  <string name="app_name">Ronahîkirina Edge</string>
+  <string name="please_wait">Ji kerema xwe li bendê bin Dakêşandina Dîwarê…</string>
+  <string name="no_internet">Înternet tune</string>
+  <string name="to_use_this">Ji bo bikaranîna vê taybetiyê Destûra Gihîştinê pêwîst e</string>
+  <string name="draw_over_denied">Destûra xêzkirinê hêj nehatiye dayîn. Dubare bixebitin</string>
+  <string name="no_internet_war">Hûn negirêdayî ne, ji kerema xwe înterneta xwe vekin da ku dîwarên dîwarên ronahiya devê bistînin.</string>
+  <string name="you_must">Pêdivî ye ku hûn destûra \"Draw Over Other Apps\" çalak bikin da ku \"Edge Lighting\" bi rêkûpêk bixebite.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Veqetî</string>
+  <string name="nature">Awa</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Roava</string>
+  <string name="top">Kop</string>
+  <string name="text_name_notification">Xizmetê dest pê bikin</string>
+  <string name="No_topic_selected">Mijar nehat hilbijartin</string>
+  <string name="Update_finish">Dawîkirina nûvekirinê</string>
+  <string name="loading_ad">Barkirina Ad</string>
+  <string name="low_battery">Ronahîkirina Kêm Battery Edge</string>
+  <string name="battery_one">Pîl 1</string>
+  <string name="battery_two">Pîl 2</string>
+  <string name="edge_service">Xizmeta Running</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Jîyan</string>
+  <string name="main_ongoing_download">Hilberîna Pêşniyarê</string>
+  <string name="permission_required">Destûr Pêdivî ye</string>
+  <string name="title_onboarding_1">Destûra Gihîştinê</string>
+  <string name="description_onboarding_1">Gihîştin taybetmendiyek bingehîn e</string>
+  <string name="string_text_onboarding_complete_description">Destûra Gihîştinê wekî taybetmendiyek bingehîn pêdivî ye ku Edge Lighting li ser sepanên din û kilîtkirina ekranê bixebite</string>
+  <string name="title_onboarding_2">Destûra Gihîştinê</string>
+  <string name="description_onboarding_2">Destûr dikare bi vî rengî were dayîn: \n \n Gihîştin > Serlêdan/Xizmetên Sazkirî > Ronahîkirina Edge \n OR \n Gihîştin > Karûbarên Zêdetir Dakêşandinê > Ronahiya Edge</string>
+  <string name="title_onboarding_3">Kodên sepanên xweşik</string>
+  <string name="description_onboarding_3">Mîsyona me çêkirina sepanên bikêr û nazik e. Em ji alîkariya mirovan hez dikin ku bi tiştên vekirî-çavkaniyê wextê teserûf bikin, lê di heman demê de em bi afirandina tiştên nû jiyanê jî hêsantir dikin. Kodkirina baş!</string>
+  <string name="start_text_advice">Bi berdewamkirina vê serîlêdanê hûn bi Mercên Bikaranînê û Siyaseta Nepenîtiyê re qebûl dikin</string>
+  <string name="start">Destpêkirin</string>
+  <string name="skip">Hilperkîn</string>
+  <string name="finish">Qedandin</string>
+  <string name="next">Piştî</string>
+  <string name="back">Paş</string>
+  <string name="allow">Destûrdan</string>
+  <string name="slider_Edge">Ronahîkirina Edge</string>
+  <string name="slider_Edge1">Ronahiya qiraxa li ser Edges nîşan bidin</string>
+  <string name="alert_Edge">Alert Kêm Pîl</string>
+  <string name="alert_Edge1">Ronahiya qiraxa orange ji bo hişyariya batarya kêm</string>
+  <string name="warning_Edge">Warning Battery Low</string>
+  <string name="warning_Edge1">Ronahiya qiraxa sor ji bo hişyariya pîlê pir kêm</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Ronahîkirina kêlekê bi nêçîrê çalak bike</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ronahiya qiraxa bi Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Bêtêl</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Silav parçeyek vala</string>
+  <string name="apply">Bikaranîn</string>
+  <string name="applied">Applied</string>
+  <string name="always_on_display_edge_lighting">Her tim li ser ronahiya qeraxa pêşandanê ye</string>
+  <string name="confirm_exit">Derketinê piştrast bike?</string>
+  <string name="yes">Erê</string>
+  <string name="no">Na</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Tu dixwazî ​​çi bikî?</string>
+  <string name="set_home_screen">Set Screen Home</string>
+  <string name="set_lock_screen">Set Lock Screen</string>
+  <string name="set_both_screens">Herdu Ekranan Set bikin</string>
+  <string name="adjust_screen">Eyar Screen</string>
+  <string name="please_wait_ad_is_loading">Ji kerema xwe li bendê bin, reklam tê barkirin</string>
+  <string name="home">Xane</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Zêdetir Binêre</string>
+  <string name="brighten_up_by_stunning_edges">Bi Edges balkêş ronî bikin</string>
+  <string name="live_wallpapers">Wallpapersên Zindî</string>
+  <string name="stunning_wallpapers">Dîwarên Dîwaran</string>
+  <string name="experience_by_interactive_wallpapers">Ezmûna ji hêla Wallpapersên Interaktîf ve</string>
+  <string name="dismiss">Berdan</string>
+  <string name="language">Ziman</string>
+  <string name="privacy_policy">Privacy Policy</string>
+  <string name="rate_us">Me binirxînin</string>
+  <string name="more_app">Zêdetir App</string>
+  <string name="exit">Derî</string>
+  <string name="alert">Hişyar</string>
+  <string name="warning">Gazî</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Applying Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Destûra Asta Xizmeta Gihîştinê:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Destûra Gihîştinê wekî taybetmendiyek bingehîn pêdivî ye ku Edge Lighting li ser sepanên din û kilîtkirina ekranê bixebite</string>
+  <string name="this_permission_can_be_granted_as_follow">Ev Destûr dikare wekî jêrîn were dayîn:</string>
+  <string name="go_to_settings">Biçe Mîhengan</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Gihîştin > Serlêdan / Karûbarên Sazkirî > Ronahîkirina Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Gihîştin> Zêdetir Karûbarên Daxistinê> Ronahîkirina Edge</string>
+  <string name="grant_permission_now">Niha Destûr bide?</string>
+  <string name="later">Paşan</string>
+  <string name="yes_now">Erê, niha</string>
+</resources>

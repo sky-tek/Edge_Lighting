@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@color/background"
+    tools:context="com.thecode.onboardingviewagerexamples.activities.OnboardingExample4Activity"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_marginBottom="30dp">
+
+    <ImageView
+        android:id="@+id/image_onboarding"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:scaleType="centerCrop"
+        android:src="@drawable/permissionhere"
+        app:lottie_autoPlay="true"
+        app:lottie_loop="true" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/text_onboarding_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/image_onboarding"
+        android:layout_marginStart="30dp"
+        android:layout_marginEnd="30dp"
+        android:text="@string/title_onboarding_1"
+        android:textSize="25sp"
+        android:gravity="center"
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/text_onboarding_description"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text_onboarding_title"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:gravity="center"
+        android:text="@string/string_text_onboarding_complete_description"
+        android:textColor="@color/white"
+        android:textSize="17sp" />
+</RelativeLayout>

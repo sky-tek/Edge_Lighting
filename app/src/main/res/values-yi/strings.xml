@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ווייַז איבער אנדערע אַפּפּס</string>
+  <string name="open_nav">עפֿענען נאַוויגאַציע שופלאָד</string>
+  <string name="close_nav">נאָענט נאַוויגאַציע שופלאָד</string>
+  <string name="show_while_charging">ווייַזן בשעת טשאַרדזשינג</string>
+  <string name="text_enable_wallpaper">געבן וואַללפּאַפּער</string>
+  <string name="number_of_colors">נומער פון קאָלאָרס</string>
+  <string name="click_a_color_to_edit">דריקט אַ קאָליר צו רעדאַגירן</string>
+  <string name="mtrl_picker_confirm">גוט</string>
+  <string name="SelectLanguage">אויסקלייַבן שפּראַך</string>
+  <string name="text_cancel">באָטל מאַכן</string>
+  <string name="text_border_type">גרענעץ טיפּ</string>
+  <string name="text_animation_speed">אַנאַמיישאַן גיכקייַט</string>
+  <string name="text_border_size">גרענעץ גרייס</string>
+  <string name="text_radius_top">ראַדיוס שפּיץ</string>
+  <string name="text_radius_bottom">ראַדיוס דנאָ</string>
+  <string name="text_enable_display_notch">געבן נאָטטש</string>
+  <string name="text_notch_width_top">קאַרב ברייט שפּיץ</string>
+  <string name="text_notch_width_bottom">קאַרב ברייט דנאָ</string>
+  <string name="text_notch_height">קאַרב הייך</string>
+  <string name="text_notch_radius_top">שפּיץ ראַדיוס</string>
+  <string name="text_notch_radius_bottom">קאַרב ראַדיוס דנאָ</string>
+  <string name="select_wallpaper">אויסקלייַבן וואַללפּאַפּער</string>
+  <string name="allow_display_over_other_apps">לאָזן ווייַז איבער אנדערע אַפּפּס</string>
+  <string name="continue_">פאָרזעצן</string>
+  <string name="app_name_service">עפענען פאַרשטעלן אָוווערליי</string>
+  <string name="permission_request">דערלויבעניש בעטן</string>
+  <string name="power_connected">מאַכט קאַבלע קאָננעקטעד</string>
+  <string name="power_disconnected">מאַכט קאַבלע דיסקאַנעקטיד</string>
+  <string name="draw_over_cancelled">צייכענונג אָוווערליי דערלויבעניש נאָך נישט געגעבן. פּרוּווט ווידער</string>
+  <string name="draw_over_granted">פארלאנג פון ציען אָוווערליי פּערמישאַנז געגעבן</string>
+  <string name="app_name">עדזש ליגהטינג</string>
+  <string name="please_wait">ביטע וואַרטן וואַללפּאַפּער דאַונלאָודינג…</string>
+  <string name="no_internet">קיין אינטערנעט</string>
+  <string name="to_use_this">צו נוצן דעם שטריך אַקסעסאַביליטי דערלויבעניש איז פארלאנגט</string>
+  <string name="draw_over_denied">צייכענונג אָוווערליי דערלויבעניש נאָך נישט געגעבן. פּרוּווט ווידער</string>
+  <string name="no_internet_war">איר זענט אָפפלינע, קער אויף דיין אינטערנעט צו באַקומען וואָלפּייפּערז פון ברעג לייטינג.</string>
+  <string name="you_must">איר מוזן געבן \"ציען איבער אנדערע אַפּפּס\" דערלויבעניש פֿאַר \"עדזש ליגהטינג\" צו אַרבעטן רעכט.</string>
+  <string name="wallpaper_description">לעבן_וואַלפּאַפּער</string>
+  <string name="abstract_">אַבסטראַקט</string>
+  <string name="nature">נאַטור</string>
+  <string name="neon">נעאָן</string>
+  <string name="quotes">קוואָטעס</string>
+  <string name="sunset">זונ - ונטערגאַנג</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">אָנהייב דינסט</string>
+  <string name="No_topic_selected">קיין טעמע אויסגעקליבן</string>
+  <string name="Update_finish">דערהייַנטיקן ענדיקן</string>
+  <string name="loading_ad">לאָודינג אַד</string>
+  <string name="low_battery">נידעריק באַטערי עדזש לייטינג</string>
+  <string name="battery_one">באַטערי 1</string>
+  <string name="battery_two">באַטערי 2</string>
+  <string name="edge_service">פליסנדיק דינסט</string>
+  <string name="wallpaper">טאַפּעטן</string>
+  <string name="magical_wallpaper">לעבן</string>
+  <string name="main_ongoing_download">דזשענערייטינג פּריוויו</string>
+  <string name="permission_required">דערלויבעניש פארלאנגט</string>
+  <string name="title_onboarding_1">אַקסעסאַביליטי דערלויבעניש</string>
+  <string name="description_onboarding_1">אַקסעסאַביליטי איז אַ הויפּט שטריך</string>
+  <string name="string_text_onboarding_complete_description">די אַקסעסאַביליטי דערלויבעניש ווי אַ האַרץ שטריך איז מוזן פֿאַר עדזש ליגהטינג צו אַרבעטן איבער אנדערע אַפּפּס און שלאָס פאַרשטעלן</string>
+  <string name="title_onboarding_2">אַקסעסאַביליטי דערלויבעניש</string>
+  <string name="description_onboarding_2">די דערלויבעניש קענען זיין געגעבן ווי גייט: \n \n אַקסעסאַביליטי > אינסטאַלירן אַפּפּס / באַדינונגס > עדזש לייטינג \n אָדער \n אַקסעסאַביליטי > מער אראפקאפיע באַדינונגס > עדזש לייטינג</string>
+  <string name="title_onboarding_3">קאָד שיין אַפּפּס</string>
+  <string name="description_onboarding_3">אונדזער מיסיע איז צו מאַכן נוציק און סאַטאַל אַפּפּס. מיר ליב צו העלפֿן מענטשן צו שפּאָרן צייט מיט עפֿענען מקור סטאַפס, אָבער מיר אויך מאַכן לעבן גרינגער דורך שאַפֿן נייַע טינגז. גוט קאָדירונג!</string>
+  <string name="start_text_advice">דורך פאָרזעצן אויף דעם אַפּלאַקיישאַן איר שטימען צו אונדזער תּנאָים פון נוצן און פּריוואַטקייט פּאָליטיק</string>
+  <string name="start">אָנהייב</string>
+  <string name="skip">האָפּקען</string>
+  <string name="finish">ענדיקן</string>
+  <string name="next">ווייַטער</string>
+  <string name="back">צוריק</string>
+  <string name="allow">לאָזן</string>
+  <string name="slider_Edge">עדזש ליגהטינג</string>
+  <string name="slider_Edge1">ווייַז ברעג לייטינג איבער עדזשאַז</string>
+  <string name="alert_Edge">נידעריק באַטערי אַלערט</string>
+  <string name="alert_Edge1">מאַראַנץ ברעג לייטינג פֿאַר נידעריק באַטאַרייע פלינק</string>
+  <string name="warning_Edge">נידעריק באַטערי ווארענונג</string>
+  <string name="warning_Edge1">רויט ברעג לייטינג פֿאַר זייער נידעריק באַטאַרייע ווארענונג</string>
+  <string name="notch_Edge">קאַרב</string>
+  <string name="notch_Edge1">געבן ברעג לייטינג מיט קאַרב</string>
+  <string name="wallpaper_Edge">טאַפּעטן</string>
+  <string name="wallpaper_Edge1">ברעג לייטינג מיט וואַללפּאַפּער</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>וויירליס</item> 
+  </string-array>
+  <string name="hello_blank_fragment">העלא פּוסט פראַגמענט</string>
+  <string name="apply">צולייגן</string>
+  <string name="applied">געווענדט</string>
+  <string name="always_on_display_edge_lighting">שטענדיק אויף אַרויסווייַזן ברעג לייטינג</string>
+  <string name="confirm_exit">באַשטעטיקן אַרויסגאַנג?</string>
+  <string name="yes">יא</string>
+  <string name="no">ניין</string>
+  <string name="wallpapers">וואַללפּאַפּערס</string>
+  <string name="ok">אקעי</string>
+  <string name="what_would_you_like_to_do">וואָס וואָלט איר ווי צו טאָן?</string>
+  <string name="set_home_screen">שטעלן היים פאַרשטעלן</string>
+  <string name="set_lock_screen">שטעלן לאַק סקרין</string>
+  <string name="set_both_screens">שטעלן ביידע סקרינז</string>
+  <string name="adjust_screen">סטרויערן סקרין</string>
+  <string name="please_wait_ad_is_loading">ביטע וואַרטן, אַד איז לאָודינג</string>
+  <string name="home">היים</string>
+  <string name="edge_lighting_border">עדזש ליגהטינג באָרדער</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">ברייטאַן אַרויף דורך סטאַנינג עדזשאַז</string>
+  <string name="live_wallpapers">לעבן וואַללפּאַפּערס</string>
+  <string name="stunning_wallpapers">סטאַנינג וואַללפּאַפּערס</string>
+  <string name="experience_by_interactive_wallpapers">דערפאַרונג מיט ינטעראַקטיווע וואַללפּאַפּערס</string>
+  <string name="dismiss">אָפּזאָגן</string>
+  <string name="language">שפּראַך</string>
+  <string name="privacy_policy">פּריוואַטקייט פּאָליטיק</string>
+  <string name="rate_us">קורס אונדז</string>
+  <string name="more_app">מער אַפּ</string>
+  <string name="exit">אַרויסגאַנג</string>
+  <string name="alert">פלינק</string>
+  <string name="warning">ווארענונג</string>
+  <string name="trending">טרענדינג</string>
+  <string name="applying_wallpaper">אַפּלייינג וואַללפּאַפּער</string>
+  <string name="wallpaper_applied">טאַפּעטן אַפּפּליעד</string>
+  <string name="accessibility_service_level_permission">אַקסעסאַביליטי סערוויס מדרגה דערלויבעניש:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">די אַקסעסאַביליטי דערלויבעניש ווי אַ האַרץ שטריך איז מוזן פֿאַר עדזש ליגהטינג צו אַרבעטן איבער אנדערע אַפּפּס און שלאָס פאַרשטעלן</string>
+  <string name="this_permission_can_be_granted_as_follow">דער דערלויבעניש קענען זיין געגעבן ווי גייט:</string>
+  <string name="go_to_settings">גיין צו סעטטינגס</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">אַקסעסאַביליטי> אינסטאַלירן אַפּפּס / באַדינונגס> עדזש לייטינג</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">אַקסעסאַביליטי> מער אראפקאפיע באַדינונגס> עדזש לייטינג</string>
+  <string name="grant_permission_now">געבן דערלויבעניש איצט?</string>
+  <string name="later">שפּעטער</string>
+  <string name="yes_now">יא, איצט</string>
+</resources>

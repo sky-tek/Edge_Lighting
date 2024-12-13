@@ -1,0 +1,18 @@
+
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/edgeFragment">
+
+
+    <fragment
+        android:id="@+id/edgeFragment"
+        android:name="com.skytek.edgelighting.activities.onboarding.fragments.EdgeFragment"
+        android:label="fragment_edge"
+        tools:layout="@layout/fragment_edge" />
+    <fragment
+        android:id="@+id/wallpaperFragment"
+        android:name="com.skytek.edgelighting.activities.onboarding.fragments.WallpaperFragment"
+        android:label="fragment_wallpaper2"
+        tools:layout="@layout/fragment_wallpaper2" />
+</navigation>

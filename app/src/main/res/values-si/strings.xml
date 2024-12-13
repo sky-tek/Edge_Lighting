@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">වෙනත් යෙදුම් මත පෙන්වන්න</string>
+  <string name="open_nav">සංචාලන ලාච්චුව විවෘත කරන්න</string>
+  <string name="close_nav">සංචාලන ලාච්චුව වසන්න</string>
+  <string name="show_while_charging">ආරෝපණය කරන අතරතුර පෙන්වන්න</string>
+  <string name="text_enable_wallpaper">Wallpaper සබල කරන්න</string>
+  <string name="number_of_colors">වර්ණ ගණන</string>
+  <string name="click_a_color_to_edit">සංස්කරණය කිරීමට වර්ණයක් ක්ලික් කරන්න</string>
+  <string name="mtrl_picker_confirm">හරි</string>
+  <string name="SelectLanguage">භාෂාව තෝරන්න</string>
+  <string name="text_cancel">අවලංගු කරන්න</string>
+  <string name="text_border_type">මායිම් වර්ගය</string>
+  <string name="text_animation_speed">සජීවිකරණ වේගය</string>
+  <string name="text_border_size">මායිම් ප්රමාණය</string>
+  <string name="text_radius_top">අරය මුදුන</string>
+  <string name="text_radius_bottom">අරය පතුලේ</string>
+  <string name="text_enable_display_notch">Notch සබල කරන්න</string>
+  <string name="text_notch_width_top">නොච් පළල මුදුන</string>
+  <string name="text_notch_width_bottom">නොච් පළල පතුලේ</string>
+  <string name="text_notch_height">නොච් උස</string>
+  <string name="text_notch_radius_top">නොච් අරය මුදුන</string>
+  <string name="text_notch_radius_bottom">නොච් අරය පතුලේ</string>
+  <string name="select_wallpaper">Wallpaper තෝරන්න</string>
+  <string name="allow_display_over_other_apps">වෙනත් යෙදුම් හරහා දර්ශනය වීමට ඉඩ දෙන්න</string>
+  <string name="continue_">දිගටම කරගෙන යන්න</string>
+  <string name="app_name_service">තිර උඩැතිරිය විවෘත කරන්න</string>
+  <string name="permission_request">අවසර ඉල්ලීම</string>
+  <string name="power_connected">බල කේබලය සම්බන්ධ කර ඇත</string>
+  <string name="power_disconnected">බල කේබලය විසන්ධි විය</string>
+  <string name="draw_over_cancelled">ඇඳීම් උඩැතිරි අවසරය තවම ලබා දී නැත. නැවත උත්සාහ කරන්න</string>
+  <string name="draw_over_granted">ඇඳීම් උඩැතිරි අවසර ඉල්ලීම ලබා දී ඇත</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">කරුණාකර රැඳී සිටින්න වෝල්පේපරය බාගැනීම…</string>
+  <string name="no_internet">අන්තර්ජාලය නැත</string>
+  <string name="to_use_this">මෙම විශේෂාංගය භාවිතා කිරීමට ප්‍රවේශ්‍යතා අවසරය අවශ්‍ය වේ</string>
+  <string name="draw_over_denied">ඇඳීම් උඩැතිරි අවසරය තවම ලබා දී නැත. නැවත උත්සාහ කරන්න</string>
+  <string name="no_internet_war">ඔබ නොබැඳිව සිටී කරුණාකර එජ් ලයිටින් බිතුපත් ලබා ගැනීමට ඔබේ අන්තර්ජාලය ක්‍රියාත්මක කරන්න.</string>
+  <string name="you_must">ඔබ \"Edge Lighting\" නිසි ලෙස ක්‍රියා කිරීමට \"Draw Over Other Apps\" අවසරය සබල කළ යුතුය.</string>
+  <string name="wallpaper_description">සජීවී_බිතුපත</string>
+  <string name="abstract_">වියුක්ත</string>
+  <string name="nature">ස්වභාවය</string>
+  <string name="neon">නියොන්</string>
+  <string name="quotes">උපුටා දැක්වීම්</string>
+  <string name="sunset">හිරු බැස යෑම</string>
+  <string name="top">ඉහළ</string>
+  <string name="text_name_notification">සේවාව ආරම්භ කරන්න</string>
+  <string name="No_topic_selected">මාතෘකාවක් තෝරා නැත</string>
+  <string name="Update_finish">යාවත්කාලීන නිමාව</string>
+  <string name="loading_ad">දැන්වීම පූරණය වේ</string>
+  <string name="low_battery">අඩු බැටරි එජ් ආලෝකය</string>
+  <string name="battery_one">බැටරි 1</string>
+  <string name="battery_two">බැටරි 2</string>
+  <string name="edge_service">ධාවන සේවාව</string>
+  <string name="wallpaper">බිතුපත</string>
+  <string name="magical_wallpaper">සජීවීව</string>
+  <string name="main_ongoing_download">පෙරදසුන ජනනය කිරීම</string>
+  <string name="permission_required">අවසරය අවශ්‍යයි</string>
+  <string name="title_onboarding_1">ප්‍රවේශ්‍යතා අවසරය</string>
+  <string name="description_onboarding_1">ප්‍රවේශ්‍යතාව මූලික ලක්ෂණයකි</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting වෙනත් යෙදුම් සහ අගුළු තිරය මත ක්‍රියා කිරීමට මූලික අංගයක් ලෙස ප්‍රවේශ්‍යතා අවසරය අනිවාර්ය වේ.</string>
+  <string name="title_onboarding_2">ප්‍රවේශ්‍යතා අවසරය</string>
+  <string name="description_onboarding_2">අවසරය පහත පරිදි ලබා දිය හැක: \n \n ප්‍රවේශ්‍යතාව > ස්ථාපිත යෙදුම්/සේවා > Edge Lighting \n හෝ \n ප්‍රවේශ්‍යතාව > තවත් බාගැනීම් සේවා > Edge Lighting</string>
+  <string name="title_onboarding_3">ලස්සන යෙදුම් කේත කරන්න</string>
+  <string name="description_onboarding_3">අපගේ මෙහෙවර වන්නේ ප්‍රයෝජනවත් සහ සියුම් යෙදුම් සෑදීමයි. විවෘත මූලාශ්‍ර දේවල් සමඟින් කාලය ඉතිරි කර ගැනීමට මිනිසුන්ට උපකාර කිරීමට අපි ප්‍රිය කරමු, නමුත් අපි අලුත් දේවල් නිර්මාණය කිරීමෙන් ජීවිතය පහසු කරමු. හොඳ කේතීකරණය!</string>
+  <string name="start_text_advice">මෙම යෙදුම දිගටම කරගෙන යාමෙන් ඔබ අපගේ භාවිත නියම සහ රහස්‍යතා ප්‍රතිපත්තියට එකඟ වේ</string>
+  <string name="start">ආරම්භ කරන්න</string>
+  <string name="skip">මඟ හරින්න</string>
+  <string name="finish">අවසන් කරන්න</string>
+  <string name="next">ඊළඟ</string>
+  <string name="back">ආපසු</string>
+  <string name="allow">ඉඩ දෙන්න</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">දාරවලට උඩින් දාර ආලෝකය පෙන්වන්න</string>
+  <string name="alert_Edge">අඩු බැටරි අනතුරු ඇඟවීම</string>
+  <string name="alert_Edge1">අඩු බැටරි අනතුරු ඇඟවීම සඳහා තැඹිලි දාර ආලෝකය</string>
+  <string name="warning_Edge">අඩු බැටරි අනතුරු ඇඟවීම</string>
+  <string name="warning_Edge1">ඉතා අඩු බැටරි අනතුරු ඇඟවීම සඳහා රතු දාර ආලෝකය</string>
+  <string name="notch_Edge">නොච්</string>
+  <string name="notch_Edge1">නොච් සමඟ දාර ආලෝකය සබල කරන්න</string>
+  <string name="wallpaper_Edge">බිතුපත</string>
+  <string name="wallpaper_Edge1">බිතුපත සමඟ දාර ආලෝකය</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>රැහැන් රහිත</item> 
+  </string-array>
+  <string name="hello_blank_fragment">හෙලෝ හිස් ඛණ්ඩනය</string>
+  <string name="apply">අයදුම් කරන්න</string>
+  <string name="applied">අයදුම් කළා</string>
+  <string name="always_on_display_edge_lighting">සෑම විටම සංදර්ශක දාර ආලෝකය මත</string>
+  <string name="confirm_exit">පිටවීම තහවුරු කරන්නද?</string>
+  <string name="yes">ඔව්</string>
+  <string name="no">නැත</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">හරි</string>
+  <string name="what_would_you_like_to_do">ඔබ කුමක් කිරීමට කැමතිද?</string>
+  <string name="set_home_screen">මුල් තිරය සකසන්න</string>
+  <string name="set_lock_screen">අගුළු තිරය සකසන්න</string>
+  <string name="set_both_screens">තිර දෙකම සකසන්න</string>
+  <string name="adjust_screen">තිරය ​​සකසන්න</string>
+  <string name="please_wait_ad_is_loading">කරුණාකර රැඳී සිටින්න, දැන්වීම පූරණය වේ</string>
+  <string name="home">නිවස</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">තවත් බලන්න</string>
+  <string name="brighten_up_by_stunning_edges">විස්මිත දාර මගින් දීප්තිමත් කරන්න</string>
+  <string name="live_wallpapers">සජීවී බිතුපත්</string>
+  <string name="stunning_wallpapers">සිත් ඇදගන්නාසුළු බිතුපත්</string>
+  <string name="experience_by_interactive_wallpapers">අන්තර්ක්‍රියාකාරී වෝල්පේපර්ස් මගින් අත්දැකීම්</string>
+  <string name="dismiss">අස් කරන්න</string>
+  <string name="language">භාෂාව</string>
+  <string name="privacy_policy">රහස්යතා ප්රතිපත්තිය</string>
+  <string name="rate_us">අපව ශ්‍රේණිගත කරන්න</string>
+  <string name="more_app">තවත් යෙදුම</string>
+  <string name="exit">පිටවීම</string>
+  <string name="alert">අනතුරු ඇඟවීම</string>
+  <string name="warning">අවවාදයයි</string>
+  <string name="trending">ප්රවණතා</string>
+  <string name="applying_wallpaper">Wallpaper යෙදීම</string>
+  <string name="wallpaper_applied">බිතුපත යොදන ලදී</string>
+  <string name="accessibility_service_level_permission">ප්‍රවේශ්‍යතා සේවා මට්ටමේ අවසරය:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting වෙනත් යෙදුම් සහ අගුළු තිරය මත ක්‍රියා කිරීමට මූලික අංගයක් ලෙස ප්‍රවේශ්‍යතා අවසරය අනිවාර්ය වේ.</string>
+  <string name="this_permission_can_be_granted_as_follow">මෙම අවසරය පහත පරිදි ලබා දිය හැක.</string>
+  <string name="go_to_settings">සැකසීම් වෙත යන්න</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ප්‍රවේශ්‍යතාව > ස්ථාපිත යෙදුම්/සේවා > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ප්‍රවේශ්‍යතාව > තවත් බාගැනීම් සේවා > Edge Lighting</string>
+  <string name="grant_permission_now">දැන් අවසර දෙනවද?</string>
+  <string name="later">පසුව</string>
+  <string name="yes_now">ඔව්, දැන්</string>
+</resources>

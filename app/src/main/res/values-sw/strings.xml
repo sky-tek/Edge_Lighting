@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Onyesha juu ya programu zingine</string>
+  <string name="open_nav">Fungua Droo ya Kusogeza</string>
+  <string name="close_nav">Funga Droo ya Kuelekeza</string>
+  <string name="show_while_charging">Onyesha wakati inachaji</string>
+  <string name="text_enable_wallpaper">Washa Mandhari</string>
+  <string name="number_of_colors">Idadi ya Rangi</string>
+  <string name="click_a_color_to_edit">Bofya rangi ili kuhariri</string>
+  <string name="mtrl_picker_confirm">Sawa</string>
+  <string name="SelectLanguage">Chagua Lugha</string>
+  <string name="text_cancel">Ghairi</string>
+  <string name="text_border_type">Aina ya mpaka</string>
+  <string name="text_animation_speed">Kasi ya uhuishaji</string>
+  <string name="text_border_size">Ukubwa wa mpaka</string>
+  <string name="text_radius_top">Radius juu</string>
+  <string name="text_radius_bottom">Radius chini</string>
+  <string name="text_enable_display_notch">Washa Notch</string>
+  <string name="text_notch_width_top">Juu ya upana wa noti</string>
+  <string name="text_notch_width_bottom">Upana wa noti chini</string>
+  <string name="text_notch_height">Urefu wa noti</string>
+  <string name="text_notch_radius_top">Notch radius juu</string>
+  <string name="text_notch_radius_bottom">Notch radius chini</string>
+  <string name="select_wallpaper">Chagua Karatasi</string>
+  <string name="allow_display_over_other_apps">Ruhusu kuonyesha juu ya programu zingine</string>
+  <string name="continue_">Endelea</string>
+  <string name="app_name_service">Fungua uwekaji wa skrini</string>
+  <string name="permission_request">Ombi la Ruhusa</string>
+  <string name="power_connected">Kebo ya Nguvu Imeunganishwa</string>
+  <string name="power_disconnected">Kebo ya Nguvu Imetenganishwa</string>
+  <string name="draw_over_cancelled">Ruhusa ya kuchora haijatolewa bado. Jaribu tena</string>
+  <string name="draw_over_granted">Ombi la ruhusa za kuchora limekubaliwa</string>
+  <string name="app_name">Mwangaza wa makali</string>
+  <string name="please_wait">Tafadhali subiri Kupakua Mandhari...</string>
+  <string name="no_internet">Hakuna mtandao</string>
+  <string name="to_use_this">Ili kutumia kipengele hiki Ruhusa ya Ufikivu inahitajika</string>
+  <string name="draw_over_denied">Ruhusa ya kuchora haijatolewa bado. Jaribu tena</string>
+  <string name="no_internet_war">Uko nje ya mtandao tafadhali washa intaneti yako ili upate mandhari zinazomulika.</string>
+  <string name="you_must">Ni lazima uwashe ruhusa ya \"Chora Juu ya Programu Zingine\" ili \"Edge Lighting\" ifanye kazi vizuri.</string>
+  <string name="wallpaper_description">Karatasi_ya_hai</string>
+  <string name="abstract_">Muhtasari</string>
+  <string name="nature">Asili</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Nukuu</string>
+  <string name="sunset">Machweo</string>
+  <string name="top">Juu</string>
+  <string name="text_name_notification">Anza huduma</string>
+  <string name="No_topic_selected">Hakuna mada iliyochaguliwa</string>
+  <string name="Update_finish">Mwisho wa kusasisha</string>
+  <string name="loading_ad">Inapakia Tangazo</string>
+  <string name="low_battery">Mwangaza wa Kingo ya Betri ya Chini</string>
+  <string name="battery_one">Betri 1</string>
+  <string name="battery_two">Betri 2</string>
+  <string name="edge_service">Huduma ya kukimbia</string>
+  <string name="wallpaper">Ukuta</string>
+  <string name="magical_wallpaper">Ishi</string>
+  <string name="main_ongoing_download">Inazalisha Onyesho la Kuchungulia</string>
+  <string name="permission_required">Ruhusa Inahitajika</string>
+  <string name="title_onboarding_1">Ruhusa ya Ufikiaji</string>
+  <string name="description_onboarding_1">Ufikiaji ni kipengele cha msingi</string>
+  <string name="string_text_onboarding_complete_description">Ruhusa ya Ufikivu kama kipengele kikuu ni lazima kwa Edge Lighting kufanya kazi juu ya programu nyingine na kufunga skrini</string>
+  <string name="title_onboarding_2">Ruhusa ya Ufikiaji</string>
+  <string name="description_onboarding_2">Ruhusa inaweza kutolewa kama ifuatavyo: \n \n Ufikivu > Programu/Huduma Zilizosakinishwa > Mwangaza wa Kingo \n AU \n Ufikivu > Huduma Zaidi za Upakuaji > Mwangaza wa Edge</string>
+  <string name="title_onboarding_3">Rekodi programu nzuri</string>
+  <string name="description_onboarding_3">Dhamira yetu ni kutengeneza programu muhimu na za hila. Tunapenda kuwasaidia watu kuokoa muda kwa kutumia programu huria, lakini pia tunarahisisha maisha kwa kuunda mambo mapya. Usimbaji Mzuri!</string>
+  <string name="start_text_advice">Kwa kuendelea na ombi hili unakubali Sheria na Masharti yetu na Sera ya Faragha</string>
+  <string name="start">Anza</string>
+  <string name="skip">Ruka</string>
+  <string name="finish">Maliza</string>
+  <string name="next">Inayofuata</string>
+  <string name="back">Nyuma</string>
+  <string name="allow">Ruhusu</string>
+  <string name="slider_Edge">Mwangaza wa makali</string>
+  <string name="slider_Edge1">Onyesha mwangaza wa ukingo juu ya Kingo</string>
+  <string name="alert_Edge">Tahadhari ya Chaji ya Betri</string>
+  <string name="alert_Edge1">Mwangaza wa ukingo wa rangi ya chungwa kwa arifa ya chini ya betri</string>
+  <string name="warning_Edge">Onyo la Betri ya Chini</string>
+  <string name="warning_Edge1">Mwangaza wa ukingo nyekundu kwa onyo la betri ya chini sana</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Washa mwangaza wa ukingo na notch</string>
+  <string name="wallpaper_Edge">Ukuta</string>
+  <string name="wallpaper_Edge1">Mwangaza wa ukingo na Karatasi</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Habari kipande tupu</string>
+  <string name="apply">Omba</string>
+  <string name="applied">Imetumika</string>
+  <string name="always_on_display_edge_lighting">Kila mara kwenye mwangaza wa ukingo wa onyesho</string>
+  <string name="confirm_exit">Thibitisha Kutoka ?</string>
+  <string name="yes">Ndiyo</string>
+  <string name="no">Hapana</string>
+  <string name="wallpapers">Mandhari</string>
+  <string name="ok">Sawa</string>
+  <string name="what_would_you_like_to_do">Je, ungependa kufanya nini?</string>
+  <string name="set_home_screen">Weka Skrini ya Nyumbani</string>
+  <string name="set_lock_screen">Weka Lock Screen</string>
+  <string name="set_both_screens">Weka Skrini Zote Mbili</string>
+  <string name="adjust_screen">Rekebisha Skrini</string>
+  <string name="please_wait_ad_is_loading">Tafadhali subiri, tangazo linapakia</string>
+  <string name="home">Nyumbani</string>
+  <string name="edge_lighting_border">Mpaka wa Mwangaza</string>
+  <string name="view_more">Tazama Zaidi</string>
+  <string name="brighten_up_by_stunning_edges">Angaza kwa Mipaka ya kushangaza</string>
+  <string name="live_wallpapers">Mandhari Hai</string>
+  <string name="stunning_wallpapers">Mandhari ya Kustaajabisha</string>
+  <string name="experience_by_interactive_wallpapers">Uzoefu kwa Mandhari Zinazoingiliana</string>
+  <string name="dismiss">Ondoa</string>
+  <string name="language">Lugha</string>
+  <string name="privacy_policy">Sera ya Faragha</string>
+  <string name="rate_us">Tukadirie</string>
+  <string name="more_app">Programu Zaidi</string>
+  <string name="exit">Utgång</string>
+  <string name="alert">Tahadhari</string>
+  <string name="warning">Onyo</string>
+  <string name="trending">Zinazovuma</string>
+  <string name="applying_wallpaper">Inaweka Karatasi</string>
+  <string name="wallpaper_applied">Ukuta Umetumika</string>
+  <string name="accessibility_service_level_permission">Ruhusa ya Kiwango cha Huduma ya Ufikivu:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ruhusa ya Ufikivu kama kipengele kikuu ni lazima kwa Edge Lighting kufanya kazi juu ya programu nyingine na kufunga skrini</string>
+  <string name="this_permission_can_be_granted_as_follow">Ruhusa hii inaweza kutolewa kama ifuatavyo:</string>
+  <string name="go_to_settings">Nenda kwa Mipangilio</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ufikivu > Programu/Huduma Zilizosakinishwa > Mwangaza wa Kingo</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ufikivu > Huduma Zaidi za Upakuaji > Mwangaza wa Edge</string>
+  <string name="grant_permission_now">Ungependa Kutoa Ruhusa Sasa?</string>
+  <string name="later">Baadaye</string>
+  <string name="yes_now">Ndiyo, sasa</string>
+</resources>

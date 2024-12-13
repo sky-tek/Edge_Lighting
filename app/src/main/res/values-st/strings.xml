@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Hlahisa holim\'a lisebelisoa tse ling</string>
+  <string name="open_nav">Bula Drawer ea ho Tsamaisa</string>
+  <string name="close_nav">Koala Navigation Drawer</string>
+  <string name="show_while_charging">Hlahisa ha o ntse o tjhaja</string>
+  <string name="text_enable_wallpaper">Numella Wallpaper</string>
+  <string name="number_of_colors">Palo ea Mebala</string>
+  <string name="click_a_color_to_edit">Tobetsa \'mala ho hlophisa</string>
+  <string name="mtrl_picker_confirm">HO LOKILE</string>
+  <string name="SelectLanguage">Kgetha Puo</string>
+  <string name="text_cancel">Hlakola</string>
+  <string name="text_border_type">Mofuta oa moeli</string>
+  <string name="text_animation_speed">Lebelo la animation</string>
+  <string name="text_border_size">Boholo ba moeli</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radius tlase</string>
+  <string name="text_enable_display_notch">Lumella Notch</string>
+  <string name="text_notch_width_top">Notch bophara holimo</string>
+  <string name="text_notch_width_bottom">Notch bophara tlase</string>
+  <string name="text_notch_height">Bophahamo ba notch</string>
+  <string name="text_notch_radius_top">Notch radius top</string>
+  <string name="text_notch_radius_bottom">Notch radius tlase</string>
+  <string name="select_wallpaper">Kgetha Wallpaper</string>
+  <string name="allow_display_over_other_apps">Dumella pontsho ho diapp tse ding</string>
+  <string name="continue_">Tsoela pele</string>
+  <string name="app_name_service">Bula skrine e koahelang</string>
+  <string name="permission_request">Kopo ea Tumello</string>
+  <string name="power_connected">Thapo ea Motlakase e Hoketsoe</string>
+  <string name="power_disconnected">Thapo ea Motlakase e Khaotsoe</string>
+  <string name="draw_over_cancelled">Tumello ea ho hula ka holimo ha e so fanoe. Leka hape</string>
+  <string name="draw_over_granted">Kopo ea tumello ea ho taka e fanoe</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Ka kopo ema ho Khoasolla Wallpaper...</string>
+  <string name="no_internet">Ha ho marang-rang</string>
+  <string name="to_use_this">Ho sebelisa tšobotsi ena ho hlokahala Tumello ea Phihlello</string>
+  <string name="draw_over_denied">Tumello ea ho hula ka holimo ha e so fanoe. Leka hape</string>
+  <string name="no_internet_war">Ha u inthaneteng, ka kopo, bulela marang-rang a hau ho fumana liwallpaper tse khanyang.</string>
+  <string name="you_must">U tlameha ho lumella tumello ea \"Draw Over Other Apps\" hore \"Edge Lighting\" e sebetse hantle.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Kakaretso</string>
+  <string name="nature">Tlhaho</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Mantsoe a qotsitsoeng</string>
+  <string name="sunset">Letsatsi le likela</string>
+  <string name="top">Holimo</string>
+  <string name="text_name_notification">Qala tšebeletso</string>
+  <string name="No_topic_selected">Ha ho sehlooho se khethiloeng</string>
+  <string name="Update_finish">Qetello ea ho ntlafatsa</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Mabone a Tlase a Battery Edge</string>
+  <string name="battery_one">Betri 1</string>
+  <string name="battery_two">Betri 2</string>
+  <string name="edge_service">Tšebeletso ea ho matha</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Phela</string>
+  <string name="main_ongoing_download">E Hlahisa Preview</string>
+  <string name="permission_required">Ho Hlokahala Tumello</string>
+  <string name="title_onboarding_1">Tumello ea phihlello</string>
+  <string name="description_onboarding_1">Ho fihlella ke karolo ea mantlha</string>
+  <string name="string_text_onboarding_complete_description">Tumello ea phihlello e le karolo ea mantlha e tlameha hore Edge Lighting e sebetse ho feta lits\'ebetso tse ling le senotlolo sa senotlolo</string>
+  <string name="title_onboarding_2">Tumello ea phihlello</string>
+  <string name="description_onboarding_2">Tumello e ka fanoa ka tsela e latelang: \n \n Ho fihlella > Lisebelisoa/Litšebeletso tse kentsoeng > Edge Lighting \n KAPA \n Ho fihlella > Litšebeletso tse ling tsa ho jarolla > Edge Lighting</string>
+  <string name="title_onboarding_3">Khoutu lisebelisoa tse ntle</string>
+  <string name="description_onboarding_3">Sepheo sa rona ke ho etsa lisebelisoa tse sebetsang le tse poteletseng. Re rata ho thusa batho ho boloka nako ka lintho tse bulehileng, empa hape re nolofatsa bophelo ka ho theha lintho tse ncha. Coding e ntle!</string>
+  <string name="start_text_advice">Ka ho tsoela pele ka kopo ena o lumellana le Melao ea Ts\'ebeliso le Leano la Lekunutu</string>
+  <string name="start">Qala</string>
+  <string name="skip">Tlola</string>
+  <string name="finish">Qetella</string>
+  <string name="next">E \'ngoe</string>
+  <string name="back">Morao</string>
+  <string name="allow">Lumella</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Hlahisa mabone a bohale holim\'a Edges</string>
+  <string name="alert_Edge">Tlhokomeliso ea Battery e Tlase</string>
+  <string name="alert_Edge1">Mabone a Orange bakeng sa tlhokomeliso ea betri e tlase</string>
+  <string name="warning_Edge">Tlhokomeliso ea Battery e Tlase</string>
+  <string name="warning_Edge1">Mabone a khubelu bakeng sa temoso ea betri e tlase haholo</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Lumella mabone a mahlakoreng ka notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Lebone le khantšang ka Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>Waelese</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Lumela sekhechana se se nang letho</string>
+  <string name="apply">Etsa kopo</string>
+  <string name="applied">E sebelisitsoe</string>
+  <string name="always_on_display_edge_lighting">E lula e khantša ka lehlakoreng le leng</string>
+  <string name="confirm_exit">Netefatsa ho Tsoa ?</string>
+  <string name="yes">Ee</string>
+  <string name="no">Che</string>
+  <string name="wallpapers">Wallpaper</string>
+  <string name="ok">Ho lokile</string>
+  <string name="what_would_you_like_to_do">U ka rata ho etsa eng?</string>
+  <string name="set_home_screen">Seta Skrine sa Lehae</string>
+  <string name="set_lock_screen">Beha Lock Screen</string>
+  <string name="set_both_screens">Beha Lits\'oants\'o ka Bobeli</string>
+  <string name="adjust_screen">Fetola Screen</string>
+  <string name="please_wait_ad_is_loading">Ka kopo, ema, papatso ea qala</string>
+  <string name="home">Lehae</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Sheba Tse ling</string>
+  <string name="brighten_up_by_stunning_edges">E khantšitsoe ke li-Edges tse makatsang</string>
+  <string name="live_wallpapers">Live Wallpaper</string>
+  <string name="stunning_wallpapers">Wallpaper e makatsang</string>
+  <string name="experience_by_interactive_wallpapers">Boiphihlelo ka Interactive Wallpapers</string>
+  <string name="dismiss">Hlakola</string>
+  <string name="language">Puo</string>
+  <string name="privacy_policy">Leano la lekunutu</string>
+  <string name="rate_us">Reka Re</string>
+  <string name="more_app">App e eketsehileng</string>
+  <string name="exit">Etsoa</string>
+  <string name="alert">Tlhokomeliso</string>
+  <string name="warning">Tlhokomediso</string>
+  <string name="trending">Tse tumileng</string>
+  <string name="applying_wallpaper">Ho sebelisa Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper e kentsoe</string>
+  <string name="accessibility_service_level_permission">Tumello ya Boemo ba Tshebeletso ya Phihlello:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Tumello ea phihlello e le karolo ea mantlha e tlameha hore Edge Lighting e sebetse ho feta lits\'ebetso tse ling le senotlolo sa senotlolo</string>
+  <string name="this_permission_can_be_granted_as_follow">Tumello ena e ka fanoa ka tsela e latelang:</string>
+  <string name="go_to_settings">Eya ho Litlhophiso</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Phihlello > Lisebelisoa/Litšebeletso tse kentsoeng > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ho fihlella > Litšebeletso tse ling tsa ho jarolla > Edge Lighting</string>
+  <string name="grant_permission_now">Fana ka Tumello Hona Joale?</string>
+  <string name="later">Hamorao</string>
+  <string name="yes_now">E, joale</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">અન્ય એપ્લિકેશનો પર દર્શાવો</string>
+  <string name="open_nav">નેવિગેશન ડ્રોઅર ખોલો</string>
+  <string name="close_nav">નેવિગેશન ડ્રોઅર બંધ કરો</string>
+  <string name="show_while_charging">ચાર્જ કરતી વખતે બતાવો</string>
+  <string name="text_enable_wallpaper">વૉલપેપર સક્ષમ કરો</string>
+  <string name="number_of_colors">રંગોની સંખ્યા</string>
+  <string name="click_a_color_to_edit">ફેરફાર કરવા માટે રંગ પર ક્લિક કરો</string>
+  <string name="mtrl_picker_confirm">ઠીક છે</string>
+  <string name="SelectLanguage">ભાષા પસંદ કરો</string>
+  <string name="text_cancel">રદ કરો</string>
+  <string name="text_border_type">સરહદ પ્રકાર</string>
+  <string name="text_animation_speed">એનિમેશન ઝડપ</string>
+  <string name="text_border_size">સરહદનું કદ</string>
+  <string name="text_radius_top">ત્રિજ્યા ટોચ</string>
+  <string name="text_radius_bottom">ત્રિજ્યા તળિયે</string>
+  <string name="text_enable_display_notch">નોચ સક્ષમ કરો</string>
+  <string name="text_notch_width_top">નોચ પહોળાઈ ટોચ</string>
+  <string name="text_notch_width_bottom">ખાંચ પહોળાઈ નીચે</string>
+  <string name="text_notch_height">ઉત્તમ ઊંચાઈ</string>
+  <string name="text_notch_radius_top">નોચ ત્રિજ્યા ટોચ</string>
+  <string name="text_notch_radius_bottom">નોચ ત્રિજ્યા તળિયે</string>
+  <string name="select_wallpaper">વૉલપેપર પસંદ કરો</string>
+  <string name="allow_display_over_other_apps">અન્ય એપ્લિકેશનો પર પ્રદર્શનની મંજૂરી આપો</string>
+  <string name="continue_">ચાલુ રાખો</string>
+  <string name="app_name_service">સ્ક્રીન ઓવરલે ખોલો</string>
+  <string name="permission_request">પરવાનગી વિનંતી</string>
+  <string name="power_connected">પાવર કેબલ કનેક્ટેડ</string>
+  <string name="power_disconnected">પાવર કેબલ ડિસ્કનેક્ટ</string>
+  <string name="draw_over_cancelled">ડ્રો ઓવરલેની પરવાનગી હજુ સુધી આપવામાં આવી નથી. ફરી પ્રયાસ કરો</string>
+  <string name="draw_over_granted">ડ્રો ઓવરલે પરવાનગી વિનંતી મંજૂર</string>
+  <string name="app_name">એજ લાઇટિંગ</string>
+  <string name="please_wait">કૃપા કરીને વોલપેપર ડાઉનલોડ થવાની રાહ જુઓ...</string>
+  <string name="no_internet">ઇન્ટરનેટ નથી</string>
+  <string name="to_use_this">આ સુવિધાનો ઉપયોગ કરવા માટે ઍક્સેસિબિલિટી પરવાનગી જરૂરી છે</string>
+  <string name="draw_over_denied">ડ્રો ઓવરલેની પરવાનગી હજુ સુધી આપવામાં આવી નથી. ફરી પ્રયાસ કરો</string>
+  <string name="no_internet_war">તમે ઑફલાઇન છો, કૃપા કરીને એજ લાઇટિંગ વૉલપેપર્સ મેળવવા માટે તમારું ઇન્ટરનેટ ચાલુ કરો.</string>
+  <string name="you_must">\"એજ લાઇટિંગ\" યોગ્ય રીતે કાર્ય કરવા માટે તમારે \"ડ્રો ઓવર અન્ય એપ્લિકેશન્સ\" પરવાનગી સક્ષમ કરવી આવશ્યક છે.</string>
+  <string name="wallpaper_description">લાઇવ_વોલપેપર</string>
+  <string name="abstract_">અમૂર્ત</string>
+  <string name="nature">કુદરત</string>
+  <string name="neon">નિયોન</string>
+  <string name="quotes">અવતરણ</string>
+  <string name="sunset">સૂર્યાસ્ત</string>
+  <string name="top">ટોપ</string>
+  <string name="text_name_notification">સેવા શરૂ કરો</string>
+  <string name="No_topic_selected">કોઈ વિષય પસંદ કર્યો નથી</string>
+  <string name="Update_finish">અપડેટ સમાપ્ત</string>
+  <string name="loading_ad">જાહેરાત લોડ કરી રહ્યું છે</string>
+  <string name="low_battery">ઓછી બેટરી એજ લાઇટિંગ</string>
+  <string name="battery_one">બેટરી 1</string>
+  <string name="battery_two">બેટરી 2</string>
+  <string name="edge_service">સેવા ચાલી રહી છે</string>
+  <string name="wallpaper">વૉલપેપર</string>
+  <string name="magical_wallpaper">જીવંત</string>
+  <string name="main_ongoing_download">પૂર્વાવલોકન જનરેટ કરી રહ્યું છે</string>
+  <string name="permission_required">પરવાનગી જરૂરી છે</string>
+  <string name="title_onboarding_1">ઍક્સેસિબિલિટી પરવાનગી</string>
+  <string name="description_onboarding_1">સુલભતા એ મુખ્ય લક્ષણ છે</string>
+  <string name="string_text_onboarding_complete_description">એજ લાઇટિંગ માટે અન્ય એપ્સ અને લૉક સ્ક્રીન પર કામ કરવા માટે મુખ્ય સુવિધા તરીકે ઍક્સેસિબિલિટી પરવાનગી આવશ્યક છે</string>
+  <string name="title_onboarding_2">ઍક્સેસિબિલિટી પરવાનગી</string>
+  <string name="description_onboarding_2">પરવાનગી નીચે પ્રમાણે આપી શકાય છે: \n \n ઍક્સેસિબિલિટી > ઇન્સ્ટોલ કરેલી એપ્સ/સેવાઓ > એજ લાઇટિંગ \n અથવા \n ઍક્સેસિબિલિટી > વધુ ડાઉનલોડ સેવાઓ > એજ લાઇટિંગ</string>
+  <string name="title_onboarding_3">સુંદર એપ્લિકેશનો કોડ કરો</string>
+  <string name="description_onboarding_3">અમારું મિશન ઉપયોગી અને સૂક્ષ્મ એપ્લિકેશન્સ બનાવવાનું છે. અમે લોકોને ઓપન-સોર્સ સામગ્રી સાથે સમય બચાવવામાં મદદ કરવાનું પસંદ કરીએ છીએ, પરંતુ અમે નવી વસ્તુઓ બનાવીને જીવનને સરળ બનાવીએ છીએ. સારું કોડિંગ!</string>
+  <string name="start_text_advice">આ એપ્લિકેશન ચાલુ રાખીને તમે અમારી ઉપયોગની શરતો અને ગોપનીયતા નીતિ સાથે સંમત થાઓ છો</string>
+  <string name="start">શરૂ કરો</string>
+  <string name="skip">છોડો</string>
+  <string name="finish">સમાપ્ત કરો</string>
+  <string name="next">આગળ</string>
+  <string name="back">પાછળ</string>
+  <string name="allow">પરવાનગી આપે છે</string>
+  <string name="slider_Edge">એજ લાઇટિંગ</string>
+  <string name="slider_Edge1">કિનારીઓ પર એજ લાઇટિંગ દર્શાવો</string>
+  <string name="alert_Edge">ઓછી બેટરી ચેતવણી</string>
+  <string name="alert_Edge1">ઓછી બેટરી ચેતવણી માટે ઓરેન્જ એજ લાઇટિંગ</string>
+  <string name="warning_Edge">ઓછી બેટરીની ચેતવણી</string>
+  <string name="warning_Edge1">ખૂબ ઓછી બેટરી ચેતવણી માટે લાલ ધારની લાઇટિંગ</string>
+  <string name="notch_Edge">નોચ</string>
+  <string name="notch_Edge1">નોચ સાથે એજ લાઇટિંગ સક્ષમ કરો</string>
+  <string name="wallpaper_Edge">વૉલપેપર</string>
+  <string name="wallpaper_Edge1">વૉલપેપર સાથે એજ લાઇટિંગ</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>એસી</item>  
+    <item>યુએસબી</item>  
+    <item>વાયરલેસ</item> 
+  </string-array>
+  <string name="hello_blank_fragment">હેલો ખાલી ટુકડો</string>
+  <string name="apply">અરજી કરો</string>
+  <string name="applied">લાગુ</string>
+  <string name="always_on_display_edge_lighting">હંમેશા ડિસ્પ્લે એજ લાઇટિંગ પર</string>
+  <string name="confirm_exit">બહાર નીકળવાની પુષ્ટિ કરો?</string>
+  <string name="yes">હા</string>
+  <string name="no">ના</string>
+  <string name="wallpapers">વૉલપેપર્સ</string>
+  <string name="ok">ઓકે</string>
+  <string name="what_would_you_like_to_do">તમે શું કરવા માંગો છો?</string>
+  <string name="set_home_screen">હોમ સ્ક્રીન સેટ કરો</string>
+  <string name="set_lock_screen">લૉક સ્ક્રીન સેટ કરો</string>
+  <string name="set_both_screens">બંને સ્ક્રીન સેટ કરો</string>
+  <string name="adjust_screen">સ્ક્રીન સમાયોજિત કરો</string>
+  <string name="please_wait_ad_is_loading">કૃપા કરીને રાહ જુઓ, જાહેરાત લોડ થઈ રહી છે</string>
+  <string name="home">ઘર</string>
+  <string name="edge_lighting_border">એજ લાઇટિંગ બોર્ડર</string>
+  <string name="view_more">વધુ જુઓ</string>
+  <string name="brighten_up_by_stunning_edges">અદભૂત કિનારીઓ દ્વારા તેજસ્વી કરો</string>
+  <string name="live_wallpapers">લાઇવ વૉલપેપર્સ</string>
+  <string name="stunning_wallpapers">અદભૂત વૉલપેપર્સ</string>
+  <string name="experience_by_interactive_wallpapers">ઇન્ટરેક્ટિવ વૉલપેપર્સ દ્વારા અનુભવ</string>
+  <string name="dismiss">કાઢી નાખો</string>
+  <string name="language">ભાષા</string>
+  <string name="privacy_policy">ગોપનીયતા નીતિ</string>
+  <string name="rate_us">અમને રેટ કરો</string>
+  <string name="more_app">વધુ એપ્લિકેશન</string>
+  <string name="exit">બહાર નીકળો</string>
+  <string name="alert">ચેતવણી</string>
+  <string name="warning">ચેતવણી</string>
+  <string name="trending">વલણમાં છે</string>
+  <string name="applying_wallpaper">વૉલપેપર લાગુ કરી રહ્યાં છીએ</string>
+  <string name="wallpaper_applied">વૉલપેપર લાગુ</string>
+  <string name="accessibility_service_level_permission">ઍક્સેસિબિલિટી સેવા સ્તરની પરવાનગી:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">એજ લાઇટિંગ માટે અન્ય એપ્સ અને લૉક સ્ક્રીન પર કામ કરવા માટે મુખ્ય સુવિધા તરીકે ઍક્સેસિબિલિટી પરવાનગી આવશ્યક છે</string>
+  <string name="this_permission_can_be_granted_as_follow">આ પરવાનગી નીચે મુજબ આપી શકાય છે:</string>
+  <string name="go_to_settings">સેટિંગ્સ પર જાઓ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ઍક્સેસિબિલિટી > ઇન્સ્ટોલ કરેલ એપ્સ/સેવાઓ > એજ લાઇટિંગ</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ઍક્સેસિબિલિટી > વધુ ડાઉનલોડ સેવાઓ > એજ લાઇટિંગ</string>
+  <string name="grant_permission_now">હવે પરવાનગી આપો?</string>
+  <string name="later">બાદમાં</string>
+  <string name="yes_now">હા, હવે</string>
+</resources>

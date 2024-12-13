@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Birta yfir önnur forrit</string>
+  <string name="open_nav">Opnaðu leiðsagnarskúffu</string>
+  <string name="close_nav">Lokaðu leiðsöguskúffunni</string>
+  <string name="show_while_charging">Sýna meðan á hleðslu stendur</string>
+  <string name="text_enable_wallpaper">Virkja veggfóður</string>
+  <string name="number_of_colors">Fjöldi lita</string>
+  <string name="click_a_color_to_edit">Smelltu á lit til að breyta</string>
+  <string name="mtrl_picker_confirm">Allt í lagi</string>
+  <string name="SelectLanguage">Veldu Tungumál</string>
+  <string name="text_cancel">Hætta við</string>
+  <string name="text_border_type">Tegund landamæra</string>
+  <string name="text_animation_speed">Hraða hreyfimynda</string>
+  <string name="text_border_size">Kantarstærð</string>
+  <string name="text_radius_top">Radíus efst</string>
+  <string name="text_radius_bottom">Radíus botn</string>
+  <string name="text_enable_display_notch">Virkja Notch</string>
+  <string name="text_notch_width_top">Hakbreidd toppur</string>
+  <string name="text_notch_width_bottom">Hakbreidd botn</string>
+  <string name="text_notch_height">Hakhæð</string>
+  <string name="text_notch_radius_top">Hálfradíus toppur</string>
+  <string name="text_notch_radius_bottom">Hakradíus botn</string>
+  <string name="select_wallpaper">Veldu Veggfóður</string>
+  <string name="allow_display_over_other_apps">Leyfa birtingu yfir önnur forrit</string>
+  <string name="continue_">Halda áfram</string>
+  <string name="app_name_service">Opnaðu skjáyfirlag</string>
+  <string name="permission_request">Leyfisbeiðni</string>
+  <string name="power_connected">Rafmagnssnúra tengdur</string>
+  <string name="power_disconnected">Rafmagnssnúra aftengd</string>
+  <string name="draw_over_cancelled">Teikningaryfirlagsheimild ekki enn veitt. Reyndu aftur</string>
+  <string name="draw_over_granted">Beiðni um heimildir fyrir teikniyfirlögn veitt</string>
+  <string name="app_name">Edge lýsing</string>
+  <string name="please_wait">Vinsamlegast bíddu Veggfóður Niðurhal...</string>
+  <string name="no_internet">Ekkert internet</string>
+  <string name="to_use_this">Til að nota þennan eiginleika þarf aðgengisleyfi</string>
+  <string name="draw_over_denied">Teikningaryfirlagsheimild ekki enn veitt. Reyndu aftur</string>
+  <string name="no_internet_war">Þú ert án nettengingar vinsamlega kveiktu á internetinu þínu til að fá veggfóður fyrir brúnljós.</string>
+  <string name="you_must">Þú verður að virkja „Draw Over Other Apps“ leyfi til að „Edge Lighting“ virki rétt.</string>
+  <string name="wallpaper_description">Lifandi_veggfóður</string>
+  <string name="abstract_">Ágrip</string>
+  <string name="nature">Náttúran</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Tilvitnanir</string>
+  <string name="sunset">Sólsetur</string>
+  <string name="top">Efst</string>
+  <string name="text_name_notification">Byrjaðu þjónustu</string>
+  <string name="No_topic_selected">Ekkert efni valið</string>
+  <string name="Update_finish">Uppfærsla klára</string>
+  <string name="loading_ad">Hleður auglýsingu</string>
+  <string name="low_battery">Lág rafhlaða brún lýsing</string>
+  <string name="battery_one">Rafhlaða 1</string>
+  <string name="battery_two">Rafhlaða 2</string>
+  <string name="edge_service">Hlaupaþjónusta</string>
+  <string name="wallpaper">Veggfóður</string>
+  <string name="magical_wallpaper">Lifandi</string>
+  <string name="main_ongoing_download">Búa til forskoðun</string>
+  <string name="permission_required">Leyfi krafist</string>
+  <string name="title_onboarding_1">Aðgengisleyfi</string>
+  <string name="description_onboarding_1">Aðgengi er kjarnaatriði</string>
+  <string name="string_text_onboarding_complete_description">Aðgengisheimildin sem kjarnaeiginleiki er nauðsynleg til að Edge Lighting virki yfir önnur forrit og læsiskjá</string>
+  <string name="title_onboarding_2">Aðgengisleyfi</string>
+  <string name="description_onboarding_2">Hægt er að veita leyfið sem hér segir: \n \n Aðgengi > Uppsett forrit/þjónusta > Edge Lighting \n EÐA \n Aðgengi > Fleiri niðurhalsþjónusta > Edge Lighting</string>
+  <string name="title_onboarding_3">Kóðaðu falleg öpp</string>
+  <string name="description_onboarding_3">Markmið okkar er að búa til gagnleg og fíngerð öpp. Við elskum að hjálpa fólki að spara tíma með opnum uppspretta efni, en við gerum líka lífið auðveldara með því að búa til nýja hluti. Góð erfðaskrá!</string>
+  <string name="start_text_advice">Með því að halda áfram á þessu forriti samþykkir þú notkunarskilmála okkar og persónuverndarstefnu</string>
+  <string name="start">Byrjaðu</string>
+  <string name="skip">Sleppa</string>
+  <string name="finish">Ljúktu</string>
+  <string name="next">Næst</string>
+  <string name="back">Til baka</string>
+  <string name="allow">Leyfa</string>
+  <string name="slider_Edge">Edge lýsing</string>
+  <string name="slider_Edge1">Sýna brúnalýsingu yfir brúnir</string>
+  <string name="alert_Edge">Viðvörun um lága rafhlöðu</string>
+  <string name="alert_Edge1">Appelsínugul brún lýsing fyrir viðvörun um litla rafhlöðu</string>
+  <string name="warning_Edge">Viðvörun um lága rafhlöðu</string>
+  <string name="warning_Edge1">Rauð brún lýsing fyrir viðvörun um mjög lága rafhlöðu</string>
+  <string name="notch_Edge">Hak</string>
+  <string name="notch_Edge1">Virkjaðu brúnalýsingu með hak</string>
+  <string name="wallpaper_Edge">Veggfóður</string>
+  <string name="wallpaper_Edge1">Kantlýsing með Veggfóður</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Þráðlaust</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Halló tómt brot</string>
+  <string name="apply">Sækja um</string>
+  <string name="applied">Beitt</string>
+  <string name="always_on_display_edge_lighting">Alltaf á skjánum brún lýsing</string>
+  <string name="confirm_exit">Staðfesta brottför?</string>
+  <string name="yes">Já</string>
+  <string name="no">Nei</string>
+  <string name="wallpapers">Veggfóður</string>
+  <string name="ok">Allt í lagi</string>
+  <string name="what_would_you_like_to_do">Hvað myndir þú vilja gera?</string>
+  <string name="set_home_screen">Stilltu heimaskjá</string>
+  <string name="set_lock_screen">Stilltu lásskjá</string>
+  <string name="set_both_screens">Stilltu báða skjái</string>
+  <string name="adjust_screen">Stilla skjáinn</string>
+  <string name="please_wait_ad_is_loading">Vinsamlegast bíddu, auglýsingin er að hlaðast</string>
+  <string name="home">Heim</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Skoða meira</string>
+  <string name="brighten_up_by_stunning_edges">Bjartaðu upp með töfrandi Edges</string>
+  <string name="live_wallpapers">Lifandi Veggfóður</string>
+  <string name="stunning_wallpapers">Töfrandi veggfóður</string>
+  <string name="experience_by_interactive_wallpapers">Upplifun af gagnvirku veggfóðri</string>
+  <string name="dismiss">Segja frá</string>
+  <string name="language">Tungumál</string>
+  <string name="privacy_policy">Persónuverndarstefna</string>
+  <string name="rate_us">Gefðu okkur einkunn</string>
+  <string name="more_app">Meira app</string>
+  <string name="exit">Hætta</string>
+  <string name="alert">Viðvörun</string>
+  <string name="warning">Viðvörun</string>
+  <string name="trending">Vinsælt</string>
+  <string name="applying_wallpaper">Sækja veggfóður</string>
+  <string name="wallpaper_applied">Veggfóður notað</string>
+  <string name="accessibility_service_level_permission">Leyfi fyrir aðgengisþjónustustig:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Aðgengisheimildin sem kjarnaeiginleiki er nauðsynleg til að Edge Lighting virki yfir önnur forrit og læsiskjá</string>
+  <string name="this_permission_can_be_granted_as_follow">Þetta leyfi er hægt að veita sem hér segir:</string>
+  <string name="go_to_settings">Farðu í Stillingar</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aðgengi > Uppsett forrit/þjónusta > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aðgengi > Fleiri niðurhalsþjónusta > Edge Lighting</string>
+  <string name="grant_permission_now">Veita leyfi núna?</string>
+  <string name="later">Seinna</string>
+  <string name="yes_now">Já, núna</string>
+</resources>

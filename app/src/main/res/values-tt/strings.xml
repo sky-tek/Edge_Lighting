@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Башка кушымталар өстендә күрсәтү</string>
+  <string name="open_nav">Ачык навигация тартмасы</string>
+  <string name="close_nav">Навигация тартмасын ябу</string>
+  <string name="show_while_charging">Зарядлаганда күрсәтегез</string>
+  <string name="text_enable_wallpaper">Обои кушу</string>
+  <string name="number_of_colors">Төсләр саны</string>
+  <string name="click_a_color_to_edit">Редакцияләү өчен төскә басыгыз</string>
+  <string name="mtrl_picker_confirm">Ярар</string>
+  <string name="SelectLanguage">Телне сайлагыз</string>
+  <string name="text_cancel">Баш тарту</string>
+  <string name="text_border_type">Чик төре</string>
+  <string name="text_animation_speed">Анимация тизлеге</string>
+  <string name="text_border_size">Чик зурлыгы</string>
+  <string name="text_radius_top">Радиус өсте</string>
+  <string name="text_radius_bottom">Радиус төбе</string>
+  <string name="text_enable_display_notch">Notch кушу</string>
+  <string name="text_notch_width_top">Киң киңлек</string>
+  <string name="text_notch_width_bottom">Түбән киңлек</string>
+  <string name="text_notch_height">Биеклек</string>
+  <string name="text_notch_radius_top">Радиусның өске өлеше</string>
+  <string name="text_notch_radius_bottom">Радиус төбе</string>
+  <string name="select_wallpaper">Обои сайлагыз</string>
+  <string name="allow_display_over_other_apps">Башка кушымталар өстендә күрсәтергә рөхсәт итегез</string>
+  <string name="continue_">Дәвам итегез</string>
+  <string name="app_name_service">Экранны каплау</string>
+  <string name="permission_request">Рөхсәт соравы</string>
+  <string name="power_connected">Электр кабель тоташтырылган</string>
+  <string name="power_disconnected">Электр кабель өзелгән</string>
+  <string name="draw_over_cancelled">Өстәмә рөхсәт сызыгыз әле бирелмәгән. Кабатлап карагыз</string>
+  <string name="draw_over_granted">Бирелгән рөхсәт соравын сызыгыз</string>
+  <string name="app_name">Кыр яктырту</string>
+  <string name="please_wait">Зинһар, обои йөкләүне көтегез ...</string>
+  <string name="no_internet">Интернет юк</string>
+  <string name="to_use_this">Бу функцияне куллану өчен рөхсәт кирәк</string>
+  <string name="draw_over_denied">Өстәмә рөхсәт сызыгыз әле бирелмәгән. Кабатлап карагыз</string>
+  <string name="no_internet_war">Сез оффлайн, зинһар, яктырту обои алу өчен интернетны кабызыгыз.</string>
+  <string name="you_must">\"Edge Lighting\" дөрес эшләсен өчен \"Башка кушымталарны сызыгыз\" рөхсәтен эшләргә тиеш.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Аннотация</string>
+  <string name="nature">Табигать</string>
+  <string name="neon">Неон</string>
+  <string name="quotes">Otesитаталар</string>
+  <string name="sunset">Кояш баеу</string>
+  <string name="top">.Гары</string>
+  <string name="text_name_notification">Хезмәтне башлау</string>
+  <string name="No_topic_selected">Тема сайланмады</string>
+  <string name="Update_finish">Яңарту</string>
+  <string name="loading_ad">Реклама йөкләү</string>
+  <string name="low_battery">Түбән батарея читен яктырту</string>
+  <string name="battery_one">Батарея 1</string>
+  <string name="battery_two">Батарея 2</string>
+  <string name="edge_service">Хезмәт күрсәтү</string>
+  <string name="wallpaper">Обои</string>
+  <string name="magical_wallpaper">Тере</string>
+  <string name="main_ongoing_download">Алдан карау</string>
+  <string name="permission_required">Рөхсәт кирәк</string>
+  <string name="title_onboarding_1">Рөхсәт</string>
+  <string name="description_onboarding_1">Мөмкинлек - төп үзенчәлек</string>
+  <string name="string_text_onboarding_complete_description">Төп функция буларак керү мөмкинлеге Edge Lighting өчен башка кушымталар өстендә эшләргә һәм экранны бикләргә тиеш</string>
+  <string name="title_onboarding_2">Рөхсәт</string>
+  <string name="description_onboarding_2">Рөхсәт түбәндәгечә бирелергә мөмкин: \n \n Уңайлык> Урнаштырылган кушымталар / хезмәтләр> Кыр яктырту \n Яисә \n мөмкинлек> Күбрәк йөкләү хезмәтләре> Кыр яктырту</string>
+  <string name="title_onboarding_3">Матур кушымталарны кодлагыз</string>
+  <string name="description_onboarding_3">Безнең миссия - файдалы һәм нечкә кушымталар ясау. Без кешеләргә ачык чыганаклар белән вакытны сакларга булышырга яратабыз, ләкин без яңа әйберләр ясап тормышны җиңеләйтәбез. Яхшы кодлау!</string>
+  <string name="start_text_advice">Бу кушымтаны дәвам итеп сез безнең Куллану шартларына һәм хосусыйлык политикасына ризасыз</string>
+  <string name="start">Башлау</string>
+  <string name="skip">Сикереп тор</string>
+  <string name="finish">Тәмам</string>
+  <string name="next">Киләсе</string>
+  <string name="back">Кире</string>
+  <string name="allow">Рөхсәт итегез</string>
+  <string name="slider_Edge">Кыр яктырту</string>
+  <string name="slider_Edge1">Кыр өстендә яктырту күрсәтегез</string>
+  <string name="alert_Edge">Түбән батарея турында хәбәр</string>
+  <string name="alert_Edge1">Аз батарея уяулыгы өчен кызгылт сары яктырту</string>
+  <string name="warning_Edge">Түбән батарея турында кисәтү</string>
+  <string name="warning_Edge1">Бик түбән батареяны кисәтү өчен кызыл кырлы яктырту</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Чыршы белән яктырту мөмкинлеген бирегез</string>
+  <string name="wallpaper_Edge">Обои</string>
+  <string name="wallpaper_Edge1">Обои белән кыр яктырту</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Чыбыксыз</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Исәнмесез буш фрагмент</string>
+  <string name="apply">Кулланыгыз</string>
+  <string name="applied">Кулланыла</string>
+  <string name="always_on_display_edge_lighting">Waysәрвакыт чит яктыртуда</string>
+  <string name="confirm_exit">Чыгышны раслыйсызмы?</string>
+  <string name="yes">Әйе</string>
+  <string name="no">.К</string>
+  <string name="wallpapers">Обои</string>
+  <string name="ok">Ярар</string>
+  <string name="what_would_you_like_to_do">Сез нәрсә эшләргә теләр идегез?</string>
+  <string name="set_home_screen">Өй экранын куегыз</string>
+  <string name="set_lock_screen">Блок экранын куегыз</string>
+  <string name="set_both_screens">Ике экранны да куегыз</string>
+  <string name="adjust_screen">Экранны көйләгез</string>
+  <string name="please_wait_ad_is_loading">Зинһар, көтегез, реклама йөкләнә</string>
+  <string name="home">Өй</string>
+  <string name="edge_lighting_border">Кыр яктырту чиге</string>
+  <string name="view_more">Күбрәк карау</string>
+  <string name="brighten_up_by_stunning_edges">Гаҗәп кырлар белән яктырт</string>
+  <string name="live_wallpapers">Тере обои</string>
+  <string name="stunning_wallpapers">Гаҗәп обойлар</string>
+  <string name="experience_by_interactive_wallpapers">Интерактив обои тәҗрибәсе</string>
+  <string name="dismiss">Эштән чыгару</string>
+  <string name="language">Тел</string>
+  <string name="privacy_policy">Хосусыйлык политикасы</string>
+  <string name="rate_us">Безне бәялә</string>
+  <string name="more_app">Күбрәк кушымта</string>
+  <string name="exit">Чыгу</string>
+  <string name="alert">Кисәтү</string>
+  <string name="warning">Кисәтү</string>
+  <string name="trending">Тренд</string>
+  <string name="applying_wallpaper">Обои куллану</string>
+  <string name="wallpaper_applied">Обои кулланыла</string>
+  <string name="accessibility_service_level_permission">Хезмәт күрсәтү дәрәҗәсе рөхсәте:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Төп функция буларак керү мөмкинлеге Edge Lighting өчен башка кушымталар өстендә эшләргә һәм экранны бикләргә тиеш</string>
+  <string name="this_permission_can_be_granted_as_follow">Бу рөхсәт түбәндәгечә бирелергә мөмкин:</string>
+  <string name="go_to_settings">Көйләүләргә керегез</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Уңайлык> урнаштырылган кушымталар / хезмәтләр> Кырый яктырту</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Уңайлык> Күбрәк йөкләү хезмәтләре> Кыр яктырту</string>
+  <string name="grant_permission_now">Грант рөхсәте хәзер?</string>
+  <string name="later">Соңрак</string>
+  <string name="yes_now">Әйе, хәзер</string>
+</resources>

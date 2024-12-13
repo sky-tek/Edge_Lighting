@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Taispeáin thar aipeanna eile</string>
+  <string name="open_nav">Tarraiceán Nascleanúna Oscailte</string>
+  <string name="close_nav">Dún Tarraiceán Nascleanúna</string>
+  <string name="show_while_charging">Taispeáin agus tú ag luchtú</string>
+  <string name="text_enable_wallpaper">Cumasaigh Cúlbhrat</string>
+  <string name="number_of_colors">Líon na Dathanna</string>
+  <string name="click_a_color_to_edit">Cliceáil ar dhath chun é a chur in eagar</string>
+  <string name="mtrl_picker_confirm">Ceart go leor</string>
+  <string name="SelectLanguage">Roghnaigh Teanga</string>
+  <string name="text_cancel">Cealaigh</string>
+  <string name="text_border_type">Cineál teorann</string>
+  <string name="text_animation_speed">Luas beochana</string>
+  <string name="text_border_size">Méid teorann</string>
+  <string name="text_radius_top">Barr ga</string>
+  <string name="text_radius_bottom">Bun ga</string>
+  <string name="text_enable_display_notch">Cumasaigh Notch</string>
+  <string name="text_notch_width_top">Barr leithead notch</string>
+  <string name="text_notch_width_bottom">Bun leithead an notch</string>
+  <string name="text_notch_height">Airde notch</string>
+  <string name="text_notch_radius_top">Barr ga notch</string>
+  <string name="text_notch_radius_bottom">Ga notch bun</string>
+  <string name="select_wallpaper">Roghnaigh Cúlbhrat</string>
+  <string name="allow_display_over_other_apps">Ceadaigh taispeáint thar aipeanna eile</string>
+  <string name="continue_">Lean ort</string>
+  <string name="app_name_service">Forleagan scáileáin oscailte</string>
+  <string name="permission_request">Iarratas ar Chead</string>
+  <string name="power_connected">Cábla Cumhachta Ceangailte</string>
+  <string name="power_disconnected">Cábla Cumhachta dícheangailte</string>
+  <string name="draw_over_cancelled">Níor tugadh cead forleagan tarraingthe fós. Bain triail eile as</string>
+  <string name="draw_over_granted">Deonaíodh iarratas ar chead forleagan tarraingthe</string>
+  <string name="app_name">Soilsiú Imeall</string>
+  <string name="please_wait">Fan le do thoil Cúlbhrat Íoslódáil...</string>
+  <string name="no_internet">Gan idirlíon</string>
+  <string name="to_use_this">Teastaíonn Cead Inrochtaineachta chun an ghné seo a úsáid</string>
+  <string name="draw_over_denied">Níor tugadh cead forleagan tarraingthe fós. Bain triail eile as</string>
+  <string name="no_internet_war">Tá tú as líne, le do thoil, cuir d’Idirlíon ar siúl chun cúlbhrataí soilsithe a fháil.</string>
+  <string name="you_must">Ní mór duit cead \"Tarraing Thar Aipeanna Eile\" a chumasú chun \"Edge Lighting\" a oibriú i gceart.</string>
+  <string name="wallpaper_description">Páipéar balla_beo</string>
+  <string name="abstract_">Teibí</string>
+  <string name="nature">Dúlra</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Sleachta</string>
+  <string name="sunset">Luí na gréine</string>
+  <string name="top">Barr</string>
+  <string name="text_name_notification">Tosaigh seirbhís</string>
+  <string name="No_topic_selected">Níor roghnaíodh aon ábhar</string>
+  <string name="Update_finish">Críochnú cothrom le dáta</string>
+  <string name="loading_ad">Fógraí á lódáil</string>
+  <string name="low_battery">Soilsiú Imeall Battery Íseal</string>
+  <string name="battery_one">Ceallraí 1</string>
+  <string name="battery_two">Ceallraí 2</string>
+  <string name="edge_service">Ag rith seirbhíse</string>
+  <string name="wallpaper">Cúlbhrat</string>
+  <string name="magical_wallpaper">Beo</string>
+  <string name="main_ongoing_download">Réamhamharc á Giniúint</string>
+  <string name="permission_required">Cead ag Teastáil</string>
+  <string name="title_onboarding_1">Cead Inrochtaineachta</string>
+  <string name="description_onboarding_1">Is gné lárnach í an inrochtaineacht</string>
+  <string name="string_text_onboarding_complete_description">Tá an Cead Inrochtaineachta mar ghné lárnach riachtanach chun go n-oibreoidh Edge Lighting thar aipeanna eile agus scáileán glasála</string>
+  <string name="title_onboarding_2">Cead Inrochtaineachta</string>
+  <string name="description_onboarding_2">Is féidir an Cead a dheonú mar seo a leanas: \n \n Inrochtaineacht > Aipeanna/Seirbhísí Suiteáilte > Soilsiú Imeall \n NÓ \n Inrochtaineacht > Tuilleadh Seirbhísí Íoslódála > Soilsiú Imeall</string>
+  <string name="title_onboarding_3">Cóid apps álainn</string>
+  <string name="description_onboarding_3">Is é ár misean aipeanna úsáideacha agus caolchúiseacha a dhéanamh. Is breá linn cabhrú le daoine am a shábháil le hábhair foinse oscailte, ach déanaimid an saol níos éasca freisin trí rudaí nua a chruthú. Códú maith!</string>
+  <string name="start_text_advice">Trí leanúint ar aghaidh leis an bhfeidhmchlár seo aontaíonn tú lenár dTéarmaí Úsáide agus lenár bPolasaí Príobháideachta</string>
+  <string name="start">Tosaigh</string>
+  <string name="skip">Scipeáil</string>
+  <string name="finish">Críochnaigh</string>
+  <string name="next">Ar aghaidh</string>
+  <string name="back">Ar ais</string>
+  <string name="allow">Ceadaigh</string>
+  <string name="slider_Edge">Soilsiú Imeall</string>
+  <string name="slider_Edge1">Taispeáin soilsiú imeall thar Edges</string>
+  <string name="alert_Edge">Foláireamh Íseal Battery</string>
+  <string name="alert_Edge1">Soilsiú imeall oráiste le haghaidh foláireamh ceallraí íseal</string>
+  <string name="warning_Edge">Rabhadh Battery Íseal</string>
+  <string name="warning_Edge1">Soilsiú imeall dearg le haghaidh rabhadh ceallraí an-íseal</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Cumasaigh soilsiú imeall le heag</string>
+  <string name="wallpaper_Edge">Cúlbhrat</string>
+  <string name="wallpaper_Edge1">Soilsiú imeall le Cúlbhrat</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Gan sreang</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Dia duit blúire bán</string>
+  <string name="apply">Cuir iarratas isteach</string>
+  <string name="applied">Fheidhmeach</string>
+  <string name="always_on_display_edge_lighting">Soilsiú imeall taispeána i gcónaí</string>
+  <string name="confirm_exit">Deimhnigh Scoir?</string>
+  <string name="yes">Tá</string>
+  <string name="no">Níl</string>
+  <string name="wallpapers">Cúlbhrat</string>
+  <string name="ok">Ceart go leor</string>
+  <string name="what_would_you_like_to_do">Cad ba mhaith leat a dhéanamh?</string>
+  <string name="set_home_screen">Socraigh Scáileán Baile</string>
+  <string name="set_lock_screen">Socraigh Lock Screen</string>
+  <string name="set_both_screens">Socraigh an dá Scáileán</string>
+  <string name="adjust_screen">Coigeartaigh Scáileán</string>
+  <string name="please_wait_ad_is_loading">Fan go fóill, tá an fógra á luchtú</string>
+  <string name="home">Baile</string>
+  <string name="edge_lighting_border">Teorann Soilsiú Imeall</string>
+  <string name="view_more">Féach Tuilleadh</string>
+  <string name="brighten_up_by_stunning_edges">Gile suas le Edges iontach</string>
+  <string name="live_wallpapers">Wallpapers beo</string>
+  <string name="stunning_wallpapers">Wallpapers iontach</string>
+  <string name="experience_by_interactive_wallpapers">Taithí ag Wallpapers Idirghníomhach</string>
+  <string name="dismiss">Díbhe</string>
+  <string name="language">Teanga</string>
+  <string name="privacy_policy">Beartas Príobháideachta</string>
+  <string name="rate_us">Ráta Linn</string>
+  <string name="more_app">Tuilleadh App</string>
+  <string name="exit">Scoir</string>
+  <string name="alert">Airdeall</string>
+  <string name="warning">Rabhadh</string>
+  <string name="trending">Treocht</string>
+  <string name="applying_wallpaper">Cúlbhrat á bhFeidhm</string>
+  <string name="wallpaper_applied">Cúlbhrat Fheidhmeach</string>
+  <string name="accessibility_service_level_permission">Cead Leibhéal Seirbhíse Inrochtaineachta:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Tá an Cead Inrochtaineachta mar ghné lárnach riachtanach chun go n-oibreoidh Edge Lighting thar aipeanna eile agus scáileán glasála</string>
+  <string name="this_permission_can_be_granted_as_follow">Is féidir an Cead seo a dheonú mar seo a leanas:</string>
+  <string name="go_to_settings">Téigh go Socruithe</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Inrochtaineacht > Aipeanna/Seirbhísí Suiteáilte > Imeall Soilsiú</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Inrochtaineacht > Tuilleadh Seirbhísí Íoslódála > Edge Lighting</string>
+  <string name="grant_permission_now">An Deonaigh Cead Anois?</string>
+  <string name="later">Níos déanaí</string>
+  <string name="yes_now">Sea, anois</string>
+</resources>

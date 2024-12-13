@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Pontšo godimo ga didirišwa tše dingwe</string>
+  <string name="open_nav">Bula Laeborari ya go Sepelasepela</string>
+  <string name="close_nav">Koala Laeborari ya go Sepelasepela</string>
+  <string name="show_while_charging">Bontšha ge o dutše o tjhaja</string>
+  <string name="text_enable_wallpaper">Kgontšha Wallpaper</string>
+  <string name="number_of_colors">Palo ya Mebala</string>
+  <string name="click_a_color_to_edit">Klika mmala go rulaganya</string>
+  <string name="mtrl_picker_confirm">GO LOKILE</string>
+  <string name="SelectLanguage">Kgetha Polelo</string>
+  <string name="text_cancel">Khansela</string>
+  <string name="text_border_type">Mohuta wa mollwane</string>
+  <string name="text_animation_speed">Lebelo la dipopaye</string>
+  <string name="text_border_size">Bogolo bja mollwane</string>
+  <string name="text_radius_top">Radius godimo</string>
+  <string name="text_radius_bottom">Radius tlase</string>
+  <string name="text_enable_display_notch">Kgontšha Notch</string>
+  <string name="text_notch_width_top">Notch bophara holimo</string>
+  <string name="text_notch_width_bottom">Notch bophara tlase</string>
+  <string name="text_notch_height">Notch bophahamo</string>
+  <string name="text_notch_radius_top">Notch radius godimo</string>
+  <string name="text_notch_radius_bottom">Notch radius tlase</string>
+  <string name="select_wallpaper">Kgetha Wallpaper</string>
+  <string name="allow_display_over_other_apps">Dumelela pontšho godimo ga didirišwa tše dingwe</string>
+  <string name="continue_">Tšwela pele</string>
+  <string name="app_name_service">Bula skrine overlay</string>
+  <string name="permission_request">Kgopelo ya Tumelelo</string>
+  <string name="power_connected">Thapo ya Matla e Kgokagantšwe</string>
+  <string name="power_disconnected">Thapo ya Matla e Kgaotšwe</string>
+  <string name="draw_over_cancelled">Tumelelo ya go khupetša thala ga se ya fiwa ga bjale. Leka gape</string>
+  <string name="draw_over_granted">Thala khupetšo ditumelelo kgopelo filwe</string>
+  <string name="app_name">Mabone a Mošito</string>
+  <string name="please_wait">Hle ema Wallpaper Downloading...</string>
+  <string name="no_internet">Ga go na inthanete</string>
+  <string name="to_use_this">Go šomiša tšobotsi ye Tumelelo ya Phihlelelo e a nyakega</string>
+  <string name="draw_over_denied">Tumelelo ya go khupetša thala ga se ya fiwa ga bjale. Leka gape</string>
+  <string name="no_internet_war">O offline hle bulela inthanete ya gago go hwetša di-wallpaper tša mabone a mošito.</string>
+  <string name="you_must">O swanetše go kgontšha tumelelo ya \"Draw Over Other Apps\" gore \"Edge Lighting\" e šome gabotse.</string>
+  <string name="wallpaper_description">Pampiri ya_leboto ya go phela</string>
+  <string name="abstract_">Naganwago</string>
+  <string name="nature">Tlhago</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Ditsopolwa</string>
+  <string name="sunset">Phirimatšatši</string>
+  <string name="top">Godimo</string>
+  <string name="text_name_notification">Thoma tirelo</string>
+  <string name="No_topic_selected">Ga go na hlogotaba yeo e kgethilwego</string>
+  <string name="Update_finish">Update qeta</string>
+  <string name="loading_ad">Go Laetša Papatšo</string>
+  <string name="low_battery">Mabone a Bohale ba Betri e Tlase</string>
+  <string name="battery_one">Betri ya 1</string>
+  <string name="battery_two">Betri ya 2</string>
+  <string name="edge_service">Tirelo ya go kitima</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Phela</string>
+  <string name="main_ongoing_download">Go Hlagiša Tebelelopele</string>
+  <string name="permission_required">Tumelelo e a Hlokagala</string>
+  <string name="title_onboarding_1">Tumelelo ya Phihlelelo</string>
+  <string name="description_onboarding_1">Phihlelelo ke tšobotsi ya motheo</string>
+  <string name="string_text_onboarding_complete_description">Tumelelo ya Phihlelelo bjalo ka tšobotsi ya motheo e swanetše gore Edge Lighting e šome godimo ga ditirišo tše dingwe le go notlela skrine</string>
+  <string name="title_onboarding_2">Tumelelo ya Phihlelelo</string>
+  <string name="description_onboarding_2">Tumelelo e ka fiwa ka tsela ye e latelago: \n \n Phihlelelo > Ditirišo/Ditirelo tše di Tsentšwego > Mabone a Mošito \n GOBA \n Phihlelelo > Ditirelo tše dingwe tša go Taonelouta > Mabone a Mošito</string>
+  <string name="title_onboarding_3">Khoutu ditiriso tse dingwe e ntle</string>
+  <string name="description_onboarding_3">Thomo ya rena ke go dira didirišwa tše di nago le mohola &amp; tše di sa lemogegego. Re rata go thuša batho go boloka nako ka dilo tša mohlodi wo o bulegilego, eupša gape re nolofatša bophelo ka go hlola dilo tše mpsha. Go ngwala dikhoutu tše botse!</string>
+  <string name="start_text_advice">Ka go tšwela pele go tirišo ye o dumelelana le Melawana ya rena ya Tšhomišo le Pholisi ya Sephiri</string>
+  <string name="start">Thomiša</string>
+  <string name="skip">Tshela</string>
+  <string name="finish">Fetša</string>
+  <string name="next">Latelago</string>
+  <string name="back">Morago</string>
+  <string name="allow">Dumelela</string>
+  <string name="slider_Edge">Mabone a Mošito</string>
+  <string name="slider_Edge1">Bontšha mabone a bokagodimo godimo ga Edges</string>
+  <string name="alert_Edge">Tlhokomedišo ya Betri ya Tlase</string>
+  <string name="alert_Edge1">Orange bohale mabone bakeng sa tlaase leshala temošo</string>
+  <string name="warning_Edge">Temošo ya Betri ya Tlase</string>
+  <string name="warning_Edge1">Red bohale mabone bakeng sa tlaase haholo betri temošo</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Kgontšha mabone a bokagodimo ka notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Bohale mabone le Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Waelese</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Thobela sekhwama se se se nago selo</string>
+  <string name="apply">Diriša</string>
+  <string name="applied">E dirišitšwe</string>
+  <string name="always_on_display_edge_lighting">Kamehla ka pontšo bohale mabone</string>
+  <string name="confirm_exit">Netefatša go Tšwa ?</string>
+  <string name="yes">Ee</string>
+  <string name="no">Aowa</string>
+  <string name="wallpapers">Di-wallpaper</string>
+  <string name="ok">Go lokile</string>
+  <string name="what_would_you_like_to_do">O ka rata go dira’ng?</string>
+  <string name="set_home_screen">Beha Skrine sa Gae</string>
+  <string name="set_lock_screen">Beha Skrine sa Notlela</string>
+  <string name="set_both_screens">Beha Diskrini ka Bobedi</string>
+  <string name="adjust_screen">Beakanya Skrine</string>
+  <string name="please_wait_ad_is_loading">Ke kgopela le eme, papatšo e a loading</string>
+  <string name="home">Gae</string>
+  <string name="edge_lighting_border">Moedi wa Mabone a Bohale</string>
+  <string name="view_more">Bona Tse Dingwe</string>
+  <string name="brighten_up_by_stunning_edges">Khanya ka Edges e hlollang</string>
+  <string name="live_wallpapers">Di-Wallpaper tše di Phelago</string>
+  <string name="stunning_wallpapers">Di-Wallpaper tše di makatšago</string>
+  <string name="experience_by_interactive_wallpapers">Maitemogelo ka Di-Wallpaper tša Tšhomišano</string>
+  <string name="dismiss">Raka</string>
+  <string name="language">Polelo</string>
+  <string name="privacy_policy">Pholisi ya Sephiri</string>
+  <string name="rate_us">Re Lekanyetša</string>
+  <string name="more_app">More App</string>
+  <string name="exit">Tšwa</string>
+  <string name="alert">Temošo</string>
+  <string name="warning">Temošo</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Go diriša Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper e dirišitšwe</string>
+  <string name="accessibility_service_level_permission">Tumelelo ya Maemo a Tirelo ya Phihlelelo:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Tumelelo ya Phihlelelo bjalo ka tšobotsi ya motheo e swanetše gore Edge Lighting e šome godimo ga ditirišo tše dingwe le go notlela skrine</string>
+  <string name="this_permission_can_be_granted_as_follow">Tumelelo ye e ka fiwa ka tsela ye e latelago:</string>
+  <string name="go_to_settings">Eya go Dipeakanyo</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Phihlelelo > Ditirišo/Ditirelo tše di Tsentšwego > Mabone a Mošito</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Phihlelelo > Ditirelo tše dingwe tša go Taonelouta > Mabone a Mošito</string>
+  <string name="grant_permission_now">Neela Tumelelo Bjale?</string>
+  <string name="later">Moragonyana</string>
+  <string name="yes_now">Ee, bjale</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ṣe afihan lori awọn ohun elo miiran</string>
+  <string name="open_nav">Ṣii Drawer Lilọ kiri</string>
+  <string name="close_nav">Pa Lilọ kiri Drawer</string>
+  <string name="show_while_charging">Fihan lakoko gbigba agbara</string>
+  <string name="text_enable_wallpaper">Mu Iṣẹṣọ ogiri ṣiṣẹ</string>
+  <string name="number_of_colors">Nọmba ti Awọn awọ</string>
+  <string name="click_a_color_to_edit">Tẹ awọ kan lati ṣatunkọ</string>
+  <string name="mtrl_picker_confirm">O DARA</string>
+  <string name="SelectLanguage">Yan Ede</string>
+  <string name="text_cancel">Fagilee</string>
+  <string name="text_border_type">Iru aala</string>
+  <string name="text_animation_speed">Iyara iwara</string>
+  <string name="text_border_size">Iwọn aala</string>
+  <string name="text_radius_top">Radius oke</string>
+  <string name="text_radius_bottom">Radius isalẹ</string>
+  <string name="text_enable_display_notch">Mu ogbontarigi ṣiṣẹ</string>
+  <string name="text_notch_width_top">Ogbontarigi iwọn oke</string>
+  <string name="text_notch_width_bottom">Ogbontarigi iwọn isalẹ</string>
+  <string name="text_notch_height">Giga ogbontarigi</string>
+  <string name="text_notch_radius_top">Ogbontarigi rediosi oke</string>
+  <string name="text_notch_radius_bottom">Ogbontarigi rediosi isalẹ</string>
+  <string name="select_wallpaper">Yan Iṣẹṣọ ogiri</string>
+  <string name="allow_display_over_other_apps">Gba ifihan lori awọn ohun elo miiran</string>
+  <string name="continue_">Tesiwaju</string>
+  <string name="app_name_service">Ṣii agbekọja iboju</string>
+  <string name="permission_request">Ibeere igbanilaaye</string>
+  <string name="power_connected">Okun agbara So pọ</string>
+  <string name="power_disconnected">Okun agbara Ge asopọ</string>
+  <string name="draw_over_cancelled">Fa igbanilaaye agbekọja ko funni sibẹsibẹ. Gbiyanju lẹẹkansi</string>
+  <string name="draw_over_granted">Fa iyanilẹnu awọn igbanilaaye agbekọja</string>
+  <string name="app_name">Imọlẹ eti</string>
+  <string name="please_wait">Jọwọ duro Gbigbasilẹ Iṣẹṣọ ogiri…</string>
+  <string name="no_internet">Ko si ayelujara</string>
+  <string name="to_use_this">Lati lo ẹya ara ẹrọ yi Gbigbanilaaye Wiwọle nilo</string>
+  <string name="draw_over_denied">Fa igbanilaaye agbekọja ko funni sibẹsibẹ. Gbiyanju lẹẹkansi</string>
+  <string name="no_internet_war">O wa aisinipo jọwọ tan intanẹẹti rẹ lati gba awọn iṣẹṣọ ogiri ina eti.</string>
+  <string name="you_must">O gbọdọ mu igbanilaaye “Fa Lori Awọn ohun elo miiran” ṣiṣẹ fun “Imọlẹ Edge” lati ṣiṣẹ daradara.</string>
+  <string name="wallpaper_description">Ifiwe_ogiri</string>
+  <string name="abstract_">Áljẹbrà</string>
+  <string name="nature">Iseda</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Avvon</string>
+  <string name="sunset">Iwọoorun</string>
+  <string name="top">Oke</string>
+  <string name="text_name_notification">Bẹrẹ iṣẹ</string>
+  <string name="No_topic_selected">Ko si koko ti a yan</string>
+  <string name="Update_finish">Ipari imudojuiwọn</string>
+  <string name="loading_ad">Ipolowo ikojọpọ</string>
+  <string name="low_battery">Low Batiri eti Lighting</string>
+  <string name="battery_one">Batiri 1</string>
+  <string name="battery_two">Batiri 2</string>
+  <string name="edge_service">Nṣiṣẹ iṣẹ</string>
+  <string name="wallpaper">Iṣẹṣọ ogiri</string>
+  <string name="magical_wallpaper">Gbe</string>
+  <string name="main_ongoing_download">Ti o npese Awotẹlẹ</string>
+  <string name="permission_required">Ti beere fun igbanilaaye</string>
+  <string name="title_onboarding_1">Gbigbanilaaye Wiwọle</string>
+  <string name="description_onboarding_1">Wiwọle jẹ ẹya mojuto</string>
+  <string name="string_text_onboarding_complete_description">Gbigbanilaaye Wiwọle bi ẹya ipilẹ gbọdọ fun Imọlẹ Edge lati ṣiṣẹ lori awọn ohun elo miiran ati iboju titiipa</string>
+  <string name="title_onboarding_2">Gbigbanilaaye Wiwọle</string>
+  <string name="description_onboarding_2">A le funni ni igbanilaaye gẹgẹbi atẹle: \n \n Wiwọle > Awọn ohun elo/Awọn iṣẹ ti a fi sori ẹrọ > Imọlẹ eti \n OR \n Wiwọle > Awọn iṣẹ igbasilẹ diẹ sii > Imọlẹ eti</string>
+  <string name="title_onboarding_3">Koodu lẹwa apps</string>
+  <string name="description_onboarding_3">Ise apinfunni wa ni lati ṣe awọn ohun elo to wulo ati arekereke. A nifẹ iranlọwọ eniyan lati fi akoko pamọ pẹlu awọn nkan orisun-ìmọ, ṣugbọn a tun jẹ ki igbesi aye rọrun nipasẹ ṣiṣẹda awọn nkan tuntun. Ifaminsi to dara!</string>
+  <string name="start_text_advice">Nipa tẹsiwaju lori ohun elo yii o gba si Awọn ofin Lilo ati Afihan Aṣiri wa</string>
+  <string name="start">Bẹrẹ</string>
+  <string name="skip">Rekọja</string>
+  <string name="finish">Pari</string>
+  <string name="next">Itele</string>
+  <string name="back">Pada</string>
+  <string name="allow">Gba laaye</string>
+  <string name="slider_Edge">Imọlẹ eti</string>
+  <string name="slider_Edge1">Ṣe afihan ina eti lori Awọn egbegbe</string>
+  <string name="alert_Edge">Itaniji Batiri Kekere</string>
+  <string name="alert_Edge1">Imọlẹ eti Orange fun itaniji batiri kekere</string>
+  <string name="warning_Edge">Ikilọ Batiri Kekere</string>
+  <string name="warning_Edge1">Imọlẹ eti pupa fun ikilọ batiri kekere pupọ</string>
+  <string name="notch_Edge">Ogbontarigi</string>
+  <string name="notch_Edge1">Mu itanna eti ṣiṣẹ pẹlu ogbontarigi</string>
+  <string name="wallpaper_Edge">Iṣẹṣọ ogiri</string>
+  <string name="wallpaper_Edge1">Imọlẹ eti pẹlu Iṣẹṣọ ogiri</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Alailowaya</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello ajẹkù òfo</string>
+  <string name="apply">Waye</string>
+  <string name="applied">Ti a lo</string>
+  <string name="always_on_display_edge_lighting">Nigbagbogbo lori ifihan ina eti</string>
+  <string name="confirm_exit">Jẹrisi Jade?</string>
+  <string name="yes">Bẹẹni</string>
+  <string name="no">Rara</string>
+  <string name="wallpapers">Iṣẹṣọ ogiri</string>
+  <string name="ok">O dara</string>
+  <string name="what_would_you_like_to_do">Kini o fẹ lati ṣe?</string>
+  <string name="set_home_screen">Ṣeto Iboju ile</string>
+  <string name="set_lock_screen">Ṣeto Iboju Titiipa</string>
+  <string name="set_both_screens">Ṣeto Awọn Iboju mejeeji</string>
+  <string name="adjust_screen">Ṣatunṣe Iboju</string>
+  <string name="please_wait_ad_is_loading">Jọwọ duro, ipolowo n ṣajọpọ</string>
+  <string name="home">Ile</string>
+  <string name="edge_lighting_border">Edge Lighting Aala</string>
+  <string name="view_more">Wo Die e sii</string>
+  <string name="brighten_up_by_stunning_edges">Imọlẹ soke nipa yanilenu Edges</string>
+  <string name="live_wallpapers">Awọn iṣẹṣọ ogiri Live</string>
+  <string name="stunning_wallpapers">Awọn iṣẹṣọ ogiri ti o yanilenu</string>
+  <string name="experience_by_interactive_wallpapers">Iriri nipasẹ Awọn iṣẹṣọ ogiri Interactive</string>
+  <string name="dismiss">Yọọ kuro</string>
+  <string name="language">Ede</string>
+  <string name="privacy_policy">Asiri Afihan</string>
+  <string name="rate_us">Oṣuwọn Wa</string>
+  <string name="more_app">Ohun elo diẹ sii</string>
+  <string name="exit">Jade</string>
+  <string name="alert">Itaniji</string>
+  <string name="warning">Ikilo</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Iṣẹṣọ ogiri</string>
+  <string name="wallpaper_applied">Iṣẹṣọ ogiri Waye</string>
+  <string name="accessibility_service_level_permission">Gbigbanilaaye Ipele Iṣẹ Wiwọle:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Gbigbanilaaye Wiwọle bi ẹya ipilẹ gbọdọ fun Imọlẹ Edge lati ṣiṣẹ lori awọn ohun elo miiran ati iboju titiipa</string>
+  <string name="this_permission_can_be_granted_as_follow">Igbanilaaye yii le gba bi atẹle:</string>
+  <string name="go_to_settings">Lọ si Eto</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Wiwọle> Awọn ohun elo/Awọn iṣẹ ti a fi sori ẹrọ> Imọlẹ eti</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Wiwọle> Awọn iṣẹ igbasilẹ diẹ sii> Imọlẹ eti</string>
+  <string name="grant_permission_now">Funni Gbigbanilaaye Bayi?</string>
+  <string name="later">Nigbamii</string>
+  <string name="yes_now">Bẹẹni, ni bayi</string>
+</resources>

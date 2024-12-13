@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Rodyti virš kitų programų</string>
+  <string name="open_nav">Atidarykite naršymo stalčių</string>
+  <string name="close_nav">Uždarykite naršymo stalčių</string>
+  <string name="show_while_charging">Rodyti įkrovimo metu</string>
+  <string name="text_enable_wallpaper">Įgalinti fono paveikslėlį</string>
+  <string name="number_of_colors">Spalvų skaičius</string>
+  <string name="click_a_color_to_edit">Spustelėkite spalvą, kurią norite redaguoti</string>
+  <string name="mtrl_picker_confirm">Gerai</string>
+  <string name="SelectLanguage">Pasirinkite Kalba</string>
+  <string name="text_cancel">Atšaukti</string>
+  <string name="text_border_type">Krašto tipas</string>
+  <string name="text_animation_speed">Animacijos greitis</string>
+  <string name="text_border_size">Kraštinės dydis</string>
+  <string name="text_radius_top">Spindulio viršus</string>
+  <string name="text_radius_bottom">Spindulio dugnas</string>
+  <string name="text_enable_display_notch">Įgalinti Notch</string>
+  <string name="text_notch_width_top">Įpjovos pločio viršuje</string>
+  <string name="text_notch_width_bottom">Įpjovos plotis apačioje</string>
+  <string name="text_notch_height">Įpjovos aukštis</string>
+  <string name="text_notch_radius_top">Įpjovos spindulys viršuje</string>
+  <string name="text_notch_radius_bottom">Įpjovos spindulys apačioje</string>
+  <string name="select_wallpaper">Pasirinkite Fono paveikslėlis</string>
+  <string name="allow_display_over_other_apps">Leisti rodyti virš kitų programų</string>
+  <string name="continue_">Tęsti</string>
+  <string name="app_name_service">Atidaryti ekrano perdangą</string>
+  <string name="permission_request">Leidimo prašymas</string>
+  <string name="power_connected">Maitinimo kabelis prijungtas</string>
+  <string name="power_disconnected">Maitinimo kabelis atjungtas</string>
+  <string name="draw_over_cancelled">Leidimas piešti perdangą dar nesuteiktas. Bandykite dar kartą</string>
+  <string name="draw_over_granted">Piešimo perdangos leidimų užklausa patenkinta</string>
+  <string name="app_name">Krašto apšvietimas</string>
+  <string name="please_wait">Palaukite Ekrano užsklanda Atsisiunčiama…</string>
+  <string name="no_internet">Nėra interneto</string>
+  <string name="to_use_this">Norint naudoti šią funkciją, reikalingas prieinamumo leidimas</string>
+  <string name="draw_over_denied">Leidimas piešti perdangą dar nesuteiktas. Bandykite dar kartą</string>
+  <string name="no_internet_war">Esate neprisijungę, įjunkite internetą, kad gautumėte krašto apšvietimo fono paveikslėlius.</string>
+  <string name="you_must">Kad „Edge Lighting“ veiktų tinkamai, turite įgalinti „Draw Over Other Apps“ leidimą.</string>
+  <string name="wallpaper_description">Gyvas_fonas</string>
+  <string name="abstract_">Abstraktus</string>
+  <string name="nature">Gamta</string>
+  <string name="neon">Neoninis</string>
+  <string name="quotes">Citatos</string>
+  <string name="sunset">Saulėlydis</string>
+  <string name="top">Į viršų</string>
+  <string name="text_name_notification">Pradėti paslaugą</string>
+  <string name="No_topic_selected">Nepasirinkta jokia tema</string>
+  <string name="Update_finish">Atnaujinimo pabaiga</string>
+  <string name="loading_ad">Įkeliamas skelbimas</string>
+  <string name="low_battery">Žemo akumuliatoriaus krašto apšvietimas</string>
+  <string name="battery_one">Baterija 1</string>
+  <string name="battery_two">2 baterija</string>
+  <string name="edge_service">Bėgimo paslauga</string>
+  <string name="wallpaper">Tapetai</string>
+  <string name="magical_wallpaper">Tiesiogiai</string>
+  <string name="main_ongoing_download">Peržiūros generavimas</string>
+  <string name="permission_required">Reikalingas leidimas</string>
+  <string name="title_onboarding_1">Prieinamumo leidimas</string>
+  <string name="description_onboarding_1">Prieinamumas yra pagrindinė funkcija</string>
+  <string name="string_text_onboarding_complete_description">Prieinamumo leidimas kaip pagrindinė funkcija yra būtinas, kad „Edge Lighting“ veiktų prieš kitas programas ir užrakinimo ekraną</string>
+  <string name="title_onboarding_2">Prieinamumo leidimas</string>
+  <string name="description_onboarding_2">Leidimas gali būti suteiktas taip: \n \n Prieinamumas > Įdiegtos programos / paslaugos > Edge Lighting \n ARBA \n Prieinamumas > Daugiau atsisiuntimo paslaugų > Edge Lighting</string>
+  <string name="title_onboarding_3">Koduokite gražias programas</string>
+  <string name="description_onboarding_3">Mūsų misija – kurti naudingas ir subtilias programas. Mums patinka padėti žmonėms sutaupyti laiko naudodami atvirojo kodo produktus, bet taip pat palengviname gyvenimą kurdami naujus dalykus. Geras kodavimas!</string>
+  <string name="start_text_advice">Tęsdami šią programą sutinkate su mūsų naudojimo sąlygomis ir privatumo politika</string>
+  <string name="start">Pradėti</string>
+  <string name="skip">Praleisti</string>
+  <string name="finish">Baigti</string>
+  <string name="next">Kitas</string>
+  <string name="back">Atgal</string>
+  <string name="allow">Leisti</string>
+  <string name="slider_Edge">Krašto apšvietimas</string>
+  <string name="slider_Edge1">Ekrano kraštų apšvietimas virš kraštų</string>
+  <string name="alert_Edge">Įspėjimas apie išsikrovusią bateriją</string>
+  <string name="alert_Edge1">Oranžinis kraštų apšvietimas, įspėjantis apie išsikrovusią bateriją</string>
+  <string name="warning_Edge">Įspėjimas apie išsikrovusią bateriją</string>
+  <string name="warning_Edge1">Raudonas krašto apšvietimas, perspėjantis apie labai išsikrovusį akumuliatorių</string>
+  <string name="notch_Edge">Įpjova</string>
+  <string name="notch_Edge1">Įjunkite kraštų apšvietimą su įpjova</string>
+  <string name="wallpaper_Edge">Tapetai</string>
+  <string name="wallpaper_Edge1">Kraštų apšvietimas su tapetais</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ak</item>  
+    <item>Usb</item>  
+    <item>Bevielis</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Sveiki, tuščias fragmentas</string>
+  <string name="apply">Taikyti</string>
+  <string name="applied">Taikoma</string>
+  <string name="always_on_display_edge_lighting">Visada veikia ekrano krašto apšvietimas</string>
+  <string name="confirm_exit">Patvirtinti išėjimą?</string>
+  <string name="yes">Taip</string>
+  <string name="no">Nr</string>
+  <string name="wallpapers">Užsklandos</string>
+  <string name="ok">Gerai</string>
+  <string name="what_would_you_like_to_do">Ką norėtum veikti?</string>
+  <string name="set_home_screen">Nustatyti pagrindinį ekraną</string>
+  <string name="set_lock_screen">Nustatykite užrakinimo ekraną</string>
+  <string name="set_both_screens">Nustatykite abu ekranus</string>
+  <string name="adjust_screen">Sureguliuoti ekraną</string>
+  <string name="please_wait_ad_is_loading">Palaukite, skelbimas įkeliamas</string>
+  <string name="home">Pradžia</string>
+  <string name="edge_lighting_border">Krašto apšvietimo sienelė</string>
+  <string name="view_more">Žiūrėti daugiau</string>
+  <string name="brighten_up_by_stunning_edges">Pagyvinkite nuostabiais kraštais</string>
+  <string name="live_wallpapers">Gyvi fono paveikslėliai</string>
+  <string name="stunning_wallpapers">Stulbinantys tapetai</string>
+  <string name="experience_by_interactive_wallpapers">Interactive Wallpapers patirtis</string>
+  <string name="dismiss">Atsisakyti</string>
+  <string name="language">Kalba</string>
+  <string name="privacy_policy">Privatumo politika</string>
+  <string name="rate_us">Įvertinkite mus</string>
+  <string name="more_app">Daugiau App</string>
+  <string name="exit">Išeiti</string>
+  <string name="alert">Įspėjimas</string>
+  <string name="warning">Įspėjimas</string>
+  <string name="trending">Tendencijos</string>
+  <string name="applying_wallpaper">Tapetų taikymas</string>
+  <string name="wallpaper_applied">Tapetai pritaikyti</string>
+  <string name="accessibility_service_level_permission">Prieinamumo paslaugos lygio leidimas:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Prieinamumo leidimas kaip pagrindinė funkcija yra būtinas, kad „Edge Lighting“ veiktų prieš kitas programas ir užrakinimo ekraną</string>
+  <string name="this_permission_can_be_granted_as_follow">Šis leidimas gali būti suteiktas taip:</string>
+  <string name="go_to_settings">Eikite į nustatymus</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Prieinamumas > Įdiegtos programos / paslaugos > Krašto apšvietimas</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Prieinamumas > Daugiau atsisiuntimo paslaugų > Edge Lighting</string>
+  <string name="grant_permission_now">Suteikti leidimą dabar?</string>
+  <string name="later">Vėliau</string>
+  <string name="yes_now">Taip, dabar</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ສະແດງເທິງແອັບອື່ນ</string>
+  <string name="open_nav">ເປີດ Navigation Drawer</string>
+  <string name="close_nav">ປິດ Navigation Drawer</string>
+  <string name="show_while_charging">ສະແດງໃນຂະນະທີ່ກຳລັງສາກ</string>
+  <string name="text_enable_wallpaper">ເປີດໃຊ້ພາບພື້ນຫຼັງ</string>
+  <string name="number_of_colors">ຈໍານວນສີ</string>
+  <string name="click_a_color_to_edit">ຄລິກໃສ່ສີເພື່ອແກ້ໄຂ</string>
+  <string name="mtrl_picker_confirm">ຕົກລົງ</string>
+  <string name="SelectLanguage">ເລືອກພາສາ</string>
+  <string name="text_cancel">ຍົກເລີກ</string>
+  <string name="text_border_type">ປະເພດຊາຍແດນ</string>
+  <string name="text_animation_speed">ຄວາມໄວອະນິເມຊັນ</string>
+  <string name="text_border_size">ຂະຫນາດຂອບ</string>
+  <string name="text_radius_top">Radius ເທິງ</string>
+  <string name="text_radius_bottom">Radius ລຸ່ມ</string>
+  <string name="text_enable_display_notch">ເປີດໃຊ້ Notch</string>
+  <string name="text_notch_width_top">ຄວາມກວ້າງຂອງ notch ເທິງ</string>
+  <string name="text_notch_width_bottom">Notch width ລຸ່ມ</string>
+  <string name="text_notch_height">ຄວາມສູງຂອງ notch</string>
+  <string name="text_notch_radius_top">Notch radius ເທິງ</string>
+  <string name="text_notch_radius_bottom">ລຸ່ມລັດສະໝີ Notch</string>
+  <string name="select_wallpaper">ເລືອກພາບພື້ນຫຼັງ</string>
+  <string name="allow_display_over_other_apps">ອະນຸຍາດໃຫ້ສະແດງເທິງແອັບຯອື່ນ</string>
+  <string name="continue_">ສືບຕໍ່</string>
+  <string name="app_name_service">ເປີດການວາງຊ້ອນຫນ້າຈໍ</string>
+  <string name="permission_request">ການຮ້ອງຂໍການອະນຸຍາດ</string>
+  <string name="power_connected">ສາຍໄຟເຊື່ອມຕໍ່ແລ້ວ</string>
+  <string name="power_disconnected">ຕັດການເຊື່ອມຕໍ່ສາຍໄຟແລ້ວ</string>
+  <string name="draw_over_cancelled">ການ​ອະ​ນຸ​ຍາດ​ແຕ້ມ​ທັບ​ຍັງ​ບໍ່​ໄດ້​ອະ​ນຸ​ຍາດ​. ລອງອີກຄັ້ງ</string>
+  <string name="draw_over_granted">ຂໍອະນຸຍາດແຕ້ມທັບຊ້ອນແລ້ວ</string>
+  <string name="app_name">ແສງຂອບ</string>
+  <string name="please_wait">ກະລຸນາລໍຖ້າ Wallpaper ດາວໂຫຼດ...</string>
+  <string name="no_internet">ບໍ່ມີອິນເຕີເນັດ</string>
+  <string name="to_use_this">ເພື່ອໃຊ້ຄຸນສົມບັດນີ້ ການອະນຸຍາດການເຂົ້າເຖິງແມ່ນຕ້ອງການ</string>
+  <string name="draw_over_denied">ການ​ອະ​ນຸ​ຍາດ​ແຕ້ມ​ທັບ​ຍັງ​ບໍ່​ໄດ້​ອະ​ນຸ​ຍາດ​. ລອງອີກຄັ້ງ</string>
+  <string name="no_internet_war">ທ່ານອອບລາຍຢູ່ ກະລຸນາເປີດອິນເຕີເນັດຂອງທ່ານເພື່ອຮັບຮູບພື້ນຫຼັງແສງຂອບ.</string>
+  <string name="you_must">ທ່ານຕ້ອງເປີດໃຊ້ການອະນຸຍາດ \"Draw Over Other Apps\" ສໍາລັບ \"Edge Lighting\" ເພື່ອເຮັດວຽກຢ່າງຖືກຕ້ອງ.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">ບົດຄັດຫຍໍ້</string>
+  <string name="nature">ທໍາມະຊາດ</string>
+  <string name="neon">ນີອອນ</string>
+  <string name="quotes">ວົງຢືມ</string>
+  <string name="sunset">ຕາເວັນຕົກ</string>
+  <string name="top">ເທິງ</string>
+  <string name="text_name_notification">ເລີ່ມການບໍລິການ</string>
+  <string name="No_topic_selected">ບໍ່ໄດ້ເລືອກຫົວຂໍ້</string>
+  <string name="Update_finish">ອັບເດດແລ້ວ</string>
+  <string name="loading_ad">ກຳລັງໂຫຼດໂຄສະນາ</string>
+  <string name="low_battery">ແສງຂອບແບດເຕີຣີໜ້ອຍ</string>
+  <string name="battery_one">ແບັດເຕີຣີ 1</string>
+  <string name="battery_two">ແບັດເຕີຣີ 2</string>
+  <string name="edge_service">ບໍລິການແລ່ນ</string>
+  <string name="wallpaper">ຮູບວໍເປເປີ</string>
+  <string name="magical_wallpaper">ດໍາລົງຊີວິດ</string>
+  <string name="main_ongoing_download">ກຳລັງສ້າງຕົວຢ່າງ</string>
+  <string name="permission_required">ຕ້ອງການການອະນຸຍາດ</string>
+  <string name="title_onboarding_1">ການອະນຸຍາດເຂົ້າເຖິງ</string>
+  <string name="description_onboarding_1">ການເຂົ້າໃຊ້ເປັນຄຸນສົມບັດຫຼັກ</string>
+  <string name="string_text_onboarding_complete_description">ການອະນຸຍາດການເຂົ້າເຖິງເປັນຄຸນສົມບັດຫຼັກແມ່ນຕ້ອງໃຫ້ Edge Lighting ເຮັດວຽກຫຼາຍກວ່າແອັບອື່ນ ແລະ ໜ້າຈໍລັອກ</string>
+  <string name="title_onboarding_2">ການອະນຸຍາດເຂົ້າເຖິງ</string>
+  <string name="description_onboarding_2">ການ​ອະ​ນຸ​ຍາດ​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ອະ​ນຸ​ຍາດ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້​: \n \n ການ​ເຂົ້າ​ເຖິງ > ແອັບ​ທີ່​ຕິດ​ຕັ້ງ/ການ​ບໍ​ລິ​ການ > Edge Lighting \n ຫຼື \n ການ​ເຂົ້າ​ເຖິງ > ການ​ບໍ​ລິ​ການ​ດາວ​ໂຫຼດ​ເພີ່ມ​ເຕີມ > Edge Lighting</string>
+  <string name="title_onboarding_3">ລະຫັດແອັບຯທີ່ສວຍງາມ</string>
+  <string name="description_onboarding_3">ພາລະກິດຂອງພວກເຮົາແມ່ນເພື່ອເຮັດໃຫ້ແອັບຯທີ່ເປັນປະໂຫຍດ &amp; subtle. ພວກເຮົາມັກຊ່ວຍຄົນໃຫ້ປະຢັດເວລາກັບສິ່ງຂອງແບບເປີດ, ແຕ່ພວກເຮົາຍັງເຮັດໃຫ້ຊີວິດງ່າຍຂຶ້ນໂດຍການສ້າງສິ່ງໃໝ່ໆ. Coding ດີ!</string>
+  <string name="start_text_advice">ໂດຍການສືບຕໍ່ຄໍາຮ້ອງສະຫມັກນີ້, ທ່ານຕົກລົງເຫັນດີກັບເງື່ອນໄຂການນໍາໃຊ້ແລະນະໂຍບາຍຄວາມເປັນສ່ວນຕົວຂອງພວກເຮົາ</string>
+  <string name="start">ເລີ່ມ</string>
+  <string name="skip">ຂ້າມ</string>
+  <string name="finish">ຈົບ</string>
+  <string name="next">ຕໍ່ໄປ</string>
+  <string name="back">ກັບຄືນໄປບ່ອນ</string>
+  <string name="allow">ອະນຸຍາດ</string>
+  <string name="slider_Edge">ແສງຂອບ</string>
+  <string name="slider_Edge1">ສະແດງແສງຂອບເທິງຂອບ</string>
+  <string name="alert_Edge">ແຈ້ງເຕືອນແບັດເຕີຣີຕໍ່າ</string>
+  <string name="alert_Edge1">ແສງຂອບສີສົ້ມສຳລັບການແຈ້ງເຕືອນແບັດເຕີຣີຕໍ່າ</string>
+  <string name="warning_Edge">ຄຳເຕືອນແບັດເຕີຣີຕໍ່າ</string>
+  <string name="warning_Edge1">ໄຟຂອບສີແດງສໍາລັບການເຕືອນໄພຫມໍ້ໄຟຕ່ໍາຫຼາຍ</string>
+  <string name="notch_Edge">ຮອຍແຕກ</string>
+  <string name="notch_Edge1">ເປີດ​ໃຊ້​ງານ​ແສງ​ສະ​ຫວ່າງ​ແຂບ​ທີ່​ມີ notch​</string>
+  <string name="wallpaper_Edge">ຮູບວໍເປເປີ</string>
+  <string name="wallpaper_Edge1">ຂອບແສງດ້ວຍຮູບວໍເປເປີ</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ໄຮ້ສາຍ</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ສະບາຍດີ ຊິ້ນເປົ່າ</string>
+  <string name="apply">ສະໝັກ</string>
+  <string name="applied">ນຳໃຊ້ແລ້ວ</string>
+  <string name="always_on_display_edge_lighting">ຢູ່ໃນຂອບຈໍສະແດງຜົນສະເໝີ</string>
+  <string name="confirm_exit">ຢືນຢັນການອອກ?</string>
+  <string name="yes">ແມ່ນແລ້ວ</string>
+  <string name="no">ບໍ່</string>
+  <string name="wallpapers">ພາບພື້ນຫຼັງ</string>
+  <string name="ok">ຕົກລົງ</string>
+  <string name="what_would_you_like_to_do">ເຈົ້າຢາກເຮັດຫຍັງ?</string>
+  <string name="set_home_screen">ຕັ້ງໜ້າຈໍຫຼັກ</string>
+  <string name="set_lock_screen">ຕັ້ງໜ້າຈໍລັອກ</string>
+  <string name="set_both_screens">ກໍານົດທັງສອງຫນ້າຈໍ</string>
+  <string name="adjust_screen">ປັບໜ້າຈໍ</string>
+  <string name="please_wait_ad_is_loading">ກະລຸນາລໍຖ້າ, ໂຄສະນາກຳລັງໂຫລດ</string>
+  <string name="home">ບ້ານ</string>
+  <string name="edge_lighting_border">ຂອບແສງຂອບ</string>
+  <string name="view_more">ເບິ່ງເພີ່ມເຕີມ</string>
+  <string name="brighten_up_by_stunning_edges">ເຮັດໃຫ້ສົດໃສຂຶ້ນໂດຍ Edges ທີ່ສວຍງາມ</string>
+  <string name="live_wallpapers">ພາບພື້ນຫຼັງສົດ</string>
+  <string name="stunning_wallpapers">ພາບພື້ນຫຼັງທີ່ສວຍງາມ</string>
+  <string name="experience_by_interactive_wallpapers">ປະສົບການຈາກພາບພື້ນຫຼັງແບບໂຕ້ຕອບ</string>
+  <string name="dismiss">ປິດ</string>
+  <string name="language">ພາສາ</string>
+  <string name="privacy_policy">ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ</string>
+  <string name="rate_us">ໃຫ້ຄະແນນພວກເຮົາ</string>
+  <string name="more_app">ແອັບເພີ່ມເຕີມ</string>
+  <string name="exit">ອອກໄປ</string>
+  <string name="alert">ແຈ້ງເຕືອນ</string>
+  <string name="warning">ຄຳເຕືອນ</string>
+  <string name="trending">ແນວໂນ້ມ</string>
+  <string name="applying_wallpaper">ກຳລັງນຳໃຊ້ຮູບວໍເປເປີ</string>
+  <string name="wallpaper_applied">ນຳໃຊ້ຮູບພື້ນຫຼັງ</string>
+  <string name="accessibility_service_level_permission">ການອະນຸຍາດລະດັບການບໍລິການເຂົ້າເຖິງ:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">ການອະນຸຍາດການເຂົ້າເຖິງເປັນຄຸນສົມບັດຫຼັກແມ່ນຕ້ອງໃຫ້ Edge Lighting ເຮັດວຽກຫຼາຍກວ່າແອັບອື່ນ ແລະ ໜ້າຈໍລັອກ</string>
+  <string name="this_permission_can_be_granted_as_follow">ການ​ອະ​ນຸ​ຍາດ​ນີ້​ສາ​ມາດ​ໄດ້​ຮັບ​ການ​ອະ​ນຸ​ຍາດ​ດັ່ງ​ຕໍ່​ໄປ​ນີ້​:</string>
+  <string name="go_to_settings">ໄປທີ່ການຕັ້ງຄ່າ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ການຊ່ວຍເຂົ້າເຖິງ > ຕິດຕັ້ງແອັບ/ບໍລິການ > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ການເຂົ້າເຖິງ > ບໍລິການດາວໂຫຼດເພີ່ມເຕີມ > Edge Lighting</string>
+  <string name="grant_permission_now">ໃຫ້ການອະນຸຍາດດຽວນີ້ບໍ?</string>
+  <string name="later">ຕໍ່ມາ</string>
+  <string name="yes_now">ແມ່ນແລ້ວ, ດຽວນີ້</string>
+</resources>

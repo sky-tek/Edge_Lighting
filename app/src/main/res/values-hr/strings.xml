@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Prikaz preko drugih aplikacija</string>
+  <string name="open_nav">Otvorite ladicu za navigaciju</string>
+  <string name="close_nav">Zatvori ladicu za navigaciju</string>
+  <string name="show_while_charging">Prikaži tijekom punjenja</string>
+  <string name="text_enable_wallpaper">Omogući pozadinu</string>
+  <string name="number_of_colors">Broj boja</string>
+  <string name="click_a_color_to_edit">Pritisnite boju za uređivanje</string>
+  <string name="mtrl_picker_confirm">U REDU</string>
+  <string name="SelectLanguage">Odaberite jezik</string>
+  <string name="text_cancel">Otkazati</string>
+  <string name="text_border_type">Vrsta granice</string>
+  <string name="text_animation_speed">Brzina animacije</string>
+  <string name="text_border_size">Veličina obruba</string>
+  <string name="text_radius_top">Vrh radijusa</string>
+  <string name="text_radius_bottom">Radijus dna</string>
+  <string name="text_enable_display_notch">Omogući Notch</string>
+  <string name="text_notch_width_top">Širina zareza vrh</string>
+  <string name="text_notch_width_bottom">Širina zareza dolje</string>
+  <string name="text_notch_height">Visina zareza</string>
+  <string name="text_notch_radius_top">Vrh radijusa zareza</string>
+  <string name="text_notch_radius_bottom">Dno radijusa zareza</string>
+  <string name="select_wallpaper">Odaberite Pozadina</string>
+  <string name="allow_display_over_other_apps">Dopusti prikaz preko drugih aplikacija</string>
+  <string name="continue_">Nastaviti</string>
+  <string name="app_name_service">Otvaranje sloja zaslona</string>
+  <string name="permission_request">Zahtjev za dopuštenje</string>
+  <string name="power_connected">Kabel za napajanje priključen</string>
+  <string name="power_disconnected">Kabel za napajanje isključen</string>
+  <string name="draw_over_cancelled">Dopuštenje za crtanje preklapanja još nije dodijeljeno. Pokušajte ponovno</string>
+  <string name="draw_over_granted">Zahtjev za dopuštenje za crtanje preklapanja odobren</string>
+  <string name="app_name">Rubno osvjetljenje</string>
+  <string name="please_wait">Pričekajte Preuzimanje pozadine…</string>
+  <string name="no_internet">Nema interneta</string>
+  <string name="to_use_this">Za korištenje ove značajke potrebna je dozvola pristupačnosti</string>
+  <string name="draw_over_denied">Dopuštenje za crtanje preklapanja još nije dodijeljeno. Pokušajte ponovno</string>
+  <string name="no_internet_war">Niste na mreži, uključite internet da biste dobili pozadine s rubnim osvjetljenjem.</string>
+  <string name="you_must">Morate omogućiti dozvolu \"Precrtaj preko drugih aplikacija\" da bi \"Edge Lighting\" ispravno radio.</string>
+  <string name="wallpaper_description">Živa_pozadina</string>
+  <string name="abstract_">Sažetak</string>
+  <string name="nature">Priroda</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Citati</string>
+  <string name="sunset">Zalazak sunca</string>
+  <string name="top">Vrh</string>
+  <string name="text_name_notification">Pokrenite uslugu</string>
+  <string name="No_topic_selected">Nije odabrana nijedna tema</string>
+  <string name="Update_finish">Završetak ažuriranja</string>
+  <string name="loading_ad">Učitavanje oglasa</string>
+  <string name="low_battery">Osvjetljenje ruba niske baterije</string>
+  <string name="battery_one">Baterija 1</string>
+  <string name="battery_two">Baterija 2</string>
+  <string name="edge_service">Tekući servis</string>
+  <string name="wallpaper">Tapeta</string>
+  <string name="magical_wallpaper">Živjeti</string>
+  <string name="main_ongoing_download">Generiranje pregleda</string>
+  <string name="permission_required">Potrebno dopuštenje</string>
+  <string name="title_onboarding_1">Dopuštenje za pristupačnost</string>
+  <string name="description_onboarding_1">Pristupačnost je ključna značajka</string>
+  <string name="string_text_onboarding_complete_description">Dozvola pristupačnosti kao temeljna značajka obavezna je za Edge Lighting da radi preko drugih aplikacija i zaključanog zaslona</string>
+  <string name="title_onboarding_2">Dopuštenje za pristupačnost</string>
+  <string name="description_onboarding_2">Dopuštenje se može dati na sljedeći način: \n \n Pristupačnost > Instalirane aplikacije/usluge > Rubno osvjetljenje \n ILI \n Pristupačnost > Više usluga za preuzimanje > Rubno osvjetljenje</string>
+  <string name="title_onboarding_3">Kodirajte lijepe aplikacije</string>
+  <string name="description_onboarding_3">Naša misija je izrada korisnih i suptilnih aplikacija. Volimo pomagati ljudima da uštede vrijeme s stvarima otvorenog koda, ali također olakšavamo život stvaranjem novih stvari. Dobro kodiranje!</string>
+  <string name="start_text_advice">Ako nastavite s ovom aplikacijom, slažete se s našim Uvjetima korištenja i Politikom privatnosti</string>
+  <string name="start">Start</string>
+  <string name="skip">Preskočiti</string>
+  <string name="finish">Završiti</string>
+  <string name="next">Sljedeći</string>
+  <string name="back">Nazad</string>
+  <string name="allow">Dopusti</string>
+  <string name="slider_Edge">Rubno osvjetljenje</string>
+  <string name="slider_Edge1">Prikaži rubno osvjetljenje preko rubova</string>
+  <string name="alert_Edge">Upozorenje o slaboj bateriji</string>
+  <string name="alert_Edge1">Narančasto rubno osvjetljenje za upozorenje o niskoj bateriji</string>
+  <string name="warning_Edge">Upozorenje o slaboj bateriji</string>
+  <string name="warning_Edge1">Crveno rubno osvjetljenje za upozorenje na vrlo nisku bateriju</string>
+  <string name="notch_Edge">Usjek</string>
+  <string name="notch_Edge1">Omogućite rubno osvjetljenje s usjekom</string>
+  <string name="wallpaper_Edge">Tapeta</string>
+  <string name="wallpaper_Edge1">Rubno osvjetljenje s pozadinom</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ak</item>  
+    <item>Usb</item>  
+    <item>Bežični</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Pozdrav prazan fragment</string>
+  <string name="apply">Primijeniti</string>
+  <string name="applied">Primijenjeno</string>
+  <string name="always_on_display_edge_lighting">Uvijek uključeno rubno osvjetljenje</string>
+  <string name="confirm_exit">Potvrditi izlaz?</string>
+  <string name="yes">Da</string>
+  <string name="no">Ne</string>
+  <string name="wallpapers">Pozadine</string>
+  <string name="ok">U redu</string>
+  <string name="what_would_you_like_to_do">Što biste htjeli raditi?</string>
+  <string name="set_home_screen">Postavi početni zaslon</string>
+  <string name="set_lock_screen">Postavite zaključani zaslon</string>
+  <string name="set_both_screens">Postavite oba zaslona</string>
+  <string name="adjust_screen">Podesite zaslon</string>
+  <string name="please_wait_ad_is_loading">Molimo pričekajte, oglas se učitava</string>
+  <string name="home">Dom</string>
+  <string name="edge_lighting_border">Obrub rubnog osvjetljenja</string>
+  <string name="view_more">Prikaži više</string>
+  <string name="brighten_up_by_stunning_edges">Osvijetlite zapanjujuće rubove</string>
+  <string name="live_wallpapers">Žive pozadine</string>
+  <string name="stunning_wallpapers">Zapanjujuće pozadine</string>
+  <string name="experience_by_interactive_wallpapers">Iskustvo s interaktivnim pozadinama</string>
+  <string name="dismiss">Odbaciti</string>
+  <string name="language">Jezik</string>
+  <string name="privacy_policy">Politika privatnosti</string>
+  <string name="rate_us">Ocijenite nas</string>
+  <string name="more_app">Više App</string>
+  <string name="exit">Izlaz</string>
+  <string name="alert">Uzbuna</string>
+  <string name="warning">Upozorenje</string>
+  <string name="trending">U trendu</string>
+  <string name="applying_wallpaper">Primjena pozadine</string>
+  <string name="wallpaper_applied">Primijenjena pozadina</string>
+  <string name="accessibility_service_level_permission">Dopuštenje razine usluge pristupačnosti:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Dozvola pristupačnosti kao temeljna značajka obavezna je za Edge Lighting da radi preko drugih aplikacija i zaključanog zaslona</string>
+  <string name="this_permission_can_be_granted_as_follow">Ovo se dopuštenje može dati na sljedeći način:</string>
+  <string name="go_to_settings">Idite na Postavke</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Pristupačnost > Instalirane aplikacije/usluge > Rubno osvjetljenje</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Pristupačnost > Više usluga preuzimanja > Rubno osvjetljenje</string>
+  <string name="grant_permission_now">Dati dopuštenje sada?</string>
+  <string name="later">Kasnije</string>
+  <string name="yes_now">Da, sada</string>
+</resources>

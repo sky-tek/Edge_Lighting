@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Megjelenítés más alkalmazások felett</string>
+  <string name="open_nav">Nyissa meg a Navigációs fiókot</string>
+  <string name="close_nav">Zárja be a Navigációs fiókot</string>
+  <string name="show_while_charging">Megjelenítés töltés közben</string>
+  <string name="text_enable_wallpaper">Háttérkép engedélyezése</string>
+  <string name="number_of_colors">Színek száma</string>
+  <string name="click_a_color_to_edit">Kattintson egy színre a szerkesztéshez</string>
+  <string name="mtrl_picker_confirm">RENDBEN</string>
+  <string name="SelectLanguage">Válassza a Nyelv lehetőséget</string>
+  <string name="text_cancel">Mégsem</string>
+  <string name="text_border_type">Szegély típusa</string>
+  <string name="text_animation_speed">Animáció sebessége</string>
+  <string name="text_border_size">Szegély mérete</string>
+  <string name="text_radius_top">Sugár felső</string>
+  <string name="text_radius_bottom">Sugár alsó</string>
+  <string name="text_enable_display_notch">Notch engedélyezése</string>
+  <string name="text_notch_width_top">Bevágás szélességű felső</string>
+  <string name="text_notch_width_bottom">Bevágás szélességű alsó</string>
+  <string name="text_notch_height">Bevágás magassága</string>
+  <string name="text_notch_radius_top">Bevágás sugarú felső</string>
+  <string name="text_notch_radius_bottom">Bevágás sugarú alsó</string>
+  <string name="select_wallpaper">Válassza a Háttérkép lehetőséget</string>
+  <string name="allow_display_over_other_apps">Megjelenítés engedélyezése más alkalmazások felett</string>
+  <string name="continue_">Folytatás</string>
+  <string name="app_name_service">Nyissa meg a képernyő fedvényét</string>
+  <string name="permission_request">Engedélykérés</string>
+  <string name="power_connected">Tápkábel csatlakoztatva</string>
+  <string name="power_disconnected">Tápkábel leválasztva</string>
+  <string name="draw_over_cancelled">A fedvényrajzolási engedély még nincs megadva. Próbáld újra</string>
+  <string name="draw_over_granted">Rajzfedvény-engedélykérés engedélyezve</string>
+  <string name="app_name">Él világítás</string>
+  <string name="please_wait">Kérjük, várjon Háttérkép letöltése…</string>
+  <string name="no_internet">Nincs internet</string>
+  <string name="to_use_this">A funkció használatához Kisegítő lehetőségek engedély szükséges</string>
+  <string name="draw_over_denied">A fedvényrajzolási engedély még nincs megadva. Próbáld újra</string>
+  <string name="no_internet_war">Ön offline állapotban van, kérjük, kapcsolja be az internetet, hogy élvilágító háttérképeket kapjon.</string>
+  <string name="you_must">Engedélyeznie kell a „Draw Over Other Apps” engedélyt az „Edge Lighting” megfelelő működéséhez.</string>
+  <string name="wallpaper_description">Élő_háttérkép</string>
+  <string name="abstract_">Absztrakt</string>
+  <string name="nature">Természet</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Idézetek</string>
+  <string name="sunset">Napnyugta</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Indítsa el a szolgáltatást</string>
+  <string name="No_topic_selected">Nincs kiválasztva téma</string>
+  <string name="Update_finish">Frissítés befejezése</string>
+  <string name="loading_ad">Hirdetés betöltése</string>
+  <string name="low_battery">Alacsony akkumulátor töltöttségi szint világítás</string>
+  <string name="battery_one">Akkumulátor 1</string>
+  <string name="battery_two">2. akkumulátor</string>
+  <string name="edge_service">Futó szolgáltatás</string>
+  <string name="wallpaper">Tapéta</string>
+  <string name="magical_wallpaper">Élő</string>
+  <string name="main_ongoing_download">Előnézet generálása</string>
+  <string name="permission_required">Engedély szükséges</string>
+  <string name="title_onboarding_1">Hozzáférhetőségi engedély</string>
+  <string name="description_onboarding_1">A hozzáférhetőség alapvető funkció</string>
+  <string name="string_text_onboarding_complete_description">A Kisegítő lehetőségek, mint alapvető funkció, szükséges ahhoz, hogy az Edge Lighting működjön a többi alkalmazáson és a lezárási képernyőn</string>
+  <string name="title_onboarding_2">Hozzáférhetőségi engedély</string>
+  <string name="description_onboarding_2">Az engedély a következőképpen adható meg: \n \n Kisegítő lehetőségek > Telepített alkalmazások/szolgáltatások > Edge Lighting \n VAGY \n Kisegítő lehetőségek > További letöltési szolgáltatások > Edge Lighting</string>
+  <string name="title_onboarding_3">Kódolja a gyönyörű alkalmazásokat</string>
+  <string name="description_onboarding_3">Küldetésünk, hogy hasznos és finom alkalmazásokat készítsünk. Szeretünk segíteni az embereknek, hogy időt takarítsanak meg a nyílt forráskódú anyagokkal, de új dolgok létrehozásával is megkönnyítjük az életet. Jó kódolást!</string>
+  <string name="start_text_advice">Az alkalmazás folytatásával Ön elfogadja Felhasználási Feltételeinket és Adatvédelmi szabályzatunkat</string>
+  <string name="start">Indul</string>
+  <string name="skip">Kihagyás</string>
+  <string name="finish">Befejezés</string>
+  <string name="next">Következő</string>
+  <string name="back">Vissza</string>
+  <string name="allow">Engedélyezze</string>
+  <string name="slider_Edge">Él világítás</string>
+  <string name="slider_Edge1">Kijelző élvilágítás a széleken</string>
+  <string name="alert_Edge">Alacsony akkumulátor-figyelmeztetés</string>
+  <string name="alert_Edge1">Narancssárga szegélyvilágítás az alacsony töltöttségi szint jelzésére</string>
+  <string name="warning_Edge">Alacsony akkumulátor-figyelmeztetés</string>
+  <string name="warning_Edge1">Piros szélű világítás a nagyon alacsony akkumulátorszint figyelmeztetésért</string>
+  <string name="notch_Edge">Bemetszés</string>
+  <string name="notch_Edge1">Élek megvilágításának engedélyezése bevágással</string>
+  <string name="wallpaper_Edge">Tapéta</string>
+  <string name="wallpaper_Edge1">Élvilágítás háttérképpel</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Vezeték nélküli</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello üres töredék</string>
+  <string name="apply">Alkalmazni</string>
+  <string name="applied">Alkalmazott</string>
+  <string name="always_on_display_edge_lighting">Mindig a kijelző szélén világítás</string>
+  <string name="confirm_exit">Kilépés megerősítése?</string>
+  <string name="yes">Igen</string>
+  <string name="no">Nem</string>
+  <string name="wallpapers">Háttérképek</string>
+  <string name="ok">Rendben</string>
+  <string name="what_would_you_like_to_do">Mit szeretnél csinálni?</string>
+  <string name="set_home_screen">Állítsa be a Kezdőképernyőt</string>
+  <string name="set_lock_screen">Állítsa be a Lezárási képernyőt</string>
+  <string name="set_both_screens">Mindkét képernyő beállítása</string>
+  <string name="adjust_screen">Képernyő beállítása</string>
+  <string name="please_wait_ad_is_loading">Kérjük, várjon, a hirdetés betöltődik</string>
+  <string name="home">Otthon</string>
+  <string name="edge_lighting_border">Élvilágító szegély</string>
+  <string name="view_more">Továbbiak megtekintése</string>
+  <string name="brighten_up_by_stunning_edges">Tedd világosabbá a lenyűgöző Edges</string>
+  <string name="live_wallpapers">Élő Háttérképek</string>
+  <string name="stunning_wallpapers">Lenyűgöző háttérképek</string>
+  <string name="experience_by_interactive_wallpapers">Interactive Wallpapers tapasztalat</string>
+  <string name="dismiss">Elvetés</string>
+  <string name="language">Nyelv</string>
+  <string name="privacy_policy">Adatvédelmi szabályzat</string>
+  <string name="rate_us">Értékeljen minket</string>
+  <string name="more_app">További alkalmazás</string>
+  <string name="exit">Kijárat</string>
+  <string name="alert">Éber</string>
+  <string name="warning">Figyelmeztetés</string>
+  <string name="trending">Felkapott</string>
+  <string name="applying_wallpaper">Háttérkép alkalmazása</string>
+  <string name="wallpaper_applied">Tapéta Applied</string>
+  <string name="accessibility_service_level_permission">Kisegítő lehetőségek szolgáltatási szintű engedély:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">A Kisegítő lehetőségek, mint alapvető funkció, szükséges ahhoz, hogy az Edge Lighting működjön a többi alkalmazáson és a lezárási képernyőn</string>
+  <string name="this_permission_can_be_granted_as_follow">Ez az engedély a következőképpen adható meg:</string>
+  <string name="go_to_settings">Nyissa meg a Beállításokat</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kisegítő lehetőségek > Telepített alkalmazások/szolgáltatások > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kisegítő lehetőségek > További letöltési szolgáltatások > Edge Lighting</string>
+  <string name="grant_permission_now">Most megadja az engedélyt?</string>
+  <string name="later">Később</string>
+  <string name="yes_now">Igen, most</string>
+</resources>

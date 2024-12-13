@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Fa\'aali i luga o isi polokalame</string>
+  <string name="open_nav">Tatala Fa\'atauta\'iga Drawer</string>
+  <string name="close_nav">Tapuni le Fa\'atautaiga Drawer</string>
+  <string name="show_while_charging">Fa\'aali a\'o fa\'atauina</string>
+  <string name="text_enable_wallpaper">Fa\'amalo le Wallpaper</string>
+  <string name="number_of_colors">Numera o Lanu</string>
+  <string name="click_a_color_to_edit">Kiliki se lanu e fa\'asa\'o</string>
+  <string name="mtrl_picker_confirm">Ua lelei</string>
+  <string name="SelectLanguage">Filifili Gagana</string>
+  <string name="text_cancel">Fa\'aleaogaina</string>
+  <string name="text_border_type">Ituaiga tuaoi</string>
+  <string name="text_animation_speed">Saosaoa animation</string>
+  <string name="text_border_size">Tele tuaoi</string>
+  <string name="text_radius_top">Tulaga pito i luga</string>
+  <string name="text_radius_bottom">Alaleo pito i lalo</string>
+  <string name="text_enable_display_notch">Fa\'aaga le Notch</string>
+  <string name="text_notch_width_top">Notch lautele pito i luga</string>
+  <string name="text_notch_width_bottom">Notch lautele lautele pito i lalo</string>
+  <string name="text_notch_height">Notch maualuga</string>
+  <string name="text_notch_radius_top">Notch radius pito i luga</string>
+  <string name="text_notch_radius_bottom">Notch radius pito i lalo</string>
+  <string name="select_wallpaper">Filifili Wallpaper</string>
+  <string name="allow_display_over_other_apps">Fa\'ataga le fa\'aaliga i luga o isi polokalame</string>
+  <string name="continue_">Fa\'aauau</string>
+  <string name="app_name_service">Tatala fa\'alavalava mata</string>
+  <string name="permission_request">Talosaga Fa\'atagaga</string>
+  <string name="power_connected">Uaea Malosi</string>
+  <string name="power_disconnected">Ua Motu le Uaea Malosi</string>
+  <string name="draw_over_cancelled">E le\'i tu\'uina atu le fa\'atagaga fa\'apipi\'i ata. Toe taumafai</string>
+  <string name="draw_over_granted">Fa\'atagaina talosaga fa\'atagaga fa\'alava</string>
+  <string name="app_name">Malamalama pito</string>
+  <string name="please_wait">Fa\'amolemole fa\'atali le la\'uina o pepa pepa...</string>
+  <string name="no_internet">Leai se initaneti</string>
+  <string name="to_use_this">E mana\'omia le Fa\'ataga Avanoa e fa\'aoga ai lea vaega</string>
+  <string name="draw_over_denied">E le\'i tu\'uina atu le fa\'atagaga fa\'apipi\'i ata. Toe taumafai</string>
+  <string name="no_internet_war">E te tuusao fa\'amolemole ki luga lau initaneti e maua ai fa\'amalama moli pito.</string>
+  <string name="you_must">E tatau ona e fa\'atagaina le \"Draw Over Other Apps\" fa\'atagaga mo le \"Edge Lighting\" ia galue lelei.</string>
+  <string name="wallpaper_description">Ola_pepapepa</string>
+  <string name="abstract_">Pu\'upu\'u</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Upusii</string>
+  <string name="sunset">Goto o le la</string>
+  <string name="top">Luga</string>
+  <string name="text_name_notification">Amata le tautua</string>
+  <string name="No_topic_selected">Leai se autu ua filifilia</string>
+  <string name="Update_finish">Fa\'afou fa\'auma</string>
+  <string name="loading_ad">Utaina Ad</string>
+  <string name="low_battery">Ma\'alalo Tupito Ma\'a moli</string>
+  <string name="battery_one">Ma\'a 1</string>
+  <string name="battery_two">Ma\'a 2</string>
+  <string name="edge_service">Ta\'avale tautua</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Ola</string>
+  <string name="main_ongoing_download">Fa\'atupu Va\'aiga</string>
+  <string name="permission_required">Manaomia le Fa\'atagaga</string>
+  <string name="title_onboarding_1">Fa\'ataga avanoa</string>
+  <string name="description_onboarding_1">Avanoa o se vaega autu</string>
+  <string name="string_text_onboarding_complete_description">Ole Fa\'atagaga Avanoa e avea o se vaega autu e tatau mo Edge Light e galue i luga o isi polokalama ma loka lau</string>
+  <string name="title_onboarding_2">Fa\'ataga avanoa</string>
+  <string name="description_onboarding_2">E mafai ona tu\'uina atu le Fa\'atagaga e pei ona ta\'ua i lalo: \n \n Avanoa > Fa\'apipi\'i Apps/Services > Edge Lighting \n PO \n Avanoa > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Fa\'ailoga tusi matagofie</string>
+  <string name="description_onboarding_3">O la matou misiona o le faia lea o ni mea aoga &amp; faʻapitoa. Matou te fiafia e fesoasoani i tagata e sefe le taimi i mea e tatala ai punaoa, ae matou te faafaigofieina foi le olaga e ala i le fatuina o mea fou. Lelei Coding!</string>
+  <string name="start_text_advice">I le fa\'aauauina o lenei talosaga e te ioe i la matou Tu\'utu\'uga o Fa\'aoga ma Faiga Fa\'alilolilo</string>
+  <string name="start">Amata</string>
+  <string name="skip">Fa\'ase\'e</string>
+  <string name="finish">Faauma</string>
+  <string name="next">Sosoo ai</string>
+  <string name="back">Tua</string>
+  <string name="allow">Fa\'ataga</string>
+  <string name="slider_Edge">Malamalama pito</string>
+  <string name="slider_Edge1">Fa\'aali moli pito i luga ole pito</string>
+  <string name="alert_Edge">Lapata\'i ma\'a maualalo</string>
+  <string name="alert_Edge1">Moli pito moli mo le mataala maa maualalo</string>
+  <string name="warning_Edge">Lapataiga Ma\'a maualalo</string>
+  <string name="warning_Edge1">Moli pito mumu mo le matua maualalo o le maa lapataiga</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Fa\'aaga moli pito fa\'atasi ma le notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Fa\'amalama pito ma le Pepa</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Uaealesi</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Talofa vaega avanoa</string>
+  <string name="apply">Talosaga</string>
+  <string name="applied">Fa\'atatau</string>
+  <string name="always_on_display_edge_lighting">Fa\'aali moli pito i taimi uma</string>
+  <string name="confirm_exit">Fa\'amaonia le alu ese ?</string>
+  <string name="yes">Ioe</string>
+  <string name="no">Leai</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ua lelei</string>
+  <string name="what_would_you_like_to_do">O le a se mea e te mana\'o e fai?</string>
+  <string name="set_home_screen">Seti le mata o le Aiga</string>
+  <string name="set_lock_screen">Seti Loka Mata</string>
+  <string name="set_both_screens">Seti Mata e Lua</string>
+  <string name="adjust_screen">Fetuuna\'i Mata</string>
+  <string name="please_wait_ad_is_loading">Fa\'amolemole fa\'atali, o lo\'o uta fa\'asalalauga</string>
+  <string name="home">Aiga</string>
+  <string name="edge_lighting_border">Tuaoi o le moli pito</string>
+  <string name="view_more">Va\'ai atili</string>
+  <string name="brighten_up_by_stunning_edges">Fa\'apupulaina e Edges mata\'ina</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">Pepa Matagofie</string>
+  <string name="experience_by_interactive_wallpapers">Aafiaga e Interactive Wallpapers</string>
+  <string name="dismiss">Fa\'ate\'a</string>
+  <string name="language">Gagana</string>
+  <string name="privacy_policy">Faiga Fa\'alilolilo</string>
+  <string name="rate_us">Fa\'atatau i matou</string>
+  <string name="more_app">Tele App</string>
+  <string name="exit">Ulufafo</string>
+  <string name="alert">Lapata\'i</string>
+  <string name="warning">Lapataiga</string>
+  <string name="trending">Fa\'asolo</string>
+  <string name="applying_wallpaper">Fa\'aogaina o Pepapepa</string>
+  <string name="wallpaper_applied">Fa\'aoga pepa</string>
+  <string name="accessibility_service_level_permission">Fa\'atagaga Tulaga Au\'aunaga Avanoa:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ole Fa\'atagaga Avanoa e avea o se vaega autu e tatau mo Edge Light e galue i luga o isi polokalama ma loka lau</string>
+  <string name="this_permission_can_be_granted_as_follow">E mafai ona tu\'uina atu lenei fa\'atagaga e pei ona ta\'ua i lalo:</string>
+  <string name="go_to_settings">Alu ile Fa\'atonu</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Avanoa > Talosaga Fa\'apipi\'i/Au\'aunaga > Fa\'amalama Uila</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Avanoa > Fa\'aopoopo Au\'aunaga La\'uina > Fa\'amalama Uila</string>
+  <string name="grant_permission_now">Fa\'ataga Nei?</string>
+  <string name="later">Mulimuli ane</string>
+  <string name="yes_now">Ioe, nei</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Diğer uygulamaların üzerinde görüntüle</string>
+  <string name="open_nav">Gezinme Çekmecesini Aç</string>
+  <string name="close_nav">Gezinme Çekmecesini kapat</string>
+  <string name="show_while_charging">Şarj olurken göster</string>
+  <string name="text_enable_wallpaper">Duvar Kağıdını Etkinleştir</string>
+  <string name="number_of_colors">Renk Sayısı</string>
+  <string name="click_a_color_to_edit">Düzenlemek için bir renge tıklayın</string>
+  <string name="mtrl_picker_confirm">TAMAM</string>
+  <string name="SelectLanguage">Dil Seçiniz</string>
+  <string name="text_cancel">İptal etmek</string>
+  <string name="text_border_type">Kenarlık türü</string>
+  <string name="text_animation_speed">Animasyon hızı</string>
+  <string name="text_border_size">Kenarlık boyutu</string>
+  <string name="text_radius_top">Yarıçap üst</string>
+  <string name="text_radius_bottom">Yarıçap alt</string>
+  <string name="text_enable_display_notch">Çentiği Etkinleştir</string>
+  <string name="text_notch_width_top">Çentik genişliği üst</string>
+  <string name="text_notch_width_bottom">Çentik genişliği alt</string>
+  <string name="text_notch_height">Çentik yüksekliği</string>
+  <string name="text_notch_radius_top">Çentik yarıçapı üst</string>
+  <string name="text_notch_radius_bottom">Çentik yarıçapı alt</string>
+  <string name="select_wallpaper">Duvar Kağıdını Seçin</string>
+  <string name="allow_display_over_other_apps">Diğer uygulamaların üzerinde görüntülenmeye izin ver</string>
+  <string name="continue_">Devam etmek</string>
+  <string name="app_name_service">Ekran yer paylaşımını aç</string>
+  <string name="permission_request">İzin Talebi</string>
+  <string name="power_connected">Güç Kablosu Bağlı</string>
+  <string name="power_disconnected">Güç Kablosunun Bağlantısı Kesildi</string>
+  <string name="draw_over_cancelled">Çizim kaplama izni henüz verilmedi. Tekrar deneyin</string>
+  <string name="draw_over_granted">Çizim kaplama izinleri isteği verildi</string>
+  <string name="app_name">Kenar Aydınlatması</string>
+  <string name="please_wait">Lütfen bekleyin Duvar Kağıdı İndiriliyor…</string>
+  <string name="no_internet">İnternet yok</string>
+  <string name="to_use_this">Bu özelliği kullanmak için Erişilebilirlik İzni gereklidir</string>
+  <string name="draw_over_denied">Çizim kaplama izni henüz verilmedi. Tekrar deneyin</string>
+  <string name="no_internet_war">Çevrimdışısınız, kenar aydınlatma duvar kağıtları almak için lütfen internetinizi açın.</string>
+  <string name="you_must">\"Kenar Aydınlatma\"nın düzgün çalışması için \"Diğer Uygulamaların Üzerinde Çizim\" iznini etkinleştirmelisiniz.</string>
+  <string name="wallpaper_description">Canlı_duvar kağıdı</string>
+  <string name="abstract_">Soyut</string>
+  <string name="nature">Doğa</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Alıntılar</string>
+  <string name="sunset">Gün batımı</string>
+  <string name="top">Tepe</string>
+  <string name="text_name_notification">Hizmeti başlat</string>
+  <string name="No_topic_selected">Konu seçilmedi</string>
+  <string name="Update_finish">Güncelleme bitişi</string>
+  <string name="loading_ad">Reklam Yükleniyor</string>
+  <string name="low_battery">Düşük Pil Kenarı Aydınlatması</string>
+  <string name="battery_one">Pil 1</string>
+  <string name="battery_two">Pil 2</string>
+  <string name="edge_service">Çalışan hizmet</string>
+  <string name="wallpaper">Duvar kağıdı</string>
+  <string name="magical_wallpaper">Canlı</string>
+  <string name="main_ongoing_download">Önizleme Oluşturuluyor</string>
+  <string name="permission_required">İzin Gerekli</string>
+  <string name="title_onboarding_1">Erişilebilirlik İzni</string>
+  <string name="description_onboarding_1">Erişilebilirlik temel bir özelliktir</string>
+  <string name="string_text_onboarding_complete_description">Temel özellik olarak Erişilebilirlik İzni, Edge Lighting\'in diğer uygulamalar ve kilit ekranı üzerinde çalışması için zorunludur</string>
+  <string name="title_onboarding_2">Erişilebilirlik İzni</string>
+  <string name="description_onboarding_2">İzin şu şekilde verilebilir: \n \n Erişilebilirlik > Yüklü Uygulamalar/Hizmetler > Edge Lighting \n VEYA \n Erişilebilirlik > Diğer İndirme Hizmetleri > Edge Lighting</string>
+  <string name="title_onboarding_3">Güzel uygulamaları kodlayın</string>
+  <string name="description_onboarding_3">Misyonumuz kullanışlı ve incelikli uygulamalar yapmaktır. Açık kaynaklı şeylerle insanların zamandan tasarruf etmesine yardımcı olmayı seviyoruz ama aynı zamanda yeni şeyler yaratarak hayatı kolaylaştırıyoruz. İyi Kodlama!</string>
+  <string name="start_text_advice">Bu uygulamaya devam ederek Kullanım Koşullarımızı ve Gizlilik Politikamızı kabul etmiş olursunuz</string>
+  <string name="start">Başlangıç</string>
+  <string name="skip">Atlamak</string>
+  <string name="finish">Sona ermek</string>
+  <string name="next">Sonraki</string>
+  <string name="back">Geri</string>
+  <string name="allow">İzin vermek</string>
+  <string name="slider_Edge">Kenar Aydınlatması</string>
+  <string name="slider_Edge1">Kenar aydınlatmasını Kenarlar üzerinde görüntüleyin</string>
+  <string name="alert_Edge">Düşük Pil Uyarısı</string>
+  <string name="alert_Edge1">Düşük pil uyarısı için turuncu kenar aydınlatması</string>
+  <string name="warning_Edge">Düşük Pil Uyarısı</string>
+  <string name="warning_Edge1">Çok düşük pil uyarısı için kırmızı kenar aydınlatması</string>
+  <string name="notch_Edge">Çentik</string>
+  <string name="notch_Edge1">Çentikle kenar aydınlatmasını etkinleştirin</string>
+  <string name="wallpaper_Edge">Duvar kağıdı</string>
+  <string name="wallpaper_Edge1">Duvar kağıdı ile kenar aydınlatması</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Klima</item>  
+    <item>USB</item>  
+    <item>Kablosuz</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Merhaba boş parça</string>
+  <string name="apply">Uygula</string>
+  <string name="applied">Uygulandı</string>
+  <string name="always_on_display_edge_lighting">Her zaman açık ekran kenarı aydınlatması</string>
+  <string name="confirm_exit">Çıkışı onayla?</string>
+  <string name="yes">Evet</string>
+  <string name="no">HAYIR</string>
+  <string name="wallpapers">Duvar Kağıtları</string>
+  <string name="ok">Tamam</string>
+  <string name="what_would_you_like_to_do">Ne yapmak istersin?</string>
+  <string name="set_home_screen">Ana Ekranı Ayarla</string>
+  <string name="set_lock_screen">Kilit Ekranını Ayarla</string>
+  <string name="set_both_screens">Her İki Ekranı da Ayarla</string>
+  <string name="adjust_screen">Ekranı Ayarla</string>
+  <string name="please_wait_ad_is_loading">Lütfen bekleyin, reklam yükleniyor</string>
+  <string name="home">Ev</string>
+  <string name="edge_lighting_border">Kenar Aydınlatma Bordürü</string>
+  <string name="view_more">Daha Fazlasını Görüntüle</string>
+  <string name="brighten_up_by_stunning_edges">Çarpıcı Kenarlarla aydınlatın</string>
+  <string name="live_wallpapers">Canlı Duvar Kağıtları</string>
+  <string name="stunning_wallpapers">Çarpıcı Duvar Kağıtları</string>
+  <string name="experience_by_interactive_wallpapers">İnteraktif Duvar Kağıtları Deneyimi</string>
+  <string name="dismiss">Azletmek</string>
+  <string name="language">Dil</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
+  <string name="rate_us">Bizi Değerlendirin</string>
+  <string name="more_app">Daha Fazla Uygulama</string>
+  <string name="exit">Çıkış</string>
+  <string name="alert">Uyarı</string>
+  <string name="warning">Uyarı</string>
+  <string name="trending">Trend olan</string>
+  <string name="applying_wallpaper">Duvar Kağıdını Uygulamak</string>
+  <string name="wallpaper_applied">Duvar Kağıdı Uygulandı</string>
+  <string name="accessibility_service_level_permission">Erişilebilirlik Hizmet Düzeyi İzni:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Temel özellik olarak Erişilebilirlik İzni, Edge Lighting\'in diğer uygulamalar ve kilit ekranı üzerinde çalışması için zorunludur</string>
+  <string name="this_permission_can_be_granted_as_follow">Bu İzin aşağıdaki şekilde verilebilir:</string>
+  <string name="go_to_settings">Ayarlar\'a gidin</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Erişilebilirlik > Yüklü Uygulamalar/Hizmetler > Kenar Aydınlatma</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Erişilebilirlik > Diğer İndirme Hizmetleri > Kenar Aydınlatma</string>
+  <string name="grant_permission_now">Şimdi İzin Verilsin mi?</string>
+  <string name="later">Daha sonra</string>
+  <string name="yes_now">Evet, şimdi</string>
+</resources>

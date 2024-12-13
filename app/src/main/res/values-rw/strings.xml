@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Erekana izindi porogaramu</string>
+  <string name="open_nav">Fungura icyerekezo</string>
+  <string name="close_nav">Funga icyerekezo</string>
+  <string name="show_while_charging">Erekana mugihe uri kwishyuza</string>
+  <string name="text_enable_wallpaper">Gushoboza Igicapo</string>
+  <string name="number_of_colors">Umubare w\'amabara</string>
+  <string name="click_a_color_to_edit">Kanda ibara kugirango uhindure</string>
+  <string name="mtrl_picker_confirm">Nibyo</string>
+  <string name="SelectLanguage">Hitamo Ururimi</string>
+  <string name="text_cancel">Kureka</string>
+  <string name="text_border_type">Ubwoko bwumupaka</string>
+  <string name="text_animation_speed">Umuvuduko wa Animation</string>
+  <string name="text_border_size">Ingano yumupaka</string>
+  <string name="text_radius_top">Hejuru ya radiyo</string>
+  <string name="text_radius_bottom">Hasi ya radiyo</string>
+  <string name="text_enable_display_notch">Gushoboza Notch</string>
+  <string name="text_notch_width_top">Ubugari hejuru</string>
+  <string name="text_notch_width_bottom">Ubugari bw\'imbere</string>
+  <string name="text_notch_height">Uburebure</string>
+  <string name="text_notch_radius_top">Ikimenyetso cya radiyo hejuru</string>
+  <string name="text_notch_radius_bottom">Ikimenyetso cya radiyo hepfo</string>
+  <string name="select_wallpaper">Hitamo Igicapo</string>
+  <string name="allow_display_over_other_apps">Emera kwerekana hejuru yizindi porogaramu</string>
+  <string name="continue_">Komeza</string>
+  <string name="app_name_service">Fungura ecran hejuru</string>
+  <string name="permission_request">Gusaba uruhushya</string>
+  <string name="power_connected">Umugozi w\'amashanyarazi uhujwe</string>
+  <string name="power_disconnected">Umugozi w\'amashanyarazi waciwe</string>
+  <string name="draw_over_cancelled">Shushanya uruhushya rwo hejuru rutatanzwe. Ongera ugerageze</string>
+  <string name="draw_over_granted">Shushanya uruhushya rusaba uruhushya rwatanzwe</string>
+  <string name="app_name">Kumurika</string>
+  <string name="please_wait">Nyamuneka tegereza gukuramo Wallpaper…</string>
+  <string name="no_internet">Nta interineti</string>
+  <string name="to_use_this">Gukoresha iyi mikorere Uruhushya rwo Kuboneka rurakenewe</string>
+  <string name="draw_over_denied">Shushanya uruhushya rwo hejuru rutatanzwe. Ongera ugerageze</string>
+  <string name="no_internet_war">Nturi kumurongo nyamuneka fungura interineti yawe kugirango ubone impande zimurika.</string>
+  <string name="you_must">Ugomba gukora \"Gushushanya Kurindi Porogaramu\" uruhushya rwo \"Kumurika\" gukora neza.</string>
+  <string name="wallpaper_description">Ikibaho</string>
+  <string name="abstract_">Ibisobanuro</string>
+  <string name="nature">Kamere</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Amagambo</string>
+  <string name="sunset">Izuba rirenze</string>
+  <string name="top">Hejuru</string>
+  <string name="text_name_notification">Tangira serivisi</string>
+  <string name="No_topic_selected">Nta ngingo yatoranijwe</string>
+  <string name="Update_finish">Kuvugurura kurangiza</string>
+  <string name="loading_ad">Kuremera Ad</string>
+  <string name="low_battery">Amatara maremare</string>
+  <string name="battery_one">Batteri 1</string>
+  <string name="battery_two">Batteri 2</string>
+  <string name="edge_service">Gukora serivisi</string>
+  <string name="wallpaper">Igicapo</string>
+  <string name="magical_wallpaper">Baho</string>
+  <string name="main_ongoing_download">Kubyara</string>
+  <string name="permission_required">Uruhushya rurakenewe</string>
+  <string name="title_onboarding_1">Uruhushya rwo kugerwaho</string>
+  <string name="description_onboarding_1">Kugerwaho ni ikintu cyibanze</string>
+  <string name="string_text_onboarding_complete_description">Uruhushya rwo Kugerwaho nkibintu byingenzi ni ngombwa kugirango Edge Lighting ikore hejuru yizindi porogaramu no gufunga ecran</string>
+  <string name="title_onboarding_2">Uruhushya rwo kugerwaho</string>
+  <string name="description_onboarding_2">Uruhushya rushobora gutangwa kuburyo bukurikira: \n \n Kugerwaho> Porogaramu / Serivisi zashyizweho> Amatara yo ku mpande \n CYANGWA \n Kuboneka> Serivisi nyinshi zo gukuramo> Kumurika ku mpande</string>
+  <string name="title_onboarding_3">Kode ya porogaramu nziza</string>
+  <string name="description_onboarding_3">Inshingano yacu nugukora porogaramu zingirakamaro &amp; zoroshye. Dukunda gufasha abantu guta igihe hamwe nibintu bifungura isoko, ariko kandi tworoshya ubuzima mukurema ibintu bishya. Kode nziza!</string>
+  <string name="start_text_advice">Mugukomeza kuriyi porogaramu wemera amasezerano yo gukoresha na Politiki Yibanga</string>
+  <string name="start">Tangira</string>
+  <string name="skip">Simbuka</string>
+  <string name="finish">Kurangiza</string>
+  <string name="next">Ibikurikira</string>
+  <string name="back">Inyuma</string>
+  <string name="allow">Emera</string>
+  <string name="slider_Edge">Kumurika</string>
+  <string name="slider_Edge1">Erekana urumuri rumuri hejuru</string>
+  <string name="alert_Edge">Imenyekanisha rya Batiri nkeya</string>
+  <string name="alert_Edge1">Amatara ya orange kumatara make</string>
+  <string name="warning_Edge">Kuburira Bateri Ntoya</string>
+  <string name="warning_Edge1">Itara ritukura kumatara yo kuburira cyane</string>
+  <string name="notch_Edge">Ikimenyetso</string>
+  <string name="notch_Edge1">Gushoboza kumurika kumurongo</string>
+  <string name="wallpaper_Edge">Igicapo</string>
+  <string name="wallpaper_Edge1">Amatara yo ku mpande hamwe na Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Umugozi</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Mwaramutse igice cyuzuye</string>
+  <string name="apply">Koresha</string>
+  <string name="applied">Bikoreshwa</string>
+  <string name="always_on_display_edge_lighting">Buri gihe kumurika kumurongo</string>
+  <string name="confirm_exit">Emeza gusohoka?</string>
+  <string name="yes">Yego</string>
+  <string name="no">Oya</string>
+  <string name="wallpapers">Urupapuro</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Wifuza gukora iki?</string>
+  <string name="set_home_screen">Shyira murugo Mugaragaza</string>
+  <string name="set_lock_screen">Shiraho Gufunga Mugaragaza</string>
+  <string name="set_both_screens">Shiraho Byombi</string>
+  <string name="adjust_screen">Hindura Mugaragaza</string>
+  <string name="please_wait_ad_is_loading">Nyamuneka tegereza, iyamamaza riremerewe</string>
+  <string name="home">Murugo</string>
+  <string name="edge_lighting_border">Imipaka yo kumurika</string>
+  <string name="view_more">Reba Byinshi</string>
+  <string name="brighten_up_by_stunning_edges">Kumurika ukoresheje Impande nziza</string>
+  <string name="live_wallpapers">Igicapo kizima</string>
+  <string name="stunning_wallpapers">Igicapo gitangaje</string>
+  <string name="experience_by_interactive_wallpapers">Inararibonye by Igicapo Cyimikorere</string>
+  <string name="dismiss">Kwirukana</string>
+  <string name="language">Ururimi</string>
+  <string name="privacy_policy">Politiki Yibanga</string>
+  <string name="rate_us">Tanga amanota</string>
+  <string name="more_app">Porogaramu nyinshi</string>
+  <string name="exit">Gusohoka</string>
+  <string name="alert">Imenyesha</string>
+  <string name="warning">Iburira</string>
+  <string name="trending">Inzira</string>
+  <string name="applying_wallpaper">Koresha Igicapo</string>
+  <string name="wallpaper_applied">Urupapuro rukoreshwa</string>
+  <string name="accessibility_service_level_permission">Uruhushya rwa Serivisi Urwego Uruhushya:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Uruhushya rwo Kugerwaho nkibintu byingenzi ni ngombwa kugirango Edge Lighting ikore hejuru yizindi porogaramu no gufunga ecran</string>
+  <string name="this_permission_can_be_granted_as_follow">Uru ruhushya rushobora gutangwa ku buryo bukurikira:</string>
+  <string name="go_to_settings">Jya kuri Igenamiterere</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kugerwaho> Porogaramu / Serivisi zashyizweho> Amatara yo ku mpande</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kugerwaho> Serivisi nyinshi zo gukuramo> Kumurika impande</string>
+  <string name="grant_permission_now">Tanga uruhushya ubu?</string>
+  <string name="later">Nyuma</string>
+  <string name="yes_now">Yego, ubu</string>
+</resources>

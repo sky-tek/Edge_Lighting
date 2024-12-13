@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Намоиши барномаҳои дигар</string>
+  <string name="open_nav">Обоварии навигатсияро кушоед</string>
+  <string name="close_nav">Обоварии Навигатсияро пӯшед</string>
+  <string name="show_while_charging">Ҳангоми пуркунии барқ ​​нишон диҳед</string>
+  <string name="text_enable_wallpaper">Обои деворро фаъол созед</string>
+  <string name="number_of_colors">Шумораи рангҳо</string>
+  <string name="click_a_color_to_edit">Барои таҳрир рангеро клик кунед</string>
+  <string name="mtrl_picker_confirm">ДУРУСТ</string>
+  <string name="SelectLanguage">Забонро интихоб кунед</string>
+  <string name="text_cancel">Бекор кардан</string>
+  <string name="text_border_type">Навъи сарҳад</string>
+  <string name="text_animation_speed">Суръати аниматсия</string>
+  <string name="text_border_size">Андозаи сарҳад</string>
+  <string name="text_radius_top">Радиуси боло</string>
+  <string name="text_radius_bottom">Поёни радиус</string>
+  <string name="text_enable_display_notch">Notch-ро фаъол созед</string>
+  <string name="text_notch_width_top">Бари боло</string>
+  <string name="text_notch_width_bottom">Паҳнои поён</string>
+  <string name="text_notch_height">Баландии ченак</string>
+  <string name="text_notch_radius_top">Радиуси боло</string>
+  <string name="text_notch_radius_bottom">Поёни радиуси чуқурӣ</string>
+  <string name="select_wallpaper">Обои -ро интихоб кунед</string>
+  <string name="allow_display_over_other_apps">Ба намоиш дар болои дигар барномаҳо иҷозат диҳед</string>
+  <string name="continue_">Давом додан</string>
+  <string name="app_name_service">Қабати экранро кушоед</string>
+  <string name="permission_request">Дархости иҷозат</string>
+  <string name="power_connected">Сими барқ ​​пайваст</string>
+  <string name="power_disconnected">Сими барқ ​​ҷудо карда шудааст</string>
+  <string name="draw_over_cancelled">Иҷозати кашшофӣ то ҳол дода нашудааст. Як бори дигар санҷед</string>
+  <string name="draw_over_granted">Дархости иҷозат барои кашидани қабати болоӣ дода шуд</string>
+  <string name="app_name">Равшании канор</string>
+  <string name="please_wait">Лутфан интизор шавед Зеркашии обои…</string>
+  <string name="no_internet">Интернет нест</string>
+  <string name="to_use_this">Барои истифодаи ин хусусият Иҷозати дастрасӣ лозим аст</string>
+  <string name="draw_over_denied">Иҷозати кашшофӣ то ҳол дода нашудааст. Як бори дигар санҷед</string>
+  <string name="no_internet_war">Шумо офлайн ҳастед, лутфан интернети худро фаъол созед, то обои равшании канориро ба даст оред.</string>
+  <string name="you_must">Барои дуруст кор кардани \"Edge Lighting\" шумо бояд иҷозати \"Чашм ба дигар барномаҳоро\" фаъол созед.</string>
+  <string name="wallpaper_description">Девори_зинда</string>
+  <string name="abstract_">Реферат</string>
+  <string name="nature">Табиат</string>
+  <string name="neon">Неон</string>
+  <string name="quotes">Иқтибосҳо</string>
+  <string name="sunset">Ғуруби офтоб</string>
+  <string name="top">Боло</string>
+  <string name="text_name_notification">Хидматро оғоз кунед</string>
+  <string name="No_topic_selected">Ягон мавзӯъ интихоб нашудааст</string>
+  <string name="Update_finish">Ба охир расидани навсозӣ</string>
+  <string name="loading_ad">Боркунии реклама</string>
+  <string name="low_battery">Равшании Edge батареяи кам</string>
+  <string name="battery_one">Батарея 1</string>
+  <string name="battery_two">Батарея 2</string>
+  <string name="edge_service">Хизматрасонии иҷро</string>
+  <string name="wallpaper">Обои</string>
+  <string name="magical_wallpaper">Зиндагӣ</string>
+  <string name="main_ongoing_download">Таҳияи пешнамоиш</string>
+  <string name="permission_required">Иҷозат талаб карда мешавад</string>
+  <string name="title_onboarding_1">Иҷозати дастрасӣ</string>
+  <string name="description_onboarding_1">Дастрасӣ хусусияти асосӣ аст</string>
+  <string name="string_text_onboarding_complete_description">Иҷозати дастрасӣ ҳамчун як хусусияти асосӣ барои Edge Lighting барои кор кардан бар дигар барномаҳо ва қулф кардани экран ҳатмист.</string>
+  <string name="title_onboarding_2">Иҷозати дастрасӣ</string>
+  <string name="description_onboarding_2">Иҷозатро ба таври зерин додан мумкин аст: \n \n Дастрасӣ > Барномаҳо/хизматҳои насбшуда > Равшании Edge \n Ё \n Дастрасӣ > Хидматҳои зеркашии иловагӣ > Равшании Edge</string>
+  <string name="title_onboarding_3">Барномаҳои зеборо рамзгузорӣ кунед</string>
+  <string name="description_onboarding_3">Вазифаи мо сохтани барномаҳои муфид ва нозук аст. Мо дӯст медорем, ки ба одамон барои сарфаи вақт бо маводи кушодаасос кӯмак расонанд, аммо мо инчунин тавассути эҷод кардани чизҳои нав ҳаётро осон мегардонем. Рамзгузории хуб!</string>
+  <string name="start_text_advice">Бо идома додани ин барнома шумо ба Шартҳои истифода ва Сиёсати махфияти мо розӣ мешавед</string>
+  <string name="start">Оғоз</string>
+  <string name="skip">Гузаштан</string>
+  <string name="finish">Анҷом</string>
+  <string name="next">Баъдӣ</string>
+  <string name="back">Бозгашт</string>
+  <string name="allow">Иҷозат диҳед</string>
+  <string name="slider_Edge">Равшании канор</string>
+  <string name="slider_Edge1">Равшании канориро дар болои Edges нишон диҳед</string>
+  <string name="alert_Edge">Огоҳии ками батарея</string>
+  <string name="alert_Edge1">Равшании канори норанҷӣ барои огоҳии ками батарея</string>
+  <string name="warning_Edge">Огоҳии ками батарея</string>
+  <string name="warning_Edge1">Равшании канори сурх барои огоҳии батареяи хеле кам</string>
+  <string name="notch_Edge">Ноч</string>
+  <string name="notch_Edge1">Равшании канориро бо ночиз фаъол созед</string>
+  <string name="wallpaper_Edge">Обои</string>
+  <string name="wallpaper_Edge1">Равшании канор бо обои</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>Бесим</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Салом порчаи холӣ</string>
+  <string name="apply">Муроҷиат кунед</string>
+  <string name="applied">Татбик карда шудааст</string>
+  <string name="always_on_display_edge_lighting">Ҳамеша равшании канори намоиш</string>
+  <string name="confirm_exit">Хуруҷро тасдиқ кунед?</string>
+  <string name="yes">Бале</string>
+  <string name="no">Не</string>
+  <string name="wallpapers">Обои обои</string>
+  <string name="ok">Дуруст</string>
+  <string name="what_would_you_like_to_do">Шумо чӣ кор кардан мехоҳед?</string>
+  <string name="set_home_screen">Танзими экрани хонагӣ</string>
+  <string name="set_lock_screen">Экрани қулфро танзим кунед</string>
+  <string name="set_both_screens">Ҳарду экранро танзим кунед</string>
+  <string name="adjust_screen">Экранро танзим кунед</string>
+  <string name="please_wait_ad_is_loading">Лутфан интизор шавед, эълон бор карда мешавад</string>
+  <string name="home">Хона</string>
+  <string name="edge_lighting_border">Сарҳади равшании канори</string>
+  <string name="view_more">Бештар дидан</string>
+  <string name="brighten_up_by_stunning_edges">Бо кунҷҳои ҳайратангез равшан кунед</string>
+  <string name="live_wallpapers">Обои зинда</string>
+  <string name="stunning_wallpapers">Обои ҳайратангез</string>
+  <string name="experience_by_interactive_wallpapers">Таҷрибаи обои интерактивӣ</string>
+  <string name="dismiss">Рад кардан</string>
+  <string name="language">Забон</string>
+  <string name="privacy_policy">Сиёсати Корбурди Маълумоти Шахсӣ</string>
+  <string name="rate_us">Ба мо баҳо диҳед</string>
+  <string name="more_app">Барномаи бештар</string>
+  <string name="exit">Баромадгоҳ</string>
+  <string name="alert">Огоҳӣ</string>
+  <string name="warning">Огоҳӣ</string>
+  <string name="trending">Тамоюл</string>
+  <string name="applying_wallpaper">Татбиқи обои</string>
+  <string name="wallpaper_applied">Обои татбиқшуда</string>
+  <string name="accessibility_service_level_permission">Иҷозати сатҳи хидматрасонии дастрасӣ:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Иҷозати дастрасӣ ҳамчун як хусусияти асосӣ барои Edge Lighting барои кор кардан бар дигар барномаҳо ва қулф кардани экран ҳатмист.</string>
+  <string name="this_permission_can_be_granted_as_follow">Ин Иҷозат метавонад ба таври зерин дода шавад:</string>
+  <string name="go_to_settings">Ба Танзимот гузаред</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Дастрасӣ > Барномаҳо/Хизматҳои насбшуда > Равшании Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Дастрасӣ > Хидматҳои зеркашии иловагӣ > Равшании Edge</string>
+  <string name="grant_permission_now">Ҳоло иҷозат диҳед?</string>
+  <string name="later">Баъдтар</string>
+  <string name="yes_now">Ҳа, ҳозир</string>
+</resources>

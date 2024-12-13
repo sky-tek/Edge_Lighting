@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".activities.WallpaperPreview">
+    <ImageView
+        android:id="@+id/fullScreenWallpaperImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <Button
+        android:id="@+id/applyButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:layout_marginBottom="16dp"
+        android:text="@string/apply"
+        android:textColor="@color/white"
+        android:background="@drawable/bg_function"
+        android:paddingStart="40dp"
+        android:paddingEnd="40dp"/>
+</RelativeLayout>

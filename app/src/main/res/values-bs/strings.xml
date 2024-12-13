@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Prikaz preko drugih aplikacija</string>
+  <string name="open_nav">Otvorite ladicu za navigaciju</string>
+  <string name="close_nav">Zatvorite ladicu za navigaciju</string>
+  <string name="show_while_charging">Prikaži tokom punjenja</string>
+  <string name="text_enable_wallpaper">Omogući pozadinu</string>
+  <string name="number_of_colors">Broj boja</string>
+  <string name="click_a_color_to_edit">Kliknite na boju za uređivanje</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Odaberite Jezik</string>
+  <string name="text_cancel">Otkaži</string>
+  <string name="text_border_type">Vrsta granice</string>
+  <string name="text_animation_speed">Brzina animacije</string>
+  <string name="text_border_size">Veličina granice</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radius bottom</string>
+  <string name="text_enable_display_notch">Enable Notch</string>
+  <string name="text_notch_width_top">Širina zareza na vrhu</string>
+  <string name="text_notch_width_bottom">Širina zareza na dnu</string>
+  <string name="text_notch_height">Visina zareza</string>
+  <string name="text_notch_radius_top">Vrh radijusa zareza</string>
+  <string name="text_notch_radius_bottom">Donji radijus zareza</string>
+  <string name="select_wallpaper">Odaberite Pozadina</string>
+  <string name="allow_display_over_other_apps">Dozvoli prikaz preko drugih aplikacija</string>
+  <string name="continue_">Nastavi</string>
+  <string name="app_name_service">Otvorite preklapanje ekrana</string>
+  <string name="permission_request">Zahtjev za dozvolu</string>
+  <string name="power_connected">Kabel za napajanje povezan</string>
+  <string name="power_disconnected">Kabl za napajanje isključen</string>
+  <string name="draw_over_cancelled">Dozvola za preklapanje crtanja još nije odobrena. Pokušajte ponovo</string>
+  <string name="draw_over_granted">Zahtjev za dozvole preklapanja crtanja je odobren</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Molimo pričekajte Preuzimanje pozadine…</string>
+  <string name="no_internet">Nema interneta</string>
+  <string name="to_use_this">Za korištenje ove funkcije potrebna je dozvola za pristupačnost</string>
+  <string name="draw_over_denied">Dozvola za preklapanje crtanja još nije odobrena. Pokušajte ponovo</string>
+  <string name="no_internet_war">Niste na mreži, uključite internet da dobijete pozadine sa ivičnim osvjetljenjem.</string>
+  <string name="you_must">Morate omogućiti dozvolu \"Draw Over Other Apps\" da bi \"Edge Lighting\" ispravno funkcionirao.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Priroda</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Citati</string>
+  <string name="sunset">Zalazak sunca</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Započnite servis</string>
+  <string name="No_topic_selected">Nije odabrana nijedna tema</string>
+  <string name="Update_finish">Završetak ažuriranja</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Edge lighting low-battery</string>
+  <string name="battery_one">Baterija 1</string>
+  <string name="battery_two">Baterija 2</string>
+  <string name="edge_service">Running service</string>
+  <string name="wallpaper">Pozadina</string>
+  <string name="magical_wallpaper">Uživo</string>
+  <string name="main_ongoing_download">Generiranje pregleda</string>
+  <string name="permission_required">Dozvola je potrebna</string>
+  <string name="title_onboarding_1">Dozvola za pristup</string>
+  <string name="description_onboarding_1">Pristupačnost je osnovna karakteristika</string>
+  <string name="string_text_onboarding_complete_description">Dozvola za pristupačnost kao osnovna funkcija je neophodna da Edge Lighting radi preko drugih aplikacija i zaključanog ekrana</string>
+  <string name="title_onboarding_2">Dozvola za pristup</string>
+  <string name="description_onboarding_2">Dozvola se može dati na sljedeći način: \n \n Pristupačnost > Instalirane aplikacije/usluge > Edge Lighting \n ILI \n Pristupačnost > Više usluga preuzimanja > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodirajte prelijepe aplikacije</string>
+  <string name="description_onboarding_3">Naša misija je da napravimo korisne i suptilne aplikacije. Volimo da pomažemo ljudima da uštede vrijeme sa otvorenim izvorima, ali također olakšavamo život stvarajući nove stvari. Good Coding!</string>
+  <string name="start_text_advice">Nastavkom korištenja ove aplikacije slažete se s našim Uvjetima korištenja i Politikom privatnosti</string>
+  <string name="start">Počni</string>
+  <string name="skip">Skip</string>
+  <string name="finish">Završi</string>
+  <string name="next">Sledeći</string>
+  <string name="back">Nazad</string>
+  <string name="allow">Dozvoli</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Prikažite osvetljenje ivica preko ivica</string>
+  <string name="alert_Edge">Upozorenje o niskoj bateriji</string>
+  <string name="alert_Edge1">Narandžasto svjetlo na ivici za upozorenje na nisku bateriju</string>
+  <string name="warning_Edge">Upozorenje o niskoj bateriji</string>
+  <string name="warning_Edge1">Osvetljenje crvene ivice za upozorenje o veoma niskoj bateriji</string>
+  <string name="notch_Edge">Zarez</string>
+  <string name="notch_Edge1">Omogućite osvetljenje ivica sa zarezom</string>
+  <string name="wallpaper_Edge">Pozadina</string>
+  <string name="wallpaper_Edge1">Osvetljenje ivica sa tapetama</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Bežični</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Zdravo, prazan fragment</string>
+  <string name="apply">Prijavite se</string>
+  <string name="applied">Primijenjeno</string>
+  <string name="always_on_display_edge_lighting">Uvek uključeno osvetljenje ivica ekrana</string>
+  <string name="confirm_exit">Potvrditi izlaz?</string>
+  <string name="yes">Da</string>
+  <string name="no">Br</string>
+  <string name="wallpapers">Pozadine</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Šta biste željeli raditi?</string>
+  <string name="set_home_screen">Postavite početni ekran</string>
+  <string name="set_lock_screen">Postavite zaključani ekran</string>
+  <string name="set_both_screens">Postavite oba ekrana</string>
+  <string name="adjust_screen">Podesite ekran</string>
+  <string name="please_wait_ad_is_loading">Molimo pričekajte, oglas se učitava</string>
+  <string name="home">Dom</string>
+  <string name="edge_lighting_border">Ivica osvetljenja ivica</string>
+  <string name="view_more">Vidi više</string>
+  <string name="brighten_up_by_stunning_edges">Uljepšajte zadivljujućim rubovima</string>
+  <string name="live_wallpapers">Žive pozadine</string>
+  <string name="stunning_wallpapers">Zadivljujuće pozadine</string>
+  <string name="experience_by_interactive_wallpapers">Iskustvo uz interaktivne pozadine</string>
+  <string name="dismiss">Odbaci</string>
+  <string name="language">Jezik</string>
+  <string name="privacy_policy">Politika privatnosti</string>
+  <string name="rate_us">Ocenite nas</string>
+  <string name="more_app">Više aplikacija</string>
+  <string name="exit">Izlaz</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Upozorenje</string>
+  <string name="trending">U trendu</string>
+  <string name="applying_wallpaper">Primjena tapeta</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Dozvola za nivo usluge pristupačnosti:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Dozvola za pristupačnost kao osnovna funkcija je neophodna da Edge Lighting radi preko drugih aplikacija i zaključanog ekrana</string>
+  <string name="this_permission_can_be_granted_as_follow">Ova dozvola se može dati na sljedeći način:</string>
+  <string name="go_to_settings">Idite na Postavke</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Pristupačnost > Instalirane aplikacije/usluge > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Pristupačnost > Više usluga preuzimanja > Edge Lighting</string>
+  <string name="grant_permission_now">Dati dozvolu sada?</string>
+  <string name="later">Kasnije</string>
+  <string name="yes_now">Da, sada</string>
+</resources>

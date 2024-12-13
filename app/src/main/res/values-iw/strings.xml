@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">הצג מעל אפליקציות אחרות</string>
+  <string name="open_nav">פתח את מגירת הניווט</string>
+  <string name="close_nav">סגור את מגירת הניווט</string>
+  <string name="show_while_charging">הצג בזמן טעינה</string>
+  <string name="text_enable_wallpaper">אפשר טפט</string>
+  <string name="number_of_colors">מספר צבעים</string>
+  <string name="click_a_color_to_edit">לחץ על צבע כדי לערוך</string>
+  <string name="mtrl_picker_confirm">בְּסֵדֶר</string>
+  <string name="SelectLanguage">בחר שפה</string>
+  <string name="text_cancel">לְבַטֵל</string>
+  <string name="text_border_type">סוג גבול</string>
+  <string name="text_animation_speed">מהירות אנימציה</string>
+  <string name="text_border_size">גודל גבול</string>
+  <string name="text_radius_top">רדיוס עליון</string>
+  <string name="text_radius_bottom">רדיוס תחתון</string>
+  <string name="text_enable_display_notch">אפשר Notch</string>
+  <string name="text_notch_width_top">חלק העליון ברוחב חריץ</string>
+  <string name="text_notch_width_bottom">תחתית ברוחב חריץ</string>
+  <string name="text_notch_height">גובה חריץ</string>
+  <string name="text_notch_radius_top">חלק עליון ברדיוס חריץ</string>
+  <string name="text_notch_radius_bottom">תחתית רדיוס חריץ</string>
+  <string name="select_wallpaper">בחר טפט</string>
+  <string name="allow_display_over_other_apps">אפשר תצוגה מעל אפליקציות אחרות</string>
+  <string name="continue_">לְהַמשִׁיך</string>
+  <string name="app_name_service">פתח שכבת-על מסך</string>
+  <string name="permission_request">בקשת רשות</string>
+  <string name="power_connected">כבל חשמל מחובר</string>
+  <string name="power_disconnected">כבל חשמל מנותק</string>
+  <string name="draw_over_cancelled">הרשאת שכבת-על לא ניתנה עדיין. נסה שוב</string>
+  <string name="draw_over_granted">בקשת הרשאות ציור ניתנה</string>
+  <string name="app_name">תאורת קצה</string>
+  <string name="please_wait">אנא המתן מוריד טפט...</string>
+  <string name="no_internet">אין אינטרנט</string>
+  <string name="to_use_this">כדי להשתמש בתכונה זו נדרשת הרשאת נגישות</string>
+  <string name="draw_over_denied">הרשאת שכבת-על לא ניתנה עדיין. נסה שוב</string>
+  <string name="no_internet_war">אתה במצב לא מקוון אנא הפעל את האינטרנט שלך כדי לקבל טפטים של תאורת קצה.</string>
+  <string name="you_must">עליך להפעיל את הרשאת \"צייר מעל אפליקציות אחרות\" כדי ש\"תאורת קצה\" תפעל כראוי.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">תַקצִיר</string>
+  <string name="nature">טֶבַע</string>
+  <string name="neon">נֵאוֹן</string>
+  <string name="quotes">ציטוטים</string>
+  <string name="sunset">שְׁקִיעַת הַשֶׁמֶשׁ</string>
+  <string name="top">רֹאשׁ</string>
+  <string name="text_name_notification">התחל שירות</string>
+  <string name="No_topic_selected">לא נבחר נושא</string>
+  <string name="Update_finish">סיום עדכון</string>
+  <string name="loading_ad">טוען מודעה</string>
+  <string name="low_battery">תאורת קצה סוללה נמוכה</string>
+  <string name="battery_one">סוללה 1</string>
+  <string name="battery_two">סוללה 2</string>
+  <string name="edge_service">שירות ריצה</string>
+  <string name="wallpaper">טָפֵּט</string>
+  <string name="magical_wallpaper">לִחיוֹת</string>
+  <string name="main_ongoing_download">יצירת תצוגה מקדימה</string>
+  <string name="permission_required">נדרשת הרשאה</string>
+  <string name="title_onboarding_1">הרשאת נגישות</string>
+  <string name="description_onboarding_1">נגישות היא תכונת ליבה</string>
+  <string name="string_text_onboarding_complete_description">הרשאת הנגישות כתכונת ליבה היא חובה כדי ש-Edge Lighting תעבוד על אפליקציות אחרות ועל מסך נעילה</string>
+  <string name="title_onboarding_2">הרשאת נגישות</string>
+  <string name="description_onboarding_2">ניתן להעניק את ההרשאה באופן הבא: \n \n נגישות > אפליקציות/שירותים מותקנים > Edge Lighting \n או \n נגישות > שירותי הורדה נוספים > Edge Lighting</string>
+  <string name="title_onboarding_3">קוד אפליקציות יפות</string>
+  <string name="description_onboarding_3">המשימה שלנו היא ליצור אפליקציות שימושיות ועדינות. אנחנו אוהבים לעזור לאנשים לחסוך זמן עם דברים בקוד פתוח, אבל אנחנו גם עושים את החיים קלים יותר על ידי יצירת דברים חדשים. קידוד טוב!</string>
+  <string name="start_text_advice">על ידי המשך יישום זה אתה מסכים לתנאי השימוש ולמדיניות הפרטיות שלנו</string>
+  <string name="start">הַתחָלָה</string>
+  <string name="skip">לְדַלֵג</string>
+  <string name="finish">סִיוּם</string>
+  <string name="next">הַבָּא</string>
+  <string name="back">בְּחֲזָרָה</string>
+  <string name="allow">לְהַתִיר</string>
+  <string name="slider_Edge">תאורת קצה</string>
+  <string name="slider_Edge1">הצג תאורת קצה מעל קצוות</string>
+  <string name="alert_Edge">התראת סוללה חלשה</string>
+  <string name="alert_Edge1">תאורת קצה כתומה להתראת סוללה חלשה</string>
+  <string name="warning_Edge">אזהרת סוללה חלשה</string>
+  <string name="warning_Edge1">תאורת קצה אדומה לאזהרת סוללה חלשה מאוד</string>
+  <string name="notch_Edge">לַחֲרוֹץ</string>
+  <string name="notch_Edge1">אפשר תאורת קצה עם חריץ</string>
+  <string name="wallpaper_Edge">טָפֵּט</string>
+  <string name="wallpaper_Edge1">תאורת קצה עם טפט</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>אַלחוּט</item> 
+  </string-array>
+  <string name="hello_blank_fragment">שלום קטע ריק</string>
+  <string name="apply">לִפְנוֹת</string>
+  <string name="applied">הוחל</string>
+  <string name="always_on_display_edge_lighting">תאורת קצה תמיד מוצגת</string>
+  <string name="confirm_exit">לאשר יציאה?</string>
+  <string name="yes">כֵּן</string>
+  <string name="no">לֹא</string>
+  <string name="wallpapers">טפטים</string>
+  <string name="ok">בְּסֵדֶר</string>
+  <string name="what_would_you_like_to_do">מה היית רוצה לעשות?</string>
+  <string name="set_home_screen">הגדר את מסך הבית</string>
+  <string name="set_lock_screen">הגדר מסך נעילה</string>
+  <string name="set_both_screens">הגדר את שני המסכים</string>
+  <string name="adjust_screen">התאם מסך</string>
+  <string name="please_wait_ad_is_loading">אנא המתן, המודעה נטענת</string>
+  <string name="home">בַּיִת</string>
+  <string name="edge_lighting_border">גבול תאורת קצה</string>
+  <string name="view_more">הצג עוד</string>
+  <string name="brighten_up_by_stunning_edges">להאיר על ידי קצוות מדהימים</string>
+  <string name="live_wallpapers">רקעים חיים</string>
+  <string name="stunning_wallpapers">טפטים מדהימים</string>
+  <string name="experience_by_interactive_wallpapers">ניסיון על ידי טפטים אינטראקטיביים</string>
+  <string name="dismiss">לְפַטֵר</string>
+  <string name="language">שָׂפָה</string>
+  <string name="privacy_policy">מדיניות פרטיות</string>
+  <string name="rate_us">דרג אותנו</string>
+  <string name="more_app">עוד אפליקציה</string>
+  <string name="exit">יְצִיאָה</string>
+  <string name="alert">עֵרָנִי</string>
+  <string name="warning">אַזהָרָה</string>
+  <string name="trending">מגמות</string>
+  <string name="applying_wallpaper">החלת טפט</string>
+  <string name="wallpaper_applied">טפט הוחל</string>
+  <string name="accessibility_service_level_permission">הרשאת רמת שירות נגישות:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">הרשאת הנגישות כתכונת ליבה היא חובה כדי ש-Edge Lighting תעבוד על אפליקציות אחרות ועל מסך נעילה</string>
+  <string name="this_permission_can_be_granted_as_follow">הרשאה זו יכולה להינתן באופן הבא:</string>
+  <string name="go_to_settings">עבור אל הגדרות</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">נגישות > אפליקציות/שירותים מותקנים > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">נגישות > שירותי הורדה נוספים > Edge Lighting</string>
+  <string name="grant_permission_now">לתת רשות עכשיו?</string>
+  <string name="later">מְאוּחָר יוֹתֵר</string>
+  <string name="yes_now">כן, עכשיו</string>
+</resources>

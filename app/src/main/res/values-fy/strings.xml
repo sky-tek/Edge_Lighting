@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Werjaan oer oare apps</string>
+  <string name="open_nav">Iepenje de navigaasjelade</string>
+  <string name="close_nav">Slute Navigaasjelade</string>
+  <string name="show_while_charging">Lit sjen by it opladen</string>
+  <string name="text_enable_wallpaper">Wallpaper ynskeakelje</string>
+  <string name="number_of_colors">Oantal kleuren</string>
+  <string name="click_a_color_to_edit">Klikje op in kleur om te bewurkjen</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Selektearje Taal</string>
+  <string name="text_cancel">Ofbrekke</string>
+  <string name="text_border_type">Border type</string>
+  <string name="text_animation_speed">Animation snelheid</string>
+  <string name="text_border_size">Border grutte</string>
+  <string name="text_radius_top">Radius boppe</string>
+  <string name="text_radius_bottom">Radius ûnder</string>
+  <string name="text_enable_display_notch">Notch ynskeakelje</string>
+  <string name="text_notch_width_top">Notch breedte top</string>
+  <string name="text_notch_width_bottom">Notch breedte boaiem</string>
+  <string name="text_notch_height">Notch hichte</string>
+  <string name="text_notch_radius_top">Kerf radius top</string>
+  <string name="text_notch_radius_bottom">Notch radius boaiem</string>
+  <string name="select_wallpaper">Selektearje Wallpaper</string>
+  <string name="allow_display_over_other_apps">Tastean werjefte oer oare apps</string>
+  <string name="continue_">Trochgean</string>
+  <string name="app_name_service">Iepenje skermoverlay</string>
+  <string name="permission_request">Tastimming Fersyk</string>
+  <string name="power_connected">Power Kabel ferbûn</string>
+  <string name="power_disconnected">Power Kabel loskeppele</string>
+  <string name="draw_over_cancelled">Tastimming foar tekenje-overlay is noch net ferliend. Besykje opnij</string>
+  <string name="draw_over_granted">Fersyk foar tastimming foar tekenje oerlay ferliend</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Wachtsje asjebleaft Wallpaper Downloading...</string>
+  <string name="no_internet">Gjin ynternet</string>
+  <string name="to_use_this">Om dizze funksje te brûken, is tagong tastimming nedich</string>
+  <string name="draw_over_denied">Tastimming foar tekenje-overlay is noch net ferliend. Besykje opnij</string>
+  <string name="no_internet_war">Jo binne offline, skeakelje asjebleaft jo ynternet oan om wallpapers foar râneferljochting te krijen.</string>
+  <string name="you_must">Jo moatte tastimming \"Teken oer oare apps\" ynskeakelje foar \"Rânferljochting\" om goed te wurkjen.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Natuer</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Sunset</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Start tsjinst</string>
+  <string name="No_topic_selected">Gjin ûnderwerp selektearre</string>
+  <string name="Update_finish">Update finish</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Low Battery Edge Lighting</string>
+  <string name="battery_one">Batterij 1</string>
+  <string name="battery_two">Batterij 2</string>
+  <string name="edge_service">Running tsjinst</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Libje</string>
+  <string name="main_ongoing_download">Generearje Preview</string>
+  <string name="permission_required">Tastimming fereaske</string>
+  <string name="title_onboarding_1">Tagonklikheid Tastimming</string>
+  <string name="description_onboarding_1">Tagonklikheid is in kearnfunksje</string>
+  <string name="string_text_onboarding_complete_description">De tastimming foar tagonklikens as kearnfunksje is must foar Edge Lighting om te wurkjen oer oare apps en beskoattelje skerm</string>
+  <string name="title_onboarding_2">Tagonklikheid Tastimming</string>
+  <string name="description_onboarding_2">De tastimming kin as folget ferliend wurde: \n \n Tagonklikheid > Ynstallearre apps/tsjinsten > Edge Lighting \n OF \n Tagonklikheid > Mear downloadtsjinsten > Edge Lighting</string>
+  <string name="title_onboarding_3">Koade moaie apps</string>
+  <string name="description_onboarding_3">Us missy is om brûkbere en subtile apps te meitsjen. Wy hâlde fan minsken te helpen om tiid te besparjen mei dingen mei iepen boarne, mar wy meitsje it libben ek makliker troch nije dingen te meitsjen. Goede kodearring!</string>
+  <string name="start_text_advice">Troch troch te gean op dizze applikaasje, geane jo akkoard mei ús gebrûksbetingsten en privacybelied</string>
+  <string name="start">Start</string>
+  <string name="skip">Oerslaan</string>
+  <string name="finish">Ein</string>
+  <string name="next">Folgjende</string>
+  <string name="back">Rêch</string>
+  <string name="allow">Talitte</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Display râne ferljochting oer Edges</string>
+  <string name="alert_Edge">Alarm foar lege batterij</string>
+  <string name="alert_Edge1">Oranje râne ferljochting foar lege batterij warskôging</string>
+  <string name="warning_Edge">Warskôging foar lege batterij</string>
+  <string name="warning_Edge1">Reade râneferljochting foar warskôging foar heul lege batterij</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Rânferljochting ynskeakelje mei notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge ferljochting mei Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hallo leech fragmint</string>
+  <string name="apply">Tapasse</string>
+  <string name="applied">Oanfrege</string>
+  <string name="always_on_display_edge_lighting">Altyd op display râne ferljochting</string>
+  <string name="confirm_exit">Útgong befestigje?</string>
+  <string name="yes">Ja</string>
+  <string name="no">Nee</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Wat wolle jo dwaan?</string>
+  <string name="set_home_screen">Thússkerm ynstelle</string>
+  <string name="set_lock_screen">Stel Lock Screen yn</string>
+  <string name="set_both_screens">Set beide skermen</string>
+  <string name="adjust_screen">Skerm oanpasse</string>
+  <string name="please_wait_ad_is_loading">Wachtsje asjebleaft, advertinsje wurdt laden</string>
+  <string name="home">Thús</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Sjoch mear</string>
+  <string name="brighten_up_by_stunning_edges">Ferljochtsje troch prachtige rânen</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">Prachtige wallpapers</string>
+  <string name="experience_by_interactive_wallpapers">Underfining troch ynteraktive wallpapers</string>
+  <string name="dismiss">Ôfwize</string>
+  <string name="language">Taal</string>
+  <string name="privacy_policy">Privacybelied</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="more_app">Mear App</string>
+  <string name="exit">Útgong</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Warskôging</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Wallpaper tapasse</string>
+  <string name="wallpaper_applied">Wallpaper tapast</string>
+  <string name="accessibility_service_level_permission">Tastimming foar tagonklikenstsjinstnivo:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">De tastimming foar tagonklikens as kearnfunksje is must foar Edge Lighting om te wurkjen oer oare apps en beskoattelje skerm</string>
+  <string name="this_permission_can_be_granted_as_follow">Dizze tastimming kin wurde ferliend as folgjend:</string>
+  <string name="go_to_settings">Gean nei Ynstellings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Tagonklikheid> Ynstalleare apps/tsjinsten> Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Tagonklikheid > Mear downloadtsjinsten > Edge Lighting</string>
+  <string name="grant_permission_now">No tastimming jaan?</string>
+  <string name="later">Letter</string>
+  <string name="yes_now">Ja, no</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Whakaatu ki runga i etahi atu taupānga</string>
+  <string name="open_nav">Whakatuwherahia te Kaituku Whakaterenga</string>
+  <string name="close_nav">Kati Whakaterenga Kaituku</string>
+  <string name="show_while_charging">Whakaatu i te wa e utu ana</string>
+  <string name="text_enable_wallpaper">Whakahohehia te pepapātū</string>
+  <string name="number_of_colors">Te maha o nga Tae</string>
+  <string name="click_a_color_to_edit">Patohia tetahi tae hei whakatika</string>
+  <string name="mtrl_picker_confirm">Pai</string>
+  <string name="SelectLanguage">Tīpakohia te Reo</string>
+  <string name="text_cancel">Whakakore</string>
+  <string name="text_border_type">Momo taitapa</string>
+  <string name="text_animation_speed">Tere hākoritanga</string>
+  <string name="text_border_size">Rahi taitapa</string>
+  <string name="text_radius_top">Ruarangi runga</string>
+  <string name="text_radius_bottom">Rorohiko raro</string>
+  <string name="text_enable_display_notch">Whakahohe kakari</string>
+  <string name="text_notch_width_top">Kaniwha whanui runga</string>
+  <string name="text_notch_width_bottom">Kaniwha whanui o raro</string>
+  <string name="text_notch_height">Te teitei kakari</string>
+  <string name="text_notch_radius_top">Kaniwha radius runga</string>
+  <string name="text_notch_radius_bottom">Kaniwha radius raro</string>
+  <string name="select_wallpaper">Tīpakohia te pepapātū</string>
+  <string name="allow_display_over_other_apps">Whakaaetia te whakaatu ki runga i etahi atu taupānga</string>
+  <string name="continue_">Haere tonu</string>
+  <string name="app_name_service">Tuwhera te whakakikorua mata</string>
+  <string name="permission_request">Tono Whakaaetanga</string>
+  <string name="power_connected">Kua honoa te taura hiko</string>
+  <string name="power_disconnected">Kua Momotu te Waea Hiko</string>
+  <string name="draw_over_cancelled">Tātuhi whakakikoruatanga kāore anō kia whakaaetia. Ngana ano</string>
+  <string name="draw_over_granted">Tuhia te tono whakaaetanga whakakikorua kua whakaaetia</string>
+  <string name="app_name">Maama Tapa</string>
+  <string name="please_wait">Tatari koa kei te tikiake pepapātū…</string>
+  <string name="no_internet">Karekau he ipurangi</string>
+  <string name="to_use_this">Hei whakamahi i tenei ahuatanga ka hiahiatia te Whakaaetanga Whakaaetanga</string>
+  <string name="draw_over_denied">Tātuhi whakakikoruatanga kāore anō kia whakaaetia. Ngana ano</string>
+  <string name="no_internet_war">Kei te tuimotu koe, whakakāhia to ipurangi ki te tiki pepapātū rama taha.</string>
+  <string name="you_must">Me whakaahei koe i te whakaaetanga \"Draw Over Other Apps\" kia pai te mahi a \"Edge Lighting\".</string>
+  <string name="wallpaper_description">Pepapātū ora</string>
+  <string name="abstract_">Putanga</string>
+  <string name="nature">Taiao</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Nga korero</string>
+  <string name="sunset">Toto o te ra</string>
+  <string name="top">Runga</string>
+  <string name="text_name_notification">Tīmatahia te ratonga</string>
+  <string name="No_topic_selected">Kaore he kaupapa i tohua</string>
+  <string name="Update_finish">Whakahou mutunga</string>
+  <string name="loading_ad">Uta Ad</string>
+  <string name="low_battery">Maama Hiko Pikohiko Iti</string>
+  <string name="battery_one">Pūhiko 1</string>
+  <string name="battery_two">Pūhiko 2</string>
+  <string name="edge_service">Ratonga rere</string>
+  <string name="wallpaper">Pepapātū</string>
+  <string name="magical_wallpaper">Ora</string>
+  <string name="main_ongoing_download">Whakaputa Arokite</string>
+  <string name="permission_required">Me Whakaaetanga</string>
+  <string name="title_onboarding_1">Whakaaetanga Whakaaetanga</string>
+  <string name="description_onboarding_1">Ko te urunga tetahi waahanga matua</string>
+  <string name="string_text_onboarding_complete_description">Ko te Whakaaetanga Whakaaetanga hei waahanga matua mo Edge Lighting ki te mahi i runga i etahi atu taupānga me te mata maukati</string>
+  <string name="title_onboarding_2">Whakaaetanga Whakaaetanga</string>
+  <string name="description_onboarding_2">Ka taea te Whakaaetanga e whai ake nei: \n \n Whakaaetanga > Taupānga/Ratonga Kua Tautahia > Rarama Tawhito \n RĀNEI \n Whakaaetanga > Ratonga Tikiake Anō > Rarama Tawhito</string>
+  <string name="title_onboarding_3">Waehere taupānga ataahua</string>
+  <string name="description_onboarding_3">Ko ta maatau kaupapa he hanga tono whaihua me te ngawari. He pai ki a matou te awhina i nga tangata ki te penapena wa me nga taonga tuwhera-puna, engari ka ngawari ake te oranga ma te hanga mea hou. Pai Whakawaehere!</string>
+  <string name="start_text_advice">Ma te haere tonu i tenei tono ka whakaae koe ki a maatau Ture Whakamahi me te Kaupapahere Whaiaro</string>
+  <string name="start">Tīmata</string>
+  <string name="skip">Tīpoka</string>
+  <string name="finish">Whakaoti</string>
+  <string name="next">Whai muri</string>
+  <string name="back">Whakamuri</string>
+  <string name="allow">Whakaae</string>
+  <string name="slider_Edge">Maama Tapa</string>
+  <string name="slider_Edge1">Whakaatuhia te rama taha ki runga i nga Tapa</string>
+  <string name="alert_Edge">Matohi Puhiko Iti</string>
+  <string name="alert_Edge1">He rama karaka taha mo te matohi iti o te pākahiko</string>
+  <string name="warning_Edge">Whakatupato Pūhiko Iti</string>
+  <string name="warning_Edge1">Nga rama taha whero mo te whakatupato i te pākahiko iti rawa</string>
+  <string name="notch_Edge">Kaniwha</string>
+  <string name="notch_Edge1">Whakahohe rama taha ki te kakari</string>
+  <string name="wallpaper_Edge">Pepapātū</string>
+  <string name="wallpaper_Edge1">Te rama taha me te pepapātū</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Ahokore</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Kia ora kongakonga patea</string>
+  <string name="apply">Tonoa</string>
+  <string name="applied">Kua tono</string>
+  <string name="always_on_display_edge_lighting">I nga wa katoa i runga i nga rama taha whakaatu</string>
+  <string name="confirm_exit">Whakaū Putanga ?</string>
+  <string name="yes">Ae</string>
+  <string name="no">Kao</string>
+  <string name="wallpapers">Pepapātū</string>
+  <string name="ok">Pai</string>
+  <string name="what_would_you_like_to_do">He aha taau e hiahia ana?</string>
+  <string name="set_home_screen">Tautuhi Mata Kainga</string>
+  <string name="set_lock_screen">Tautuhi Mata Maukati</string>
+  <string name="set_both_screens">Whakaritea nga Mata e rua</string>
+  <string name="adjust_screen">Whakaritea Mata</string>
+  <string name="please_wait_ad_is_loading">Tatari koa, kei te uta te panui</string>
+  <string name="home">Kainga</string>
+  <string name="edge_lighting_border">Taitapa Rama Taitapa</string>
+  <string name="view_more">Tiro atu</string>
+  <string name="brighten_up_by_stunning_edges">Whakamaramahia e Edges whakamiharo</string>
+  <string name="live_wallpapers">Nga Pepapepa Ora</string>
+  <string name="stunning_wallpapers">Pepapātū Ataahua</string>
+  <string name="experience_by_interactive_wallpapers">He wheako na nga Pepapata Tauwhitiwhiti</string>
+  <string name="dismiss">Whakakore</string>
+  <string name="language">Reo</string>
+  <string name="privacy_policy">Kaupapahere Tūmataiti</string>
+  <string name="rate_us">Whakatauria Tatou</string>
+  <string name="more_app">Ētahi atu App</string>
+  <string name="exit">Putanga</string>
+  <string name="alert">Matohi</string>
+  <string name="warning">Whakatupato</string>
+  <string name="trending">Kei runga i te ahua</string>
+  <string name="applying_wallpaper">Te tono pepapātū</string>
+  <string name="wallpaper_applied">Pepapepa Whakamahia</string>
+  <string name="accessibility_service_level_permission">Whakaaetanga Taumata Ratonga Urunga:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ko te Whakaaetanga Whakaaetanga hei waahanga matua mo Edge Lighting ki te mahi i runga i etahi atu taupānga me te mata maukati</string>
+  <string name="this_permission_can_be_granted_as_follow">Ka taea te tuku i tenei Whakaaetanga penei:</string>
+  <string name="go_to_settings">Haere ki Tautuhinga</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Te Whakaaetanga > Taupānga/Ratonga Kua Tautaia > Rarama Tawhito</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Te Whakaaetanga > Nga Ratonga Tango Atu Ake > Rarama Tawhito</string>
+  <string name="grant_permission_now">Tuku Whakaae Inaianei?</string>
+  <string name="later">I muri mai</string>
+  <string name="yes_now">Ae, inaianei</string>
+</resources>

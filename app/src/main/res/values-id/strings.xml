@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Tampilkan di atas aplikasi lain</string>
+  <string name="open_nav">Buka Laci Navigasi</string>
+  <string name="close_nav">Tutup Laci Navigasi</string>
+  <string name="show_while_charging">Tampilkan saat mengisi daya</string>
+  <string name="text_enable_wallpaper">Aktifkan Wallpaper</string>
+  <string name="number_of_colors">Jumlah Warna</string>
+  <string name="click_a_color_to_edit">Klik warna untuk diedit</string>
+  <string name="mtrl_picker_confirm">OKE</string>
+  <string name="SelectLanguage">Pilih Bahasa</string>
+  <string name="text_cancel">Membatalkan</string>
+  <string name="text_border_type">Jenis perbatasan</string>
+  <string name="text_animation_speed">Kecepatan animasi</string>
+  <string name="text_border_size">Ukuran perbatasan</string>
+  <string name="text_radius_top">Radius atas</string>
+  <string name="text_radius_bottom">Radius bawah</string>
+  <string name="text_enable_display_notch">Aktifkan Takik</string>
+  <string name="text_notch_width_top">Bagian atas lebar takik</string>
+  <string name="text_notch_width_bottom">Lebar takik bagian bawah</string>
+  <string name="text_notch_height">Tinggi takik</string>
+  <string name="text_notch_radius_top">Jari-jari takik di bagian atas</string>
+  <string name="text_notch_radius_bottom">Jari-jari takik bagian bawah</string>
+  <string name="select_wallpaper">Pilih Wallpaper</string>
+  <string name="allow_display_over_other_apps">Izinkan tampilan di aplikasi lain</string>
+  <string name="continue_">Melanjutkan</string>
+  <string name="app_name_service">Buka hamparan layar</string>
+  <string name="permission_request">Permintaan Izin</string>
+  <string name="power_connected">Kabel Listrik Tersambung</string>
+  <string name="power_disconnected">Kabel Listrik Terputus</string>
+  <string name="draw_over_cancelled">Izin menggambar overlay belum diberikan. Coba lagi</string>
+  <string name="draw_over_granted">Permintaan izin hamparan gambar diberikan</string>
+  <string name="app_name">Pencahayaan Tepi</string>
+  <string name="please_wait">Harap tunggu Pengunduhan Wallpaper…</string>
+  <string name="no_internet">Tidak ada internet</string>
+  <string name="to_use_this">Untuk menggunakan fitur ini, Izin Aksesibilitas diperlukan</string>
+  <string name="draw_over_denied">Izin menggambar overlay belum diberikan. Coba lagi</string>
+  <string name="no_internet_war">Anda sedang offline, silakan nyalakan internet Anda untuk mendapatkan wallpaper pencahayaan tepi.</string>
+  <string name="you_must">Anda harus mengaktifkan izin \"Draw Over Other Apps\" agar \"Edge Lighting\" berfungsi dengan baik.</string>
+  <string name="wallpaper_description">Wallpaper_hidup</string>
+  <string name="abstract_">Abstrak</string>
+  <string name="nature">Alam</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Kutipan</string>
+  <string name="sunset">Matahari terbenam</string>
+  <string name="top">Atas</string>
+  <string name="text_name_notification">Mulai layanan</string>
+  <string name="No_topic_selected">Tidak ada topik yang dipilih</string>
+  <string name="Update_finish">Pembaruan selesai</string>
+  <string name="loading_ad">Memuat Iklan</string>
+  <string name="low_battery">Pencahayaan Tepi Baterai Rendah</string>
+  <string name="battery_one">Baterai 1</string>
+  <string name="battery_two">Baterai 2</string>
+  <string name="edge_service">Layanan berjalan</string>
+  <string name="wallpaper">Kertas dinding</string>
+  <string name="magical_wallpaper">Hidup</string>
+  <string name="main_ongoing_download">Menghasilkan Pratinjau</string>
+  <string name="permission_required">Izin Diperlukan</string>
+  <string name="title_onboarding_1">Izin Aksesibilitas</string>
+  <string name="description_onboarding_1">Aksesibilitas adalah fitur inti</string>
+  <string name="string_text_onboarding_complete_description">Izin Aksesibilitas sebagai fitur inti adalah keharusan agar Edge Lighting dapat berfungsi pada aplikasi lain dan mengunci layar</string>
+  <string name="title_onboarding_2">Izin Aksesibilitas</string>
+  <string name="description_onboarding_2">Izin dapat diberikan sebagai berikut: \n \n Aksesibilitas > Aplikasi/Layanan Terinstal > Edge Lighting \n ATAU \n Aksesibilitas > Layanan Unduhan Lainnya > Edge Lighting</string>
+  <string name="title_onboarding_3">Kode aplikasi yang indah</string>
+  <string name="description_onboarding_3">Misi kami adalah membuat aplikasi yang berguna &amp; halus. Kami senang membantu orang menghemat waktu dengan hal-hal sumber terbuka, namun kami juga membuat hidup lebih mudah dengan menciptakan hal-hal baru. Pengkodean yang bagus!</string>
+  <string name="start_text_advice">Dengan melanjutkan aplikasi ini, Anda menyetujui Ketentuan Penggunaan dan Kebijakan Privasi kami</string>
+  <string name="start">Awal</string>
+  <string name="skip">Melewati</string>
+  <string name="finish">Menyelesaikan</string>
+  <string name="next">Berikutnya</string>
+  <string name="back">Kembali</string>
+  <string name="allow">Mengizinkan</string>
+  <string name="slider_Edge">Pencahayaan Tepi</string>
+  <string name="slider_Edge1">Tampilkan pencahayaan tepi di atas Tepian</string>
+  <string name="alert_Edge">Peringatan Baterai Lemah</string>
+  <string name="alert_Edge1">Pencahayaan tepi oranye untuk peringatan baterai lemah</string>
+  <string name="warning_Edge">Peringatan Baterai Lemah</string>
+  <string name="warning_Edge1">Pencahayaan tepi merah untuk peringatan baterai sangat lemah</string>
+  <string name="notch_Edge">Takik</string>
+  <string name="notch_Edge1">Aktifkan pencahayaan tepi dengan takik</string>
+  <string name="wallpaper_Edge">Kertas dinding</string>
+  <string name="wallpaper_Edge1">Pencahayaan tepi dengan Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Nirkabel</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Halo fragmen kosong</string>
+  <string name="apply">Menerapkan</string>
+  <string name="applied">Terapan</string>
+  <string name="always_on_display_edge_lighting">Pencahayaan tepi layar selalu menyala</string>
+  <string name="confirm_exit">Konfirmasi Keluar?</string>
+  <string name="yes">Ya</string>
+  <string name="no">TIDAK</string>
+  <string name="wallpapers">Wallpaper</string>
+  <string name="ok">Oke</string>
+  <string name="what_would_you_like_to_do">Apa yang ingin kamu lakukan?</string>
+  <string name="set_home_screen">Setel Layar Beranda</string>
+  <string name="set_lock_screen">Setel Layar Kunci</string>
+  <string name="set_both_screens">Atur Kedua Layar</string>
+  <string name="adjust_screen">Sesuaikan Layar</string>
+  <string name="please_wait_ad_is_loading">Harap tunggu, iklan sedang dimuat</string>
+  <string name="home">Rumah</string>
+  <string name="edge_lighting_border">Perbatasan Pencahayaan Tepi</string>
+  <string name="view_more">Lihat Lebih Banyak</string>
+  <string name="brighten_up_by_stunning_edges">Cerahkan dengan Tepian yang menakjubkan</string>
+  <string name="live_wallpapers">Wallpaper Hidup</string>
+  <string name="stunning_wallpapers">Wallpaper Menakjubkan</string>
+  <string name="experience_by_interactive_wallpapers">Pengalaman dengan Wallpaper Interaktif</string>
+  <string name="dismiss">Membubarkan</string>
+  <string name="language">Bahasa</string>
+  <string name="privacy_policy">Kebijakan Privasi</string>
+  <string name="rate_us">Nilai Kami</string>
+  <string name="more_app">Aplikasi Lainnya</string>
+  <string name="exit">KELUAR</string>
+  <string name="alert">Peringatan</string>
+  <string name="warning">Peringatan</string>
+  <string name="trending">Sedang tren</string>
+  <string name="applying_wallpaper">Menerapkan Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Diterapkan</string>
+  <string name="accessibility_service_level_permission">Izin Tingkat Layanan Aksesibilitas:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Izin Aksesibilitas sebagai fitur inti adalah keharusan agar Edge Lighting dapat berfungsi pada aplikasi lain dan mengunci layar</string>
+  <string name="this_permission_can_be_granted_as_follow">Izin ini dapat diberikan sebagai berikut:</string>
+  <string name="go_to_settings">Buka Pengaturan</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aksesibilitas > Aplikasi/Layanan Terinstal > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aksesibilitas > Layanan Unduhan Lainnya > Pencahayaan Tepi</string>
+  <string name="grant_permission_now">Berikan Izin Sekarang?</string>
+  <string name="later">Nanti</string>
+  <string name="yes_now">Ya, sekarang</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Vis over andre apper</string>
+  <string name="open_nav">Åpne navigasjonsskuffen</string>
+  <string name="close_nav">Lukk navigasjonsskuffen</string>
+  <string name="show_while_charging">Vis mens du lader</string>
+  <string name="text_enable_wallpaper">Aktiver Bakgrunn</string>
+  <string name="number_of_colors">Antall farger</string>
+  <string name="click_a_color_to_edit">Klikk på en farge for å redigere</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Velg Språk</string>
+  <string name="text_cancel">Kansellere</string>
+  <string name="text_border_type">Border type</string>
+  <string name="text_animation_speed">Animasjonshastighet</string>
+  <string name="text_border_size">Kantstørrelse</string>
+  <string name="text_radius_top">Radius topp</string>
+  <string name="text_radius_bottom">Radius nederst</string>
+  <string name="text_enable_display_notch">Aktiver Notch</string>
+  <string name="text_notch_width_top">Hakk bredde topp</string>
+  <string name="text_notch_width_bottom">Hakk bredde bunn</string>
+  <string name="text_notch_height">Hakkhøyde</string>
+  <string name="text_notch_radius_top">Topp med hakkradius</string>
+  <string name="text_notch_radius_bottom">Hakk radius bunn</string>
+  <string name="select_wallpaper">Velg Bakgrunn</string>
+  <string name="allow_display_over_other_apps">Tillat visning over andre apper</string>
+  <string name="continue_">Fortsette</string>
+  <string name="app_name_service">Åpne skjermoverlegg</string>
+  <string name="permission_request">Tillatelsesforespørsel</string>
+  <string name="power_connected">Strømkabel tilkoblet</string>
+  <string name="power_disconnected">Strømkabel frakoblet</string>
+  <string name="draw_over_cancelled">Tillatelse for tegneoverlegg er ikke gitt ennå. Prøv igjen</string>
+  <string name="draw_over_granted">Forespørsel om tillatelser for tegneoverlegg ble gitt</string>
+  <string name="app_name">Kantbelysning</string>
+  <string name="please_wait">Vennligst vent Bakgrunn Laster ned...</string>
+  <string name="no_internet">Ikke internett</string>
+  <string name="to_use_this">Tilgjengelighetstillatelse kreves for å bruke denne funksjonen</string>
+  <string name="draw_over_denied">Tillatelse for tegneoverlegg er ikke gitt ennå. Prøv igjen</string>
+  <string name="no_internet_war">Du er frakoblet, vennligst slå på Internett for å få kantbelysningsbakgrunner.</string>
+  <string name="you_must">Du må aktivere «Draw Over Other Apps»-tillatelse for at «Edge Lighting» skal fungere skikkelig.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Natur</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Sitater</string>
+  <string name="sunset">Solnedgang</string>
+  <string name="top">Topp</string>
+  <string name="text_name_notification">Start tjenesten</string>
+  <string name="No_topic_selected">Ingen emne er valgt</string>
+  <string name="Update_finish">Oppdatering ferdig</string>
+  <string name="loading_ad">Laster inn annonse</string>
+  <string name="low_battery">Kantbelysning med lavt batteri</string>
+  <string name="battery_one">Batteri 1</string>
+  <string name="battery_two">Batteri 2</string>
+  <string name="edge_service">Kjører tjeneste</string>
+  <string name="wallpaper">Bakgrunn</string>
+  <string name="magical_wallpaper">Bo</string>
+  <string name="main_ongoing_download">Genererer forhåndsvisning</string>
+  <string name="permission_required">Tillatelse kreves</string>
+  <string name="title_onboarding_1">Tilgjengelighetstillatelse</string>
+  <string name="description_onboarding_1">Tilgjengelighet er en kjernefunksjon</string>
+  <string name="string_text_onboarding_complete_description">Tilgjengelighetstillatelsen som en kjernefunksjon er nødvendig for at Edge Lighting skal fungere over andre apper og låseskjerm</string>
+  <string name="title_onboarding_2">Tilgjengelighetstillatelse</string>
+  <string name="description_onboarding_2">Tillatelsen kan gis som følger: \n \n Tilgjengelighet > Installerte apper/tjenester > Edge Lighting \n ELLER \n Tilgjengelighet > Flere nedlastingstjenester > Edge Lighting</string>
+  <string name="title_onboarding_3">Kode vakre apper</string>
+  <string name="description_onboarding_3">Vårt oppdrag er å lage nyttige og subtile apper. Vi elsker å hjelpe folk til å spare tid med åpen kildekode, men vi gjør også livet enklere ved å lage nye ting. God koding!</string>
+  <string name="start_text_advice">Ved å fortsette på denne applikasjonen godtar du våre vilkår for bruk og personvernerklæring</string>
+  <string name="start">Start</string>
+  <string name="skip">Hopp over</string>
+  <string name="finish">Fullfør</string>
+  <string name="next">Neste</string>
+  <string name="back">Tilbake</string>
+  <string name="allow">Tillate</string>
+  <string name="slider_Edge">Kantbelysning</string>
+  <string name="slider_Edge1">Vis kantbelysning over Edges</string>
+  <string name="alert_Edge">Varsel om lavt batteri</string>
+  <string name="alert_Edge1">Oransje kantbelysning for lavt batterivarsling</string>
+  <string name="warning_Edge">Advarsel om lavt batteri</string>
+  <string name="warning_Edge1">Rød kantbelysning for advarsel om svært lavt batteri</string>
+  <string name="notch_Edge">Hakk</string>
+  <string name="notch_Edge1">Aktiver kantbelysning med hakk</string>
+  <string name="wallpaper_Edge">Bakgrunn</string>
+  <string name="wallpaper_Edge1">Kantbelysning med Bakgrunn</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Trådløst</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hei tomt fragment</string>
+  <string name="apply">Søke</string>
+  <string name="applied">Påført</string>
+  <string name="always_on_display_edge_lighting">Alltid på skjermkantbelysning</string>
+  <string name="confirm_exit">Bekreft avslutning?</string>
+  <string name="yes">Ja</string>
+  <string name="no">Ingen</string>
+  <string name="wallpapers">Bakgrunnsbilder</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Hva vil du gjøre?</string>
+  <string name="set_home_screen">Still inn startskjerm</string>
+  <string name="set_lock_screen">Still inn låseskjerm</string>
+  <string name="set_both_screens">Still inn begge skjermer</string>
+  <string name="adjust_screen">Juster skjermen</string>
+  <string name="please_wait_ad_is_loading">Vennligst vent, annonsen lastes inn</string>
+  <string name="home">Hjem</string>
+  <string name="edge_lighting_border">Kantbelysningskant</string>
+  <string name="view_more">Se mer</string>
+  <string name="brighten_up_by_stunning_edges">Lys opp med fantastiske Edges</string>
+  <string name="live_wallpapers">Levende bakgrunnsbilder</string>
+  <string name="stunning_wallpapers">Fantastiske bakgrunnsbilder</string>
+  <string name="experience_by_interactive_wallpapers">Erfaring med interaktive bakgrunnsbilder</string>
+  <string name="dismiss">Avskjedige</string>
+  <string name="language">Språk</string>
+  <string name="privacy_policy">Personvernerklæring</string>
+  <string name="rate_us">Vurder oss</string>
+  <string name="more_app">Mer App</string>
+  <string name="exit">Gå</string>
+  <string name="alert">Varsle</string>
+  <string name="warning">Advarsel</string>
+  <string name="trending">På vei opp</string>
+  <string name="applying_wallpaper">Bruker bakgrunn</string>
+  <string name="wallpaper_applied">Bakgrunn brukt</string>
+  <string name="accessibility_service_level_permission">Tillatelse til tilgjengelighetstjenestenivå:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Tilgjengelighetstillatelsen som en kjernefunksjon er nødvendig for at Edge Lighting skal fungere over andre apper og låseskjerm</string>
+  <string name="this_permission_can_be_granted_as_follow">Denne tillatelsen kan gis som følger:</string>
+  <string name="go_to_settings">Gå til Innstillinger</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Tilgjengelighet > Installerte apper/tjenester > Kantbelysning</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Tilgjengelighet > Flere nedlastingstjenester > Edge Lighting</string>
+  <string name="grant_permission_now">Gi tillatelse nå?</string>
+  <string name="later">Seinere</string>
+  <string name="yes_now">Ja, nå</string>
+</resources>

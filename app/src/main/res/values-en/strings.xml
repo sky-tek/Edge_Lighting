@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Display over other apps</string>
+  <string name="open_nav">Open Navigation Drawer</string>
+  <string name="close_nav">Close Navigation Drawer</string>
+  <string name="show_while_charging">Show while charging</string>
+  <string name="text_enable_wallpaper">Enable Wallpaper</string>
+  <string name="number_of_colors">Number of Colors</string>
+  <string name="click_a_color_to_edit">Click a color to edit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Select Language</string>
+  <string name="text_cancel">Cancel</string>
+  <string name="text_border_type">Border type</string>
+  <string name="text_animation_speed">Animation speed</string>
+  <string name="text_border_size">Border size</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radius bottom</string>
+  <string name="text_enable_display_notch">Enable Notch</string>
+  <string name="text_notch_width_top">Notch width top</string>
+  <string name="text_notch_width_bottom">Notch width bottom</string>
+  <string name="text_notch_height">Notch height</string>
+  <string name="text_notch_radius_top">Notch radius top</string>
+  <string name="text_notch_radius_bottom">Notch radius bottom</string>
+  <string name="select_wallpaper">Select Wallpaper</string>
+  <string name="allow_display_over_other_apps">Allow display over other apps</string>
+  <string name="continue_">Continue</string>
+  <string name="app_name_service">Open screen overlay</string>
+  <string name="permission_request">Permission Request</string>
+  <string name="power_connected">Power Cable Connected</string>
+  <string name="power_disconnected">Power Cable Disconnected</string>
+  <string name="draw_over_cancelled">Draw overlay permission not granted yet. Try again</string>
+  <string name="draw_over_granted">Draw overlay permissions request granted</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Please wait Wallpaper Downloading…</string>
+  <string name="no_internet">No internet</string>
+  <string name="to_use_this">To use this feature Accessibility Permission is required</string>
+  <string name="draw_over_denied">Draw overlay permission not granted yet. Try again</string>
+  <string name="no_internet_war">You are offline please turn on your internet to get edge lighting wallpapers.</string>
+  <string name="you_must">You must enable \"Draw Over Other Apps\" permission for \"Edge Lighting\" to work properly.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Nature</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Sunset</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Start service</string>
+  <string name="No_topic_selected">No topic selected</string>
+  <string name="Update_finish">Update finish</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Low Battery Edge Lighting</string>
+  <string name="battery_one">Battery 1</string>
+  <string name="battery_two">Battery 2</string>
+  <string name="edge_service">Running service</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Generating Preview</string>
+  <string name="permission_required">Permission Required</string>
+  <string name="title_onboarding_1">Accessibility Permission</string>
+  <string name="description_onboarding_1">Accessibility is a core feature</string>
+  <string name="string_text_onboarding_complete_description">The Accessibility Permission as a core feature is must for Edge Lighting to work over other apps and lock screen</string>
+  <string name="title_onboarding_2">Accessibility Permission</string>
+  <string name="description_onboarding_2">The Permission can be granted as follows: \n \nAccessibility > Installed Apps/Services > Edge Lighting\n OR \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Code beautiful apps</string>
+  <string name="description_onboarding_3">Our mission is to make useful &amp; subtle apps. We love help people to save time with open-source stuffs, but we also make life easier by creating new things. Good Coding!</string>
+  <string name="start_text_advice">By continuing on this application you agree to our Terms of Use and Privacy Policy</string>
+  <string name="start">Start</string>
+  <string name="skip">Skip</string>
+  <string name="finish">Finish</string>
+  <string name="next">Next</string>
+  <string name="back">Back</string>
+  <string name="allow">Allow</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Display edge lighting over Edges</string>
+  <string name="alert_Edge">Low Battery Alert</string>
+  <string name="alert_Edge1">Orange edge lighting for low battery alert</string>
+  <string name="warning_Edge">Low Battery Warning</string>
+  <string name="warning_Edge1">Red edge lighting for very low battery warning</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Enable edge lighting with notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge lighting with Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello blank fragment</string>
+  <string name="apply">Apply</string>
+  <string name="applied">Applied</string>
+  <string name="always_on_display_edge_lighting">Always on display edge lighting</string>
+  <string name="confirm_exit">Confirm Exit ?</string>
+  <string name="yes">Yes</string>
+  <string name="no">No</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">What would you like to do?</string>
+  <string name="set_home_screen">Set Home Screen</string>
+  <string name="set_lock_screen">Set Lock Screen</string>
+  <string name="set_both_screens">Set Both Screens</string>
+  <string name="adjust_screen">Adjust Screen</string>
+  <string name="please_wait_ad_is_loading">Please wait, ad is loading</string>
+  <string name="home">Home</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">Brighten up by stunning Edges</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">Stunning Wallpapers</string>
+  <string name="experience_by_interactive_wallpapers">Experience by Interactive Wallpapers</string>
+  <string name="dismiss">Dismiss</string>
+  <string name="language">Language</string>
+  <string name="privacy_policy">Privacy Policy</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="more_app">More App</string>
+  <string name="exit">Exit</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Warning</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Applying Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level Permission:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">The Accessibility Permission as a core feature is must for Edge Lighting to work over other apps and lock screen</string>
+  <string name="this_permission_can_be_granted_as_follow">This Permission can be granted as follow:</string>
+  <string name="go_to_settings">Go to Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility > Installed Apps/Services > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibility > More Download Services > Edge Lighting</string>
+  <string name="grant_permission_now">Grant Permission Now?</string>
+  <string name="later">Later</string>
+  <string name="yes_now">Yes, now</string>
+</resources>

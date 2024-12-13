@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ohechauka ambue app ári</string>
+  <string name="open_nav">Eipe’a Cajón Navegación rehegua</string>
+  <string name="close_nav">Omboty Cajón Navegación rehegua</string>
+  <string name="show_while_charging">Ohechauka ojekarga aja</string>
+  <string name="text_enable_wallpaper">Emboguata Fondo de Pantalla</string>
+  <string name="number_of_colors">Mbovy Sa’ykuéra rehegua</string>
+  <string name="click_a_color_to_edit">Emboguejy peteĩ sa’y emohenda hag̃ua</string>
+  <string name="mtrl_picker_confirm">OĨMA</string>
+  <string name="SelectLanguage">Eiporavo Ñe’ẽ</string>
+  <string name="text_cancel">Heja</string>
+  <string name="text_border_type">Tipo frontera rehegua</string>
+  <string name="text_animation_speed">Animación pya’e</string>
+  <string name="text_border_size">Frontera tuichakue</string>
+  <string name="text_radius_top">Radio yvate gotyo</string>
+  <string name="text_radius_bottom">Radio iguypegua</string>
+  <string name="text_enable_display_notch">Emboguata Muesca rehegua</string>
+  <string name="text_notch_width_top">Muesca ipekue yvate gotyo</string>
+  <string name="text_notch_width_bottom">Muesca ipekue iguy</string>
+  <string name="text_notch_height">Muesca yvatekuépe</string>
+  <string name="text_notch_radius_top">Muesca radio yvate gotyo</string>
+  <string name="text_notch_radius_bottom">Muesca radio yvy gotyo</string>
+  <string name="select_wallpaper">Eiporavo Fondo de Pantalla</string>
+  <string name="allow_display_over_other_apps">Eheja ojehechauka ambue aplicación ári</string>
+  <string name="continue_">Mbojoapy</string>
+  <string name="app_name_service">Pantalla ñembojehe’a ojeipe’ava’ekue</string>
+  <string name="permission_request">Permiso Ojejeruréva</string>
+  <string name="power_connected">Cable de Potencia Oñembojoajúva</string>
+  <string name="power_disconnected">Cable de Energía Ojedesconecta</string>
+  <string name="draw_over_cancelled">Permiso superposición dibujo rehegua noñeme’ẽi gueteri. Eñeha’ã jey</string>
+  <string name="draw_over_granted">Dibujo superposición permisos pedido oñemeꞌevaꞌekue</string>
+  <string name="app_name">Iluminación Borde rehegua</string>
+  <string name="please_wait">Por favor, eha\'arõ Wallpaper Downloading...</string>
+  <string name="no_internet">Ndaipóri internet</string>
+  <string name="to_use_this">Ko mba’ekuaarã ojepuru hag̃ua oñeikotevẽ Permiso Accesibilidad rehegua</string>
+  <string name="draw_over_denied">Permiso superposición dibujo rehegua noñeme’ẽi gueteri. Eñeha’ã jey</string>
+  <string name="no_internet_war">Nde reime offline por favor emboguejy nde internet rehupyty haĝua umi fondo de pantalla iluminación borde rehegua.</string>
+  <string name="you_must">Emboguata va’erã \"Dibujar Over Other Apps\" permiso \"Edge Lighting\" omba\'apo porã hag̃ua.</string>
+  <string name="wallpaper_description">Kuatiañe’ẽ_vivir rehegua</string>
+  <string name="abstract_">Mombyky</string>
+  <string name="nature">Tekoha</string>
+  <string name="neon">Neón rehegua</string>
+  <string name="quotes">Jojuhu</string>
+  <string name="sunset">Kuarahyresẽ</string>
+  <string name="top">Yvate</string>
+  <string name="text_name_notification">Oñepyrũ servicio</string>
+  <string name="No_topic_selected">Ndaipóri tema ojeporavóva</string>
+  <string name="Update_finish">Ombopyahu ñemohu’ã</string>
+  <string name="loading_ad">Ojekargávo Anuncio</string>
+  <string name="low_battery">Iluminación Batería Borde Bajo rehegua</string>
+  <string name="battery_one">Batería rehegua 1.1</string>
+  <string name="battery_two">Batería rehegua 2</string>
+  <string name="edge_service">Servicio oñemboguatáva</string>
+  <string name="wallpaper">Fondo de pantalla</string>
+  <string name="magical_wallpaper">Ko</string>
+  <string name="main_ongoing_download">Omoheñóivo jehechaukarã</string>
+  <string name="permission_required">Oñeikotevẽ permiso</string>
+  <string name="title_onboarding_1">Permiso ojeike haguã</string>
+  <string name="description_onboarding_1">Accesibilidad ha’e peteĩ mba’e iñimportantevéva</string>
+  <string name="string_text_onboarding_complete_description">Pe Permiso de Accesibilidad peteĩ mba’e’oka apytégui ha’e tekotevẽva Edge Lighting omba’apo hag̃ua ambue purupyrã ha pantalla bloqueo rehe</string>
+  <string name="title_onboarding_2">Permiso ojeike haguã</string>
+  <string name="description_onboarding_2">Pe Permiso ikatu oñeme’ẽ kóicha: \n \n Jeike > Aplicaciones/Servicios instalados > Edge Lighting \n TÉRÃ \n Jeike > Hetave Servicios de descarga > Edge Lighting</string>
+  <string name="title_onboarding_3">Código umi aplicación iporãva</string>
+  <string name="description_onboarding_3">Ore misión ha’e rojapo haĝua umi aplicación útil &amp; sutil. Rohayhu roipytyvõ tapichakuérape osalva hag̃ua tiempo umi mba’e código abierto reheve, ha katu avei rombohape tekove romoheñóivo mba’e pyahu. ¡Codificación porã!</string>
+  <string name="start_text_advice">Resegívo ko aplicación reacepta ore Términos de Uso ha Política de Privacidad</string>
+  <string name="start">Ñepyrũ</string>
+  <string name="skip">Jepopo</string>
+  <string name="finish">Mohu\'ã</string>
+  <string name="next">Ag̃ui</string>
+  <string name="back">Kupe</string>
+  <string name="allow">Heja</string>
+  <string name="slider_Edge">Iluminación Borde rehegua</string>
+  <string name="slider_Edge1">Ohechauka borde tesape Bordes ári</string>
+  <string name="alert_Edge">Alerta Batería Baja rehegua</string>
+  <string name="alert_Edge1">Iluminación borde naranja rehegua alerta batería michĩvape g̃uarã</string>
+  <string name="warning_Edge">Advertencia batería michĩva rehegua</string>
+  <string name="warning_Edge1">Iluminación borde pytã rehegua advertencia batería ijyvatetereívape g̃uarã</string>
+  <string name="notch_Edge">Muesca rehegua</string>
+  <string name="notch_Edge1">Emboguata iluminación borde rehegua muesca reheve</string>
+  <string name="wallpaper_Edge">Fondo de pantalla</string>
+  <string name="wallpaper_Edge1">Borde iluminación orekóva Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. Ñe’ẽpoty ryru</item>  
+    <item>2. Ñe’ẽpoty ryru</item>  
+    <item>3. Ñe’ẽpoty ryru</item>  
+    <item>4. Ñe’ẽpoty ryru</item>  
+    <item>5. Ñe’ẽpoty ryru</item>  
+    <item>6. Ñe’ẽpoty ryru</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Inalámbrico</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Maitei fragmento en blanco</string>
+  <string name="apply">Poru</string>
+  <string name="applied">Ojeaplikava’ekue</string>
+  <string name="always_on_display_edge_lighting">Akóinte ojehechaukahápe iluminación borde rehegua</string>
+  <string name="confirm_exit">Omoañete Salida ?</string>
+  <string name="yes">Heẽ</string>
+  <string name="no">Nahániri</string>
+  <string name="wallpapers">Fondos de pantalla</string>
+  <string name="ok">Oĩma</string>
+  <string name="what_would_you_like_to_do">Mbaʼépa rejapose?</string>
+  <string name="set_home_screen">Oñemohenda Pantalla de Inicio</string>
+  <string name="set_lock_screen">Oñemohenda Pantalla de Bloqueo</string>
+  <string name="set_both_screens">Emohenda Mokõive Pantalla</string>
+  <string name="adjust_screen">Pantalla Ajuste rehegua</string>
+  <string name="please_wait_ad_is_loading">Por favor, eha\'arõ, anuncio ojekarga ohóvo</string>
+  <string name="home">Óga</string>
+  <string name="edge_lighting_border">Borde Iluminación Frontera rehegua</string>
+  <string name="view_more">Ehechave</string>
+  <string name="brighten_up_by_stunning_edges">Omyesakã umi Bordes ipy’aguapýva rupive</string>
+  <string name="live_wallpapers">Wallpapers en vivo rehegua</string>
+  <string name="stunning_wallpapers">Fondos de Pantalla Impresionante</string>
+  <string name="experience_by_interactive_wallpapers">Experiencia umi Fondos de Pantalla Interactiva rupive</string>
+  <string name="dismiss">Mboyke</string>
+  <string name="language">Ñe\'ẽ</string>
+  <string name="privacy_policy">Polítika Privasida rehegua</string>
+  <string name="rate_us">Ore Calificar</string>
+  <string name="more_app">Hetave App</string>
+  <string name="exit">Ñesẽha</string>
+  <string name="alert">Marandu</string>
+  <string name="warning">Ñemongyhyje</string>
+  <string name="trending">Tendencia-pe</string>
+  <string name="applying_wallpaper">Ojeporu hagua Fondo de Pantalla</string>
+  <string name="wallpaper_applied">Fondo de Pantalla Aplicada</string>
+  <string name="accessibility_service_level_permission">Permiso Nivel Servicio de Accesibilidad rehegua:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Pe Permiso de Accesibilidad peteĩ mba’e’oka apytégui ha’e tekotevẽva Edge Lighting omba’apo hag̃ua ambue purupyrã ha pantalla bloqueo rehe</string>
+  <string name="this_permission_can_be_granted_as_follow">Ko Permiso ikatu oñeme’ẽ kóicha:</string>
+  <string name="go_to_settings">Eike Ñembohekorãme</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Jeikekuaa > Aplicaciones/Servicios oñemboguapýva > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accesibilidad > Hetave Servicio descarga rehegua > Edge Lighting</string>
+  <string name="grant_permission_now">¿Eme’ẽ Permiso Ko’áĝa?</string>
+  <string name="later">Ka\'aruve</string>
+  <string name="yes_now">Heẽ, koʼág̃a</string>
+</resources>

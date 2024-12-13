@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">दोसरा ऐप पर डिस्प्ले कइल जाला</string>
+  <string name="open_nav">नेविगेशन के दराज खोलीं</string>
+  <string name="close_nav">नेविगेशन दराज बंद करीं</string>
+  <string name="show_while_charging">चार्ज करत घरी देखाईं</string>
+  <string name="text_enable_wallpaper">वॉलपेपर सक्षम करीं</string>
+  <string name="number_of_colors">रंग के संख्या के बारे में बतावल गइल बा</string>
+  <string name="click_a_color_to_edit">संपादन करे खातिर कवनो रंग पर क्लिक करीं</string>
+  <string name="mtrl_picker_confirm">ठीक बा</string>
+  <string name="SelectLanguage">भाषा के चयन करीं</string>
+  <string name="text_cancel">मना कइ दीं</string>
+  <string name="text_border_type">सीमा के प्रकार के बा</string>
+  <string name="text_animation_speed">एनीमेशन के गति बा</string>
+  <string name="text_border_size">सीमा के आकार के बा</string>
+  <string name="text_radius_top">त्रिज्या के ऊपर बा</string>
+  <string name="text_radius_bottom">त्रिज्या के नीचे के बा</string>
+  <string name="text_enable_display_notch">नॉच के सक्षम करीं</string>
+  <string name="text_notch_width_top">पायदान चौड़ाई के ऊपर बा</string>
+  <string name="text_notch_width_bottom">पायदान चौड़ाई नीचे बा</string>
+  <string name="text_notch_height">पायदान के ऊंचाई बा</string>
+  <string name="text_notch_radius_top">पायदान त्रिज्या के ऊपर बा</string>
+  <string name="text_notch_radius_bottom">पायदान त्रिज्या के नीचे बा</string>
+  <string name="select_wallpaper">वॉलपेपर के चयन करीं</string>
+  <string name="allow_display_over_other_apps">दोसरा ऐप पर डिस्प्ले के अनुमति दीं</string>
+  <string name="continue_">चालू रखीं</string>
+  <string name="app_name_service">स्क्रीन ओवरले खोलल जाला</string>
+  <string name="permission_request">अनुमति के निहोरा कइल गइल बा</string>
+  <string name="power_connected">पावर केबल से जुड़ल बा</string>
+  <string name="power_disconnected">पावर केबल डिस्कनेक्ट हो गइल बा</string>
+  <string name="draw_over_cancelled">ड्रॉ ओवरले के अनुमति अभी तक नइखे दिहल गइल। एक बेर फेरु से कोशिश करीं</string>
+  <string name="draw_over_granted">ड्रॉ ओवरले अनुमति अनुरोध मंजूर हो गइल</string>
+  <string name="app_name">एज लाइटिंग के बा</string>
+  <string name="please_wait">कृपया इंतजार करीं वॉलपेपर डाउनलोड हो रहल बा...</string>
+  <string name="no_internet">इंटरनेट ना रहे</string>
+  <string name="to_use_this">एह फीचर के इस्तेमाल करे खातिर एक्सेसबिलिटी परमिशन के जरूरत बा</string>
+  <string name="draw_over_denied">ड्रॉ ओवरले के अनुमति अभी तक नइखे दिहल गइल। एक बेर फेरु से कोशिश करीं</string>
+  <string name="no_internet_war">रउआ ऑफलाइन बानी कृपया एज लाइटिंग वॉलपेपर पावे खातिर आपन इंटरनेट चालू करीं।</string>
+  <string name="you_must">\"एज लाइटिंग\" के सही तरीका से काम करे खातिर रउरा \"ड्रा ओवर अदर ऐप\" के अनुमति सक्षम करे के होई।</string>
+  <string name="wallpaper_description">लाइव_वालपेपर के बा</string>
+  <string name="abstract_">सारांश</string>
+  <string name="nature">चाल चलन</string>
+  <string name="neon">नीयन के बा</string>
+  <string name="quotes">उध्दरण</string>
+  <string name="sunset">सुर्यास्त</string>
+  <string name="top">ऊपर</string>
+  <string name="text_name_notification">सेवा शुरू कर दिहल जाव</string>
+  <string name="No_topic_selected">कवनो विषय ना चुनल गइल</string>
+  <string name="Update_finish">अपडेट खत्म हो गइल बा</string>
+  <string name="loading_ad">विज्ञापन लोड हो रहल बा</string>
+  <string name="low_battery">कम बैटरी एज लाइटिंग के बा</string>
+  <string name="battery_one">बैटरी 1 के बा</string>
+  <string name="battery_two">बैटरी 2 के बा</string>
+  <string name="edge_service">सेवा चल रहल बा</string>
+  <string name="wallpaper">वॉलपेपर के बा</string>
+  <string name="magical_wallpaper">जियल</string>
+  <string name="main_ongoing_download">पूर्वावलोकन पैदा कइल जा रहल बा</string>
+  <string name="permission_required">अनुमति के जरूरत बा</string>
+  <string name="title_onboarding_1">सुलभता के अनुमति दिहल गइल बा</string>
+  <string name="description_onboarding_1">सुलभता एगो मूल विशेषता ह</string>
+  <string name="string_text_onboarding_complete_description">कोर फीचर के रूप में एक्सेसबिलिटी परमिशन एज लाइटिंग के बाकी ऐप प काम करे अवुरी स्क्रीन लॉक करे खाती जरूरी बा</string>
+  <string name="title_onboarding_2">सुलभता के अनुमति दिहल गइल बा</string>
+  <string name="description_onboarding_2">अनुमति निम्नलिखित तरीका से दिहल जा सके ला: \n \n पहुँच > इंस्टॉल ऐप/सेवा > एज लाइटिंग \n या \n एक्सेसबिलिटी > अउरी डाउनलोड सेवा > एज लाइटिंग</string>
+  <string name="title_onboarding_3">सुंदर ऐप के कोड करीं</string>
+  <string name="description_onboarding_3">हमनी के मिशन उपयोगी &amp; सूक्ष्म ऐप बनावल बा। हमनी के ओपन-सोर्स सामान से लोग के समय बचावे में मदद करे में बहुत प्यार बा, लेकिन हमनी के नया चीज बना के जीवन के आसान भी बनावेनी जा। बढ़िया कोडिंग बा!</string>
+  <string name="start_text_advice">एह एप्लिकेशन पर जारी रखला से रउआ हमनी के इस्तेमाल के शर्त आ गोपनीयता नीति से सहमत बानी</string>
+  <string name="start">चालू कयिल</string>
+  <string name="skip">छोड़ दऽ</string>
+  <string name="finish">खतम करीं</string>
+  <string name="next">अगिला</string>
+  <string name="back">पीछे</string>
+  <string name="allow">आग्या दिहीं</string>
+  <string name="slider_Edge">एज लाइटिंग के बा</string>
+  <string name="slider_Edge1">एज के ऊपर किनारा प्रकाश प्रदर्शन करीं</string>
+  <string name="alert_Edge">बैटरी कम होखे के अलर्ट</string>
+  <string name="alert_Edge1">कम बैटरी अलर्ट खातिर ऑरेंज एज लाइटिंग</string>
+  <string name="warning_Edge">बैटरी कम होखे के चेतावनी</string>
+  <string name="warning_Edge1">बहुत कम बैटरी चेतावनी खातिर लाल किनारा लाइटिंग</string>
+  <string name="notch_Edge">पायदान के बा</string>
+  <string name="notch_Edge1">पायदान के साथ एज लाइटिंग सक्षम करीं</string>
+  <string name="wallpaper_Edge">वॉलपेपर के बा</string>
+  <string name="wallpaper_Edge1">वॉलपेपर के साथ किनारे के प्रकाश व्यवस्था</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. के बा</item>  
+    <item>2. के बा</item>  
+    <item>3. के बा</item>  
+    <item>4. के बा</item>  
+    <item>5. के बा</item>  
+    <item>6. के बा</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>एसी के बा</item>  
+    <item>यूएसबी के बा</item>  
+    <item>वायरलेस के बा</item> 
+  </string-array>
+  <string name="hello_blank_fragment">नमस्कार खाली टुकड़ा बा</string>
+  <string name="apply">लागू करीं</string>
+  <string name="applied">आवेदन कइल गइल</string>
+  <string name="always_on_display_edge_lighting">हमेशा डिस्प्ले एज लाइटिंग पर रहेला</string>
+  <string name="confirm_exit">बाहर निकले के पुष्टि करीं ?</string>
+  <string name="yes">हॅंं</string>
+  <string name="no">ना</string>
+  <string name="wallpapers">वॉलपेपर के बारे में बतावल गइल बा</string>
+  <string name="ok">ठीक बा</string>
+  <string name="what_would_you_like_to_do">रउरा का कइल चाहब?</string>
+  <string name="set_home_screen">होम स्क्रीन सेट करीं</string>
+  <string name="set_lock_screen">लॉक स्क्रीन सेट कइल जाला</string>
+  <string name="set_both_screens">दुनो स्क्रीन सेट करीं</string>
+  <string name="adjust_screen">स्क्रीन के समायोजित करीं</string>
+  <string name="please_wait_ad_is_loading">कृपया इंतजार करीं, विज्ञापन लोड हो रहल बा</string>
+  <string name="home">घर</string>
+  <string name="edge_lighting_border">एज लाइटिंग बॉर्डर के बा</string>
+  <string name="view_more">अउरी देखल जाव</string>
+  <string name="brighten_up_by_stunning_edges">आश्चर्यजनक एज से रोशन करीं</string>
+  <string name="live_wallpapers">लाइव वॉलपेपर बा</string>
+  <string name="stunning_wallpapers">आश्चर्यजनक वॉलपेपर बा</string>
+  <string name="experience_by_interactive_wallpapers">इंटरएक्टिव वॉलपेपर के अनुभव बा</string>
+  <string name="dismiss">खारिज</string>
+  <string name="language">भाखा</string>
+  <string name="privacy_policy">गोपनीयता नीति के बारे में बतावल गइल बा</string>
+  <string name="rate_us">हमनी के रेट करीं</string>
+  <string name="more_app">अउरी ऐप बा</string>
+  <string name="exit">निकास</string>
+  <string name="alert">चेतावनी</string>
+  <string name="warning">चेतावनी</string>
+  <string name="trending">ट्रेंड हो रहल बा</string>
+  <string name="applying_wallpaper">वॉलपेपर लागू कइल जा रहल बा</string>
+  <string name="wallpaper_applied">वॉलपेपर लागू हो गइल</string>
+  <string name="accessibility_service_level_permission">सुलभता सेवा स्तर के अनुमति बा:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">कोर फीचर के रूप में एक्सेसबिलिटी परमिशन एज लाइटिंग के बाकी ऐप प काम करे अवुरी स्क्रीन लॉक करे खाती जरूरी बा</string>
+  <string name="this_permission_can_be_granted_as_follow">ई अनुमति निम्नलिखित तरीका से दिहल जा सके ला:</string>
+  <string name="go_to_settings">सेटिंग्स में जाइए</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">पहुँच > इंस्टॉल ऐप/सेवा > एज लाइटिंग</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">सुलभता > अउरी डाउनलोड सेवा > एज लाइटिंग</string>
+  <string name="grant_permission_now">अब अनुमति दे दीं?</string>
+  <string name="later">बाद में</string>
+  <string name="yes_now">हँ, अब</string>
+</resources>

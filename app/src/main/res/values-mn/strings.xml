@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Бусад програмууд дээр харуулах</string>
+  <string name="open_nav">Навигацийн шүүгээг нээнэ үү</string>
+  <string name="close_nav">Навигацийн шүүгээг хаах</string>
+  <string name="show_while_charging">Цэнэглэх үед харуулах</string>
+  <string name="text_enable_wallpaper">Дэлгэцийн зургийг идэвхжүүлнэ үү</string>
+  <string name="number_of_colors">Өнгөний тоо</string>
+  <string name="click_a_color_to_edit">Өнгө дээр дарж засварлана уу</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Хэл сонгоно уу</string>
+  <string name="text_cancel">Цуцлах</string>
+  <string name="text_border_type">Хилийн төрөл</string>
+  <string name="text_animation_speed">Анимацын хурд</string>
+  <string name="text_border_size">Хилийн хэмжээ</string>
+  <string name="text_radius_top">Радиус дээд</string>
+  <string name="text_radius_bottom">Доод талын радиус</string>
+  <string name="text_enable_display_notch">Ховилыг идэвхжүүл</string>
+  <string name="text_notch_width_top">Ховилын өргөн дээд</string>
+  <string name="text_notch_width_bottom">Доод талын ховилын өргөн</string>
+  <string name="text_notch_height">Ховилын өндөр</string>
+  <string name="text_notch_radius_top">Ховилын радиус дээд</string>
+  <string name="text_notch_radius_bottom">Доод талын ховилын радиус</string>
+  <string name="select_wallpaper">Дэлгэцийн зураг сонгоно уу</string>
+  <string name="allow_display_over_other_apps">Бусад программ дээр харуулахыг зөвшөөрөх</string>
+  <string name="continue_">Үргэлжлүүлэх</string>
+  <string name="app_name_service">Дэлгэцийн давхаргыг нээх</string>
+  <string name="permission_request">Зөвшөөрлийн хүсэлт</string>
+  <string name="power_connected">Цахилгааны кабель холбогдсон</string>
+  <string name="power_disconnected">Цахилгааны кабель салгагдсан</string>
+  <string name="draw_over_cancelled">Зурах зөвшөөрөл хараахан олгоогүй байна. Дахин оролдоно уу</string>
+  <string name="draw_over_granted">Зураг зурах зөвшөөрлийн хүсэлтийг олгосон</string>
+  <string name="app_name">Ирмэгийн гэрэлтүүлэг</string>
+  <string name="please_wait">Түр хүлээнэ үү Дэлгэцийн зураг Татаж авч байна…</string>
+  <string name="no_internet">Интернет байхгүй</string>
+  <string name="to_use_this">Энэ функцийг ашиглахын тулд Хандалтын зөвшөөрөл шаардлагатай</string>
+  <string name="draw_over_denied">Зурах зөвшөөрөл хараахан олгоогүй байна. Дахин оролдоно уу</string>
+  <string name="no_internet_war">Та офлайн байна. Гэрэлтүүлгийн ханын зураг авахын тулд интернетээ асаана уу.</string>
+  <string name="you_must">\"Edge Lighting\" зөв ажиллахын тулд та \"Бусад программ дээр зурах\" зөвшөөрлийг идэвхжүүлэх ёстой.</string>
+  <string name="wallpaper_description">Амьд_ханын цаас</string>
+  <string name="abstract_">Хийсвэр</string>
+  <string name="nature">Байгаль</string>
+  <string name="neon">Неон</string>
+  <string name="quotes">Ишлэл</string>
+  <string name="sunset">Нар жаргах</string>
+  <string name="top">Топ</string>
+  <string name="text_name_notification">Үйлчилгээг эхлүүлэх</string>
+  <string name="No_topic_selected">Сонгосон сэдэв алга</string>
+  <string name="Update_finish">Шинэчлэлт дууслаа</string>
+  <string name="loading_ad">Зарыг ачаалж байна</string>
+  <string name="low_battery">Зай багатай ирмэгийн гэрэлтүүлэг</string>
+  <string name="battery_one">Батерей 1</string>
+  <string name="battery_two">Батерей 2</string>
+  <string name="edge_service">Ажиллаж байгаа үйлчилгээ</string>
+  <string name="wallpaper">Дэлгэцийн зураг</string>
+  <string name="magical_wallpaper">Амьд</string>
+  <string name="main_ongoing_download">Урьдчилан харахыг үүсгэж байна</string>
+  <string name="permission_required">Зөвшөөрөл шаардлагатай</string>
+  <string name="title_onboarding_1">Хандалтын зөвшөөрөл</string>
+  <string name="description_onboarding_1">Хүртээмжтэй байх нь үндсэн шинж чанар юм</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting нь бусад програмууд болон түгжээтэй дэлгэц дээр ажиллахын тулд үндсэн функц болох Хүртээмжийн зөвшөөрөл шаардлагатай.</string>
+  <string name="title_onboarding_2">Хандалтын зөвшөөрөл</string>
+  <string name="description_onboarding_2">Зөвшөөрлийг дараах байдлаар олгож болно: \n \n Хандалт > Суулгасан програм/үйлчилгээ > Edge гэрэлтүүлэг \n ЭСВЭЛ \n Хандалт > Бусад татаж авах үйлчилгээ > Edge гэрэлтүүлэг</string>
+  <string name="title_onboarding_3">Сайхан програмуудыг кодчил</string>
+  <string name="description_onboarding_3">Бидний эрхэм зорилго бол хэрэгтэй, нарийн программ бүтээх явдал юм. Бид нээлттэй эх сурвалжийн тусламжтайгаар хүмүүст цаг хугацаа хэмнэхэд нь туслах дуртай ч шинэ зүйлийг бүтээх замаар амьдралыг хөнгөвчлөх болно. Сайн кодчилол!</string>
+  <string name="start_text_advice">Энэ аппликешн дээр үргэлжлүүлэн ажилласнаар та манай ашиглалтын нөхцөл, нууцлалын бодлогыг зөвшөөрч байна</string>
+  <string name="start">Эхлэх</string>
+  <string name="skip">Алгасах</string>
+  <string name="finish">Дуусга</string>
+  <string name="next">Дараа нь</string>
+  <string name="back">Буцах</string>
+  <string name="allow">Зөвшөөрөх</string>
+  <string name="slider_Edge">Ирмэгийн гэрэлтүүлэг</string>
+  <string name="slider_Edge1">Edges дээр ирмэгийн гэрэлтүүлгийг харуулах</string>
+  <string name="alert_Edge">Батарей багатай дохио</string>
+  <string name="alert_Edge1">Бага батарейг анхааруулах улбар шар өнгийн гэрэлтүүлэг</string>
+  <string name="warning_Edge">Батерей багатай анхааруулга</string>
+  <string name="warning_Edge1">Маш бага батарейг анхааруулах улаан ирмэгийн гэрэлтүүлэг</string>
+  <string name="notch_Edge">Ховил</string>
+  <string name="notch_Edge1">Ховилтой ирмэгийн гэрэлтүүлгийг идэвхжүүлнэ</string>
+  <string name="wallpaper_Edge">Дэлгэцийн зураг</string>
+  <string name="wallpaper_Edge1">Дэлгэцийн зураг бүхий ирмэгийн гэрэлтүүлэг</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Утасгүй</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Сайн байна уу хоосон хэсэг</string>
+  <string name="apply">Өргөдөл гаргах</string>
+  <string name="applied">Хэрэглэсэн</string>
+  <string name="always_on_display_edge_lighting">Дэлгэцийн ирмэгийн гэрэлтүүлэг үргэлж дээр</string>
+  <string name="confirm_exit">Гарахыг баталгаажуулах уу?</string>
+  <string name="yes">Тиймээ</string>
+  <string name="no">Үгүй</string>
+  <string name="wallpapers">Дэлгэцийн зураг</string>
+  <string name="ok">За</string>
+  <string name="what_would_you_like_to_do">Та юу хийхийг хүсч байна вэ?</string>
+  <string name="set_home_screen">Үндсэн дэлгэцийг тохируулах</string>
+  <string name="set_lock_screen">Түгжих дэлгэцийг тохируулах</string>
+  <string name="set_both_screens">Хоёр дэлгэцийг тохируулах</string>
+  <string name="adjust_screen">Дэлгэцийг тохируулах</string>
+  <string name="please_wait_ad_is_loading">Түр хүлээнэ үү, зар ачаалж байна</string>
+  <string name="home">Гэр</string>
+  <string name="edge_lighting_border">Ирмэгийн гэрэлтүүлгийн хил</string>
+  <string name="view_more">Илүү харах</string>
+  <string name="brighten_up_by_stunning_edges">Гайхалтай ирмэгүүдээр гэрэлтүүлээрэй</string>
+  <string name="live_wallpapers">Амьд ханын зураг</string>
+  <string name="stunning_wallpapers">Гайхалтай ханын зураг</string>
+  <string name="experience_by_interactive_wallpapers">Интерактив ханын цаасны туршлага</string>
+  <string name="dismiss">Өгүүлэх</string>
+  <string name="language">Хэл</string>
+  <string name="privacy_policy">Нууцлалын бодлого</string>
+  <string name="rate_us">Биднийг үнэл</string>
+  <string name="more_app">Илүү програм</string>
+  <string name="exit">Гарах</string>
+  <string name="alert">Анхааруулга</string>
+  <string name="warning">Анхааруулга</string>
+  <string name="trending">Тренд</string>
+  <string name="applying_wallpaper">Дэлгэцийн зураг түрхэж байна</string>
+  <string name="wallpaper_applied">Дэлгэцийн зураг хэрэглэсэн</string>
+  <string name="accessibility_service_level_permission">Хандалтын үйлчилгээний түвшний зөвшөөрөл:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting нь бусад програмууд болон түгжээтэй дэлгэц дээр ажиллахын тулд үндсэн функц болох Хүртээмжийн зөвшөөрөл шаардлагатай.</string>
+  <string name="this_permission_can_be_granted_as_follow">Энэхүү зөвшөөрлийг дараах байдлаар олгож болно.</string>
+  <string name="go_to_settings">Тохиргоо руу очно уу</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Хандалт > Суулгасан програмууд/үйлчилгээнүүд > Edge гэрэлтүүлэг</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Хүртээмж > Бусад татаж авах үйлчилгээ > Edge гэрэлтүүлэг</string>
+  <string name="grant_permission_now">Одоо зөвшөөрөл олгох уу?</string>
+  <string name="later">Дараа нь</string>
+  <string name="yes_now">Тийм ээ, одоо</string>
+</resources>

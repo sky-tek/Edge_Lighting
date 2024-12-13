@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#152238" />
+    <!-- You can adjust the shape and color of the selected tab as needed -->
+</shape>

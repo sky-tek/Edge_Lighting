@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">顯示在其他應用程式之上</string>
+  <string name="open_nav">打開導航抽屜</string>
+  <string name="close_nav">關閉導航抽屜</string>
+  <string name="show_while_charging">充電時顯示</string>
+  <string name="text_enable_wallpaper">啟用壁紙</string>
+  <string name="number_of_colors">顏色數量</string>
+  <string name="click_a_color_to_edit">點擊顏色進行編輯</string>
+  <string name="mtrl_picker_confirm">好的</string>
+  <string name="SelectLanguage">選擇語言</string>
+  <string name="text_cancel">取消</string>
+  <string name="text_border_type">邊框類型</string>
+  <string name="text_animation_speed">動畫速度</string>
+  <string name="text_border_size">邊框尺寸</string>
+  <string name="text_radius_top">半徑頂</string>
+  <string name="text_radius_bottom">半徑底部</string>
+  <string name="text_enable_display_notch">啟用缺口</string>
+  <string name="text_notch_width_top">頂部缺口寬度</string>
+  <string name="text_notch_width_bottom">底部缺口寬度</string>
+  <string name="text_notch_height">缺口高度</string>
+  <string name="text_notch_radius_top">頂部缺口半徑</string>
+  <string name="text_notch_radius_bottom">凹口半徑底部</string>
+  <string name="select_wallpaper">選擇壁紙</string>
+  <string name="allow_display_over_other_apps">允許在其他應用程式上顯示</string>
+  <string name="continue_">繼續</string>
+  <string name="app_name_service">開啟螢幕覆蓋</string>
+  <string name="permission_request">許可請求</string>
+  <string name="power_connected">電源線已連接</string>
+  <string name="power_disconnected">電源線已斷開</string>
+  <string name="draw_over_cancelled">尚未授予繪製疊加權限。再試一次</string>
+  <string name="draw_over_granted">已授予繪製疊加權限請求</string>
+  <string name="app_name">邊緣照明</string>
+  <string name="please_wait">桌布下載中，請稍候...</string>
+  <string name="no_internet">沒有網路</string>
+  <string name="to_use_this">若要使用此功能，需要輔助使用權限</string>
+  <string name="draw_over_denied">尚未授予繪製疊加權限。再試一次</string>
+  <string name="no_internet_war">您處於離線狀態，請開啟網路以取得邊緣照明桌布。</string>
+  <string name="you_must">您必須啟用“Draw Over Other Apps”權限才能使“Edge Lighting”正常運作。</string>
+  <string name="wallpaper_description">動態壁紙</string>
+  <string name="abstract_">抽象的</string>
+  <string name="nature">自然</string>
+  <string name="neon">氖</string>
+  <string name="quotes">引號</string>
+  <string name="sunset">日落</string>
+  <string name="top">頂部</string>
+  <string name="text_name_notification">啟動服務</string>
+  <string name="No_topic_selected">未選擇主題</string>
+  <string name="Update_finish">更新完成</string>
+  <string name="loading_ad">載入廣告</string>
+  <string name="low_battery">低電量邊緣照明</string>
+  <string name="battery_one">電池1</string>
+  <string name="battery_two">電池2</string>
+  <string name="edge_service">運行服務</string>
+  <string name="wallpaper">壁紙</string>
+  <string name="magical_wallpaper">居住</string>
+  <string name="main_ongoing_download">生成預覽</string>
+  <string name="permission_required">需要許可</string>
+  <string name="title_onboarding_1">無障礙許可</string>
+  <string name="description_onboarding_1">可訪問性是核心功能</string>
+  <string name="string_text_onboarding_complete_description">輔助功能權限作為核心功能是邊緣照明必須在其他應用程式和鎖定螢幕上工作的必要條件</string>
+  <string name="title_onboarding_2">無障礙許可</string>
+  <string name="description_onboarding_2">可以如下授予權限： \n \n輔助功能 > 已安裝的應用程式/服務 > Edge Lighting \n或\n輔助功能 > 更多下載服務 > Edge Lighting</string>
+  <string name="title_onboarding_3">編寫漂亮的應用程式</string>
+  <string name="description_onboarding_3">我們的使命是製作有用且精緻的應用程式。我們喜歡幫助人們透過開源東西來節省時間，但我們也透過創造新事物讓生活變得更輕鬆。良好的編碼！</string>
+  <string name="start_text_advice">繼續使用此應用程式即表示您同意我們的使用條款和隱私權政策</string>
+  <string name="start">開始</string>
+  <string name="skip">跳過</string>
+  <string name="finish">結束</string>
+  <string name="next">下一個</string>
+  <string name="back">後退</string>
+  <string name="allow">允許</string>
+  <string name="slider_Edge">邊緣照明</string>
+  <string name="slider_Edge1">在邊緣上顯示邊緣照明</string>
+  <string name="alert_Edge">低電量警報</string>
+  <string name="alert_Edge1">橙色邊緣照明用於低電量警報</string>
+  <string name="warning_Edge">低電量警告</string>
+  <string name="warning_Edge1">紅色邊緣照明用於電池電量極低警告</string>
+  <string name="notch_Edge">缺口</string>
+  <string name="notch_Edge1">啟用帶有凹口的邊緣照明</string>
+  <string name="wallpaper_Edge">壁紙</string>
+  <string name="wallpaper_Edge1">帶壁紙的邊緣照明</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>交流電</item>  
+    <item>USB</item>  
+    <item>無線的</item> 
+  </string-array>
+  <string name="hello_blank_fragment">你好空白片段</string>
+  <string name="apply">申請</string>
+  <string name="applied">應用</string>
+  <string name="always_on_display_edge_lighting">始終開啟顯示邊緣照明</string>
+  <string name="confirm_exit">確認退出？</string>
+  <string name="yes">是的</string>
+  <string name="no">不</string>
+  <string name="wallpapers">壁紙</string>
+  <string name="ok">好的</string>
+  <string name="what_would_you_like_to_do">你想做什麼？</string>
+  <string name="set_home_screen">設定主螢幕</string>
+  <string name="set_lock_screen">設定鎖定畫面</string>
+  <string name="set_both_screens">設定兩個螢幕</string>
+  <string name="adjust_screen">調整螢幕</string>
+  <string name="please_wait_ad_is_loading">請稍候，廣告正在加載</string>
+  <string name="home">家</string>
+  <string name="edge_lighting_border">邊緣照明邊框</string>
+  <string name="view_more">看更多</string>
+  <string name="brighten_up_by_stunning_edges">令人驚嘆的邊緣提亮</string>
+  <string name="live_wallpapers">動態壁紙</string>
+  <string name="stunning_wallpapers">令人驚嘆的壁紙</string>
+  <string name="experience_by_interactive_wallpapers">互動壁紙體驗</string>
+  <string name="dismiss">解僱</string>
+  <string name="language">語言</string>
+  <string name="privacy_policy">隱私權政策</string>
+  <string name="rate_us">評價我們</string>
+  <string name="more_app">更多應用</string>
+  <string name="exit">出口</string>
+  <string name="alert">警報</string>
+  <string name="warning">警告</string>
+  <string name="trending">流行趨勢</string>
+  <string name="applying_wallpaper">應用壁紙</string>
+  <string name="wallpaper_applied">壁紙應用</string>
+  <string name="accessibility_service_level_permission">無障礙服務等級權限：</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">輔助功能權限作為核心功能是邊緣照明必須在其他應用程式和鎖定螢幕上工作的必要條件</string>
+  <string name="this_permission_can_be_granted_as_follow">該權限可以如下授予：</string>
+  <string name="go_to_settings">前往“設定”</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">輔助使用 > 已安裝的應用程式/服務 > 邊緣照明</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">輔助使用 > 更多下載服務 > 邊緣照明</string>
+  <string name="grant_permission_now">現在授予許可嗎？</string>
+  <string name="later">之後</string>
+  <string name="yes_now">是的，現在</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Weergave boven andere apps</string>
+  <string name="open_nav">Open de navigatielade</string>
+  <string name="close_nav">Sluit de navigatielade</string>
+  <string name="show_while_charging">Toon tijdens het opladen</string>
+  <string name="text_enable_wallpaper">Schakel Achtergrond in</string>
+  <string name="number_of_colors">Aantal kleuren</string>
+  <string name="click_a_color_to_edit">Klik op een kleur om te bewerken</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Selecteer Taal</string>
+  <string name="text_cancel">Annuleren</string>
+  <string name="text_border_type">Randtype</string>
+  <string name="text_animation_speed">Animatiesnelheid</string>
+  <string name="text_border_size">Randgrootte</string>
+  <string name="text_radius_top">Radius bovenaan</string>
+  <string name="text_radius_bottom">Radius onderkant</string>
+  <string name="text_enable_display_notch">Schakel Notch in</string>
+  <string name="text_notch_width_top">Inkepingsbreedte bovenaan</string>
+  <string name="text_notch_width_bottom">Inkepingsbreedte onderkant</string>
+  <string name="text_notch_height">Inkeping hoogte</string>
+  <string name="text_notch_radius_top">Inkepingsradius bovenaan</string>
+  <string name="text_notch_radius_bottom">Inkepingsradius onderaan</string>
+  <string name="select_wallpaper">Selecteer Achtergrond</string>
+  <string name="allow_display_over_other_apps">Sta weergave boven andere apps toe</string>
+  <string name="continue_">Doorgaan</string>
+  <string name="app_name_service">Schermoverlay openen</string>
+  <string name="permission_request">Toestemmingsverzoek</string>
+  <string name="power_connected">Voedingskabel aangesloten</string>
+  <string name="power_disconnected">Voedingskabel losgekoppeld</string>
+  <string name="draw_over_cancelled">Toestemming voor tekenoverlay nog niet verleend. Probeer het opnieuw</string>
+  <string name="draw_over_granted">Verzoek om overlay-rechten voor tekenen ingewilligd</string>
+  <string name="app_name">Randverlichting</string>
+  <string name="please_wait">Even geduld a.u.b. Wallpaper downloaden…</string>
+  <string name="no_internet">Geen internet</string>
+  <string name="to_use_this">Om deze functie te gebruiken is Toegankelijkheidstoestemming vereist</string>
+  <string name="draw_over_denied">Toestemming voor tekenoverlay nog niet verleend. Probeer het opnieuw</string>
+  <string name="no_internet_war">Je bent offline. Schakel je internet in om randverlichtingsachtergronden te krijgen.</string>
+  <string name="you_must">U moet de toestemming \"Teken over andere apps\" inschakelen om \"Edge Lighting\" correct te laten werken.</string>
+  <string name="wallpaper_description">Live_achtergrond</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Natuur</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Citaten</string>
+  <string name="sunset">Zonsondergang</string>
+  <string name="top">Bovenkant</string>
+  <string name="text_name_notification">Dienst starten</string>
+  <string name="No_topic_selected">Geen onderwerp geselecteerd</string>
+  <string name="Update_finish">Update voltooid</string>
+  <string name="loading_ad">Advertentie laden</string>
+  <string name="low_battery">Randverlichting batterij bijna leeg</string>
+  <string name="battery_one">Batterij 1</string>
+  <string name="battery_two">Batterij 2</string>
+  <string name="edge_service">Lopende dienst</string>
+  <string name="wallpaper">Behang</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Voorbeeld genereren</string>
+  <string name="permission_required">Toestemming vereist</string>
+  <string name="title_onboarding_1">Toegankelijkheidstoestemming</string>
+  <string name="description_onboarding_1">Toegankelijkheid is een kernkenmerk</string>
+  <string name="string_text_onboarding_complete_description">De toegankelijkheidstoestemming als kernfunctie is vereist om Edge Lighting over andere apps en het vergrendelscherm te laten werken</string>
+  <string name="title_onboarding_2">Toegankelijkheidstoestemming</string>
+  <string name="description_onboarding_2">De toestemming kan als volgt worden verleend: \n \n Toegankelijkheid > Geïnstalleerde apps/services > Edge Lighting \n OF \n Toegankelijkheid > Meer downloadservices > Edge Lighting</string>
+  <string name="title_onboarding_3">Codeer prachtige apps</string>
+  <string name="description_onboarding_3">Onze missie is om nuttige en subtiele apps te maken. We helpen mensen graag tijd te besparen met open source-materiaal, maar we maken het leven ook gemakkelijker door nieuwe dingen te creëren. Goede codering!</string>
+  <string name="start_text_advice">Als u doorgaat met deze applicatie, gaat u akkoord met onze gebruiksvoorwaarden en ons privacybeleid</string>
+  <string name="start">Begin</string>
+  <string name="skip">Overslaan</string>
+  <string name="finish">Finish</string>
+  <string name="next">Volgende</string>
+  <string name="back">Rug</string>
+  <string name="allow">Toestaan</string>
+  <string name="slider_Edge">Randverlichting</string>
+  <string name="slider_Edge1">Geef randverlichting weer over randen</string>
+  <string name="alert_Edge">Waarschuwing voor lage batterijspanning</string>
+  <string name="alert_Edge1">Oranje randverlichting voor waarschuwing voor lage batterijspanning</string>
+  <string name="warning_Edge">Waarschuwing voor lage batterijspanning</string>
+  <string name="warning_Edge1">Rode randverlichting voor waarschuwing dat de batterij bijna leeg is</string>
+  <string name="notch_Edge">Inkeping</string>
+  <string name="notch_Edge1">Schakel randverlichting met inkeping in</string>
+  <string name="wallpaper_Edge">Behang</string>
+  <string name="wallpaper_Edge1">Randverlichting met behang</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Draadloze</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hallo leeg fragment</string>
+  <string name="apply">Toepassen</string>
+  <string name="applied">Toegepast</string>
+  <string name="always_on_display_edge_lighting">Randverlichting altijd zichtbaar</string>
+  <string name="confirm_exit">Bevestig Afsluiten?</string>
+  <string name="yes">Ja</string>
+  <string name="no">Nee</string>
+  <string name="wallpapers">Achtergronden</string>
+  <string name="ok">OK</string>
+  <string name="what_would_you_like_to_do">Wat zou je graag willen doen?</string>
+  <string name="set_home_screen">Startscherm instellen</string>
+  <string name="set_lock_screen">Stel het vergrendelscherm in</string>
+  <string name="set_both_screens">Stel beide schermen in</string>
+  <string name="adjust_screen">Scherm aanpassen</string>
+  <string name="please_wait_ad_is_loading">Een ogenblik geduld, de advertentie wordt geladen</string>
+  <string name="home">Thuis</string>
+  <string name="edge_lighting_border">Randverlichtingsrand</string>
+  <string name="view_more">Bekijk meer</string>
+  <string name="brighten_up_by_stunning_edges">Fleur op met prachtige randen</string>
+  <string name="live_wallpapers">Live achtergronden</string>
+  <string name="stunning_wallpapers">Prachtige achtergronden</string>
+  <string name="experience_by_interactive_wallpapers">Ervaring door interactieve achtergronden</string>
+  <string name="dismiss">Afwijzen</string>
+  <string name="language">Taal</string>
+  <string name="privacy_policy">Privacybeleid</string>
+  <string name="rate_us">Beoordeel ons</string>
+  <string name="more_app">Meer app</string>
+  <string name="exit">Uitgang</string>
+  <string name="alert">Waarschuw</string>
+  <string name="warning">Waarschuwing</string>
+  <string name="trending">Populair</string>
+  <string name="applying_wallpaper">Behang toepassen</string>
+  <string name="wallpaper_applied">Behang toegepast</string>
+  <string name="accessibility_service_level_permission">Toestemming op serviceniveau voor toegankelijkheid:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">De toegankelijkheidstoestemming als kernfunctie is vereist om Edge Lighting over andere apps en het vergrendelscherm te laten werken</string>
+  <string name="this_permission_can_be_granted_as_follow">Deze toestemming kan als volgt worden verleend:</string>
+  <string name="go_to_settings">Ga naar Instellingen</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Toegankelijkheid > Geïnstalleerde apps/services > Randverlichting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Toegankelijkheid > Meer downloadservices > Randverlichting</string>
+  <string name="grant_permission_now">Nu toestemming verlenen?</string>
+  <string name="later">Later</string>
+  <string name="yes_now">Ja, nu</string>
+</resources>

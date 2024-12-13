@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">باشقا ئەپلەرنى كۆرسىتىش</string>
+  <string name="open_nav">يول باشلاش تارتمىسىنى ئېچىڭ</string>
+  <string name="close_nav">يول باشلاش تارتمىسىنى تاقاڭ</string>
+  <string name="show_while_charging">توك قاچىلىغاندا كۆرسىتىڭ</string>
+  <string name="text_enable_wallpaper">تام قەغىزىنى قوزغىتىڭ</string>
+  <string name="number_of_colors">رەڭ سانى</string>
+  <string name="click_a_color_to_edit">تەھرىرلەش ئۈچۈن بىر رەڭنى چېكىڭ</string>
+  <string name="mtrl_picker_confirm">ماقۇل</string>
+  <string name="SelectLanguage">تىل تاللاڭ</string>
+  <string name="text_cancel">بىكار قىلىش</string>
+  <string name="text_border_type">چېگرا تىپى</string>
+  <string name="text_animation_speed">كارتون سۈرئىتى</string>
+  <string name="text_border_size">چېگرا چوڭلۇقى</string>
+  <string name="text_radius_top">Radius top</string>
+  <string name="text_radius_bottom">Radius bottom</string>
+  <string name="text_enable_display_notch">Notch نى قوزغىتىڭ</string>
+  <string name="text_notch_width_top">Notch width top</string>
+  <string name="text_notch_width_bottom">كەڭلىك ئاستى</string>
+  <string name="text_notch_height">بوي ئېگىزلىكى</string>
+  <string name="text_notch_radius_top">رادىئاتسىيە ئۈستى</string>
+  <string name="text_notch_radius_bottom">رادىئاتسىيە ئاستى</string>
+  <string name="select_wallpaper">تام قەغىزىنى تاللاڭ</string>
+  <string name="allow_display_over_other_apps">باشقا ئەپلەرنىڭ كۆرسىتىلىشىگە يول قويۇڭ</string>
+  <string name="continue_">داۋاملاشتۇر</string>
+  <string name="app_name_service">ئېكراننى قاپلاش</string>
+  <string name="permission_request">ئىجازەت ئىلتىماسى</string>
+  <string name="power_connected">توك سىمى ئۇلاندى</string>
+  <string name="power_disconnected">توك سىمى ئۈزۈلۈپ قالدى</string>
+  <string name="draw_over_cancelled">تېخى تەستىقلانمىغان قاپلاش ئىجازەتنامىسىنى سىزىڭ. قايتا سىناڭ</string>
+  <string name="draw_over_granted">بېرىلگەن ئىجازەتنامە تەلىپىنى سىزىڭ</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">تام قەغەز چۈشۈرۈشنى ساقلاڭ…</string>
+  <string name="no_internet">ئىنتېرنېت يوق</string>
+  <string name="to_use_this">بۇ ئىقتىدارنى ئىشلىتىش ئۈچۈن زىيارەت قىلىش ئىجازەتنامىسى تەلەپ قىلىنىدۇ</string>
+  <string name="draw_over_denied">تېخى تەستىقلانمىغان قاپلاش ئىجازەتنامىسىنى سىزىڭ. قايتا سىناڭ</string>
+  <string name="no_internet_war">سىز تورسىز ، تورنى يورۇتۇپ تام چىرىغىغا ئېرىشىڭ.</string>
+  <string name="you_must">«Edge Lighting» نىڭ نورمال ئىشلىشى ئۈچۈن «باشقا ئەپلەرنى سىزىش» ئىجازەتنامىسىنى قوزغىتىشىڭىز كېرەك.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">قىسقىچە مەزمۇنى</string>
+  <string name="nature">تەبىئەت</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">كۈن پېتىش</string>
+  <string name="top">ئۈستى</string>
+  <string name="text_name_notification">مۇلازىمەتنى باشلاش</string>
+  <string name="No_topic_selected">تېما تاللانمىدى</string>
+  <string name="Update_finish">يېڭىلاش تامام</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">تۆۋەن باتارېيە چىرىغى</string>
+  <string name="battery_one">Battery 1</string>
+  <string name="battery_two">Battery 2</string>
+  <string name="edge_service">ئىجرا قىلىش مۇلازىمىتى</string>
+  <string name="wallpaper">تام قەغىزى</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">ئالدىن كۆرۈش ھاسىل قىلىش</string>
+  <string name="permission_required">ئىجازەت تەلەپ قىلىنىدۇ</string>
+  <string name="title_onboarding_1">زىيارەت قىلىش ئىجازەتنامىسى</string>
+  <string name="description_onboarding_1">زىيارەت قىلىش يادرولۇق ئىقتىدار</string>
+  <string name="string_text_onboarding_complete_description">قوشۇمچە ئىقتىدار يادرولۇق ئىقتىدار سۈپىتىدە Edge Lighting نىڭ باشقا ئەپلەر ۋە قۇلۇپ ئېكرانىدا ئىشلىشى كېرەك</string>
+  <string name="title_onboarding_2">زىيارەت قىلىش ئىجازەتنامىسى</string>
+  <string name="description_onboarding_2">ئىجازەتنامىنى تۆۋەندىكىدەك بېرىشكە بولىدۇ: \n \n قولايلىق> قاچىلانغان ئەپلەر / مۇلازىمەتلەر> قىر يورۇتۇش \n OR \n زىيارەت قىلىش> تېخىمۇ كۆپ چۈشۈرۈش مۇلازىمىتى> قىرلىق يورۇتۇش</string>
+  <string name="title_onboarding_3">چىرايلىق ئەپلەر</string>
+  <string name="description_onboarding_3">بىزنىڭ ۋەزىپىمىز پايدىلىق ۋە ئىنچىكە ئەپلەرنى ياساش. بىز كىشىلەرنىڭ ئوچۇق كودلۇق نەرسىلەر بىلەن ۋاقىت تېجەپ قېلىشىغا ياردەم قىلىشنى ياخشى كۆرىمىز ، ئەمما بىز يېڭى نەرسىلەرنى يارىتىش ئارقىلىق تۇرمۇشنى ئاسانلاشتۇرىمىز. ياخشى كودلاش!</string>
+  <string name="start_text_advice">بۇ پروگراممىنى داۋاملاشتۇرۇش ئارقىلىق بىزنىڭ ئىشلىتىش شەرتلىرىمىز ۋە مەخپىيەتلىك سىياسىتىمىزگە قوشۇلىسىز</string>
+  <string name="start">باشلاش</string>
+  <string name="skip">ئاتلاش</string>
+  <string name="finish">تامام</string>
+  <string name="next">كېيىنكى</string>
+  <string name="back">قايتىش</string>
+  <string name="allow">رۇخسەت قىلىڭ</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">قىرغاقنى يورۇتۇش چىرىغىنى كۆرسىتىش</string>
+  <string name="alert_Edge">تۆۋەن باتارېيە ئاگاھلاندۇرۇشى</string>
+  <string name="alert_Edge1">تۆۋەن باتارېيە ئاگاھلاندۇرۇشى ئۈچۈن ئاپېلسىن قىر چىرىغى</string>
+  <string name="warning_Edge">تۆۋەن باتارېيە ئاگاھلاندۇرۇشى</string>
+  <string name="warning_Edge1">ئىنتايىن تۆۋەن باتارېيە ئاگاھلاندۇرۇشى ئۈچۈن قىزىل قىرلىق يورۇتۇش</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">قىر بىلەن يورۇتۇشنى قوزغىتىڭ</string>
+  <string name="wallpaper_Edge">تام قەغىزى</string>
+  <string name="wallpaper_Edge1">تام قەغىزى بىلەن قىر يورۇتۇش</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>سىمسىز</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ياخشىمۇسىز قۇرۇق پارچە</string>
+  <string name="apply">ئىلتىماس قىلىڭ</string>
+  <string name="applied">قوللىنىلدى</string>
+  <string name="always_on_display_edge_lighting">ھەمىشە ئېكران چىرىغىدا</string>
+  <string name="confirm_exit">چېكىنىشنى جەزملەشتۈرەمسىز؟</string>
+  <string name="yes">ھەئە</string>
+  <string name="no">ياق</string>
+  <string name="wallpapers">تام قەغىزى</string>
+  <string name="ok">ماقۇل</string>
+  <string name="what_would_you_like_to_do">نېمە قىلماقچى؟</string>
+  <string name="set_home_screen">باش ئېكراننى تەڭشەڭ</string>
+  <string name="set_lock_screen">قۇلۇپ ئېكرانىنى تەڭشەڭ</string>
+  <string name="set_both_screens">ھەر ئىككى ئېكراننى تەڭشەڭ</string>
+  <string name="adjust_screen">ئېكراننى تەڭشەش</string>
+  <string name="please_wait_ad_is_loading">ساقلاپ تۇرۇڭ ، ئېلان يۈكلىنىۋاتىدۇ</string>
+  <string name="home">ئۆي</string>
+  <string name="edge_lighting_border">قىر يورۇتۇش چىگرىسى</string>
+  <string name="view_more">تېخىمۇ كۆپ كۆرۈش</string>
+  <string name="brighten_up_by_stunning_edges">كىشىنى ھەيران قالدۇرىدىغان قىرلارنى يورۇتۇڭ</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">كىشىنى ھەيران قالدۇرىدىغان تام قەغىزى</string>
+  <string name="experience_by_interactive_wallpapers">ئۆز-ئارا تەسىر كۆرسىتىدىغان تام قەغىزىنىڭ تەجرىبىسى</string>
+  <string name="dismiss">خىزمەتتىن ھەيدەش</string>
+  <string name="language">تىل</string>
+  <string name="privacy_policy">مەخپىيەتلىك تۈزۈمى</string>
+  <string name="rate_us">بىزگە باھا بېرىڭ</string>
+  <string name="more_app">تېخىمۇ كۆپ ئەپ</string>
+  <string name="exit">چىقىش</string>
+  <string name="alert">ئاگاھلاندۇرۇش</string>
+  <string name="warning">ئاگاھلاندۇرۇش</string>
+  <string name="trending">يۈزلىنىش</string>
+  <string name="applying_wallpaper">تام قەغىزى ئىشلىتىش</string>
+  <string name="wallpaper_applied">تام قەغىزى قوللىنىلدى</string>
+  <string name="accessibility_service_level_permission">قوشۇمچە مۇلازىمەت سەۋىيىسى:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">قوشۇمچە ئىقتىدار يادرولۇق ئىقتىدار سۈپىتىدە Edge Lighting نىڭ باشقا ئەپلەر ۋە قۇلۇپ ئېكرانىدا ئىشلىشى كېرەك</string>
+  <string name="this_permission_can_be_granted_as_follow">بۇ ئىجازەت تۆۋەندىكىدەك بولىدۇ:</string>
+  <string name="go_to_settings">تەڭشەكلەرگە بېرىڭ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">قولايلىق> قاچىلانغان ئەپلەر / مۇلازىمەتلەر> قىر يورۇتۇش</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ئىشلىتىشچانلىقى> تېخىمۇ كۆپ چۈشۈرۈش مۇلازىمىتى> قىرلىق يورۇتۇش</string>
+  <string name="grant_permission_now">ئىجازەتنامە ھازىرمۇ؟</string>
+  <string name="later">كېيىنچە</string>
+  <string name="yes_now">ھەئە ، ھازىر</string>
+</resources>

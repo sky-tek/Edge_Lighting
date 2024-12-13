@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">다른 앱 위에 표시</string>
+  <string name="open_nav">탐색 창 열기</string>
+  <string name="close_nav">탐색 창 닫기</string>
+  <string name="show_while_charging">충전 중 표시</string>
+  <string name="text_enable_wallpaper">배경화면 활성화</string>
+  <string name="number_of_colors">색상 수</string>
+  <string name="click_a_color_to_edit">편집할 색상을 클릭하세요.</string>
+  <string name="mtrl_picker_confirm">좋아요</string>
+  <string name="SelectLanguage">언어 선택</string>
+  <string name="text_cancel">취소</string>
+  <string name="text_border_type">테두리 유형</string>
+  <string name="text_animation_speed">애니메이션 속도</string>
+  <string name="text_border_size">테두리 크기</string>
+  <string name="text_radius_top">반경 상단</string>
+  <string name="text_radius_bottom">반경 바닥</string>
+  <string name="text_enable_display_notch">노치 활성화</string>
+  <string name="text_notch_width_top">노치 너비 상단</string>
+  <string name="text_notch_width_bottom">노치 너비 바닥</string>
+  <string name="text_notch_height">노치 높이</string>
+  <string name="text_notch_radius_top">노치 반경 상단</string>
+  <string name="text_notch_radius_bottom">노치 반경 바닥</string>
+  <string name="select_wallpaper">배경화면 선택</string>
+  <string name="allow_display_over_other_apps">다른 앱 위에 표시 허용</string>
+  <string name="continue_">계속하다</string>
+  <string name="app_name_service">화면 오버레이 열기</string>
+  <string name="permission_request">허가 요청</string>
+  <string name="power_connected">전원 케이블이 연결됨</string>
+  <string name="power_disconnected">전원 케이블이 분리됨</string>
+  <string name="draw_over_cancelled">그리기 오버레이 권한이 아직 부여되지 않았습니다. 다시 시도하세요</string>
+  <string name="draw_over_granted">그리기 오버레이 권한 요청이 승인되었습니다.</string>
+  <string name="app_name">엣지 라이팅</string>
+  <string name="please_wait">배경화면을 다운로드하는 중입니다…</string>
+  <string name="no_internet">인터넷 없음</string>
+  <string name="to_use_this">이 기능을 사용하려면 접근성 권한이 필요합니다.</string>
+  <string name="draw_over_denied">그리기 오버레이 권한이 아직 부여되지 않았습니다. 다시 시도하세요</string>
+  <string name="no_internet_war">오프라인 상태입니다. 가장자리 조명 배경화면을 얻으려면 인터넷을 켜세요.</string>
+  <string name="you_must">\"Edge Lighting\"이 제대로 작동하려면 \"다른 앱 위에 그리기\" 권한을 활성화해야 합니다.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">추상적인</string>
+  <string name="nature">자연</string>
+  <string name="neon">네온</string>
+  <string name="quotes">인용 부호</string>
+  <string name="sunset">일몰</string>
+  <string name="top">맨 위</string>
+  <string name="text_name_notification">서비스 시작</string>
+  <string name="No_topic_selected">선택한 주제가 없습니다.</string>
+  <string name="Update_finish">업데이트 완료</string>
+  <string name="loading_ad">광고 로드 중</string>
+  <string name="low_battery">배터리 부족 엣지 라이팅</string>
+  <string name="battery_one">배터리 1</string>
+  <string name="battery_two">배터리 2</string>
+  <string name="edge_service">서비스 실행 중</string>
+  <string name="wallpaper">벽지</string>
+  <string name="magical_wallpaper">살다</string>
+  <string name="main_ongoing_download">미리보기 생성 중</string>
+  <string name="permission_required">권한 필요</string>
+  <string name="title_onboarding_1">접근성 권한</string>
+  <string name="description_onboarding_1">접근성은 핵심 기능입니다</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting이 다른 앱 및 잠금 화면에서 작동하려면 핵심 기능인 접근성 권한이 필수입니다.</string>
+  <string name="title_onboarding_2">접근성 권한</string>
+  <string name="description_onboarding_2">권한은 다음과 같이 부여할 수 있습니다. \n \n 접근성 > 설치된 앱/서비스 > Edge Lighting \n 또는 \n 접근성 > 추가 다운로드 서비스 > Edge Lighting</string>
+  <string name="title_onboarding_3">아름다운 앱을 코딩하세요</string>
+  <string name="description_onboarding_3">우리의 임무는 유용하고 미묘한 앱을 만드는 것입니다. 우리는 오픈 소스를 통해 사람들이 시간을 절약할 수 있도록 돕는 것을 좋아하지만, 새로운 것을 만들어 삶을 더 편리하게 만들기도 합니다. 좋은 코딩!</string>
+  <string name="start_text_advice">이 애플리케이션을 계속 사용하면 당사의 이용약관 및 개인정보 보호정책에 동의하는 것으로 간주됩니다.</string>
+  <string name="start">시작</string>
+  <string name="skip">건너뛰다</string>
+  <string name="finish">마치다</string>
+  <string name="next">다음</string>
+  <string name="back">뒤쪽에</string>
+  <string name="allow">허용하다</string>
+  <string name="slider_Edge">엣지 라이팅</string>
+  <string name="slider_Edge1">가장자리 위에 가장자리 조명 표시</string>
+  <string name="alert_Edge">배터리 부족 경고</string>
+  <string name="alert_Edge1">배터리 부족 경고를 위한 주황색 가장자리 조명</string>
+  <string name="warning_Edge">배터리 부족 경고</string>
+  <string name="warning_Edge1">배터리 부족 경고를 위한 빨간색 가장자리 조명</string>
+  <string name="notch_Edge">골짜기</string>
+  <string name="notch_Edge1">노치로 가장자리 조명 활성화</string>
+  <string name="wallpaper_Edge">벽지</string>
+  <string name="wallpaper_Edge1">배경화면을 사용한 엣지 조명</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>교류</item>  
+    <item>USB</item>  
+    <item>무선 전화</item> 
+  </string-array>
+  <string name="hello_blank_fragment">안녕하세요 빈 조각</string>
+  <string name="apply">적용하다</string>
+  <string name="applied">적용된</string>
+  <string name="always_on_display_edge_lighting">Always On 디스플레이 엣지 조명</string>
+  <string name="confirm_exit">종료를 확인하시겠습니까?</string>
+  <string name="yes">예</string>
+  <string name="no">아니요</string>
+  <string name="wallpapers">배경화면</string>
+  <string name="ok">좋아요</string>
+  <string name="what_would_you_like_to_do">무엇을 하고 싶나요?</string>
+  <string name="set_home_screen">홈 화면 설정</string>
+  <string name="set_lock_screen">잠금 화면 설정</string>
+  <string name="set_both_screens">두 화면 모두 설정</string>
+  <string name="adjust_screen">화면 조정</string>
+  <string name="please_wait_ad_is_loading">기다려 주세요. 광고가 로드 중입니다.</string>
+  <string name="home">집</string>
+  <string name="edge_lighting_border">엣지 라이팅 테두리</string>
+  <string name="view_more">더 많이 보기</string>
+  <string name="brighten_up_by_stunning_edges">놀라운 엣지로 더욱 밝게</string>
+  <string name="live_wallpapers">라이브 배경화면</string>
+  <string name="stunning_wallpapers">멋진 배경화면</string>
+  <string name="experience_by_interactive_wallpapers">인터랙티브 배경화면을 통한 경험</string>
+  <string name="dismiss">해고하다</string>
+  <string name="language">언어</string>
+  <string name="privacy_policy">개인 정보 보호 정책</string>
+  <string name="rate_us">우리를 평가해 주세요</string>
+  <string name="more_app">더 많은 앱</string>
+  <string name="exit">출구</string>
+  <string name="alert">알리다</string>
+  <string name="warning">경고</string>
+  <string name="trending">인기 급상승</string>
+  <string name="applying_wallpaper">배경화면 적용</string>
+  <string name="wallpaper_applied">배경화면 적용</string>
+  <string name="accessibility_service_level_permission">접근성 서비스 수준 권한:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting이 다른 앱 및 잠금 화면에서 작동하려면 핵심 기능인 접근성 권한이 필수입니다.</string>
+  <string name="this_permission_can_be_granted_as_follow">이 권한은 다음과 같이 부여될 수 있습니다.</string>
+  <string name="go_to_settings">설정으로 이동</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">접근성 > 설치된 앱/서비스 > 엣지 라이팅</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">접근성 > 추가 다운로드 서비스 > 엣지 라이팅</string>
+  <string name="grant_permission_now">지금 권한을 부여하시겠습니까?</string>
+  <string name="later">나중에</string>
+  <string name="yes_now">예, 지금</string>
+</resources>

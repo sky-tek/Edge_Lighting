@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Arddangos dros apiau eraill</string>
+  <string name="open_nav">Drôr Navigation Agored</string>
+  <string name="close_nav">Agos Navigation Drawer</string>
+  <string name="show_while_charging">Dangoswch wrth wefru</string>
+  <string name="text_enable_wallpaper">Galluogi Papur Wal</string>
+  <string name="number_of_colors">Nifer y Lliwiau</string>
+  <string name="click_a_color_to_edit">Cliciwch ar liw i olygu</string>
+  <string name="mtrl_picker_confirm">Iawn</string>
+  <string name="SelectLanguage">Dewiswch Iaith</string>
+  <string name="text_cancel">Canslo</string>
+  <string name="text_border_type">Math ffin</string>
+  <string name="text_animation_speed">Cyflymder animeiddio</string>
+  <string name="text_border_size">Maint y ffin</string>
+  <string name="text_radius_top">Radiws uchaf</string>
+  <string name="text_radius_bottom">Radiws gwaelod</string>
+  <string name="text_enable_display_notch">Galluogi Notch</string>
+  <string name="text_notch_width_top">Top lled rhicyn</string>
+  <string name="text_notch_width_bottom">Lled rhicyn gwaelod</string>
+  <string name="text_notch_height">Uchder rhicyn</string>
+  <string name="text_notch_radius_top">Radiws rhicyn uchaf</string>
+  <string name="text_notch_radius_bottom">Radiws rhicyn gwaelod</string>
+  <string name="select_wallpaper">Dewiswch Papur Wal</string>
+  <string name="allow_display_over_other_apps">Caniatáu arddangos dros apiau eraill</string>
+  <string name="continue_">Parhau</string>
+  <string name="app_name_service">Troshaen sgrin agored</string>
+  <string name="permission_request">Cais am Ganiatâd</string>
+  <string name="power_connected">Cebl pŵer wedi\'i gysylltu</string>
+  <string name="power_disconnected">Cebl Pŵer wedi\'i Ddatgysylltu</string>
+  <string name="draw_over_cancelled">Nid yw caniatâd troshaen y tyniad wedi\'i roi eto. Ceisiwch eto</string>
+  <string name="draw_over_granted">Cais am ganiatâd troshaen wedi\'i roi</string>
+  <string name="app_name">Goleuadau Ymyl</string>
+  <string name="please_wait">Arhoswch i Lawrlwytho Papur Wal…</string>
+  <string name="no_internet">Dim rhyngrwyd</string>
+  <string name="to_use_this">Er mwyn defnyddio\'r nodwedd hon mae angen Caniatâd Hygyrchedd</string>
+  <string name="draw_over_denied">Nid yw caniatâd troshaen y tyniad wedi\'i roi eto. Ceisiwch eto</string>
+  <string name="no_internet_war">Rydych chi all-lein, trowch eich rhyngrwyd ymlaen i gael papurau wal goleuo ymyl.</string>
+  <string name="you_must">Rhaid i chi alluogi caniatâd \"Draw Over Other Apps\" er mwyn i \"Edge Lighting\" weithio\'n iawn.</string>
+  <string name="wallpaper_description">Papur_wal_byw</string>
+  <string name="abstract_">Haniaethol</string>
+  <string name="nature">Natur</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Dyfyniadau</string>
+  <string name="sunset">Machlud</string>
+  <string name="top">Brig</string>
+  <string name="text_name_notification">Dechrau gwasanaeth</string>
+  <string name="No_topic_selected">Dim pwnc wedi\'i ddewis</string>
+  <string name="Update_finish">Diweddariad gorffen</string>
+  <string name="loading_ad">Wrthi\'n llwytho Hysbyseb</string>
+  <string name="low_battery">Goleuadau Ymyl Batri Isel</string>
+  <string name="battery_one">Batri 1</string>
+  <string name="battery_two">Batri 2</string>
+  <string name="edge_service">Gwasanaeth rhedeg</string>
+  <string name="wallpaper">Papur wal</string>
+  <string name="magical_wallpaper">Byw</string>
+  <string name="main_ongoing_download">Cynhyrchu Rhagolwg</string>
+  <string name="permission_required">Angen Caniatâd</string>
+  <string name="title_onboarding_1">Caniatâd Hygyrchedd</string>
+  <string name="description_onboarding_1">Mae hygyrchedd yn nodwedd graidd</string>
+  <string name="string_text_onboarding_complete_description">Mae\'n rhaid i\'r Caniatâd Hygyrchedd fel nodwedd graidd er mwyn i Edge Lighting weithio dros apiau eraill a sgrin glo</string>
+  <string name="title_onboarding_2">Caniatâd Hygyrchedd</string>
+  <string name="description_onboarding_2">Gellir rhoi\'r Caniatâd fel a ganlyn: \n \n Hygyrchedd > Apiau/Gwasanaethau wedi\'u Gosod > Goleuadau Ymyl \n NEU \n Hygyrchedd > Mwy o Wasanaethau Lawrlwytho > Edge Lighting</string>
+  <string name="title_onboarding_3">Cod apps hardd</string>
+  <string name="description_onboarding_3">Ein cenhadaeth yw gwneud apiau defnyddiol a chynnil. Rydyn ni wrth ein bodd yn helpu pobl i arbed amser gyda phethau ffynhonnell agored, ond rydyn ni hefyd yn gwneud bywyd yn haws trwy greu pethau newydd. Codio Da!</string>
+  <string name="start_text_advice">Trwy barhau ar y cais hwn rydych chi\'n cytuno i\'n Telerau Defnyddio a\'n Polisi Preifatrwydd</string>
+  <string name="start">Cychwyn</string>
+  <string name="skip">Sgipio</string>
+  <string name="finish">Gorffen</string>
+  <string name="next">Nesaf</string>
+  <string name="back">Yn ol</string>
+  <string name="allow">Caniatáu</string>
+  <string name="slider_Edge">Goleuadau Ymyl</string>
+  <string name="slider_Edge1">Arddangos goleuadau ymyl dros Edges</string>
+  <string name="alert_Edge">Rhybudd Batri Isel</string>
+  <string name="alert_Edge1">Goleuadau ymyl oren ar gyfer rhybudd batri isel</string>
+  <string name="warning_Edge">Rhybudd Batri Isel</string>
+  <string name="warning_Edge1">Goleuadau ymyl coch ar gyfer rhybudd batri isel iawn</string>
+  <string name="notch_Edge">Rhic</string>
+  <string name="notch_Edge1">Galluogi goleuadau ymyl gyda rhicyn</string>
+  <string name="wallpaper_Edge">Papur wal</string>
+  <string name="wallpaper_Edge1">Goleuadau ymyl gyda Phapur Wal</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Diwifr</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Helo darn gwag</string>
+  <string name="apply">Ymgeisiwch</string>
+  <string name="applied">Cymhwysol</string>
+  <string name="always_on_display_edge_lighting">Bob amser ar oleuadau ymyl arddangos</string>
+  <string name="confirm_exit">Cadarnhau Gadael ?</string>
+  <string name="yes">Oes</string>
+  <string name="no">Nac ydw</string>
+  <string name="wallpapers">Papur wal</string>
+  <string name="ok">Iawn</string>
+  <string name="what_would_you_like_to_do">Beth hoffech chi ei wneud?</string>
+  <string name="set_home_screen">Gosod Sgrin Cartref</string>
+  <string name="set_lock_screen">Gosodwch Sgrin Clo</string>
+  <string name="set_both_screens">Gosodwch y ddwy sgrin</string>
+  <string name="adjust_screen">Addasu Sgrin</string>
+  <string name="please_wait_ad_is_loading">Arhoswch, mae\'r hysbyseb yn llwytho</string>
+  <string name="home">Cartref</string>
+  <string name="edge_lighting_border">Ffin Goleuadau Ymyl</string>
+  <string name="view_more">Gweld Mwy</string>
+  <string name="brighten_up_by_stunning_edges">Wedi\'i fywiogi gan Edges syfrdanol</string>
+  <string name="live_wallpapers">Papurau wal byw</string>
+  <string name="stunning_wallpapers">Papur wal syfrdanol</string>
+  <string name="experience_by_interactive_wallpapers">Profiad gan Interactive Wallpapers</string>
+  <string name="dismiss">Diystyru</string>
+  <string name="language">Iaith</string>
+  <string name="privacy_policy">Polisi Preifatrwydd</string>
+  <string name="rate_us">Graddio Ni</string>
+  <string name="more_app">Mwy o Ap</string>
+  <string name="exit">Allanfa</string>
+  <string name="alert">Rhybudd</string>
+  <string name="warning">Rhybudd</string>
+  <string name="trending">Tueddu</string>
+  <string name="applying_wallpaper">Cymhwyso Papur Wal</string>
+  <string name="wallpaper_applied">Papur Wal Cymhwysol</string>
+  <string name="accessibility_service_level_permission">Caniatâd Lefel Gwasanaeth Hygyrchedd:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Mae\'n rhaid i\'r Caniatâd Hygyrchedd fel nodwedd graidd er mwyn i Edge Lighting weithio dros apiau eraill a sgrin glo</string>
+  <string name="this_permission_can_be_granted_as_follow">Gellir rhoi’r Caniatâd hwn fel a ganlyn:</string>
+  <string name="go_to_settings">Ewch i Gosodiadau</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Hygyrchedd > Apiau/Gwasanaethau wedi\'u Gosod > Golau Ymyl</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Hygyrchedd > Mwy o Wasanaethau Lawrlwytho > Edge Lighting</string>
+  <string name="grant_permission_now">Rhoi Caniatâd Nawr?</string>
+  <string name="later">Yn ddiweddarach</string>
+  <string name="yes_now">Ie, nawr</string>
+</resources>

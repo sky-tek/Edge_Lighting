@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">अन्येषां एप्स् उपरि प्रदर्शयन्तु</string>
+  <string name="open_nav">नेविगेशन दराज उद्घाटयन्तु</string>
+  <string name="close_nav">Close नेविगेशन दराज</string>
+  <string name="show_while_charging">चार्जं कुर्वन् दर्शयतु</string>
+  <string name="text_enable_wallpaper">वॉलपेपर सक्षमं कुर्वन्तु</string>
+  <string name="number_of_colors">वर्णानाम् संख्या</string>
+  <string name="click_a_color_to_edit">सम्पादयितुं वर्णं नुदन्तु</string>
+  <string name="mtrl_picker_confirm">अस्तु</string>
+  <string name="SelectLanguage">भाषां चिनोतु</string>
+  <string name="text_cancel">निरसयतु</string>
+  <string name="text_border_type">सीमाप्रकारः</string>
+  <string name="text_animation_speed">एनिमेशन वेग</string>
+  <string name="text_border_size">सीमाप्रमाणम्</string>
+  <string name="text_radius_top">त्रिज्या शीर्ष</string>
+  <string name="text_radius_bottom">त्रिज्या तल</string>
+  <string name="text_enable_display_notch">Notch सक्षमं कुर्वन्तु</string>
+  <string name="text_notch_width_top">खांच चौड़ाई शीर्ष</string>
+  <string name="text_notch_width_bottom">खांच चौड़ाई तल</string>
+  <string name="text_notch_height">खांच ऊर्ध्वता</string>
+  <string name="text_notch_radius_top">खांच त्रिज्या शीर्ष</string>
+  <string name="text_notch_radius_bottom">खांच त्रिज्या तल</string>
+  <string name="select_wallpaper">Wallpaper इति चयनं कुर्वन्तु</string>
+  <string name="allow_display_over_other_apps">अन्येषां एप्स् उपरि प्रदर्शनं अनुमन्यताम्</string>
+  <string name="continue_">अनुवर्तते</string>
+  <string name="app_name_service">स्क्रीन ओवरले उद्घाटयन्तु</string>
+  <string name="permission_request">अनुमति याचना</string>
+  <string name="power_connected">पावर केबल कनेक्टेड</string>
+  <string name="power_disconnected">विद्युत् केबल विच्छिन्न</string>
+  <string name="draw_over_cancelled">आकर्षक-आच्छादन-अनुमतिः अद्यापि न प्रदत्ता । पुनः प्रयासं कुरुत</string>
+  <string name="draw_over_granted">आकर्षयन्तु ओवरले अनुमतिः अनुरोधः अनुमोदितः</string>
+  <string name="app_name">एज लाइटिंग</string>
+  <string name="please_wait">कृपया प्रतीक्षां कुर्वन्तु Wallpaper Downloading...</string>
+  <string name="no_internet">अन्तर्जालः नास्ति</string>
+  <string name="to_use_this">एतस्य विशेषतायाः उपयोगाय Accessibility Permission आवश्यकम् अस्ति</string>
+  <string name="draw_over_denied">आकर्षक-आच्छादन-अनुमतिः अद्यापि न प्रदत्ता । पुनः प्रयासं कुरुत</string>
+  <string name="no_internet_war">भवान् अफलाइन अस्ति कृपया एज लाइटिंग् वॉलपेपर् प्राप्तुं स्वस्य अन्तर्जालं चालू कुर्वन्तु।</string>
+  <string name="you_must">\"Edge Lighting\" इत्यस्य सम्यक् कार्यं कर्तुं भवद्भिः \"Draw Over Other Apps\" इति अनुमतिः सक्षमा कर्तव्या ।</string>
+  <string name="wallpaper_description">लाइव_वालपेपर</string>
+  <string name="abstract_">मूर्त</string>
+  <string name="nature">प्रकृति</string>
+  <string name="neon">नियोन</string>
+  <string name="quotes">उद्धरण</string>
+  <string name="sunset">सूर्यास्त</string>
+  <string name="top">उपरितन</string>
+  <string name="text_name_notification">सेवां आरभत</string>
+  <string name="No_topic_selected">कोऽपि विषयः चयनितः नास्ति</string>
+  <string name="Update_finish">अद्यतनं समाप्तम्</string>
+  <string name="loading_ad">विज्ञापन लोड हो रहा है</string>
+  <string name="low_battery">कम बैटरी धार प्रकाश</string>
+  <string name="battery_one">बैटरी १</string>
+  <string name="battery_two">बैटरी २</string>
+  <string name="edge_service">सेवा चालयति</string>
+  <string name="wallpaper">वॉलपेपर</string>
+  <string name="magical_wallpaper">निवसति</string>
+  <string name="main_ongoing_download">पूर्वावलोकनं जनयति</string>
+  <string name="permission_required">अनुमति आवश्यकी</string>
+  <string name="title_onboarding_1">अभिगम्यता अनुमतिः</string>
+  <string name="description_onboarding_1">सुलभता एकं मूलविशेषता अस्ति</string>
+  <string name="string_text_onboarding_complete_description">अन्येषां एप्स् उपरि कार्यं कर्तुं Edge Lighting इत्यस्य कृते Accessibility Permission इति मूलविशेषतारूपेण अनिवार्यम् अस्ति तथा च lock screen इति</string>
+  <string name="title_onboarding_2">अभिगम्यता अनुमतिः</string>
+  <string name="description_onboarding_2">अनुमतिः निम्नलिखितरूपेण प्रदातुं शक्यते: \n \n अभिगम्यता > संस्थापिताः अनुप्रयोगाः/सेवाः > धारप्रकाशः \n अथवा \n अभिगम्यता > अधिकानि डाउनलोड् सेवाः > धारप्रकाशः</string>
+  <string name="title_onboarding_3">सुन्दर एप्स कोड</string>
+  <string name="description_onboarding_3">अस्माकं मिशनं उपयोगी &amp; सूक्ष्म एप्स निर्मातुम् अस्ति। वयं जनानां मुक्त-स्रोत-सामग्रीभिः समयस्य रक्षणाय सहायतां कर्तुं प्रेम्णामः, परन्तु नूतनानि वस्तूनि निर्माय जीवनं सुलभं अपि कुर्मः । उत्तमं कोडिंग्!</string>
+  <string name="start_text_advice">अस्मिन् अनुप्रयोगे निरन्तरं कृत्वा भवान् अस्माकं उपयोगनियमान् गोपनीयतानीतिं च सहमतः अस्ति</string>
+  <string name="start">प्रारंभः</string>
+  <string name="skip">क्षिपते</string>
+  <string name="finish">समापन</string>
+  <string name="next">अग्रिम</string>
+  <string name="back">पृष्ठभागः</string>
+  <string name="allow">अनुमन्यताम्‌</string>
+  <string name="slider_Edge">एज लाइटिंग</string>
+  <string name="slider_Edge1">Edges इत्यस्य उपरि धारप्रकाशं प्रदर्शयन्तु</string>
+  <string name="alert_Edge">न्यून बैटरी अलर्ट</string>
+  <string name="alert_Edge1">न्यूनबैटरीसचेतनायै नारङ्गवर्णीयधारप्रकाशः</string>
+  <string name="warning_Edge">न्यून बैटरी चेतावनी</string>
+  <string name="warning_Edge1">अत्यन्तं न्यूनबैटरीचेतावनीयै रक्तधारप्रकाशः</string>
+  <string name="notch_Edge">नोच्</string>
+  <string name="notch_Edge1">नोच् इत्यनेन एज लाइटिंग् सक्षमं कुर्वन्तु</string>
+  <string name="wallpaper_Edge">वॉलपेपर</string>
+  <string name="wallpaper_Edge1">Wallpaper इत्यनेन सह धारप्रकाशः</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>१</item>  
+    <item>२</item>  
+    <item>३</item>  
+    <item>४</item>  
+    <item>५</item>  
+    <item>६</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>वायरलेस्</item> 
+  </string-array>
+  <string name="hello_blank_fragment">नमस्कार रिक्त खण्ड</string>
+  <string name="apply">आचरतु</string>
+  <string name="applied">प्रयुक्तम्</string>
+  <string name="always_on_display_edge_lighting">सदैव प्रदर्शने धारप्रकाशः</string>
+  <string name="confirm_exit">निर्गमनस्य पुष्टिः ?</string>
+  <string name="yes">आम्‌</string>
+  <string name="no">नहि</string>
+  <string name="wallpapers">वॉलपेपर</string>
+  <string name="ok">अस्तु</string>
+  <string name="what_would_you_like_to_do">किं कर्तुम् इच्छसि ?</string>
+  <string name="set_home_screen">Home Screen सेट् कुर्वन्तु</string>
+  <string name="set_lock_screen">Lock Screen सेट् कुर्वन्तु</string>
+  <string name="set_both_screens">Both Screens सेट् कुर्वन्तु</string>
+  <string name="adjust_screen">Adjust Screen इति</string>
+  <string name="please_wait_ad_is_loading">कृपया प्रतीक्ष्यताम्, विज्ञापनं लोड् भवति</string>
+  <string name="home">गृहम्‌</string>
+  <string name="edge_lighting_border">धार प्रकाश सीमा</string>
+  <string name="view_more">अधिकं पश्यन्तु</string>
+  <string name="brighten_up_by_stunning_edges">आश्चर्यजनक एज्स् द्वारा उज्ज्वलं कुर्वन्तु</string>
+  <string name="live_wallpapers">लाइव वॉलपेपर</string>
+  <string name="stunning_wallpapers">आश्चर्यजनक वॉलपेपर</string>
+  <string name="experience_by_interactive_wallpapers">अन्तरक्रियाशील वॉलपेपर द्वारा अनुभव</string>
+  <string name="dismiss">उत्सृज्</string>
+  <string name="language">भाषा</string>
+  <string name="privacy_policy">गोपनीयता नीति</string>
+  <string name="rate_us">अस्मान् मूल्याङ्कयतु</string>
+  <string name="more_app">अधिकं App</string>
+  <string name="exit">निर्गम</string>
+  <string name="alert">सचेत</string>
+  <string name="warning">चेतवानी</string>
+  <string name="trending">प्रवृत्तिः</string>
+  <string name="applying_wallpaper">वॉलपेपरं प्रयोजयन्</string>
+  <string name="wallpaper_applied">वॉलपेपर लागू</string>
+  <string name="accessibility_service_level_permission">सुलभता सेवास्तरस्य अनुमतिः : १.</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">अन्येषां एप्स् उपरि कार्यं कर्तुं Edge Lighting इत्यस्य कृते Accessibility Permission इति मूलविशेषतारूपेण अनिवार्यम् अस्ति तथा च lock screen इति</string>
+  <string name="this_permission_can_be_granted_as_follow">एषा अनुमतिः निम्नलिखितरूपेण दातुं शक्यते ।</string>
+  <string name="go_to_settings">सेटिंग्स् इत्यत्र गच्छन्तु</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">अभिगम्यता > संस्थापितानि एप्स्/सेवाः > एज लाइटिंग्</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">सुलभता > अधिकानि डाउनलोड् सेवाः > एज लाइटिंग्</string>
+  <string name="grant_permission_now">अधुना अनुमतिं ददातु?</string>
+  <string name="later">कालान्तरे</string>
+  <string name="yes_now">आम्, इदानीं</string>
+</resources>

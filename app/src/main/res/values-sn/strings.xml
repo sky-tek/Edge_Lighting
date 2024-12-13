@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ratidza pamusoro pemamwe maapplication</string>
+  <string name="open_nav">Vhura Navigation Drawer</string>
+  <string name="close_nav">Kuvhara Navigation Drawer</string>
+  <string name="show_while_charging">Ratidza uchichaja</string>
+  <string name="text_enable_wallpaper">Vhura Wallpaper</string>
+  <string name="number_of_colors">Nhamba Yemavara</string>
+  <string name="click_a_color_to_edit">Dzvanya ruvara kuti ugadzirise</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Sarudza Mutauro</string>
+  <string name="text_cancel">Cancel</string>
+  <string name="text_border_type">Border type</string>
+  <string name="text_animation_speed">Animation speed</string>
+  <string name="text_border_size">Saizi yemuganhu</string>
+  <string name="text_radius_top">Radius kumusoro</string>
+  <string name="text_radius_bottom">Radhiyasi pasi</string>
+  <string name="text_enable_display_notch">Enesa Notch</string>
+  <string name="text_notch_width_top">Notch wide top</string>
+  <string name="text_notch_width_bottom">Notch wide pasi</string>
+  <string name="text_notch_height">Notch urefu</string>
+  <string name="text_notch_radius_top">Notch radius kumusoro</string>
+  <string name="text_notch_radius_bottom">Notch radius pasi</string>
+  <string name="select_wallpaper">Sarudza Wallpaper</string>
+  <string name="allow_display_over_other_apps">Bvumira kuratidzwa pamusoro pemamwe maapuro</string>
+  <string name="continue_">Enderera mberi</string>
+  <string name="app_name_service">Vhura skrini yakavharika</string>
+  <string name="permission_request">Chikumbiro cheMvumo</string>
+  <string name="power_connected">Power Cable Yakabatanidzwa</string>
+  <string name="power_disconnected">Power Cable Yakabviswa</string>
+  <string name="draw_over_cancelled">Dhirowa mvumo yekudhirowa haisati yapihwa. Edza zvakare</string>
+  <string name="draw_over_granted">Dhirowa pamusoro pemvumo chikumbiro chapihwa</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Ndokumbira umirire Wallpaper Kurodha…</string>
+  <string name="no_internet">Hapana internet</string>
+  <string name="to_use_this">Kuti ushandise chinhu ichi Mvumo yeKuwanikwa inodiwa</string>
+  <string name="draw_over_denied">Dhirowa mvumo yekudhirowa haisati yapihwa. Edza zvakare</string>
+  <string name="no_internet_war">Iwe hausi pamhepo ndapota batidza internet yako kuti uwane mapeji ekuvhenekesa mapikicha.</string>
+  <string name="you_must">Iwe unofanirwa kugonesa \"Dhivha Pamusoro peMamwe Mapurogiramu\" mvumo ye \"Edge Lighting\" kuti ishande nemazvo.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Nature</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Kuvira kwezuva</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Tanga sevhisi</string>
+  <string name="No_topic_selected">Hapana musoro wakasarudzwa</string>
+  <string name="Update_finish">Kugadzirisa kupera</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Low Battery Edge Lighting</string>
+  <string name="battery_one">Bhatiri 1</string>
+  <string name="battery_two">Bhatiri 2</string>
+  <string name="edge_service">Running service</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Rarama</string>
+  <string name="main_ongoing_download">Kugadzira Preview</string>
+  <string name="permission_required">Mvumo Inodiwa</string>
+  <string name="title_onboarding_1">Accessibility Mvumo</string>
+  <string name="description_onboarding_1">Kuwanika chinhu chakakosha</string>
+  <string name="string_text_onboarding_complete_description">Mvumo yeKuwanika sechinhu chakakosha inofanirwa kuti Edge Lighting ishande pamusoro pemamwe maapplication uye kukiya skrini</string>
+  <string name="title_onboarding_2">Accessibility Mvumo</string>
+  <string name="description_onboarding_2">Mvumo inogona kupihwa sezvinotevera: \n \n Kuwanika > Akaiswa Mapurogiramu/Mashandiro > Edge Lighting \n KANA \n Kuwanika > Mamwe Masevhisi Ekudhawunirodha > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodhi yakanaka maapuro</string>
+  <string name="description_onboarding_3">Basa redu ndere kugadzira anobatsira &amp; akajeka maapplication. Isu tinoda kubatsira vanhu kuchengetedza nguva nezvinhu zvakavhurika-source, asi isu zvakare tinoita kuti hupenyu huve nyore nekugadzira zvinhu zvitsva. Good Coding!</string>
+  <string name="start_text_advice">Nekuenderera mberi pane iyi application unobvumirana neMitemo yedu Yekushandisa uye Yakavanzika Policy</string>
+  <string name="start">Tanga</string>
+  <string name="skip">Skip</string>
+  <string name="finish">Finish</string>
+  <string name="next">Next</string>
+  <string name="back">Back</string>
+  <string name="allow">Bvumira</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Ratidza kumucheto mwenje pamusoro peEdges</string>
+  <string name="alert_Edge">Yakaderera Battery Alert</string>
+  <string name="alert_Edge1">Orange kumucheto mwenje kune yakaderera bhatiri yambiro</string>
+  <string name="warning_Edge">Yakaderera Battery Yambiro</string>
+  <string name="warning_Edge1">Red edge lighting kune yakaderera bhatiri yambiro</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Gonesa kumucheto kuvhenekera ne notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Kupenya kweEdge ne Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Mhoro blank fragment</string>
+  <string name="apply">Shandisa</string>
+  <string name="applied">Inoshandiswa</string>
+  <string name="always_on_display_edge_lighting">Nguva dzose pane kuratidza kumucheto kwemwenje</string>
+  <string name="confirm_exit">Confirm Exit ?</string>
+  <string name="yes">Ehe</string>
+  <string name="no">Aihwa</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Chii chaungada kuita?</string>
+  <string name="set_home_screen">Seta Home Screen</string>
+  <string name="set_lock_screen">Seta Lock Screen</string>
+  <string name="set_both_screens">Seta Maseru Maviri</string>
+  <string name="adjust_screen">Gadzirisa Screen</string>
+  <string name="please_wait_ad_is_loading">Chimbomirai, shambadzo irikuuya</string>
+  <string name="home">Kumba</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">Kupenya kumusoro nekukatyamadza Edges</string>
+  <string name="live_wallpapers">Live Wallpaper</string>
+  <string name="stunning_wallpapers">Stunning Wallpapers</string>
+  <string name="experience_by_interactive_wallpapers">Zvakaitika neInteractive Wallpapers</string>
+  <string name="dismiss">Dzinga</string>
+  <string name="language">Mutauro</string>
+  <string name="privacy_policy">Privacy Policy</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="more_app">More App</string>
+  <string name="exit">Kubuda</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Yambiro</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Kushandisa Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level Mvumo:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Mvumo yeKuwanika sechinhu chakakosha inofanirwa kuti Edge Lighting ishande pamusoro pemamwe maapplication uye kukiya skrini</string>
+  <string name="this_permission_can_be_granted_as_follow">Mvumo iyi inogona kupihwa sezvinotevera:</string>
+  <string name="go_to_settings">Enda kune Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kuwanika> Akaiswa Mapurogiramu/Sevhisi> Edge Mwenje</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kuwanika> Mamwe Masevhisi Ekudhawunirodha> Edge Lighting</string>
+  <string name="grant_permission_now">Ipa Mvumo Zvino?</string>
+  <string name="later">Gare gare</string>
+  <string name="yes_now">Hongu, zvino</string>
+</resources>

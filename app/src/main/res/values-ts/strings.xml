@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Kombisa ehenhla ka ti-app tin’wana</string>
+  <string name="open_nav">Pfula Drawer ya Navigation</string>
+  <string name="close_nav">Pfala Drawer ya ku Famba-famba</string>
+  <string name="show_while_charging">Kombisa loko u ri karhi u chaja</string>
+  <string name="text_enable_wallpaper">Endla leswaku Wallpaper yi tirha</string>
+  <string name="number_of_colors">Nhlayo ya Mihlovo</string>
+  <string name="click_a_color_to_edit">Click muvala ku hlela</string>
+  <string name="mtrl_picker_confirm">LULAMILE</string>
+  <string name="SelectLanguage">Hlawula Ririmi</string>
+  <string name="text_cancel">Khansela</string>
+  <string name="text_border_type">Muxaka wa ndzilakano</string>
+  <string name="text_animation_speed">Rivilo ra swifaniso leswi hanyaka</string>
+  <string name="text_border_size">Vukulu bya ndzilakano</string>
+  <string name="text_radius_top">Radius yale henhla</string>
+  <string name="text_radius_bottom">Radius yale hansi</string>
+  <string name="text_enable_display_notch">Endla leswaku Notch yi tirha</string>
+  <string name="text_notch_width_top">Notch ku anama ehenhla</string>
+  <string name="text_notch_width_bottom">Notch ku anama ehansi</string>
+  <string name="text_notch_height">Ku leha ka notch</string>
+  <string name="text_notch_radius_top">Notch radius yale henhla</string>
+  <string name="text_notch_radius_bottom">Notch radius yale hansi</string>
+  <string name="select_wallpaper">Hlawula Wallpaper</string>
+  <string name="allow_display_over_other_apps">Pfumelela ku kombisiwa eka ti-app tin’wana</string>
+  <string name="continue_">Yisa emahlweni</string>
+  <string name="app_name_service">Vula xifunengeto xa xikirini</string>
+  <string name="permission_request">Xikombelo xa Mpfumelelo</string>
+  <string name="power_connected">Ntambhu ya Gezi yi Hlanganile</string>
+  <string name="power_disconnected">Ntambhu ya Gezi yi hambanisiwile</string>
+  <string name="draw_over_cancelled">Mpfumelelo wa ku funengeta dirowa a wu nyikiwanga sweswi. Ringeta nakambe</string>
+  <string name="draw_over_granted">Xikombelo xa mpfumelelo wa ku funengeta dirowa xi nyikiwile</string>
+  <string name="app_name">Ku Vonakala ka Edge</string>
+  <string name="please_wait">Hi kombela mi yimela Wallpaper Downloading...</string>
+  <string name="no_internet">Ku hava inthanete</string>
+  <string name="to_use_this">Ku tirhisa xiyenge lexi Mpfumelelo wa ku Fikeleleka wa laveka</string>
+  <string name="draw_over_denied">Mpfumelelo wa ku funengeta dirowa a wu nyikiwanga sweswi. Ringeta nakambe</string>
+  <string name="no_internet_war">U offline hi kombela u pfula internet ya wena ku kuma ti edge lighting wallpapers.</string>
+  <string name="you_must">U fanele ku pfumelela mpfumelelo wa \"Draw Over Other Apps\" leswaku \"Edge Lighting\" yi tirha kahle.</string>
+  <string name="wallpaper_description">Live_paper ya le xihundleni</string>
+  <string name="abstract_">Xianakanyiwa</string>
+  <string name="nature">Ntumbuluko</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Mintshaho</string>
+  <string name="sunset">Riperile</string>
+  <string name="top">Henhla</string>
+  <string name="text_name_notification">Sungula vutirheli</string>
+  <string name="No_topic_selected">Ku hava nhloko-mhaka leyi hlawuriweke</string>
+  <string name="Update_finish">Ku pfuxeta ku hetisa</string>
+  <string name="loading_ad">Ku layicha Xitiviso</string>
+  <string name="low_battery">Ku voninga ka le hansi ka betri</string>
+  <string name="battery_one">Betiri ya 1</string>
+  <string name="battery_two">Betiri ya 2</string>
+  <string name="edge_service">Vukorhokeri byo fambisa</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Hanya</string>
+  <string name="main_ongoing_download">Ku tumbuluxa Xikombiso xa le mahlweni</string>
+  <string name="permission_required">Mpfumelelo Wa Laveka</string>
+  <string name="title_onboarding_1">Mpfumelelo wa ku Fikeleleka</string>
+  <string name="description_onboarding_1">Ku fikelela i xivumbeko xa nkoka</string>
+  <string name="string_text_onboarding_complete_description">Mpfumelelo wa ku Fikeleleka tanihi xivumbeko xa nkoka i wa nkoka leswaku Edge Lighting yi tirha eka ti-app tin’wana na ku pfala xikirini</string>
+  <string name="title_onboarding_2">Mpfumelelo wa ku Fikeleleka</string>
+  <string name="description_onboarding_2">Mpfumelelo wu nga nyikiwa hi ndlela leyi landzelaka: \n \n Ku fikelela > Ti-app/Ti-Service leti nghenisiweke > Ku voninga ka le tlhelo \n KUMBE \n Ku fikelela > Vukorhokeri byin’wana byo dawuniloda > Ku voninga ka le tlhelo</string>
+  <string name="title_onboarding_3">Khoda ti-app to saseka</string>
+  <string name="description_onboarding_3">Xikongomelo xa hina i ku endla ti apps leti pfunaka &amp; leti nga vonakiki. Hi tsakela ku pfuna vanhu ku hlayisa nkarhi hi swilo leswi pfulekeke, kambe hi tlhela hi olovisa vutomi hi ku tumbuluxa swilo leswintshwa. Ku Khodiwa Ka kahle!</string>
+  <string name="start_text_advice">Hi ku ya emahlweni eka xitirhisiwa lexi u pfumelelana na Mimpimanyeto ya hina ya Matirhiselo na Pholisi ya Vuhlayiseki</string>
+  <string name="start">Sungula</string>
+  <string name="skip">Tlula</string>
+  <string name="finish">Hetisa</string>
+  <string name="next">Landzelaka</string>
+  <string name="back">Tlhelela</string>
+  <string name="allow">Pfumelela</string>
+  <string name="slider_Edge">Ku Vonakala ka Edge</string>
+  <string name="slider_Edge1">Kombisa ku voninga ka le tlhelo ehenhla ka Edges</string>
+  <string name="alert_Edge">Xitsundzuxo xa Betiri ya le Hansi</string>
+  <string name="alert_Edge1">Ku voninga ka le tlhelo ka orenji ku kuma xitsundzuxo xa betri ya le hansi</string>
+  <string name="warning_Edge">Xitsundzuxo xa Betiri ya le Hansi</string>
+  <string name="warning_Edge1">Ku voninga ka le tlhelo ro tshwuka ku kuma xilemukiso xa betri ya le hansi swinene</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Endla leswaku ku voninga ka le tlhelo hi notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ku voninga ka le tlhelo hi Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello xiphemu lexi nga riki na nchumu</string>
+  <string name="apply">Endla xikombelo</string>
+  <string name="applied">Ku tirhisiwile</string>
+  <string name="always_on_display_edge_lighting">Minkarhi hinkwayo eka display edge lighting</string>
+  <string name="confirm_exit">Tiyisisa Ku Huma ?</string>
+  <string name="yes">Ina</string>
+  <string name="no">E-e</string>
+  <string name="wallpapers">Swifaniso swa le ndzhaku</string>
+  <string name="ok">Lulamile</string>
+  <string name="what_would_you_like_to_do">Xana u nga tsakela ku endla yini?</string>
+  <string name="set_home_screen">Seta Xikirini xa le Kaya</string>
+  <string name="set_lock_screen">Seta Xikirini xo Khiya</string>
+  <string name="set_both_screens">Seta Swikirini Leswi Haswimbirhi</string>
+  <string name="adjust_screen">Lulamisa Xikirini</string>
+  <string name="please_wait_ad_is_loading">Hi kombela mi yima, ad yi le ku loading</string>
+  <string name="home">Kaya</string>
+  <string name="edge_lighting_border">Ndzilakano wa ku Vonakala ka le Makumu</string>
+  <string name="view_more">Vona Swin\'wana</string>
+  <string name="brighten_up_by_stunning_edges">Ku voninga hi Edges yo hlamarisa</string>
+  <string name="live_wallpapers">Swifaniso leswi hanyaka</string>
+  <string name="stunning_wallpapers">Swifaniso swo hlamarisa swa Wallpaper</string>
+  <string name="experience_by_interactive_wallpapers">Ntokoto hi Interactive Wallpapers</string>
+  <string name="dismiss">Bakanya</string>
+  <string name="language">Ririmi</string>
+  <string name="privacy_policy">Pholisi ya Vuhlayiseki bya Swihundla</string>
+  <string name="rate_us">Hi Xiringanyeto</string>
+  <string name="more_app">App yo tala</string>
+  <string name="exit">Huma</string>
+  <string name="alert">Lemukisa</string>
+  <string name="warning">Xilemukisi</string>
+  <string name="trending">Ku ya emahlweni</string>
+  <string name="applying_wallpaper">Ku tirhisa Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper yi Tirhisiwile</string>
+  <string name="accessibility_service_level_permission">Mpfumelelo wa Xiyimo xa Vukorhokeri bya ku Fikeleleka:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Mpfumelelo wa ku Fikeleleka tanihi xivumbeko xa nkoka i wa nkoka leswaku Edge Lighting yi tirha eka ti-app tin’wana na ku pfala xikirini</string>
+  <string name="this_permission_can_be_granted_as_follow">Mpfumelelo lowu wu nga nyikiwa hi ndlela leyi landzelaka:</string>
+  <string name="go_to_settings">Yana eka Switirhisiwa</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ku fikelela > Ti-app/Vukorhokeri lebyi nghenisiweke > Ku voninga ka le tlhelo</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ku fikelela > Vukorhokeri byin’wana byo dawuniloda > Ku voninga ka le tlhelo</string>
+  <string name="grant_permission_now">Nyika Mpfumelelo Sweswi?</string>
+  <string name="later">Endzhaku</string>
+  <string name="yes_now">Ina, sweswi</string>
+</resources>

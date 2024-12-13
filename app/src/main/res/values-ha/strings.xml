@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Nuna kan sauran apps</string>
+  <string name="open_nav">Buɗe Drawer Kewayawa</string>
+  <string name="close_nav">Kusa Drawer Kewayawa</string>
+  <string name="show_while_charging">Nuna yayin caji</string>
+  <string name="text_enable_wallpaper">Kunna bangon bangon waya</string>
+  <string name="number_of_colors">Yawan Launuka</string>
+  <string name="click_a_color_to_edit">Danna launi don gyarawa</string>
+  <string name="mtrl_picker_confirm">KO</string>
+  <string name="SelectLanguage">Zaɓi Harshe</string>
+  <string name="text_cancel">Soke</string>
+  <string name="text_border_type">Nau\'in kan iyaka</string>
+  <string name="text_animation_speed">Gudun motsin rai</string>
+  <string name="text_border_size">Girman kan iyaka</string>
+  <string name="text_radius_top">Radius saman</string>
+  <string name="text_radius_bottom">Radius kasa</string>
+  <string name="text_enable_display_notch">Kunna Daraja</string>
+  <string name="text_notch_width_top">Saman faɗin daraja</string>
+  <string name="text_notch_width_bottom">Ƙarƙashin faɗin daraja</string>
+  <string name="text_notch_height">Tsayin daraja</string>
+  <string name="text_notch_radius_top">Babban radius mai daraja</string>
+  <string name="text_notch_radius_bottom">Ƙarƙashin radius na ƙasa</string>
+  <string name="select_wallpaper">Zaɓi Fuskar bangon waya</string>
+  <string name="allow_display_over_other_apps">Bada izinin nunawa akan wasu ƙa\'idodi</string>
+  <string name="continue_">Ci gaba</string>
+  <string name="app_name_service">Bude mai rufin allo</string>
+  <string name="permission_request">Neman izini</string>
+  <string name="power_connected">Haɗin Wutar Lantarki</string>
+  <string name="power_disconnected">An Kashe Wutar Lantarki</string>
+  <string name="draw_over_cancelled">Ba a ba da izinin zane mai rufi ba tukuna. Gwada kuma</string>
+  <string name="draw_over_granted">An ba da izinin zane mai rufi</string>
+  <string name="app_name">Hasken Wuta</string>
+  <string name="please_wait">Da fatan za a jira Ana Zazzage Wallpaper…</string>
+  <string name="no_internet">Babu intanet</string>
+  <string name="to_use_this">Don amfani da wannan fasalin ana buƙatar Izinin Samun dama</string>
+  <string name="draw_over_denied">Ba a ba da izinin zane mai rufi ba tukuna. Gwada kuma</string>
+  <string name="no_internet_war">Kuna layi don Allah kunna intanet ɗin ku don samun fuskar bangon waya mai haske.</string>
+  <string name="you_must">Dole ne ku ba da izinin \"Zana Kan Sauran Ayyuka\" don \"Edge Lighting\" yayi aiki da kyau.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abtract</string>
+  <string name="nature">Yanayi</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Magana</string>
+  <string name="sunset">Faɗuwar rana</string>
+  <string name="top">Sama</string>
+  <string name="text_name_notification">Fara sabis</string>
+  <string name="No_topic_selected">Babu batun da aka zaɓa</string>
+  <string name="Update_finish">Ƙarshe sabunta</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">Ƙarƙashin Ƙarƙashin Batir Edge Lighting</string>
+  <string name="battery_one">Baturi 1</string>
+  <string name="battery_two">Baturi 2</string>
+  <string name="edge_service">Sabis mai gudana</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Rayuwa</string>
+  <string name="main_ongoing_download">Samar da Preview</string>
+  <string name="permission_required">Ana buƙatar izini</string>
+  <string name="title_onboarding_1">Izinin Samun Dama</string>
+  <string name="description_onboarding_1">Samun dama shine ainihin siffa</string>
+  <string name="string_text_onboarding_complete_description">Izinin Samun damar zama babban fasalin shine dole ne don Hasken Edge yayi aiki akan sauran aikace-aikacen da allon kulle</string>
+  <string name="title_onboarding_2">Izinin Samun Dama</string>
+  <string name="description_onboarding_2">Ana iya ba da izini kamar haka: \n \n Samun damar> Shigar Apps/Sabis> Hasken Wuta \n KO \n Samun damar > Ƙarin Sabis na Zazzagewa > Hasken Wuta</string>
+  <string name="title_onboarding_3">Code kyawawan apps</string>
+  <string name="description_onboarding_3">Manufarmu ita ce ƙirƙirar ƙa\'idodi masu amfani &amp; da dabara. Muna son taimaka wa mutane su adana lokaci tare da kayan buɗaɗɗen tushe, amma kuma muna sauƙaƙe rayuwa ta ƙirƙirar sabbin abubuwa. Kyakkyawan Coding!</string>
+  <string name="start_text_advice">Ta ci gaba da wannan aikace-aikacen kun yarda da Sharuɗɗan Amfani da Manufar Keɓantawa</string>
+  <string name="start">Fara</string>
+  <string name="skip">Tsallake</string>
+  <string name="finish">Gama</string>
+  <string name="next">Na gaba</string>
+  <string name="back">Baya</string>
+  <string name="allow">Izinin</string>
+  <string name="slider_Edge">Hasken Wuta</string>
+  <string name="slider_Edge1">Nuna fitintinka a kan Edges</string>
+  <string name="alert_Edge">Ƙaramar Faɗakarwar Baturi</string>
+  <string name="alert_Edge1">Fitilar gefen Orange don ƙaramar faɗakarwar baturi</string>
+  <string name="warning_Edge">Gargadi Karamin Baturi</string>
+  <string name="warning_Edge1">Hasken jan baki don faɗakarwar baturi mai ƙarancin ƙarfi</string>
+  <string name="notch_Edge">Daraja</string>
+  <string name="notch_Edge1">Kunna hasken gefe tare da daraja</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Hasken ƙofa tare da Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Mara waya</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Sannu gutsutsutsu</string>
+  <string name="apply">Aiwatar</string>
+  <string name="applied">Aiwatar</string>
+  <string name="always_on_display_edge_lighting">Koyaushe a kan fitilolin nuni</string>
+  <string name="confirm_exit">Tabbatar Fita?</string>
+  <string name="yes">Ee</string>
+  <string name="no">A\'a</string>
+  <string name="wallpapers">Fuskokin bangon waya</string>
+  <string name="ok">Ko</string>
+  <string name="what_would_you_like_to_do">Me kuke so kuyi?</string>
+  <string name="set_home_screen">Saita Fuskar allo</string>
+  <string name="set_lock_screen">Saita Allon Kulle</string>
+  <string name="set_both_screens">Saita Fuskokin Biyu</string>
+  <string name="adjust_screen">Daidaita allo</string>
+  <string name="please_wait_ad_is_loading">Da fatan za a jira, talla yana lodawa</string>
+  <string name="home">Gida</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Duba Ƙari</string>
+  <string name="brighten_up_by_stunning_edges">Haskakawa ta Edges masu ban mamaki</string>
+  <string name="live_wallpapers">Fuskokin bangon waya kai tsaye</string>
+  <string name="stunning_wallpapers">Wallpapers masu ban mamaki</string>
+  <string name="experience_by_interactive_wallpapers">Kwarewa ta fuskar bangon waya masu hulɗa</string>
+  <string name="dismiss">Korar</string>
+  <string name="language">Harshe</string>
+  <string name="privacy_policy">Takardar kebantawa</string>
+  <string name="rate_us">Rage Mu</string>
+  <string name="more_app">Ƙarin App</string>
+  <string name="exit">Fita</string>
+  <string name="alert">Fadakarwa</string>
+  <string name="warning">Gargadi</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Ana Neman Wallpaper</string>
+  <string name="wallpaper_applied">An Aiwatar da Wallpaper</string>
+  <string name="accessibility_service_level_permission">Izinin Matsayin Sabis na Samun dama:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Izinin Samun damar zama babban fasalin shine dole ne don Hasken Edge yayi aiki akan sauran aikace-aikacen da allon kulle</string>
+  <string name="this_permission_can_be_granted_as_follow">Ana iya ba da wannan izini kamar haka:</string>
+  <string name="go_to_settings">Jeka Saituna</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Samun dama > Aikace-aikace/Sabis da aka shigar> Hasken Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Samun dama> Ƙarin Sabis na Zazzagewa> Hasken Edge</string>
+  <string name="grant_permission_now">Bada Izin Yanzu?</string>
+  <string name="later">Daga baya</string>
+  <string name="yes_now">Ee, yanzu</string>
+</resources>

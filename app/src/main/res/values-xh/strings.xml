@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Bonisa ngaphezu kwezinye ii-apps</string>
+  <string name="open_nav">Vula idrowa yokukhangela</string>
+  <string name="close_nav">Vala idrowa yokuHamba</string>
+  <string name="show_while_charging">Bonisa ngelixa ushaja</string>
+  <string name="text_enable_wallpaper">Vula iphepha lodonga</string>
+  <string name="number_of_colors">Inani leMibala</string>
+  <string name="click_a_color_to_edit">Cofa umbala ukuhlela</string>
+  <string name="mtrl_picker_confirm">KULUNGILE</string>
+  <string name="SelectLanguage">Khetha ulwimi</string>
+  <string name="text_cancel">Rhoxisa</string>
+  <string name="text_border_type">Uhlobo lomda</string>
+  <string name="text_animation_speed">Isantya sopopayi</string>
+  <string name="text_border_size">Ubungakanani bomda</string>
+  <string name="text_radius_top">Radius phezulu</string>
+  <string name="text_radius_bottom">Radius emazantsi</string>
+  <string name="text_enable_display_notch">Vula iNotshi</string>
+  <string name="text_notch_width_top">Inotshi ububanzi phezulu</string>
+  <string name="text_notch_width_bottom">Inotshi ububanzi ezantsi</string>
+  <string name="text_notch_height">Inotshi ukuphakama</string>
+  <string name="text_notch_radius_top">Unotshi werediyasi phezulu</string>
+  <string name="text_notch_radius_bottom">Inotshi yerediyasi emazantsi</string>
+  <string name="select_wallpaper">Khetha iphepha lodonga</string>
+  <string name="allow_display_over_other_apps">Vumela umboniso ngaphezulu kwezinye ii-apps</string>
+  <string name="continue_">Qhubeka</string>
+  <string name="app_name_service">Vula umaleko wesikrini</string>
+  <string name="permission_request">Isicelo seMvume</string>
+  <string name="power_connected">Intambo yaMandla iQhagamshelwe</string>
+  <string name="power_disconnected">Intambo yoMbane iqhawukile</string>
+  <string name="draw_over_cancelled">Imvume yokuzoba ayinikezelwanga okwangoku. Zama kwakhona</string>
+  <string name="draw_over_granted">Unikiwe imvume yokuzoba iimvume ezingaphezulu</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Nceda ulinde Ukhuphelo Lwamaphephadonga...</string>
+  <string name="no_internet">Akukho intanethi</string>
+  <string name="to_use_this">Ukusebenzisa olu phawu Imvume yokuFikelela iyafuneka</string>
+  <string name="draw_over_denied">Imvume yokuzoba ayinikezelwanga okwangoku. Zama kwakhona</string>
+  <string name="no_internet_war">Awukho kwi-intanethi nceda uvule i-intanethi yakho ukuze ufumane iiwallpapers ezikhanyayo.</string>
+  <string name="you_must">Kuya kufuneka uvule imvume \"yokutsala ngaphezulu kwezinye ii-Apps\" ukuze \"Ukukhanya komphetho\" kusebenze ngokufanelekileyo.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Indalo</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Iingcaphuno</string>
+  <string name="sunset">Ukutshona kwelanga</string>
+  <string name="top">Phezulu</string>
+  <string name="text_name_notification">Qala inkonzo</string>
+  <string name="No_topic_selected">Akukho sihloko sikhethiweyo</string>
+  <string name="Update_finish">Ukugqiba uhlaziyo</string>
+  <string name="loading_ad">Ilayisha intengiso</string>
+  <string name="low_battery">UkuKhanya kweBattery Edge ephantsi</string>
+  <string name="battery_one">Ibhetri 1</string>
+  <string name="battery_two">Ibhetri 2</string>
+  <string name="edge_service">Inkonzo yokuqhuba</string>
+  <string name="wallpaper">Iphepha lodonga</string>
+  <string name="magical_wallpaper">Phila</string>
+  <string name="main_ongoing_download">Ukuvelisa iPreview</string>
+  <string name="permission_required">Kufuneka Imvume</string>
+  <string name="title_onboarding_1">Imvume yokufikeleleka</string>
+  <string name="description_onboarding_1">Ukufikeleleka luphawu olungundoqo</string>
+  <string name="string_text_onboarding_complete_description">IMvume yokuFikelela njengeyona nto iphambili kufuneka i-Edge Lighting isebenze ngaphezulu kwezinye ii-apps kunye nokutshixa isikrini</string>
+  <string name="title_onboarding_2">Imvume yokufikeleleka</string>
+  <string name="description_onboarding_2">IMvume inokunikezelwa ngolu hlobo lulandelayo: \n \n Ukufikeleleka > ii-Apps/iiNkonzo eziFakelweyo > iEdge Lighting \n OKANYE \n Ukufikeleleka > Iinkonzo zokukhuphela ezingakumbi > Edge Lighting</string>
+  <string name="title_onboarding_3">Ikhowudi apps ezintle</string>
+  <string name="description_onboarding_3">Umsebenzi wethu kukwenza usetyenziso oluluncedo kunye nolufihlakeleyo. Siyathanda ukunceda abantu ukuba bonge ixesha ngezinto ezivulelekileyo, kodwa senza ubomi bube lula ngokudala izinto ezintsha. IKhowudi entle!</string>
+  <string name="start_text_advice">Ngokuqhubeka kwesi sicelo uyavumelana neMiqathango yethu yokuSebenzisa kunye noMgaqo-nkqubo waBucala</string>
+  <string name="start">Qala</string>
+  <string name="skip">Tsiba</string>
+  <string name="finish">Gqiba</string>
+  <string name="next">Okulandelayo</string>
+  <string name="back">Emva</string>
+  <string name="allow">Vumela</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Bonisa ukhanyo olusemaphethelweni phezu kwemida</string>
+  <string name="alert_Edge">Isilumkiso sebhetri ephantsi</string>
+  <string name="alert_Edge1">Izibane eziorenji zomphetho wesilumkiso sebhetri ephantsi</string>
+  <string name="warning_Edge">Isilumkiso sebhetri ephantsi</string>
+  <string name="warning_Edge1">Ukukhanya komphetho obomvu kwisilumkiso sebhetri ephantsi kakhulu</string>
+  <string name="notch_Edge">Inotshi</string>
+  <string name="notch_Edge1">Yenza ukukhanya komphetho ngenotshi</string>
+  <string name="wallpaper_Edge">Iphepha lodonga</string>
+  <string name="wallpaper_Edge1">Ukukhanya komphetho ngeWallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>I-USB</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Molo iqhekeza elingenanto</string>
+  <string name="apply">Faka isicelo</string>
+  <string name="applied">Isetyenziswa</string>
+  <string name="always_on_display_edge_lighting">Ngalo lonke ixesha kumboniso wokukhanya wokuphela</string>
+  <string name="confirm_exit">Qinisekisa UkuPhuma ?</string>
+  <string name="yes">Ewe</string>
+  <string name="no">Hayi</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Kulungile</string>
+  <string name="what_would_you_like_to_do">Ingaba ungathanda ukwenza ntoni?</string>
+  <string name="set_home_screen">Seta iSkrini sasekhaya</string>
+  <string name="set_lock_screen">Cwangcisa ukutshixa iSkrini</string>
+  <string name="set_both_screens">Seta Zombini izikrini</string>
+  <string name="adjust_screen">Lungisa iSkrini</string>
+  <string name="please_wait_ad_is_loading">Nceda ulinde, intengiso iyalayisha</string>
+  <string name="home">Ekhaya</string>
+  <string name="edge_lighting_border">Umda wokukhanyisa uMda</string>
+  <string name="view_more">Jonga Ngakumbi</string>
+  <string name="brighten_up_by_stunning_edges">Ikhazimle ngeMiphetho emangalisayo</string>
+  <string name="live_wallpapers">Live Wallpapers</string>
+  <string name="stunning_wallpapers">IiWallpapers ezimangalisayo</string>
+  <string name="experience_by_interactive_wallpapers">Amava nge-Interactive Wallpapers</string>
+  <string name="dismiss">Gxotha</string>
+  <string name="language">Ulwimi</string>
+  <string name="privacy_policy">Umthetho wabucala</string>
+  <string name="rate_us">Isilinganisele</string>
+  <string name="more_app">Usetyenziso olungakumbi</string>
+  <string name="exit">Phuma</string>
+  <string name="alert">Isilumkiso</string>
+  <string name="warning">Isilumkiso</string>
+  <string name="trending">Okuphambili</string>
+  <string name="applying_wallpaper">Ukusebenzisa iphepha lodonga</string>
+  <string name="wallpaper_applied">Iphepha lodonga lifakiwe</string>
+  <string name="accessibility_service_level_permission">IMvume yeNqanaba lokuFikelela:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">IMvume yokuFikelela njengeyona nto iphambili kufuneka i-Edge Lighting isebenze ngaphezulu kwezinye ii-apps kunye nokutshixa isikrini</string>
+  <string name="this_permission_can_be_granted_as_follow">Le Mvume inokunikwa ngolu hlobo lulandelayo:</string>
+  <string name="go_to_settings">Yiya kwiisetingi</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ukufikeleleka > Ii-Apps/iiNkonzo eziFakelweyo > Isibane soMda</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ukufikeleleka > Iinkonzo zokuKhuphela Okungakumbi > UkuKhanya komphetho</string>
+  <string name="grant_permission_now">Sibonelele ngeMvume Ngoku?</string>
+  <string name="later">Kamva</string>
+  <string name="yes_now">Ewe, ngoku</string>
+</resources>

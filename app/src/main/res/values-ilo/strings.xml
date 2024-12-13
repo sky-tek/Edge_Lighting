@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ipakita iti rabaw ti dadduma nga apps</string>
+  <string name="open_nav">Luktan ti Drawer ti Nabigasion</string>
+  <string name="close_nav">Iserram ti Drawer ti Nabigasion</string>
+  <string name="show_while_charging">Ipakita bayat ti panagkarga</string>
+  <string name="text_enable_wallpaper">Pagbalinen ti Wallpaper</string>
+  <string name="number_of_colors">Bilang dagiti Kolor</string>
+  <string name="click_a_color_to_edit">I-click ti maysa a kolor tapno ma-edit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Pilien ti Lenguahe</string>
+  <string name="text_cancel">Ikansela</string>
+  <string name="text_border_type">Tipo ti beddeng</string>
+  <string name="text_animation_speed">Kapartak ti animation</string>
+  <string name="text_border_size">Kadakkel ti beddeng</string>
+  <string name="text_radius_top">Radius nga tuktok</string>
+  <string name="text_radius_bottom">Radius ti baba</string>
+  <string name="text_enable_display_notch">Pagbalinen ti Notch</string>
+  <string name="text_notch_width_top">Notch ti kalawa ti tuktok</string>
+  <string name="text_notch_width_bottom">Notch ti kalawa ti baba</string>
+  <string name="text_notch_height">Notch ti kangatona</string>
+  <string name="text_notch_radius_top">Notch radius nga tuktok</string>
+  <string name="text_notch_radius_bottom">Notch radius ti baba</string>
+  <string name="select_wallpaper">Pilien ti Wallpaper</string>
+  <string name="allow_display_over_other_apps">Ipalubos ti pannakaiparang iti rabaw ti dadduma nga app</string>
+  <string name="continue_">Ituloy</string>
+  <string name="app_name_service">Luktan ti screen overlay</string>
+  <string name="permission_request">Kiddaw ti Pammalubos</string>
+  <string name="power_connected">Nakonekta ti Kable ti Bileg</string>
+  <string name="power_disconnected">Nadiskonekta ti Kable ti Kuriente</string>
+  <string name="draw_over_cancelled">Saan pay a naited ti pammalubos ti draw overlay. Padasem manen</string>
+  <string name="draw_over_granted">Naited ti kiddaw ti pammalubos ti panagdrowing</string>
+  <string name="app_name">Edge nga Pagsilaw</string>
+  <string name="please_wait">Pangngaasiyo ta urayenyo ti Wallpaper Downloading...</string>
+  <string name="no_internet">Awan ti internet</string>
+  <string name="to_use_this">Tapno mausar daytoy a tampok Kasapulan ti Pammalubos ti Accessibility</string>
+  <string name="draw_over_denied">Saan pay a naited ti pammalubos ti draw overlay. Padasem manen</string>
+  <string name="no_internet_war">Offline kayo pangngaasiyo ta i-on-yo ti internet-yo tapno makaalakayo kadagiti edge lighting wallpapers.</string>
+  <string name="you_must">Masapul nga ipalubosmo ti pammalubos ti \"Draw Over Other Apps\" para iti \"Edge Lighting\" nga agtrabaho a nasayaat.</string>
+  <string name="wallpaper_description">Agbiag_a_pader</string>
+  <string name="abstract_">Abstrakto</string>
+  <string name="nature">Law-ang</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Dagiti naadaw</string>
+  <string name="sunset">Ilelenek ti init</string>
+  <string name="top">Ngato</string>
+  <string name="text_name_notification">Rugian ti serbisio</string>
+  <string name="No_topic_selected">Awan ti napili a topiko</string>
+  <string name="Update_finish">Update ti panagleppas</string>
+  <string name="loading_ad">Agkarkarga ti Ad</string>
+  <string name="low_battery">Nababa ti Bateria nga Edge Lighting</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Serbisyo ti panagtaray</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Agbiag</string>
+  <string name="main_ongoing_download">Panagpataud ti Preview</string>
+  <string name="permission_required">Masapul ti Pammalubos</string>
+  <string name="title_onboarding_1">Pammalubos ti Accessibility</string>
+  <string name="description_onboarding_1">Ti pannakagun-od ket maysa a kangrunaan a tampok</string>
+  <string name="string_text_onboarding_complete_description">Ti Accessibility Permission kas maysa a kangrunaan a tampok ket masapul tapno agtrabaho ti Edge Lighting iti rabaw dagiti dadduma nga apps ken mangikandado iti iskrin</string>
+  <string name="title_onboarding_2">Pammalubos ti Accessibility</string>
+  <string name="description_onboarding_2">Ti Pammalubos ket mabalin a maited a kas ti sumaganad: \n \n Accessibility > Naipasdek nga Apps/Services > Edge Lighting \n WENNO \n Accessibility > Ad-adu pay a Serbisio ti Panag-download > Edge Lighting</string>
+  <string name="title_onboarding_3">Code napintas nga apps</string>
+  <string name="description_onboarding_3">Ti misyon mi ket agaramid ti useful &amp; subtle apps. Pagay-ayatmi ti tumulong kadagiti tattao a makaurnong iti panawen babaen kadagiti open-source a bambanag, ngem palakaenmi met ti biag babaen ti panangparnuay kadagiti baro a banag. Nasayaat a Coding!</string>
+  <string name="start_text_advice">Babaen ti panangitultuloymo iti daytoy nga aplikasion umanamongka kadagiti Kondision ti Panagusar ken Pagannurotanmi iti Kinapribado</string>
+  <string name="start">Irugi</string>
+  <string name="skip">Laktawan</string>
+  <string name="finish">Palpasen</string>
+  <string name="next">Sumaruno</string>
+  <string name="back">Likud</string>
+  <string name="allow">Palubusan</string>
+  <string name="slider_Edge">Edge nga Pagsilaw</string>
+  <string name="slider_Edge1">Ipakita ti silaw ti igid iti rabaw ti Edges</string>
+  <string name="alert_Edge">Alerto ti Nababa a Bateria</string>
+  <string name="alert_Edge1">Kahel nga edge lighting para iti nababa nga alerto ti bateria</string>
+  <string name="warning_Edge">Pakdaar ti Nababa a Bateria</string>
+  <string name="warning_Edge1">Red edge lighting para iti nababa unay a pakdaar ti bateria</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Pagbalinen ti edge lighting babaen ti notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge nga silaw nga may Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1</item>  
+    <item>2. 2</item>  
+    <item>3. 3</item>  
+    <item>4. 4</item>  
+    <item>5. 5</item>  
+    <item>6. 6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello blangko a pirgis</string>
+  <string name="apply">Iyaplikar</string>
+  <string name="applied">Naipakat</string>
+  <string name="always_on_display_edge_lighting">Kanayon nga adda iti display nga edge lighting</string>
+  <string name="confirm_exit">Pasingkedan ti Rummuar ?</string>
+  <string name="yes">Wen</string>
+  <string name="no">Saan</string>
+  <string name="wallpapers">Dagiti Wallpaper</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Ania ti kayatmo nga aramiden?</string>
+  <string name="set_home_screen">Itakderan ti Home Screen</string>
+  <string name="set_lock_screen">Itakder ti Lock Screen</string>
+  <string name="set_both_screens">Itakderan ti Agpada nga Iskrin</string>
+  <string name="adjust_screen">I-adjust ti Iskrin</string>
+  <string name="please_wait_ad_is_loading">Pangngaasiyo ta aguraykayo, agkarkarga ti ad</string>
+  <string name="home">Balay</string>
+  <string name="edge_lighting_border">Beddeng ti Silaw ti Edge</string>
+  <string name="view_more">Kitaen ti Ad-adu Pay</string>
+  <string name="brighten_up_by_stunning_edges">Naraniag babaen kadagiti nakaskasdaaw nga Edges</string>
+  <string name="live_wallpapers">Dagiti Sibibiag a Wallpaper</string>
+  <string name="stunning_wallpapers">Nakaskasdaaw a Wallpaper</string>
+  <string name="experience_by_interactive_wallpapers">Kapadasan babaen ti Interaktibo a Wallpaper</string>
+  <string name="dismiss">Papanawen</string>
+  <string name="language">Lengguahe</string>
+  <string name="privacy_policy">Pagannurotan iti Kinapribado</string>
+  <string name="rate_us">Rate Kadakami</string>
+  <string name="more_app">Ad-adu pay nga App</string>
+  <string name="exit">Rumuar</string>
+  <string name="alert">Alerto</string>
+  <string name="warning">Pakdaar</string>
+  <string name="trending">Ag-trending ti ag-trending</string>
+  <string name="applying_wallpaper">Panag-apply ti Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper nga Naipakat</string>
+  <string name="accessibility_service_level_permission">Pammalubos ti Lebel ti Serbisio ti Aksesibilidad:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ti Accessibility Permission kas maysa a kangrunaan a tampok ket masapul tapno agtrabaho ti Edge Lighting iti rabaw dagiti dadduma nga apps ken mangikandado iti iskrin</string>
+  <string name="this_permission_can_be_granted_as_follow">Mabalin a maited daytoy a Pammalubos kas iti sumaganad:</string>
+  <string name="go_to_settings">Mapanka iti Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility > Dagiti Nai-install nga Apps/Services > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accessibility > Ad-adu pay a Serbisio ti Panag-download > Edge Lighting</string>
+  <string name="grant_permission_now">Mangtedka iti Pammalubos Ita?</string>
+  <string name="later">Damdama</string>
+  <string name="yes_now">Wen, ita</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">نمایش بر روی سایر برنامه ها</string>
+  <string name="open_nav">کشوی پیمایش را باز کنید</string>
+  <string name="close_nav">کشوی ناوبری را ببندید</string>
+  <string name="show_while_charging">هنگام شارژ شدن نمایش داده شود</string>
+  <string name="text_enable_wallpaper">والپیپر را فعال کنید</string>
+  <string name="number_of_colors">تعداد رنگ</string>
+  <string name="click_a_color_to_edit">برای ویرایش روی یک رنگ کلیک کنید</string>
+  <string name="mtrl_picker_confirm">باشه</string>
+  <string name="SelectLanguage">زبان را انتخاب کنید</string>
+  <string name="text_cancel">لغو کنید</string>
+  <string name="text_border_type">نوع حاشیه</string>
+  <string name="text_animation_speed">سرعت انیمیشن</string>
+  <string name="text_border_size">اندازه حاشیه</string>
+  <string name="text_radius_top">شعاع بالا</string>
+  <string name="text_radius_bottom">شعاع پایین</string>
+  <string name="text_enable_display_notch">Notch را فعال کنید</string>
+  <string name="text_notch_width_top">بالای عرض بریدگی</string>
+  <string name="text_notch_width_bottom">عرض بریدگی پایین</string>
+  <string name="text_notch_height">ارتفاع بریدگی</string>
+  <string name="text_notch_radius_top">بالای شعاع ناچ</string>
+  <string name="text_notch_radius_bottom">بریدگی شعاع پایین</string>
+  <string name="select_wallpaper">تصویر زمینه را انتخاب کنید</string>
+  <string name="allow_display_over_other_apps">اجازه نمایش روی برنامه‌های دیگر</string>
+  <string name="continue_">ادامه دهید</string>
+  <string name="app_name_service">روکش صفحه را باز کنید</string>
+  <string name="permission_request">درخواست مجوز</string>
+  <string name="power_connected">کابل برق وصل شد</string>
+  <string name="power_disconnected">کابل برق قطع شده است</string>
+  <string name="draw_over_cancelled">اجازه همپوشانی رسم هنوز داده نشده است. دوباره امتحان کنید</string>
+  <string name="draw_over_granted">درخواست مجوزهای همپوشانی رسم داده شد</string>
+  <string name="app_name">نورپردازی لبه</string>
+  <string name="please_wait">لطفا منتظر بمانید در حال دانلود والپیپر…</string>
+  <string name="no_internet">اینترنت نداره</string>
+  <string name="to_use_this">برای استفاده از این ویژگی، مجوز دسترسی لازم است</string>
+  <string name="draw_over_denied">اجازه همپوشانی رسم هنوز داده نشده است. دوباره امتحان کنید</string>
+  <string name="no_internet_war">شما آفلاین هستید، لطفاً اینترنت خود را روشن کنید تا والپیپرهای نورپردازی لبه را دریافت کنید.</string>
+  <string name="you_must">برای اینکه «Edge Lighting» به درستی کار کند، باید مجوز «Draw Over Other Apps» را فعال کنید.</string>
+  <string name="wallpaper_description">تصویر زمینه زنده</string>
+  <string name="abstract_">چکیده</string>
+  <string name="nature">طبیعت</string>
+  <string name="neon">نئون</string>
+  <string name="quotes">نقل قول ها</string>
+  <string name="sunset">غروب</string>
+  <string name="top">بالا</string>
+  <string name="text_name_notification">سرویس را شروع کنید</string>
+  <string name="No_topic_selected">موضوعی انتخاب نشده است</string>
+  <string name="Update_finish">اتمام به روز رسانی</string>
+  <string name="loading_ad">در حال بارگذاری آگهی</string>
+  <string name="low_battery">روشنایی لبه باتری کم</string>
+  <string name="battery_one">باتری 1</string>
+  <string name="battery_two">باتری 2</string>
+  <string name="edge_service">سرویس در حال اجرا</string>
+  <string name="wallpaper">کاغذ دیواری</string>
+  <string name="magical_wallpaper">زندگی کنید</string>
+  <string name="main_ongoing_download">ایجاد پیش نمایش</string>
+  <string name="permission_required">مجوز لازم است</string>
+  <string name="title_onboarding_1">مجوز دسترسی</string>
+  <string name="description_onboarding_1">قابلیت دسترسی یک ویژگی اصلی است</string>
+  <string name="string_text_onboarding_complete_description">مجوز دسترسی به عنوان یک ویژگی اصلی برای کارکرد Edge Lighting روی سایر برنامه‌ها و صفحه قفل ضروری است</string>
+  <string name="title_onboarding_2">مجوز دسترسی</string>
+  <string name="description_onboarding_2">مجوز را می توان به شرح زیر اعطا کرد: \n \n دسترسی > برنامه ها/سرویس های نصب شده > Edge Lighting \n یا \n دسترسی > خدمات دانلود بیشتر > Edge Lighting</string>
+  <string name="title_onboarding_3">کد برنامه های زیبا</string>
+  <string name="description_onboarding_3">ماموریت ما ساختن اپلیکیشن های مفید و ظریف است. ما عاشق کمک به مردم برای صرفه جویی در وقت با چیزهای منبع باز هستیم، اما همچنین با ایجاد چیزهای جدید زندگی را آسان تر می کنیم. کد نویسی خوب!</string>
+  <string name="start_text_advice">با ادامه این برنامه، با شرایط استفاده و سیاست حفظ حریم خصوصی ما موافقت می کنید</string>
+  <string name="start">شروع کنید</string>
+  <string name="skip">پرش کنید</string>
+  <string name="finish">پایان</string>
+  <string name="next">بعدی</string>
+  <string name="back">برگشت</string>
+  <string name="allow">اجازه دهید</string>
+  <string name="slider_Edge">نورپردازی لبه</string>
+  <string name="slider_Edge1">نمایش نور لبه بر روی لبه ها</string>
+  <string name="alert_Edge">هشدار باتری کم</string>
+  <string name="alert_Edge1">نورپردازی لبه نارنجی برای هشدار باتری کم</string>
+  <string name="warning_Edge">هشدار باتری کم</string>
+  <string name="warning_Edge1">چراغ قرمز لبه برای هشدار باتری بسیار کم</string>
+  <string name="notch_Edge">شکاف</string>
+  <string name="notch_Edge1">روشنایی لبه را با بریدگی فعال کنید</string>
+  <string name="wallpaper_Edge">کاغذ دیواری</string>
+  <string name="wallpaper_Edge1">نورپردازی لبه با کاغذ دیواری</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>بی سیم</item> 
+  </string-array>
+  <string name="hello_blank_fragment">سلام قطعه خالی</string>
+  <string name="apply">درخواست کنید</string>
+  <string name="applied">اعمال شد</string>
+  <string name="always_on_display_edge_lighting">همیشه روشنایی لبه نمایشگر</string>
+  <string name="confirm_exit">خروج را تایید کنید؟</string>
+  <string name="yes">بله</string>
+  <string name="no">خیر</string>
+  <string name="wallpapers">تصاویر پس زمینه</string>
+  <string name="ok">باشه</string>
+  <string name="what_would_you_like_to_do">دوست دارید چه کار کنید؟</string>
+  <string name="set_home_screen">تنظیم صفحه اصلی</string>
+  <string name="set_lock_screen">تنظیم صفحه قفل</string>
+  <string name="set_both_screens">هر دو صفحه را تنظیم کنید</string>
+  <string name="adjust_screen">تنظیم صفحه نمایش</string>
+  <string name="please_wait_ad_is_loading">لطفا صبر کنید، آگهی در حال بارگیری است</string>
+  <string name="home">صفحه اصلی</string>
+  <string name="edge_lighting_border">حاشیه نورپردازی لبه</string>
+  <string name="view_more">مشاهده بیشتر</string>
+  <string name="brighten_up_by_stunning_edges">با لبه های خیره کننده روشن کنید</string>
+  <string name="live_wallpapers">تصاویر پس زمینه زنده</string>
+  <string name="stunning_wallpapers">تصاویر پس زمینه خیره کننده</string>
+  <string name="experience_by_interactive_wallpapers">تجربه با تصاویر پس زمینه تعاملی</string>
+  <string name="dismiss">رد کردن</string>
+  <string name="language">زبان</string>
+  <string name="privacy_policy">سیاست حفظ حریم خصوصی</string>
+  <string name="rate_us">به ما امتیاز دهید</string>
+  <string name="more_app">برنامه بیشتر</string>
+  <string name="exit">خروج</string>
+  <string name="alert">هشدار</string>
+  <string name="warning">هشدار</string>
+  <string name="trending">پرطرفدار</string>
+  <string name="applying_wallpaper">اعمال کاغذ دیواری</string>
+  <string name="wallpaper_applied">کاغذ دیواری اعمال شد</string>
+  <string name="accessibility_service_level_permission">مجوز سطح سرویس دسترسی:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">مجوز دسترسی به عنوان یک ویژگی اصلی برای کارکرد Edge Lighting روی سایر برنامه‌ها و صفحه قفل ضروری است</string>
+  <string name="this_permission_can_be_granted_as_follow">این مجوز می تواند به شرح زیر اعطا شود:</string>
+  <string name="go_to_settings">به تنظیمات بروید</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">دسترسی > برنامه ها/سرویس های نصب شده > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">دسترسی > خدمات دانلود بیشتر > Edge Lighting</string>
+  <string name="grant_permission_now">اکنون اجازه بدهید؟</string>
+  <string name="later">بعدا</string>
+  <string name="yes_now">بله، در حال حاضر</string>
+</resources>

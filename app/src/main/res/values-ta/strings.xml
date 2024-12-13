@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">பிற பயன்பாடுகளில் காட்டவும்</string>
+  <string name="open_nav">வழிசெலுத்தல் டிராயரைத் திறக்கவும்</string>
+  <string name="close_nav">வழிசெலுத்தல் டிராயரை மூடவும்</string>
+  <string name="show_while_charging">சார்ஜ் செய்யும் போது காட்டு</string>
+  <string name="text_enable_wallpaper">வால்பேப்பரை இயக்கு</string>
+  <string name="number_of_colors">வண்ணங்களின் எண்ணிக்கை</string>
+  <string name="click_a_color_to_edit">திருத்த ஒரு வண்ணத்தை கிளிக் செய்யவும்</string>
+  <string name="mtrl_picker_confirm">சரி</string>
+  <string name="SelectLanguage">மொழியைத் தேர்ந்தெடுக்கவும்</string>
+  <string name="text_cancel">ரத்து செய்</string>
+  <string name="text_border_type">எல்லை வகை</string>
+  <string name="text_animation_speed">அனிமேஷன் வேகம்</string>
+  <string name="text_border_size">பார்டர் அளவு</string>
+  <string name="text_radius_top">ஆரம் மேல்</string>
+  <string name="text_radius_bottom">ஆரம் கீழே</string>
+  <string name="text_enable_display_notch">நாட்சை இயக்கு</string>
+  <string name="text_notch_width_top">மேல் நாட்ச் அகலம்</string>
+  <string name="text_notch_width_bottom">நாட்ச் அகலம் கீழே</string>
+  <string name="text_notch_height">நாட்ச் உயரம்</string>
+  <string name="text_notch_radius_top">நாட்ச் ஆரம் மேல்</string>
+  <string name="text_notch_radius_bottom">நாட்ச் ஆரம் கீழே</string>
+  <string name="select_wallpaper">வால்பேப்பரைத் தேர்ந்தெடுக்கவும்</string>
+  <string name="allow_display_over_other_apps">பிற பயன்பாடுகளில் காட்சிப்படுத்த அனுமதிக்கவும்</string>
+  <string name="continue_">தொடரவும்</string>
+  <string name="app_name_service">திரை மேலடுக்கைத் திறக்கவும்</string>
+  <string name="permission_request">அனுமதி கோரிக்கை</string>
+  <string name="power_connected">பவர் கேபிள் இணைக்கப்பட்டுள்ளது</string>
+  <string name="power_disconnected">மின் கேபிள் துண்டிக்கப்பட்டது</string>
+  <string name="draw_over_cancelled">வரைவதற்கு மேலடுக்கு அனுமதி இன்னும் வழங்கப்படவில்லை. மீண்டும் முயற்சிக்கவும்</string>
+  <string name="draw_over_granted">மேலடுக்கு அனுமதி கோரிக்கை வழங்கப்பட்டது</string>
+  <string name="app_name">எட்ஜ் லைட்டிங்</string>
+  <string name="please_wait">வால்பேப்பர் பதிவிறக்கத்தில் காத்திருக்கவும்…</string>
+  <string name="no_internet">இணையம் இல்லை</string>
+  <string name="to_use_this">இந்த அம்சத்தைப் பயன்படுத்த, அணுகல்தன்மை அனுமதி தேவை</string>
+  <string name="draw_over_denied">வரைவதற்கு மேலடுக்கு அனுமதி இன்னும் வழங்கப்படவில்லை. மீண்டும் முயற்சிக்கவும்</string>
+  <string name="no_internet_war">நீங்கள் ஆஃப்லைனில் இருக்கிறீர்கள், எட்ஜ் லைட்டிங் வால்பேப்பர்களைப் பெற உங்கள் இணையத்தை இயக்கவும்.</string>
+  <string name="you_must">\"எட்ஜ் லைட்டிங்\" சரியாக வேலை செய்ய \"Draw Over Other Apps\" அனுமதியை நீங்கள் இயக்க வேண்டும்.</string>
+  <string name="wallpaper_description">நேரடி_வால்பேப்பர்</string>
+  <string name="abstract_">சுருக்கம்</string>
+  <string name="nature">இயற்கை</string>
+  <string name="neon">நியான்</string>
+  <string name="quotes">மேற்கோள்கள்</string>
+  <string name="sunset">சூரிய அஸ்தமனம்</string>
+  <string name="top">மேல்</string>
+  <string name="text_name_notification">சேவையைத் தொடங்கவும்</string>
+  <string name="No_topic_selected">தலைப்பு எதுவும் தேர்ந்தெடுக்கப்படவில்லை</string>
+  <string name="Update_finish">புதுப்பிப்பு முடிவு</string>
+  <string name="loading_ad">விளம்பரத்தை ஏற்றுகிறது</string>
+  <string name="low_battery">குறைந்த பேட்டரி எட்ஜ் லைட்டிங்</string>
+  <string name="battery_one">பேட்டரி 1</string>
+  <string name="battery_two">பேட்டரி 2</string>
+  <string name="edge_service">இயங்கும் சேவை</string>
+  <string name="wallpaper">வால்பேப்பர்</string>
+  <string name="magical_wallpaper">வாழ்க</string>
+  <string name="main_ongoing_download">முன்னோட்டத்தை உருவாக்குகிறது</string>
+  <string name="permission_required">அனுமதி தேவை</string>
+  <string name="title_onboarding_1">அணுகல் அனுமதி</string>
+  <string name="description_onboarding_1">அணுகல் ஒரு முக்கிய அம்சமாகும்</string>
+  <string name="string_text_onboarding_complete_description">எட்ஜ் லைட்டிங் மற்ற ஆப்ஸ் மற்றும் லாக் ஸ்கிரீனில் வேலை செய்ய, அணுகல்தன்மை அனுமதி ஒரு முக்கிய அம்சமாக இருக்க வேண்டும்.</string>
+  <string name="title_onboarding_2">அணுகல் அனுமதி</string>
+  <string name="description_onboarding_2">அனுமதியை பின்வருமாறு வழங்கலாம்: \n \n அணுகல்தன்மை > நிறுவப்பட்ட ஆப்ஸ்/சேவைகள் > எட்ஜ் லைட்டிங் \n அல்லது \n அணுகல்தன்மை > கூடுதல் பதிவிறக்க சேவைகள் > எட்ஜ் லைட்டிங்</string>
+  <string name="title_onboarding_3">அழகான பயன்பாடுகளை குறியீடு</string>
+  <string name="description_onboarding_3">பயனுள்ள மற்றும் நுட்பமான பயன்பாடுகளை உருவாக்குவதே எங்கள் நோக்கம். திறந்த மூல பொருட்களைப் பயன்படுத்தி நேரத்தைச் சேமிக்க மக்களுக்கு உதவுவதை நாங்கள் விரும்புகிறோம், ஆனால் புதிய விஷயங்களை உருவாக்குவதன் மூலம் வாழ்க்கையை எளிதாக்குகிறோம். நல்ல குறியீட்டு முறை!</string>
+  <string name="start_text_advice">இந்தப் பயன்பாட்டில் தொடர்வதன் மூலம் எங்கள் பயன்பாட்டு விதிமுறைகள் மற்றும் தனியுரிமைக் கொள்கையை ஏற்கிறீர்கள்</string>
+  <string name="start">தொடங்கு</string>
+  <string name="skip">தவிர்க்கவும்</string>
+  <string name="finish">முடிக்கவும்</string>
+  <string name="next">அடுத்து</string>
+  <string name="back">மீண்டும்</string>
+  <string name="allow">அனுமதி</string>
+  <string name="slider_Edge">எட்ஜ் லைட்டிங்</string>
+  <string name="slider_Edge1">விளிம்புகளுக்கு மேல் விளிம்பு விளக்குகளைக் காண்பி</string>
+  <string name="alert_Edge">குறைந்த பேட்டரி எச்சரிக்கை</string>
+  <string name="alert_Edge1">குறைந்த பேட்டரி எச்சரிக்கைக்கான ஆரஞ்சு விளிம்பு விளக்கு</string>
+  <string name="warning_Edge">குறைந்த பேட்டரி எச்சரிக்கை</string>
+  <string name="warning_Edge1">மிகக் குறைந்த பேட்டரி எச்சரிக்கைக்கான சிவப்பு விளிம்பு விளக்கு</string>
+  <string name="notch_Edge">நாட்ச்</string>
+  <string name="notch_Edge1">நாட்ச் மூலம் விளிம்பு விளக்குகளை இயக்கவும்</string>
+  <string name="wallpaper_Edge">வால்பேப்பர்</string>
+  <string name="wallpaper_Edge1">வால்பேப்பருடன் விளிம்பு விளக்குகள்</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>ஏசி</item>  
+    <item>Usb</item>  
+    <item>கம்பியில்லா</item> 
+  </string-array>
+  <string name="hello_blank_fragment">வணக்கம் வெற்று துண்டு</string>
+  <string name="apply">விண்ணப்பிக்கவும்</string>
+  <string name="applied">விண்ணப்பிக்கப்பட்டது</string>
+  <string name="always_on_display_edge_lighting">எப்பொழுதும் டிஸ்பிளே எட்ஜ் லைட்டிங் இருக்கும்</string>
+  <string name="confirm_exit">வெளியேறுவதை உறுதிப்படுத்தவா?</string>
+  <string name="yes">ஆம்</string>
+  <string name="no">இல்லை</string>
+  <string name="wallpapers">வால்பேப்பர்கள்</string>
+  <string name="ok">சரி</string>
+  <string name="what_would_you_like_to_do">நீங்கள் என்ன செய்ய விரும்புகிறீர்கள்?</string>
+  <string name="set_home_screen">முகப்புத் திரையை அமைக்கவும்</string>
+  <string name="set_lock_screen">பூட்டு திரையை அமைக்கவும்</string>
+  <string name="set_both_screens">இரண்டு திரைகளையும் அமைக்கவும்</string>
+  <string name="adjust_screen">திரையை சரிசெய்யவும்</string>
+  <string name="please_wait_ad_is_loading">காத்திருக்கவும், விளம்பரம் ஏற்றப்படுகிறது</string>
+  <string name="home">வீடு</string>
+  <string name="edge_lighting_border">எட்ஜ் லைட்டிங் பார்டர்</string>
+  <string name="view_more">மேலும் காண்க</string>
+  <string name="brighten_up_by_stunning_edges">பிரமிக்க வைக்கும் விளிம்புகள் மூலம் பிரகாசமாக்குங்கள்</string>
+  <string name="live_wallpapers">நேரடி வால்பேப்பர்கள்</string>
+  <string name="stunning_wallpapers">பிரமிக்க வைக்கும் வால்பேப்பர்கள்</string>
+  <string name="experience_by_interactive_wallpapers">ஊடாடும் வால்பேப்பர்கள் மூலம் அனுபவம்</string>
+  <string name="dismiss">நிராகரி</string>
+  <string name="language">மொழி</string>
+  <string name="privacy_policy">தனியுரிமைக் கொள்கை</string>
+  <string name="rate_us">எங்களை மதிப்பிடு</string>
+  <string name="more_app">மேலும் ஆப்</string>
+  <string name="exit">வெளியேறு</string>
+  <string name="alert">எச்சரிக்கை</string>
+  <string name="warning">எச்சரிக்கை</string>
+  <string name="trending">டிரெண்டிங்</string>
+  <string name="applying_wallpaper">வால்பேப்பரைப் பயன்படுத்துகிறது</string>
+  <string name="wallpaper_applied">வால்பேப்பர் பயன்படுத்தப்பட்டது</string>
+  <string name="accessibility_service_level_permission">அணுகல் சேவை நிலை அனுமதி:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">எட்ஜ் லைட்டிங் மற்ற ஆப்ஸ் மற்றும் லாக் ஸ்கிரீனில் வேலை செய்ய, அணுகல்தன்மை அனுமதி ஒரு முக்கிய அம்சமாக இருக்க வேண்டும்.</string>
+  <string name="this_permission_can_be_granted_as_follow">இந்த அனுமதியை பின்வருமாறு வழங்கலாம்:</string>
+  <string name="go_to_settings">அமைப்புகளுக்குச் செல்லவும்</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">அணுகல்தன்மை > நிறுவப்பட்ட ஆப்ஸ்/சேவைகள் > எட்ஜ் லைட்டிங்</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">அணுகல்தன்மை > மேலும் பதிவிறக்க சேவைகள் > எட்ஜ் லைட்டிங்</string>
+  <string name="grant_permission_now">இப்போது அனுமதி வழங்கவா?</string>
+  <string name="later">பின்னர்</string>
+  <string name="yes_now">ஆம், இப்போது</string>
+</resources>

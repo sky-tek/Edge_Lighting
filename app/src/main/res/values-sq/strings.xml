@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Shfaqni mbi aplikacionet e tjera</string>
+  <string name="open_nav">Hapni sirtarin e navigimit</string>
+  <string name="close_nav">Mbyllni sirtarin e navigimit</string>
+  <string name="show_while_charging">Shfaq gjatë karikimit</string>
+  <string name="text_enable_wallpaper">Aktivizo sfondin</string>
+  <string name="number_of_colors">Numri i ngjyrave</string>
+  <string name="click_a_color_to_edit">Klikoni një ngjyrë për ta modifikuar</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Zgjidhni gjuhën</string>
+  <string name="text_cancel">Anulo</string>
+  <string name="text_border_type">Lloji i kufirit</string>
+  <string name="text_animation_speed">Shpejtësia e animacionit</string>
+  <string name="text_border_size">Madhësia e kufirit</string>
+  <string name="text_radius_top">Rrezja e sipërme</string>
+  <string name="text_radius_bottom">Rrezja e poshtme</string>
+  <string name="text_enable_display_notch">Aktivizo Notch</string>
+  <string name="text_notch_width_top">Sipër me gjerësi të prerjes</string>
+  <string name="text_notch_width_bottom">Gjerësia e nivelit të poshtëm</string>
+  <string name="text_notch_height">Lartësia e nivelit</string>
+  <string name="text_notch_radius_top">Top me rreze të prerjes</string>
+  <string name="text_notch_radius_bottom">Rrezja e prerjes së poshtme</string>
+  <string name="select_wallpaper">Zgjidhni Wallpaper</string>
+  <string name="allow_display_over_other_apps">Lejo shfaqjen mbi aplikacionet e tjera</string>
+  <string name="continue_">Vazhdoni</string>
+  <string name="app_name_service">Hap mbivendosjen e ekranit</string>
+  <string name="permission_request">Kërkesë për leje</string>
+  <string name="power_connected">Kabllo energjie e lidhur</string>
+  <string name="power_disconnected">Kablloja e rrymës është shkëputur</string>
+  <string name="draw_over_cancelled">Leja për mbivendosje nuk është dhënë ende. Provo sërish</string>
+  <string name="draw_over_granted">Kërkesa për lejet e mbivendosjes së vizatimit u dha</string>
+  <string name="app_name">Ndriçimi i skajeve</string>
+  <string name="please_wait">Ju lutemi prisni shkarkimin e sfondit…</string>
+  <string name="no_internet">Nuk ka internet</string>
+  <string name="to_use_this">Për të përdorur këtë veçori kërkohet leja e aksesueshmërisë</string>
+  <string name="draw_over_denied">Leja për mbivendosje nuk është dhënë ende. Provo sërish</string>
+  <string name="no_internet_war">Je jashtë linje, aktivizo internetin për të marrë sfonde me ndriçim të skajshëm.</string>
+  <string name="you_must">Duhet të aktivizoni lejen \"Draw Over Other Others\" që \"Edge Lighting\" të funksionojë siç duhet.</string>
+  <string name="wallpaper_description">Sfond_live</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Natyra</string>
+  <string name="neon">Neoni</string>
+  <string name="quotes">Kuotat</string>
+  <string name="sunset">Perëndimi i diellit</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Filloni shërbimin</string>
+  <string name="No_topic_selected">Asnjë temë e zgjedhur</string>
+  <string name="Update_finish">Përfundimi i përditësimit</string>
+  <string name="loading_ad">Duke ngarkuar reklamën</string>
+  <string name="low_battery">Ndriçimi i skajit me bateri të ulët</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Shërbimi i drejtimit</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Jetoni</string>
+  <string name="main_ongoing_download">Gjenerimi i pamjes paraprake</string>
+  <string name="permission_required">Kërkohet leje</string>
+  <string name="title_onboarding_1">Leja e aksesueshmërisë</string>
+  <string name="description_onboarding_1">Aksesueshmëria është një veçori thelbësore</string>
+  <string name="string_text_onboarding_complete_description">Leja e aksesueshmërisë si një veçori thelbësore është e domosdoshme që Edge Lighting të funksionojë mbi aplikacionet e tjera dhe ekranin e kyçjes</string>
+  <string name="title_onboarding_2">Leja e aksesueshmërisë</string>
+  <string name="description_onboarding_2">Leja mund të jepet si më poshtë: \n \n Aksesueshmëria > Aplikacionet/shërbimet e instaluara > Edge Lighting \n OSE \n Aksesueshmëria > Më shumë shërbime shkarkimi > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodoni aplikacionet e bukura</string>
+  <string name="description_onboarding_3">Misioni ynë është të krijojmë aplikacione të dobishme dhe delikate. Ne na pëlqen t\'i ndihmojmë njerëzit të kursejnë kohë me materiale me burim të hapur, por ne gjithashtu e bëjmë jetën më të lehtë duke krijuar gjëra të reja. Kodim i mirë!</string>
+  <string name="start_text_advice">Duke vazhduar me këtë aplikacion, ju pranoni Kushtet tona të Përdorimit dhe Politikën e Privatësisë</string>
+  <string name="start">Filloni</string>
+  <string name="skip">Kapërceni</string>
+  <string name="finish">Përfundo</string>
+  <string name="next">Tjetra</string>
+  <string name="back">Mbrapa</string>
+  <string name="allow">Lejo</string>
+  <string name="slider_Edge">Ndriçimi i skajeve</string>
+  <string name="slider_Edge1">Shfaq ndriçimin e skajeve mbi Edges</string>
+  <string name="alert_Edge">Sinjalizim për baterinë e ulët</string>
+  <string name="alert_Edge1">Ndriçim i skajit portokalli për alarmin e baterisë së ulët</string>
+  <string name="warning_Edge">Paralajmërim për baterinë e ulët</string>
+  <string name="warning_Edge1">Ndriçimi i skajit të kuq për paralajmërim për bateri shumë të ulët</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Aktivizo ndriçimin e skajeve me notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ndriçimi i skajeve me letër-muri</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Përshëndetje fragment bosh</string>
+  <string name="apply">Aplikoni</string>
+  <string name="applied">Aplikuar</string>
+  <string name="always_on_display_edge_lighting">Gjithmonë me ndriçim në skajet e ekranit</string>
+  <string name="confirm_exit">Konfirmo daljen?</string>
+  <string name="yes">Po</string>
+  <string name="no">Nr</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Çfarë do të dëshironit të bënit?</string>
+  <string name="set_home_screen">Cakto ekranin bazë</string>
+  <string name="set_lock_screen">Cakto ekranin e kyçjes</string>
+  <string name="set_both_screens">Vendosni të dy ekranet</string>
+  <string name="adjust_screen">Rregullo ekranin</string>
+  <string name="please_wait_ad_is_loading">Ju lutemi prisni, reklama po ngarkohet</string>
+  <string name="home">Shtëpi</string>
+  <string name="edge_lighting_border">Kufiri i ndriçimit të skajit</string>
+  <string name="view_more">Shiko më shumë</string>
+  <string name="brighten_up_by_stunning_edges">Shkëlqeni nga skajet mahnitëse</string>
+  <string name="live_wallpapers">Wallpapers live</string>
+  <string name="stunning_wallpapers">Wallpapers mahnitëse</string>
+  <string name="experience_by_interactive_wallpapers">Përvoja nga Wallpapers interaktive</string>
+  <string name="dismiss">Largoje</string>
+  <string name="language">Gjuha</string>
+  <string name="privacy_policy">Politika e privatësisë</string>
+  <string name="rate_us">Na vlerësoni</string>
+  <string name="more_app">Më shumë aplikacion</string>
+  <string name="exit">Dalje</string>
+  <string name="alert">Alarmi</string>
+  <string name="warning">Paralajmërim</string>
+  <string name="trending">Në trend</string>
+  <string name="applying_wallpaper">Aplikimi i sfondit</string>
+  <string name="wallpaper_applied">U aplikua sfondi</string>
+  <string name="accessibility_service_level_permission">Leja e nivelit të shërbimit të aksesueshmërisë:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Leja e aksesueshmërisë si një veçori thelbësore është e domosdoshme që Edge Lighting të funksionojë mbi aplikacionet e tjera dhe ekranin e kyçjes</string>
+  <string name="this_permission_can_be_granted_as_follow">Kjo leje mund të jepet si më poshtë:</string>
+  <string name="go_to_settings">Shkoni te Cilësimet</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aksesueshmëria > Aplikacionet/Shërbimet e instaluara > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aksesueshmëria > Më shumë shërbime shkarkimi > Edge Lighting</string>
+  <string name="grant_permission_now">Të jepet leje tani?</string>
+  <string name="later">Më vonë</string>
+  <string name="yes_now">Po, tani</string>
+</resources>

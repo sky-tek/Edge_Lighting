@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Yaqha apps ukanakan uñacht’ayaña</string>
+  <string name="open_nav">Jisk’a Navegación Cajón</string>
+  <string name="close_nav">Jist’antaña Cajón de Navegación</string>
+  <string name="show_while_charging">Uñacht’ayaña kunawsatix carga luraski ukhaxa</string>
+  <string name="text_enable_wallpaper">Wallpaper ukar ch’amanchaña</string>
+  <string name="number_of_colors">Jakhuwi Saminaka</string>
+  <string name="click_a_color_to_edit">Mä color ukar ch’iqt’aña, ukhamat chiqañchañataki</string>
+  <string name="mtrl_picker_confirm">WALIKI</string>
+  <string name="SelectLanguage">Aru ajlliñani</string>
+  <string name="text_cancel">Kansilaña</string>
+  <string name="text_border_type">Ukax mä borde ukhamawa</string>
+  <string name="text_animation_speed">Animación ukax jank’akiw lurasi</string>
+  <string name="text_border_size">Frontera tamapa</string>
+  <string name="text_radius_top">Radio ukaxa wali ch’amawa</string>
+  <string name="text_radius_bottom">Radio manqhanxa</string>
+  <string name="text_enable_display_notch">Notch ukar ch’amanchaña</string>
+  <string name="text_notch_width_top">Muesca ancho ukaxa pata tuqina</string>
+  <string name="text_notch_width_bottom">Muesca ancho ukax manqhankiwa</string>
+  <string name="text_notch_height">Muesca alturapa</string>
+  <string name="text_notch_radius_top">Muesca radio ukaxa wali jach’awa</string>
+  <string name="text_notch_radius_bottom">Muesca radio ukaxa mä juk’a pachanakwa</string>
+  <string name="select_wallpaper">Wallpaper ukax mä jach’a uñacht’äwiwa</string>
+  <string name="allow_display_over_other_apps">Yaqha apps ukanakan uñacht’ayañ jaysaña</string>
+  <string name="continue_">Sarantaña</string>
+  <string name="app_name_service">Pantalla jist’araña</string>
+  <string name="permission_request">Permiso mayiwi</string>
+  <string name="power_connected">Cable de Potencia ukampi chikt’ata</string>
+  <string name="power_disconnected">Cable de Potencia ukax Desconectatawa</string>
+  <string name="draw_over_cancelled">Draw overlay permiso ukax janiw jichhakamax churatäkiti. Mayampiw yantʼañama</string>
+  <string name="draw_over_granted">Dibujar overlay permisos mayiwixa churatarakiwa</string>
+  <string name="app_name">Edge Lighting ukax mä juk’a pachanakanwa</string>
+  <string name="please_wait">Ukhamarusa, Wallpaper Downloading...</string>
+  <string name="no_internet">Janiw internet ukax utjkiti</string>
+  <string name="to_use_this">Aka lurawi apnaqañatakixa Permiso de Accesibilidad ukaxa wakisiwa</string>
+  <string name="draw_over_denied">Draw overlay permiso ukax janiw jichhakamax churatäkiti. Mayampiw yantʼañama</string>
+  <string name="no_internet_war">Jumax jan internetanktawa internet ukar jist’arañamawa wallpapers de iluminación de bordes ukanakar katuqañataki.</string>
+  <string name="you_must">\"Draw Over Other Apps\" uka permiso \"Edge Lighting\" ukax sum irnaqañapatakix ch\'amanchañamawa.</string>
+  <string name="wallpaper_description">Jakañ_wallpaper uñt’ayaña</string>
+  <string name="abstract_">Qhana</string>
+  <string name="nature">Pacha</string>
+  <string name="neon">Neon satänwa</string>
+  <string name="quotes">Jakthapiña</string>
+  <string name="sunset">Jayp\'uru</string>
+  <string name="top">Alaya</string>
+  <string name="text_name_notification">Servicio qalltaña</string>
+  <string name="No_topic_selected">Janiw kuna temas ajllitäkiti</string>
+  <string name="Update_finish">Jichha pacha tukuyaña</string>
+  <string name="loading_ad">Ukax Anuncio ukar apkatatawa</string>
+  <string name="low_battery">Jisk’a Batería Edge Qhanañchäwi</string>
+  <string name="battery_one">Batería ukaxa 1.1</string>
+  <string name="battery_two">Batería ukaxa 2.1</string>
+  <string name="edge_service">Servicio apnaqaña</string>
+  <string name="wallpaper">Wallpaper ukax mä juk’a pachanakanwa</string>
+  <string name="magical_wallpaper">Jakaña</string>
+  <string name="main_ongoing_download">Nayraqata uñakipaña luraña</string>
+  <string name="permission_required">Permiso ukax wakisiwa</string>
+  <string name="title_onboarding_1">Accesibilidad ukaxa Permiso ukawa</string>
+  <string name="description_onboarding_1">Accesibilidad ukax mä jach’a lurawiwa</string>
+  <string name="string_text_onboarding_complete_description">Permiso de Accesibilidad ukax mä jach’a lurawiwa, Edge Lighting ukax yaqha apps ukat pantalla bloqueo ukan irnaqañapatakix wakisiwa</string>
+  <string name="title_onboarding_2">Accesibilidad ukaxa Permiso ukawa</string>
+  <string name="description_onboarding_2">Permiso ukax akham churasispawa: \n \n Accesibilidad > Instalados Apps/Servicios > Edge Lighting \n JANIW \n Accesibilidad > Jisk’a Servicios de descarga > Edge Lighting</string>
+  <string name="title_onboarding_3">Código suma apps ukanaka</string>
+  <string name="description_onboarding_3">Jiwasan amtäwisax aski &amp; sutil apps lurañawa. Jaqinakar yanapt’añax wali munatawa, kunayman yänakampi pacha qhispiyañataki, ukampis machaq yänak lurasax jakäwix jasakiw lurasiraki. ¡Suma Codificación ukax wali askiwa!</string>
+  <string name="start_text_advice">Aka aplicación ukan sarantaskasaxa, Condiciones de Uso ukat Política de Privacidad ukar iyaw sasmawa</string>
+  <string name="start">Qalltaña</string>
+  <string name="skip">Willikipaña</string>
+  <string name="finish">Tukuña</string>
+  <string name="next">Jutiri</string>
+  <string name="back">Qhipa</string>
+  <string name="allow">Iyawsaña</string>
+  <string name="slider_Edge">Edge Lighting ukax mä juk’a pachanakanwa</string>
+  <string name="slider_Edge1">Uñacht’ayaña borde qhana Bordes ukanakat sipansa</string>
+  <string name="alert_Edge">Alerta de Batería ukax juk’akiw utji</string>
+  <string name="alert_Edge1">Naranja borde qhanaxa jisk’a pila alerta ukataki</string>
+  <string name="warning_Edge">Batería ukax juk’akiw utji</string>
+  <string name="warning_Edge1">Wila borde qhanaxa wali jisk’a pila uñt’ayañataki</string>
+  <string name="notch_Edge">Muesca ukat juk’ampinaka</string>
+  <string name="notch_Edge1">Muesca ukampiwa borde qhananchaña ch’amanchaña</string>
+  <string name="wallpaper_Edge">Wallpaper ukax mä juk’a pachanakanwa</string>
+  <string name="wallpaper_Edge1">Wallpaper ukampi borde qhananchaña</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1. Ukaxa mä juk’a pachanakwa lurasi</item>  
+    <item>2. 2. Ukaxa mä juk’a pachanakwa lurasi</item>  
+    <item>3. Ukaxa mä juk’a pachanakwa lurasi</item>  
+    <item>4. 4. Ukaxa mä juk’a pachanakwa lurasi</item>  
+    <item>5. Ukaxa mä juk’a pachanakwa lurasi</item>  
+    <item>6. 6. Ukaxa mä juk’a pachanakwa lurasi</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Inalámbrico ukax mä juk’a pachanakanwa</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hola ch’uqi fragmento</string>
+  <string name="apply">Apnaqaña</string>
+  <string name="applied">Ukax mä juk’a pachanakanwa</string>
+  <string name="always_on_display_edge_lighting">Sapa kutiw uñacht’ayañanx borde qhana</string>
+  <string name="confirm_exit">Chiqpachansa Salida ?</string>
+  <string name="yes">Jïsa</string>
+  <string name="no">Janiwa</string>
+  <string name="wallpapers">Wallpapers ukanaka</string>
+  <string name="ok">Waliki</string>
+  <string name="what_would_you_like_to_do">¿Kunsa jumajj lurañ munasma?</string>
+  <string name="set_home_screen">Pantalla de Inicio ukar uñt’ayaña</string>
+  <string name="set_lock_screen">Pantalla Bloqueo ukar uñt’ayaña</string>
+  <string name="set_both_screens">Panpacha Pantallanak utt’ayaña</string>
+  <string name="adjust_screen">Pantalla Ajuste ukampi</string>
+  <string name="please_wait_ad_is_loading">Ukhamarus suyt’apxam, anunciox cargaski</string>
+  <string name="home">Uta</string>
+  <string name="edge_lighting_border">Borde Iluminación ukax mä borde ukhamawa</string>
+  <string name="view_more">Uñakipt’añataki</string>
+  <string name="brighten_up_by_stunning_edges">Ukax muspharkañ Edges ukanakampiw qhant’ayasi</string>
+  <string name="live_wallpapers">Jakañ Wallpapers ukanaka</string>
+  <string name="stunning_wallpapers">Wallpapers ukanakax wali muspharkañawa</string>
+  <string name="experience_by_interactive_wallpapers">Wallpapers Interactivos ukan experienciapa</string>
+  <string name="dismiss">Khitanukuña</string>
+  <string name="language">Aru</string>
+  <string name="privacy_policy">Política de Privacidad ukax mä juk’a pachanakanwa</string>
+  <string name="rate_us">Jiwasaru uñt’ayañani</string>
+  <string name="more_app">Juk’amp App</string>
+  <string name="exit">Mistuña</string>
+  <string name="alert">Amuyumpi</string>
+  <string name="warning">Yatiyawi</string>
+  <string name="trending">Tendencia ukat juk’ampinaka</string>
+  <string name="applying_wallpaper">Wallpaper ukar uñt’ayaña</string>
+  <string name="wallpaper_applied">Wallpaper Ukax mä juk’a pachanakanwa</string>
+  <string name="accessibility_service_level_permission">Nivel de Servicio de Accesibilidad ukax Permiso ukax akhamawa:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Permiso de Accesibilidad ukax mä jach’a lurawiwa, Edge Lighting ukax yaqha apps ukat pantalla bloqueo ukan irnaqañapatakix wakisiwa</string>
+  <string name="this_permission_can_be_granted_as_follow">Aka Permiso ukaxa akhamawa churasispa:</string>
+  <string name="go_to_settings">Configuración ukar sarañamawa</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accesibilidad > Instalados Apps/Servicios > Borde qhana</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Accesibilidad > Jisk’a Servicios de descarga > Edge Lighting</string>
+  <string name="grant_permission_now">Jichhax Permiso churasma?</string>
+  <string name="later">Jayp\'uru</string>
+  <string name="yes_now">Jisa, jichhajj</string>
+</resources>

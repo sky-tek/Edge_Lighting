@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ჩვენება სხვა აპებზე</string>
+  <string name="open_nav">Გახსენით ნავიგაციის უჯრა</string>
+  <string name="close_nav">Ნავიგაციის უჯრის დახურვა</string>
+  <string name="show_while_charging">Ჩვენება დატენვისას</string>
+  <string name="text_enable_wallpaper">Ჩართეთ ფონი</string>
+  <string name="number_of_colors">Ფერების რაოდენობა</string>
+  <string name="click_a_color_to_edit">Დააწკაპუნეთ ფერზე რედაქტირებისთვის</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Აირჩიეთ ენა</string>
+  <string name="text_cancel">Გაუქმება</string>
+  <string name="text_border_type">Საზღვრის ტიპი</string>
+  <string name="text_animation_speed">Ანიმაციის სიჩქარე</string>
+  <string name="text_border_size">Საზღვრის ზომა</string>
+  <string name="text_radius_top">Რადიუსის ზედა</string>
+  <string name="text_radius_bottom">Რადიუსის ქვედა</string>
+  <string name="text_enable_display_notch">Ჩართეთ Notch</string>
+  <string name="text_notch_width_top">Ნაჭრის სიგანე ზედა</string>
+  <string name="text_notch_width_bottom">Ქვედა ნაწილის სიგანე</string>
+  <string name="text_notch_height">Ნაჭრის სიმაღლე</string>
+  <string name="text_notch_radius_top">Მაღალი დონის რადიუსი</string>
+  <string name="text_notch_radius_bottom">Ქვედა ნაწილის რადიუსი</string>
+  <string name="select_wallpaper">Აირჩიეთ ფონი</string>
+  <string name="allow_display_over_other_apps">Ჩვენების დაშვება სხვა აპებზე</string>
+  <string name="continue_">Განაგრძეთ</string>
+  <string name="app_name_service">Ეკრანის გადაფარვის გახსნა</string>
+  <string name="permission_request">Ნებართვის მოთხოვნა</string>
+  <string name="power_connected">Დენის კაბელი დაკავშირებულია</string>
+  <string name="power_disconnected">Დენის კაბელი გათიშულია</string>
+  <string name="draw_over_cancelled">Დახატვის გადაფარვის ნებართვა ჯერ არ არის მინიჭებული. სცადეთ ხელახლა</string>
+  <string name="draw_over_granted">Დახატვის გადაფარვის ნებართვების მოთხოვნა დაკმაყოფილებულია</string>
+  <string name="app_name">Კიდეების განათება</string>
+  <string name="please_wait">Გთხოვთ, დაელოდოთ ფონის ჩამოტვირთვას…</string>
+  <string name="no_internet">Არა ინტერნეტი</string>
+  <string name="to_use_this">Ამ ფუნქციის გამოსაყენებლად საჭიროა ხელმისაწვდომობის ნებართვა</string>
+  <string name="draw_over_denied">Დახატვის გადაფარვის ნებართვა ჯერ არ არის მინიჭებული. სცადეთ ხელახლა</string>
+  <string name="no_internet_war">Თქვენ ხაზგარეშე ხართ, გთხოვთ, ჩართოთ ინტერნეტი, რომ მიიღოთ განათების ფონები.</string>
+  <string name="you_must">Თქვენ უნდა ჩართოთ \"Draw Over Other Apps\" ნებართვა, რომ \"Edge Lighting\" გამართულად იმუშაოს.</string>
+  <string name="wallpaper_description">Ცოცხალი_ფონი</string>
+  <string name="abstract_">Აბსტრაქტი</string>
+  <string name="nature">Ბუნება</string>
+  <string name="neon">Ნეონი</string>
+  <string name="quotes">Ციტატები</string>
+  <string name="sunset">Მზის ჩასვლა</string>
+  <string name="top">Ზედა</string>
+  <string name="text_name_notification">Სერვისის დაწყება</string>
+  <string name="No_topic_selected">Არ არის შერჩეული თემა</string>
+  <string name="Update_finish">Განახლების დასრულება</string>
+  <string name="loading_ad">Იტვირთება რეკლამა</string>
+  <string name="low_battery">Დაბალი ბატარეის კიდეების განათება</string>
+  <string name="battery_one">Ბატარეა 1</string>
+  <string name="battery_two">Ბატარეა 2</string>
+  <string name="edge_service">Გაშვებული სერვისი</string>
+  <string name="wallpaper">Ფონი</string>
+  <string name="magical_wallpaper">Ცოცხალი</string>
+  <string name="main_ongoing_download">Გადახედვის გენერირება</string>
+  <string name="permission_required">Საჭიროა ნებართვა</string>
+  <string name="title_onboarding_1">Ხელმისაწვდომობის ნებართვა</string>
+  <string name="description_onboarding_1">Ხელმისაწვდომობა არის ძირითადი ფუნქცია</string>
+  <string name="string_text_onboarding_complete_description">Ხელმისაწვდომობის ნებართვა, როგორც ძირითადი ფუნქცია, აუცილებელია, რომ Edge Lighting-მა იმუშაოს სხვა აპებზე და ჩაკეტილ ეკრანზე</string>
+  <string name="title_onboarding_2">Ხელმისაწვდომობის ნებართვა</string>
+  <string name="description_onboarding_2">Ნებართვის მინიჭება შესაძლებელია შემდეგნაირად: \n \n ხელმისაწვდომობა > დაინსტალირებული აპები/სერვისები > Edge Lighting \n OR \n ხელმისაწვდომობა > სხვა ჩამოტვირთვის სერვისები > Edge Lighting</string>
+  <string name="title_onboarding_3">Ლამაზი აპების კოდირება</string>
+  <string name="description_onboarding_3">Ჩვენი მისიაა შევქმნათ სასარგებლო და დახვეწილი აპლიკაციები. ჩვენ გვიყვარს ადამიანების დახმარება, რომ დაზოგონ დრო ღია წყაროებით, მაგრამ ასევე ვამარტივებთ ცხოვრებას ახალი ნივთების შექმნით. კარგი კოდირება!</string>
+  <string name="start_text_advice">Ამ აპლიკაციის გაგრძელებით თქვენ ეთანხმებით ჩვენს გამოყენების პირობებს და კონფიდენციალურობის პოლიტიკას</string>
+  <string name="start">Დაწყება</string>
+  <string name="skip">Გამოტოვება</string>
+  <string name="finish">Დასრულება</string>
+  <string name="next">Შემდეგი</string>
+  <string name="back">Უკან</string>
+  <string name="allow">Დაშვება</string>
+  <string name="slider_Edge">Კიდეების განათება</string>
+  <string name="slider_Edge1">Კიდეების განათების ჩვენება კიდეებზე</string>
+  <string name="alert_Edge">Დაბალი ბატარეის გაფრთხილება</string>
+  <string name="alert_Edge1">Ნარინჯისფერი განათება დაბალ ბატარეის გაფრთხილებისთვის</string>
+  <string name="warning_Edge">Დაბალი ბატარეის გაფრთხილება</string>
+  <string name="warning_Edge1">Წითელი კიდეების განათება ძალიან დაბალი ბატარეის გაფრთხილებისთვის</string>
+  <string name="notch_Edge">Ჭრილი</string>
+  <string name="notch_Edge1">Ჩართეთ კიდეების განათება ჭრილით</string>
+  <string name="wallpaper_Edge">Ფონი</string>
+  <string name="wallpaper_Edge1">Კიდეების განათება ფონით</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Აწ</item>  
+    <item>USB</item>  
+    <item>Უკაბელო</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Გამარჯობა ცარიელი ფრაგმენტი</string>
+  <string name="apply">Მიმართვა</string>
+  <string name="applied">Მიმართა</string>
+  <string name="always_on_display_edge_lighting">Ყოველთვის ეკრანის განათება</string>
+  <string name="confirm_exit">Დაადასტურეთ გასვლა?</string>
+  <string name="yes">Დიახ</string>
+  <string name="no">Არა</string>
+  <string name="wallpapers">Ფონები</string>
+  <string name="ok">Კარგი</string>
+  <string name="what_would_you_like_to_do">Რის გაკეთებას ისურვებდით?</string>
+  <string name="set_home_screen">Საწყისი ეკრანის დაყენება</string>
+  <string name="set_lock_screen">Ეკრანის დაბლოკვის დაყენება</string>
+  <string name="set_both_screens">Დააყენეთ ორივე ეკრანი</string>
+  <string name="adjust_screen">Ეკრანის მორგება</string>
+  <string name="please_wait_ad_is_loading">Გთხოვთ დაელოდოთ, რეკლამა იტვირთება</string>
+  <string name="home">Მთავარი</string>
+  <string name="edge_lighting_border">Კიდეების განათების საზღვარი</string>
+  <string name="view_more">Იხილეთ მეტი</string>
+  <string name="brighten_up_by_stunning_edges">Გაანათეთ განსაცვიფრებელი კიდეებით</string>
+  <string name="live_wallpapers">Ცოცხალი ფონები</string>
+  <string name="stunning_wallpapers">Განსაცვიფრებელი ფონები</string>
+  <string name="experience_by_interactive_wallpapers">Გამოცდილება ინტერაქტიული ფონებით</string>
+  <string name="dismiss">Გაუქმება</string>
+  <string name="language">Ენა</string>
+  <string name="privacy_policy">Კონფიდენციალურობის პოლიტიკა</string>
+  <string name="rate_us">Შეაფასეთ ჩვენ</string>
+  <string name="more_app">Მეტი აპლიკაცია</string>
+  <string name="exit">Გასასვლელი</string>
+  <string name="alert">Გაფრთხილება</string>
+  <string name="warning">Გაფრთხილება</string>
+  <string name="trending">Ტრენდული</string>
+  <string name="applying_wallpaper">Ფონის გამოყენება</string>
+  <string name="wallpaper_applied">Გამოყენებულია ფონი</string>
+  <string name="accessibility_service_level_permission">Ხელმისაწვდომობის სერვისის დონის ნებართვა:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ხელმისაწვდომობის ნებართვა, როგორც ძირითადი ფუნქცია, აუცილებელია, რომ Edge Lighting-მა იმუშაოს სხვა აპებზე და ჩაკეტილ ეკრანზე</string>
+  <string name="this_permission_can_be_granted_as_follow">Ეს ნებართვა შეიძლება გაიცეს შემდეგნაირად:</string>
+  <string name="go_to_settings">Გადადით პარამეტრებში</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ხელმისაწვდომობა > დაინსტალირებული აპები/სერვისები > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ხელმისაწვდომობა > სხვა ჩამოტვირთვის სერვისები > Edge Lighting</string>
+  <string name="grant_permission_now">Ნებართვის გაცემა ახლა?</string>
+  <string name="later">Მოგვიანებით</string>
+  <string name="yes_now">Დიახ, ახლა</string>
+</resources>

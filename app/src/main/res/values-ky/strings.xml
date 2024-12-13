@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Башка колдонмолордун үстүнөн көрсөтүү</string>
+  <string name="open_nav">Навигация суурмасын ачыңыз</string>
+  <string name="close_nav">Навигация суурмасын жабуу</string>
+  <string name="show_while_charging">Заряддоо учурунда көрсөтүү</string>
+  <string name="text_enable_wallpaper">Обои иштетүү</string>
+  <string name="number_of_colors">Түстөрдүн саны</string>
+  <string name="click_a_color_to_edit">Түзөтүү үчүн түстү басыңыз</string>
+  <string name="mtrl_picker_confirm">Макул</string>
+  <string name="SelectLanguage">Тилди танда</string>
+  <string name="text_cancel">Жокко чыгаруу</string>
+  <string name="text_border_type">Чек ара түрү</string>
+  <string name="text_animation_speed">Анимация ылдамдыгы</string>
+  <string name="text_border_size">Чек аранын өлчөмү</string>
+  <string name="text_radius_top">Радиус үстү</string>
+  <string name="text_radius_bottom">Радиус түбү</string>
+  <string name="text_enable_display_notch">Ночту иштетүү</string>
+  <string name="text_notch_width_top">Төшөктүн туурасы</string>
+  <string name="text_notch_width_bottom">Төмөнкү оюктун туурасы</string>
+  <string name="text_notch_height">Тиш бийиктиги</string>
+  <string name="text_notch_radius_top">Тешик радиусу үстү</string>
+  <string name="text_notch_radius_bottom">Төмөнкү оюк радиусу</string>
+  <string name="select_wallpaper">Обои тандаңыз</string>
+  <string name="allow_display_over_other_apps">Башка колдонмолордун үстүнөн көрсөтүүгө уруксат берүү</string>
+  <string name="continue_">Улантуу</string>
+  <string name="app_name_service">Экран катмарын ачуу</string>
+  <string name="permission_request">Уруксат суроо</string>
+  <string name="power_connected">Кубат кабели туташты</string>
+  <string name="power_disconnected">Электр кабели ажыратылды</string>
+  <string name="draw_over_cancelled">Тартууга уруксат азырынча бериле элек. Кайра аракет кыл</string>
+  <string name="draw_over_granted">Тартууга уруксат сурамы берилди</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Сураныч, тушкагаз жүктөлүп алынууда…</string>
+  <string name="no_internet">Интернет жок</string>
+  <string name="to_use_this">Бул функцияны колдонуу үчүн Атайын мүмкүнчүлүктөр уруксаты талап кылынат</string>
+  <string name="draw_over_denied">Тартууга уруксат азырынча бериле элек. Кайра аракет кыл</string>
+  <string name="no_internet_war">Сиз оффлайндасыз, четине жарык берүүчү тушкагаздарды алуу үчүн интернетиңизди күйгүзүңүз.</string>
+  <string name="you_must">\"Edge Lighting\" туура иштеши үчүн \"Башка колдонмолорду тартуу\" уруксатын иштетишиңиз керек.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Реферат</string>
+  <string name="nature">Жаратылыш</string>
+  <string name="neon">Неон</string>
+  <string name="quotes">Цитаталар</string>
+  <string name="sunset">Күндүн батышы</string>
+  <string name="top">Жогорку</string>
+  <string name="text_name_notification">Кызматты баштоо</string>
+  <string name="No_topic_selected">Эч тема тандалган жок</string>
+  <string name="Update_finish">Жаңыртуу аяктады</string>
+  <string name="loading_ad">Жарнама жүктөлүүдө</string>
+  <string name="low_battery">Батареянын аз жээгиндеги жарыктандыруу</string>
+  <string name="battery_one">Батарея 1</string>
+  <string name="battery_two">Батарея 2</string>
+  <string name="edge_service">Иштеп жаткан кызмат</string>
+  <string name="wallpaper">Обои</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Алдын ала көрүү түзүлүүдө</string>
+  <string name="permission_required">Уруксат талап кылынат</string>
+  <string name="title_onboarding_1">Атайын мүмкүнчүлүктөр уруксаты</string>
+  <string name="description_onboarding_1">Жеткиликтүүлүк - бул негизги өзгөчөлүк</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting башка колдонмолордун жана кулпу экранынын үстүнөн иштеши үчүн негизги функция катары Атайын мүмкүнчүлүктөр уруксаты керек.</string>
+  <string name="title_onboarding_2">Атайын мүмкүнчүлүктөр уруксаты</string>
+  <string name="description_onboarding_2">Уруксат төмөнкүчө берилиши мүмкүн: \n \n Атайын мүмкүнчүлүктөр > Орнотулган колдонмолор/Кызматтар > Edge Lighting \n ЖЕ \n Атайын мүмкүнчүлүктөр > Дагы жүктөп алуу кызматтары > Edge Lighting</string>
+  <string name="title_onboarding_3">Код сулуу колдонмолор</string>
+  <string name="description_onboarding_3">Биздин миссия пайдалуу жана кылдат колдонмолорду түзүү болуп саналат. Биз адамдарга ачык булактуу материалдар менен убакытты үнөмдөөгө жардам бергенди жакшы көрөбүз, бирок ошондой эле жаңы нерселерди түзүү менен жашоону жеңилдетебиз. Жакшы коддоо!</string>
+  <string name="start_text_advice">Бул колдонмону улантуу менен сиз биздин Колдонуу шарттарына жана Купуялык саясатыбызга макул болосуз</string>
+  <string name="start">Баштоо</string>
+  <string name="skip">Өткөрүп жибер</string>
+  <string name="finish">Бүтүрүү</string>
+  <string name="next">Кийинки</string>
+  <string name="back">Артка</string>
+  <string name="allow">Уруксат берүү</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Edges үстүнөн жарыкты көрсөтүү</string>
+  <string name="alert_Edge">Батареянын аздыгы жөнүндө эскертүү</string>
+  <string name="alert_Edge1">Батареянын аздыгы жөнүндө эскертүү үчүн кызгылт сары жарык</string>
+  <string name="warning_Edge">Батареянын аздыгы жөнүндө эскертүү</string>
+  <string name="warning_Edge1">Батареянын өтө аздыгы жөнүндө эскертүү үчүн кызыл жээк жарыктандыруу</string>
+  <string name="notch_Edge">Ноч</string>
+  <string name="notch_Edge1">Чеки менен жарыктандырууну иштетүү</string>
+  <string name="wallpaper_Edge">Обои</string>
+  <string name="wallpaper_Edge1">Обои менен четтерин жарыктандыруу</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Зымсыз</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Салам бош фрагмент</string>
+  <string name="apply">Колдонуу</string>
+  <string name="applied">Колдонулган</string>
+  <string name="always_on_display_edge_lighting">Дайыма экрандын четиндеги жарык</string>
+  <string name="confirm_exit">Чыгууну ырастайсызбы?</string>
+  <string name="yes">Ооба</string>
+  <string name="no">Жок</string>
+  <string name="wallpapers">Обои</string>
+  <string name="ok">Макул</string>
+  <string name="what_would_you_like_to_do">Эмне кылгыңыз келет?</string>
+  <string name="set_home_screen">Башкы экранды коюу</string>
+  <string name="set_lock_screen">Кулпуланган экранды коюу</string>
+  <string name="set_both_screens">Экранды тең орнотуңуз</string>
+  <string name="adjust_screen">Экранды тууралоо</string>
+  <string name="please_wait_ad_is_loading">Күтө туруңуз, жарнама жүктөлүүдө</string>
+  <string name="home">Үй</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Көбүрөөк көрүү</string>
+  <string name="brighten_up_by_stunning_edges">Кереметтүү Edges менен жарыктандырыңыз</string>
+  <string name="live_wallpapers">Жандуу тушкагаздар</string>
+  <string name="stunning_wallpapers">Кереметтүү обои</string>
+  <string name="experience_by_interactive_wallpapers">Interactive Wallpapers тажрыйбасы</string>
+  <string name="dismiss">Иштен чыгаруу</string>
+  <string name="language">Тил</string>
+  <string name="privacy_policy">Купуялык саясаты</string>
+  <string name="rate_us">Бизди баалаңыз</string>
+  <string name="more_app">Көбүрөөк колдонмо</string>
+  <string name="exit">Чыгуу</string>
+  <string name="alert">Alert</string>
+  <string name="warning">Эскертүү</string>
+  <string name="trending">Трендде</string>
+  <string name="applying_wallpaper">Обои колдонуу</string>
+  <string name="wallpaper_applied">Обои Колдонулган</string>
+  <string name="accessibility_service_level_permission">Атайын мүмкүнчүлүктөр кызматынын деңгээлиндеги уруксат:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting башка колдонмолордун жана кулпу экранынын үстүнөн иштеши үчүн негизги функция катары Атайын мүмкүнчүлүктөр уруксаты керек.</string>
+  <string name="this_permission_can_be_granted_as_follow">Бул уруксат төмөнкүчө берилиши мүмкүн:</string>
+  <string name="go_to_settings">Жөндөөлөргө өтүңүз</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Атайын мүмкүнчүлүктөр > Орнотулган колдонмолор/Кызматтар > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Жеткиликтүүлүк > Дагы жүктөө кызматтары > Edge Lighting</string>
+  <string name="grant_permission_now">Азыр уруксат бересизби?</string>
+  <string name="later">Кийинчерээк</string>
+  <string name="yes_now">Ооба, азыр</string>
+</resources>

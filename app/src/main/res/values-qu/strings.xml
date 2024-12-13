@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Huk appkuna hawapi rikuchiy</string>
+  <string name="open_nav">Cajón de Navegación nisqa kichay</string>
+  <string name="close_nav">Wisq’ay Navegación Cajón</string>
+  <string name="show_while_charging">Cargashaspa rikuchiy</string>
+  <string name="text_enable_wallpaper">Wallpaper nisqa atichiy</string>
+  <string name="number_of_colors">Yupay Colores nisqa</string>
+  <string name="click_a_color_to_edit">Huk llimp\'ita ñit\'iy llamk\'achinaykipaq</string>
+  <string name="mtrl_picker_confirm">KUSA</string>
+  <string name="SelectLanguage">Simita akllay</string>
+  <string name="text_cancel">Sayachiy</string>
+  <string name="text_border_type">Tipo de frontera</string>
+  <string name="text_animation_speed">Animación nisqapa utqaylla kaynin</string>
+  <string name="text_border_size">Frontera nisqapa sayaynin</string>
+  <string name="text_radius_top">Radio pata</string>
+  <string name="text_radius_bottom">Radius ura</string>
+  <string name="text_enable_display_notch">Notch nisqa atichiy</string>
+  <string name="text_notch_width_top">Muesca ancho pata</string>
+  <string name="text_notch_width_bottom">Muesca ancho urapi</string>
+  <string name="text_notch_height">Muesca sayayniyuq</string>
+  <string name="text_notch_radius_top">Muesca radio pata</string>
+  <string name="text_notch_radius_bottom">Muesca radiyu uray</string>
+  <string name="select_wallpaper">Wallpaper nisqapi akllay</string>
+  <string name="allow_display_over_other_apps">Huk appkuna hawapi qhawayta saqiy</string>
+  <string name="continue_">Qatiq</string>
+  <string name="app_name_service">Pantalla qatasqa kichay</string>
+  <string name="permission_request">Permiso Mañakuy</string>
+  <string name="power_connected">Cable de Alimentación nisqa T’inkisqa</string>
+  <string name="power_disconnected">Cable de Alimentación Desconectada nisqa</string>
+  <string name="draw_over_cancelled">Siqi qatanapaq atiyqa manaraqmi qusqachu. Hukmanta kallpachakuy</string>
+  <string name="draw_over_granted">Siqiy llanthuy atiykuna mañakuy qusqa</string>
+  <string name="app_name">Kantu K’anchay</string>
+  <string name="please_wait">Ama hina kaspa, suyay Wallpaper Downloading...</string>
+  <string name="no_internet">Mana internetniyuq</string>
+  <string name="to_use_this">Kay ruwayta llamk\'achinapaq Yaykuna atiy Permiso necesitakun</string>
+  <string name="draw_over_denied">Siqi qatanapaq atiyqa manaraqmi qusqachu. Hukmanta kallpachakuy</string>
+  <string name="no_internet_war">Mana tinkisqachu kanki ama hina kaspa internetniykita llank\'achiy kantu k\'anchay wallpaperkunata chaskinaykipaq.</string>
+  <string name="you_must">\"Huk ruwanakunamanta siq\'iy\" atiyta atichinayki tiyan \"Edge Lighting\" allin llamk\'ananpaq.</string>
+  <string name="wallpaper_description">Kawsaq_wallpaper</string>
+  <string name="abstract_">Mana riqsisqa</string>
+  <string name="nature">Naturaleza</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Citakuna</string>
+  <string name="sunset">Inti yaykuna</string>
+  <string name="top">Hanaq</string>
+  <string name="text_name_notification">Serviciota qallariy</string>
+  <string name="No_topic_selected">Mana ima tema akllasqachu</string>
+  <string name="Update_finish">Kunanchay tukukuy</string>
+  <string name="loading_ad">Anunciota cargaspa</string>
+  <string name="low_battery">Pisi Batería Kantu K\'anchay</string>
+  <string name="battery_one">Pila 1. 1.1</string>
+  <string name="battery_two">Pila 2</string>
+  <string name="edge_service">Servicio purichiy</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Kawsay</string>
+  <string name="main_ongoing_download">Ñawpaq qhawayta paqarichiy</string>
+  <string name="permission_required">Permisota necesitakun</string>
+  <string name="title_onboarding_1">Yaykuna atiy Permiso</string>
+  <string name="description_onboarding_1">Yaykuna atiyqa huk hatun ruwaymi</string>
+  <string name="string_text_onboarding_complete_description">Kay Accesibilidad Permiso huk ukhu ruwana hina kanan tiyan Edge Lighting wak ruwanakuna patapi llamk\'ananpaq chaymanta pantalla wichq\'ana</string>
+  <string name="title_onboarding_2">Yaykuna atiy Permiso</string>
+  <string name="description_onboarding_2">Permisoqa kayhinata qusqa kanman: \n \n Yaykuna > Instalado Apps/Servicios > Edge Lighting \n UTAQ \n Yaykuna > Aswan uraykachiy Serviciokuna > Edge Lighting</string>
+  <string name="title_onboarding_3">Codificar sumaq apps</string>
+  <string name="description_onboarding_3">Misiónniykuqa apps útiles &amp; sutiles ruwaymi. Munayku yanapakuy runakunaman kichasqa qullqisapa kaqkunawan pachata waqaychaypaq, ichaqa kawsayta aswan facil ruwayku musuq kaqkunata ruwaspa. ¡Allin Codificación!</string>
+  <string name="start_text_advice">Kay ruwanapi hinalla ruwaspaykiqa, Términos de Uso chaymanta Sapanchasqa Willayniykuman ari ñinki</string>
+  <string name="start">Qallariy</string>
+  <string name="skip">Paway</string>
+  <string name="finish">Tukuy</string>
+  <string name="next">Qatiq</string>
+  <string name="back">Qipaman</string>
+  <string name="allow">Uyakuy</string>
+  <string name="slider_Edge">Kantu K’anchay</string>
+  <string name="slider_Edge1">Kantukuna patapi kantu k’anchayta qhaway</string>
+  <string name="alert_Edge">Alerta de batería pisi</string>
+  <string name="alert_Edge1">Naranja kantu k’anchay pisi pila alertapaq</string>
+  <string name="warning_Edge">Pisi batería nisqamanta willakuy</string>
+  <string name="warning_Edge1">Puka kantu k’anchay ancha pisi pilamanta willakuypaq</string>
+  <string name="notch_Edge">Muesca</string>
+  <string name="notch_Edge1">Muescawan kantu k’anchayta atichiy</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Wallpaperwan kantu k’anchay</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5.</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Mana alambreyuq</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Allinllachu ch\'usaq fragmento</string>
+  <string name="apply">Ruwachiy</string>
+  <string name="applied">Aplicasqa</string>
+  <string name="always_on_display_edge_lighting">Sapa kuti qhawarichiypi kantu k’anchay</string>
+  <string name="confirm_exit">Lluqsiyta takyachiy ?</string>
+  <string name="yes">Arí</string>
+  <string name="no">Manam</string>
+  <string name="wallpapers">Wallpapers nisqa</string>
+  <string name="ok">Kusa</string>
+  <string name="what_would_you_like_to_do">¿Imatan ruwayta munanki?</string>
+  <string name="set_home_screen">Pantalla de inicio nisqapi churay</string>
+  <string name="set_lock_screen">Pantalla de bloqueo nisqa churay</string>
+  <string name="set_both_screens">Iskaynin Pantallakunata churay</string>
+  <string name="adjust_screen">Pantalla Ajustar</string>
+  <string name="please_wait_ad_is_loading">Ama hina kaspa, suyaykuy, anuncioqa cargakuchkanmi</string>
+  <string name="home">Wasi</string>
+  <string name="edge_lighting_border">Borde K\'anchay Frontera</string>
+  <string name="view_more">Astawan qhaway</string>
+  <string name="brighten_up_by_stunning_edges">Admirable Edges nisqawan k’ancharichiy</string>
+  <string name="live_wallpapers">Kawsaq Wallpakuna</string>
+  <string name="stunning_wallpapers">Wallpapers Impresionantes</string>
+  <string name="experience_by_interactive_wallpapers">Experiencia por Wallpapers Interactivos nisqa</string>
+  <string name="dismiss">Chanqapuy</string>
+  <string name="language">Simi</string>
+  <string name="privacy_policy">Sapanchasqa willakuy</string>
+  <string name="rate_us">Calificar Noqayku</string>
+  <string name="more_app">Astawan App</string>
+  <string name="exit">Lluqsina</string>
+  <string name="alert">Willariq</string>
+  <string name="warning">Manchachiy</string>
+  <string name="trending">Tendencia nisqapi</string>
+  <string name="applying_wallpaper">Wallpaper nisqata churaspa</string>
+  <string name="wallpaper_applied">Wallpaper Aplicado</string>
+  <string name="accessibility_service_level_permission">Yaykuna Servicio Nivel Permiso:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Kay Accesibilidad Permiso huk ukhu ruwana hina kanan tiyan Edge Lighting wak ruwanakuna patapi llamk\'ananpaq chaymanta pantalla wichq\'ana</string>
+  <string name="this_permission_can_be_granted_as_follow">Kay Permisotaqa kayhinatam quyta atikunman:</string>
+  <string name="go_to_settings">Ajustes nisqaman riy</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Yaykuna > Instalado Apps/Serviciokuna > Kantu k\'anchay</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Yaykuna > Aswan uraykachiy yanapakuykuna > Kantu k\'anchay</string>
+  <string name="grant_permission_now">¿Kunanqa Permisota qoy?</string>
+  <string name="later">Chaymanta</string>
+  <string name="yes_now">Arí, kunanqa</string>
+</resources>

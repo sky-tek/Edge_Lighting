@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Beýleki programmalaryň üstünde görkeziň</string>
+  <string name="open_nav">Açyk nawigasiýa çekmesi</string>
+  <string name="close_nav">Nawigasiýa çekmesini ýapyň</string>
+  <string name="show_while_charging">Zarýad berlende görkeziň</string>
+  <string name="text_enable_wallpaper">Diwar kagyzyny açyň</string>
+  <string name="number_of_colors">Reňkleriň sany</string>
+  <string name="click_a_color_to_edit">Redaktirlemek üçin bir reňk basyň</string>
+  <string name="mtrl_picker_confirm">Bolýar</string>
+  <string name="SelectLanguage">Dil saýlaň</string>
+  <string name="text_cancel">Elatyr</string>
+  <string name="text_border_type">Serhet görnüşi</string>
+  <string name="text_animation_speed">Animasiýa tizligi</string>
+  <string name="text_border_size">Serhet ölçegi</string>
+  <string name="text_radius_top">Radius ýokarsy</string>
+  <string name="text_radius_bottom">Radiusyň aşagy</string>
+  <string name="text_enable_display_notch">Notch-i işlediň</string>
+  <string name="text_notch_width_top">Keseliň ini ýokarsy</string>
+  <string name="text_notch_width_bottom">Keseliň ini</string>
+  <string name="text_notch_height">Kesgit beýikligi</string>
+  <string name="text_notch_radius_top">Radiusyň ýokarsy</string>
+  <string name="text_notch_radius_bottom">Radiusyň aşagy</string>
+  <string name="select_wallpaper">Diwar kagyzy saýlaň</string>
+  <string name="allow_display_over_other_apps">Beýleki programmalaryň üstünde görkezilmegine rugsat beriň</string>
+  <string name="continue_">Dowam et</string>
+  <string name="app_name_service">Ekranyň örtügini açyň</string>
+  <string name="permission_request">Rugsat haýyşy</string>
+  <string name="power_connected">Kabel birikdirildi</string>
+  <string name="power_disconnected">Elektrik kabeli kesildi</string>
+  <string name="draw_over_cancelled">Entek berilmedik örtük rugsady çyzyň. Gaýtadan synanyşyň</string>
+  <string name="draw_over_granted">Berlen örtük rugsatlarynyň haýyşyny çyzyň</string>
+  <string name="app_name">Gyrasy yşyklandyryş</string>
+  <string name="please_wait">Diwar ýüklemesine garaşmagyňyzy haýyş edýäris ...</string>
+  <string name="no_internet">Internet ýok</string>
+  <string name="to_use_this">Bu aýratynlygy ulanmak üçin elýeterlilik rugsady talap edilýär</string>
+  <string name="draw_over_denied">Entek berilmedik örtük rugsady çyzyň. Gaýtadan synanyşyň</string>
+  <string name="no_internet_war">Oflayn däl, gyrada yşyklandyryş diwar kagyzlaryny almak üçin internetiňizi açyň.</string>
+  <string name="you_must">\"Edge Lighting\" -iň dogry işlemegi üçin \"Beýleki programmalaryň üstünden çyzmak\" rugsadyny açmaly.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Tebigat</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Sitatlar</string>
+  <string name="sunset">Gün ýaşmagy</string>
+  <string name="top">Topokarky</string>
+  <string name="text_name_notification">Hyzmat başlaň</string>
+  <string name="No_topic_selected">Hiç hili mowzuk saýlanmady</string>
+  <string name="Update_finish">Tamamlamak</string>
+  <string name="loading_ad">Mahabaty ýüklemek</string>
+  <string name="low_battery">Pes batareýa gyrasy yşyklandyryşy</string>
+  <string name="battery_one">Batareýa 1</string>
+  <string name="battery_two">Batareýa 2</string>
+  <string name="edge_service">Işleýän hyzmat</string>
+  <string name="wallpaper">Diwar kagyzy</string>
+  <string name="magical_wallpaper">Göni</string>
+  <string name="main_ongoing_download">Öňünden syn döretmek</string>
+  <string name="permission_required">Rugsat gerek</string>
+  <string name="title_onboarding_1">Elýeterlilik</string>
+  <string name="description_onboarding_1">Elýeterlilik esasy aýratynlykdyr</string>
+  <string name="string_text_onboarding_complete_description">Esasy aýratynlyk hökmünde elýeterlilik rugsady, beýleki programmalaryň üstünde işlemek we ekrany gulplamak üçin “Edge Lighting” üçin zerurdyr</string>
+  <string name="title_onboarding_2">Elýeterlilik</string>
+  <string name="description_onboarding_2">Rugsat aşakdaky ýaly berilip bilner: \n \n Elýeterlilik> Gurlan programmalar / hyzmatlar> Gyrasy yşyklandyryş \n ORA \n da elýeterlilik> Has köp göçürip almak hyzmatlary> Gyrasy yşyklandyryş</string>
+  <string name="title_onboarding_3">Gözel programmalary kodlaň</string>
+  <string name="description_onboarding_3">Biziň maksadymyz peýdaly we inçe programmalary ýasamak. Adamlara açyk çeşmeler bilen wagt tygşytlamaga kömek etmegi gowy görýäris, ýöne täze zatlar döredip durmuşy aňsatlaşdyrýarys. Gowy kodlamak!</string>
+  <string name="start_text_advice">Bu programmany dowam etdirmek bilen, Ulanyş şertlerimize we Gizlinlik Policyörelgelerimize razylaşýarsyňyz</string>
+  <string name="start">Başla</string>
+  <string name="skip">Geçmek</string>
+  <string name="finish">Tamamla</string>
+  <string name="next">Indiki</string>
+  <string name="back">Yzyna</string>
+  <string name="allow">Rugsat ber</string>
+  <string name="slider_Edge">Gyrasy yşyklandyryş</string>
+  <string name="slider_Edge1">Gyralaryň üstünde gyrada yşyklandyryş görkeziň</string>
+  <string name="alert_Edge">Pes batareýa duýduryşy</string>
+  <string name="alert_Edge1">Pes batareýa duýduryşy üçin mämişi gyrasy yşyklandyryş</string>
+  <string name="warning_Edge">Pes batareýa duýduryşy</string>
+  <string name="warning_Edge1">Batareýany gaty pes duýduryş üçin gyzyl gyrasy yşyklandyryş</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Kesgitli gyralary yşyklandyrmagy üpjün ediň</string>
+  <string name="wallpaper_Edge">Diwar kagyzy</string>
+  <string name="wallpaper_Edge1">Diwar kagyzy bilen gyrada yşyklandyryş</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Simsiz</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salam boş bölek</string>
+  <string name="apply">Giriş</string>
+  <string name="applied">Ulanylýar</string>
+  <string name="always_on_display_edge_lighting">Elmydama gyrada yşyklandyryşda</string>
+  <string name="confirm_exit">Çykmagy tassyklaýarsyňyzmy?</string>
+  <string name="yes">Hawa</string>
+  <string name="no">.Ok</string>
+  <string name="wallpapers">Diwar kagyzlary</string>
+  <string name="ok">Bolýar</string>
+  <string name="what_would_you_like_to_do">Näme etmek isleýärsiňiz?</string>
+  <string name="set_home_screen">Öý ekrany düzüň</string>
+  <string name="set_lock_screen">Gulp ekrany düzüň</string>
+  <string name="set_both_screens">Iki ekrany düzüň</string>
+  <string name="adjust_screen">Ekrany sazlaň</string>
+  <string name="please_wait_ad_is_loading">Haýyş edýärin, mahabat ýüklenýär</string>
+  <string name="home">Öý</string>
+  <string name="edge_lighting_border">Gyrasy yşyklandyryş serhedi</string>
+  <string name="view_more">Has giňişleýin gör</string>
+  <string name="brighten_up_by_stunning_edges">Ajaýyp gyralar bilen ýagtylandyryň</string>
+  <string name="live_wallpapers">Göni diwar kagyzlary</string>
+  <string name="stunning_wallpapers">Geň galdyryjy diwar kagyzlary</string>
+  <string name="experience_by_interactive_wallpapers">Interaktiw diwar kagyzlary bilen tejribe</string>
+  <string name="dismiss">Işden aýyrmak</string>
+  <string name="language">Dil</string>
+  <string name="privacy_policy">Gizlinlik syýasaty</string>
+  <string name="rate_us">Bize baha beriň</string>
+  <string name="more_app">Has köp programma</string>
+  <string name="exit">Çykyş</string>
+  <string name="alert">Duýduryş</string>
+  <string name="warning">Duýduryş</string>
+  <string name="trending">Tendensiýa</string>
+  <string name="applying_wallpaper">Diwar kagyzyny ulanmak</string>
+  <string name="wallpaper_applied">Diwar kagyzy ulanylýar</string>
+  <string name="accessibility_service_level_permission">Elýeterlilik derejesiniň rugsady:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Esasy aýratynlyk hökmünde elýeterlilik rugsady, beýleki programmalaryň üstünde işlemek we ekrany gulplamak üçin “Edge Lighting” üçin zerurdyr</string>
+  <string name="this_permission_can_be_granted_as_follow">Bu Rugsat aşakdaky ýaly berlip bilner:</string>
+  <string name="go_to_settings">Sazlamalara gidiň</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Elýeterlilik> Gurlan programmalar / hyzmatlar> Gyrasy yşyklandyryş</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Elýeterlilik> Has köp göçürip almak hyzmatlary> Gyrasy yşyklandyryş</string>
+  <string name="grant_permission_now">Rugsatnama indi?</string>
+  <string name="later">Soňrak</string>
+  <string name="yes_now">Hawa, indi</string>
+</resources>

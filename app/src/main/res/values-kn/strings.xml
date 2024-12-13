@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಮೇಲೆ ಪ್ರದರ್ಶಿಸಿ</string>
+  <string name="open_nav">ನ್ಯಾವಿಗೇಷನ್ ಡ್ರಾಯರ್ ತೆರೆಯಿರಿ</string>
+  <string name="close_nav">ನ್ಯಾವಿಗೇಷನ್ ಡ್ರಾಯರ್ ಅನ್ನು ಮುಚ್ಚಿ</string>
+  <string name="show_while_charging">ಚಾರ್ಜ್ ಮಾಡುವಾಗ ತೋರಿಸು</string>
+  <string name="text_enable_wallpaper">ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="number_of_colors">ಬಣ್ಣಗಳ ಸಂಖ್ಯೆ</string>
+  <string name="click_a_color_to_edit">ಸಂಪಾದಿಸಲು ಬಣ್ಣವನ್ನು ಕ್ಲಿಕ್ ಮಾಡಿ</string>
+  <string name="mtrl_picker_confirm">ಸರಿ</string>
+  <string name="SelectLanguage">ಭಾಷೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="text_cancel">ರದ್ದುಮಾಡಿ</string>
+  <string name="text_border_type">ಗಡಿ ಪ್ರಕಾರ</string>
+  <string name="text_animation_speed">ಅನಿಮೇಷನ್ ವೇಗ</string>
+  <string name="text_border_size">ಗಡಿ ಗಾತ್ರ</string>
+  <string name="text_radius_top">ತ್ರಿಜ್ಯದ ಮೇಲ್ಭಾಗ</string>
+  <string name="text_radius_bottom">ತ್ರಿಜ್ಯ ಕೆಳಭಾಗ</string>
+  <string name="text_enable_display_notch">ನಾಚ್ ಅನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="text_notch_width_top">ನಾಚ್ ಅಗಲ ಮೇಲ್ಭಾಗ</string>
+  <string name="text_notch_width_bottom">ನಾಚ್ ಅಗಲ ಕೆಳಭಾಗ</string>
+  <string name="text_notch_height">ನಾಚ್ ಎತ್ತರ</string>
+  <string name="text_notch_radius_top">ನಾಚ್ ತ್ರಿಜ್ಯದ ಮೇಲ್ಭಾಗ</string>
+  <string name="text_notch_radius_bottom">ನಾಚ್ ತ್ರಿಜ್ಯದ ಕೆಳಭಾಗ</string>
+  <string name="select_wallpaper">ವಾಲ್‌ಪೇಪರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+  <string name="allow_display_over_other_apps">ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಮೇಲೆ ಪ್ರದರ್ಶನವನ್ನು ಅನುಮತಿಸಿ</string>
+  <string name="continue_">ಮುಂದುವರಿಸಿ</string>
+  <string name="app_name_service">ಪರದೆಯ ಓವರ್‌ಲೇ ತೆರೆಯಿರಿ</string>
+  <string name="permission_request">ಅನುಮತಿ ವಿನಂತಿ</string>
+  <string name="power_connected">ಪವರ್ ಕೇಬಲ್ ಸಂಪರ್ಕಗೊಂಡಿದೆ</string>
+  <string name="power_disconnected">ವಿದ್ಯುತ್ ಕೇಬಲ್ ಸಂಪರ್ಕ ಕಡಿತಗೊಂಡಿದೆ</string>
+  <string name="draw_over_cancelled">ಡ್ರಾ ಓವರ್‌ಲೇ ಅನುಮತಿಯನ್ನು ಇನ್ನೂ ನೀಡಲಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+  <string name="draw_over_granted">ಡ್ರಾ ಓವರ್‌ಲೇ ಅನುಮತಿಗಳ ವಿನಂತಿಯನ್ನು ನೀಡಲಾಗಿದೆ</string>
+  <string name="app_name">ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="please_wait">ವಾಲ್‌ಪೇಪರ್ ಡೌನ್‌ಲೋಡ್ ಆಗುತ್ತಿದೆ…</string>
+  <string name="no_internet">ಇಂಟರ್ನೆಟ್ ಇಲ್ಲ</string>
+  <string name="to_use_this">ಈ ವೈಶಿಷ್ಟ್ಯವನ್ನು ಬಳಸಲು ಪ್ರವೇಶಿಸುವಿಕೆ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ</string>
+  <string name="draw_over_denied">ಡ್ರಾ ಓವರ್‌ಲೇ ಅನುಮತಿಯನ್ನು ಇನ್ನೂ ನೀಡಲಾಗಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ</string>
+  <string name="no_internet_war">ನೀವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿರುವಿರಿ ದಯವಿಟ್ಟು ಎಡ್ಜ್ ಲೈಟಿಂಗ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳನ್ನು ಪಡೆಯಲು ನಿಮ್ಮ ಇಂಟರ್ನೆಟ್ ಅನ್ನು ಆನ್ ಮಾಡಿ.</string>
+  <string name="you_must">\"ಎಡ್ಜ್ ಲೈಟಿಂಗ್\" ಸರಿಯಾಗಿ ಕೆಲಸ ಮಾಡಲು ನೀವು \"ಡ್ರಾ ಓವರ್ ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು\" ಅನುಮತಿಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಬೇಕು.</string>
+  <string name="wallpaper_description">ಲೈವ್_ವಾಲ್‌ಪೇಪರ್</string>
+  <string name="abstract_">ಅಮೂರ್ತ</string>
+  <string name="nature">ಪ್ರಕೃತಿ</string>
+  <string name="neon">ನಿಯಾನ್</string>
+  <string name="quotes">ಉಲ್ಲೇಖಗಳು</string>
+  <string name="sunset">ಸೂರ್ಯಾಸ್ತ</string>
+  <string name="top">ಟಾಪ್</string>
+  <string name="text_name_notification">ಸೇವೆಯನ್ನು ಪ್ರಾರಂಭಿಸಿ</string>
+  <string name="No_topic_selected">ಯಾವುದೇ ವಿಷಯವನ್ನು ಆಯ್ಕೆ ಮಾಡಿಲ್ಲ</string>
+  <string name="Update_finish">ಮುಕ್ತಾಯವನ್ನು ನವೀಕರಿಸಿ</string>
+  <string name="loading_ad">ಜಾಹೀರಾತು ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+  <string name="low_battery">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="battery_one">ಬ್ಯಾಟರಿ 1</string>
+  <string name="battery_two">ಬ್ಯಾಟರಿ 2</string>
+  <string name="edge_service">ಚಾಲನೆಯಲ್ಲಿರುವ ಸೇವೆ</string>
+  <string name="wallpaper">ವಾಲ್ಪೇಪರ್</string>
+  <string name="magical_wallpaper">ಲೈವ್</string>
+  <string name="main_ongoing_download">ಪೂರ್ವವೀಕ್ಷಣೆ ರಚಿಸಲಾಗುತ್ತಿದೆ</string>
+  <string name="permission_required">ಅನುಮತಿ ಅಗತ್ಯವಿದೆ</string>
+  <string name="title_onboarding_1">ಪ್ರವೇಶಿಸುವಿಕೆ ಅನುಮತಿ</string>
+  <string name="description_onboarding_1">ಪ್ರವೇಶಿಸುವಿಕೆ ಒಂದು ಪ್ರಮುಖ ಲಕ್ಷಣವಾಗಿದೆ</string>
+  <string name="string_text_onboarding_complete_description">ಎಡ್ಜ್ ಲೈಟಿಂಗ್ ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯವಾಗಿ ಪ್ರವೇಶಿಸುವಿಕೆ ಅನುಮತಿ ಅತ್ಯಗತ್ಯವಾಗಿರುತ್ತದೆ</string>
+  <string name="title_onboarding_2">ಪ್ರವೇಶಿಸುವಿಕೆ ಅನುಮತಿ</string>
+  <string name="description_onboarding_2">ಅನುಮತಿಯನ್ನು ಈ ಕೆಳಗಿನಂತೆ ನೀಡಬಹುದು: \n \n ಪ್ರವೇಶಿಸುವಿಕೆ > ಸ್ಥಾಪಿಸಲಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು/ಸೇವೆಗಳು > ಎಡ್ಜ್ ಲೈಟಿಂಗ್ \n ಅಥವಾ \n ಪ್ರವೇಶಿಸುವಿಕೆ > ಹೆಚ್ಚಿನ ಡೌನ್‌ಲೋಡ್ ಸೇವೆಗಳು > ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="title_onboarding_3">ಸುಂದರವಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಕೋಡ್ ಮಾಡಿ</string>
+  <string name="description_onboarding_3">ಉಪಯುಕ್ತ ಮತ್ತು ಸೂಕ್ಷ್ಮವಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಮಾಡುವುದು ನಮ್ಮ ಉದ್ದೇಶವಾಗಿದೆ. ಓಪನ್ ಸೋರ್ಸ್ ಸ್ಟಫ್‌ಗಳೊಂದಿಗೆ ಸಮಯವನ್ನು ಉಳಿಸಲು ಜನರಿಗೆ ಸಹಾಯ ಮಾಡಲು ನಾವು ಇಷ್ಟಪಡುತ್ತೇವೆ, ಆದರೆ ಹೊಸ ವಿಷಯಗಳನ್ನು ರಚಿಸುವ ಮೂಲಕ ನಾವು ಜೀವನವನ್ನು ಸುಲಭಗೊಳಿಸುತ್ತೇವೆ. ಉತ್ತಮ ಕೋಡಿಂಗ್!</string>
+  <string name="start_text_advice">ಈ ಅಪ್ಲಿಕೇಶನ್‌ನಲ್ಲಿ ಮುಂದುವರಿಯುವ ಮೂಲಕ ನೀವು ನಮ್ಮ ಬಳಕೆಯ ನಿಯಮಗಳು ಮತ್ತು ಗೌಪ್ಯತೆ ನೀತಿಯನ್ನು ಒಪ್ಪುತ್ತೀರಿ</string>
+  <string name="start">ಪ್ರಾರಂಭಿಸಿ</string>
+  <string name="skip">ಬಿಟ್ಟುಬಿಡಿ</string>
+  <string name="finish">ಮುಗಿಸು</string>
+  <string name="next">ಮುಂದೆ</string>
+  <string name="back">ಹಿಂದೆ</string>
+  <string name="allow">ಅನುಮತಿಸಿ</string>
+  <string name="slider_Edge">ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="slider_Edge1">ಅಂಚುಗಳ ಮೇಲೆ ಅಂಚಿನ ಬೆಳಕನ್ನು ಪ್ರದರ್ಶಿಸಿ</string>
+  <string name="alert_Edge">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಎಚ್ಚರಿಕೆ</string>
+  <string name="alert_Edge1">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಎಚ್ಚರಿಕೆಗಾಗಿ ಕಿತ್ತಳೆ ಅಂಚಿನ ಲೈಟಿಂಗ್</string>
+  <string name="warning_Edge">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಎಚ್ಚರಿಕೆ</string>
+  <string name="warning_Edge1">ಕಡಿಮೆ ಬ್ಯಾಟರಿ ಎಚ್ಚರಿಕೆಗಾಗಿ ಕೆಂಪು ಅಂಚಿನ ಬೆಳಕು</string>
+  <string name="notch_Edge">ನಾಚ್</string>
+  <string name="notch_Edge1">ನಾಚ್ನೊಂದಿಗೆ ಅಂಚಿನ ಬೆಳಕನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
+  <string name="wallpaper_Edge">ವಾಲ್ಪೇಪರ್</string>
+  <string name="wallpaper_Edge1">ವಾಲ್‌ಪೇಪರ್‌ನೊಂದಿಗೆ ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ನಿಸ್ತಂತು</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ಹಲೋ ಖಾಲಿ ತುಣುಕು</string>
+  <string name="apply">ಅನ್ವಯಿಸು</string>
+  <string name="applied">ಅನ್ವಯಿಸಲಾಗಿದೆ</string>
+  <string name="always_on_display_edge_lighting">ಯಾವಾಗಲೂ ಡಿಸ್ಪ್ಲೇ ಎಡ್ಜ್ ಲೈಟಿಂಗ್ ನಲ್ಲಿ</string>
+  <string name="confirm_exit">ನಿರ್ಗಮನವನ್ನು ದೃಢೀಕರಿಸುವುದೇ?</string>
+  <string name="yes">ಹೌದು</string>
+  <string name="no">ಸಂ</string>
+  <string name="wallpapers">ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+  <string name="ok">ಸರಿ</string>
+  <string name="what_would_you_like_to_do">ನೀವು ಏನು ಮಾಡಲು ಬಯಸುತ್ತೀರಿ?</string>
+  <string name="set_home_screen">ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಹೊಂದಿಸಿ</string>
+  <string name="set_lock_screen">ಲಾಕ್ ಸ್ಕ್ರೀನ್ ಹೊಂದಿಸಿ</string>
+  <string name="set_both_screens">ಎರಡೂ ಪರದೆಗಳನ್ನು ಹೊಂದಿಸಿ</string>
+  <string name="adjust_screen">ಪರದೆಯನ್ನು ಹೊಂದಿಸಿ</string>
+  <string name="please_wait_ad_is_loading">ದಯವಿಟ್ಟು ನಿರೀಕ್ಷಿಸಿ, ಜಾಹೀರಾತು ಲೋಡ್ ಆಗುತ್ತಿದೆ</string>
+  <string name="home">ಮನೆ</string>
+  <string name="edge_lighting_border">ಎಡ್ಜ್ ಲೈಟಿಂಗ್ ಬಾರ್ಡರ್</string>
+  <string name="view_more">ಇನ್ನಷ್ಟು ವೀಕ್ಷಿಸಿ</string>
+  <string name="brighten_up_by_stunning_edges">ಬೆರಗುಗೊಳಿಸುವ ಅಂಚುಗಳ ಮೂಲಕ ಬೆಳಗಿಸಿ</string>
+  <string name="live_wallpapers">ಲೈವ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+  <string name="stunning_wallpapers">ಬೆರಗುಗೊಳಿಸುವ ವಾಲ್‌ಪೇಪರ್‌ಗಳು</string>
+  <string name="experience_by_interactive_wallpapers">ಇಂಟರಾಕ್ಟಿವ್ ವಾಲ್‌ಪೇಪರ್‌ಗಳಿಂದ ಅನುಭವ</string>
+  <string name="dismiss">ವಜಾಗೊಳಿಸಿ</string>
+  <string name="language">ಭಾಷೆ</string>
+  <string name="privacy_policy">ಗೌಪ್ಯತೆ ನೀತಿ</string>
+  <string name="rate_us">ನಮ್ಮನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+  <string name="more_app">ಇನ್ನಷ್ಟು ಅಪ್ಲಿಕೇಶನ್</string>
+  <string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+  <string name="alert">ಎಚ್ಚರಿಕೆ</string>
+  <string name="warning">ಎಚ್ಚರಿಕೆ</string>
+  <string name="trending">ಟ್ರೆಂಡಿಂಗ್</string>
+  <string name="applying_wallpaper">ವಾಲ್‌ಪೇಪರ್ ಅನ್ನು ಅನ್ವಯಿಸಲಾಗುತ್ತಿದೆ</string>
+  <string name="wallpaper_applied">ವಾಲ್‌ಪೇಪರ್ ಅನ್ವಯಿಸಲಾಗಿದೆ</string>
+  <string name="accessibility_service_level_permission">ಪ್ರವೇಶಿಸುವಿಕೆ ಸೇವಾ ಮಟ್ಟದ ಅನುಮತಿ:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">ಎಡ್ಜ್ ಲೈಟಿಂಗ್ ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು ಮತ್ತು ಲಾಕ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಪ್ರಮುಖ ವೈಶಿಷ್ಟ್ಯವಾಗಿ ಪ್ರವೇಶಿಸುವಿಕೆ ಅನುಮತಿ ಅತ್ಯಗತ್ಯವಾಗಿರುತ್ತದೆ</string>
+  <string name="this_permission_can_be_granted_as_follow">ಈ ಅನುಮತಿಯನ್ನು ಈ ಕೆಳಗಿನಂತೆ ನೀಡಬಹುದು:</string>
+  <string name="go_to_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳಿಗೆ ಹೋಗಿ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ಪ್ರವೇಶಿಸುವಿಕೆ > ಸ್ಥಾಪಿಸಲಾದ ಅಪ್ಲಿಕೇಶನ್‌ಗಳು/ಸೇವೆಗಳು > ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ಪ್ರವೇಶಿಸುವಿಕೆ > ಹೆಚ್ಚಿನ ಡೌನ್‌ಲೋಡ್ ಸೇವೆಗಳು > ಎಡ್ಜ್ ಲೈಟಿಂಗ್</string>
+  <string name="grant_permission_now">ಈಗ ಅನುಮತಿ ನೀಡುವುದೇ?</string>
+  <string name="later">ನಂತರ</string>
+  <string name="yes_now">ಹೌದು, ಈಗ</string>
+</resources>

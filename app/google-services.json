@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612069725136",
+    "project_id": "edge-lighting-c5995",
+    "storage_bucket": "edge-lighting-c5995.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612069725136:android:c12a2c837960057bec5fd5",
+        "android_client_info": {
+          "package_name": "com.skytek.edgelighting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612069725136-3g8ql3s1urldsqf2n2c4dafevs1tfln2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbbGDS6ni1nEBOVxUZ7SkitT93jIntMHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612069725136-3g8ql3s1urldsqf2n2c4dafevs1tfln2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

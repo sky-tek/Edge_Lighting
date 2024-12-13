@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Appilikeeshiniiwwan biroo irratti agarsiisuu</string>
+  <string name="open_nav">Baafata Navigeeshinii Bani</string>
+  <string name="close_nav">Cufi Baafata Navigeeshinii</string>
+  <string name="show_while_charging">Yeroo chaarjii gootu agarsiisi</string>
+  <string name="text_enable_wallpaper">Wallpaper dandeessisi</string>
+  <string name="number_of_colors">Lakkoofsa Halluuwwanii</string>
+  <string name="click_a_color_to_edit">Gulaaluuf halluu cuqaasi</string>
+  <string name="mtrl_picker_confirm">TOLE</string>
+  <string name="SelectLanguage">Afaan Filadhu</string>
+  <string name="text_cancel">Haquu</string>
+  <string name="text_border_type">Gosa daangaa</string>
+  <string name="text_animation_speed">Saffisa animeeshinii</string>
+  <string name="text_border_size">Guddina daangaa</string>
+  <string name="text_radius_top">Raadiyaasii gubbaa</string>
+  <string name="text_radius_bottom">Raadiyaasii jalaa</string>
+  <string name="text_enable_display_notch">Notch dandeessisi</string>
+  <string name="text_notch_width_top">Notch bal\'ina gubbaa</string>
+  <string name="text_notch_width_bottom">Bal\'ina notch jalaa</string>
+  <string name="text_notch_height">Olka’iinsa notch</string>
+  <string name="text_notch_radius_top">Notch radius gubbaa</string>
+  <string name="text_notch_radius_bottom">Notch radius jalaa</string>
+  <string name="select_wallpaper">Wallpaper filadhu</string>
+  <string name="allow_display_over_other_apps">Appilikeeshiniiwwan biroo irratti mul\'achuu hayyamuu</string>
+  <string name="continue_">Itti fufuu</string>
+  <string name="app_name_service">Haguuggii iskiriinii banaa</string>
+  <string name="permission_request">Gaaffii Hayyamaa</string>
+  <string name="power_connected">Keebiliin Humnaa Walitti Hidhame</string>
+  <string name="power_disconnected">Keebiliin Humnaa Walitti Hidhame</string>
+  <string name="draw_over_cancelled">Hayyamni haguuggii kaasi ammallee hin kennamne. Ammas yaalaa</string>
+  <string name="draw_over_granted">Gaaffiin hayyama haguuggii kaasi kenname</string>
+  <string name="app_name">Ifa Qarqara</string>
+  <string name="please_wait">Mee eegaa Wallpaper Downloading...</string>
+  <string name="no_internet">Intarneetii hin qabu</string>
+  <string name="to_use_this">Amala kana fayyadamuuf Hayyamni Dhaqqabummaa barbaachisaadha</string>
+  <string name="draw_over_denied">Hayyamni haguuggii kaasi ammallee hin kennamne. Ammas yaalaa</string>
+  <string name="no_internet_war">Isin offline jirta mee internet keessan banaa edge lighting wallpapers argachuuf.</string>
+  <string name="you_must">\"Edge Lighting\" sirnaan akka hojjetu hayyama \"Draw Over Other Apps\" dandeessisuun dirqama.</string>
+  <string name="wallpaper_description">Live_wallpaper jedhu</string>
+  <string name="abstract_">Yaada qofaan</string>
+  <string name="nature">Uumama</string>
+  <string name="neon">Niyoon</string>
+  <string name="quotes">Jechoota bebbeekamoo akka fakkeenyaatti fudhataman</string>
+  <string name="sunset">Lixa aduu</string>
+  <string name="top">Gubbaa</string>
+  <string name="text_name_notification">Tajaajila jalqabuu</string>
+  <string name="No_topic_selected">Mata dureen hin filatamne</string>
+  <string name="Update_finish">Update xumuraa</string>
+  <string name="loading_ad">Beeksisa Fe\'aa jira</string>
+  <string name="low_battery">Ifa Qarqara Baatirii Gadi aanaa</string>
+  <string name="battery_one">Baatirii 1.</string>
+  <string name="battery_two">Baatirii 2.</string>
+  <string name="edge_service">Tajaajila gaggeessuu</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Jiraachuu</string>
+  <string name="main_ongoing_download">Durargii Maddisiisuu</string>
+  <string name="permission_required">Hayyama Barbaachisa</string>
+  <string name="title_onboarding_1">Hayyama Dhaqqabummaa</string>
+  <string name="description_onboarding_1">Dhaqqabummaan amala ijoodha</string>
+  <string name="string_text_onboarding_complete_description">Hayyamni Dhaqqabummaa akka amala ijootti Edge Lighting appii biroo irratti akka hojjetuu fi iskiriinii cufuuf dirqama</string>
+  <string name="title_onboarding_2">Hayyama Dhaqqabummaa</string>
+  <string name="description_onboarding_2">Hayyamni akka armaan gadiitti kennamuu danda\'a: \n \n Dhaqqabummaa > Appii/Tajaajiloota Fe\'aman > Ifa Qarqara \n YKN \n Dhaqqabummaa > Tajaajiloota Buufadhu Dabalataa > Ifa Qarqara</string>
+  <string name="title_onboarding_3">Appilikeeshiniiwwan babbareedoo koodii</string>
+  <string name="description_onboarding_3">Ergamni keenya apps faayidaa qaban &amp; subtle hojjechuudha. Namoonni wantoota madda banaatiin yeroo akka qusatan gargaaruu ni jaallanna, garuu wantoota haaraa uumuudhaan jireenya salphisna. Koodii Gaarii!</string>
+  <string name="start_text_advice">Appilikeeshinii kana itti fufuudhaan Haala Itti Fayyadamaa fi Imaammata Dhuunfaa keenya irratti walii galtee qabda</string>
+  <string name="start">Eegaluu</string>
+  <string name="skip">Irra darbuu</string>
+  <string name="finish">Xumuruu</string>
+  <string name="next">Kan itti aanu</string>
+  <string name="back">Dugda</string>
+  <string name="allow">Hayyamuu</string>
+  <string name="slider_Edge">Ifa Qarqara</string>
+  <string name="slider_Edge1">Ifa qarqaraa Edges irratti agarsiisi</string>
+  <string name="alert_Edge">Akeekkachiisa Baatirii Gadi aanaa</string>
+  <string name="alert_Edge1">Ifa qarqara burtukaanaa akeekkachiisa baatirii gadi aanaa ta\'eef</string>
+  <string name="warning_Edge">Akeekkachiisa Baatirii Gadi aanaa</string>
+  <string name="warning_Edge1">Ifa qarqara diimaa akeekkachiisa baatirii baayyee gadi aanaa ta\'eef</string>
+  <string name="notch_Edge">Notch jedhamuun beekama</string>
+  <string name="notch_Edge1">Ifa qarqaraa notch waliin dandeessisi</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ifa qarqaraa Wallpaper waliin</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wayaa malee</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Akkam jirtu ciccitaa duwwaa</string>
+  <string name="apply">Hojiirra oolchuu</string>
+  <string name="applied">Hojiirra ooleera</string>
+  <string name="always_on_display_edge_lighting">Yeroo hunda ibsaa qarqara agarsiisaa irratti</string>
+  <string name="confirm_exit">Ba\'uu Mirkaneessi ?</string>
+  <string name="yes">Eeyyee</string>
+  <string name="no">Lakki</string>
+  <string name="wallpapers">Wallpapers jedhu</string>
+  <string name="ok">Tole</string>
+  <string name="what_would_you_like_to_do">Maal gochuu barbaadda?</string>
+  <string name="set_home_screen">Iskiriinii Manaa Saagi</string>
+  <string name="set_lock_screen">Iskiriinii Qulfii Saagi</string>
+  <string name="set_both_screens">Iskiriinii Lamaan Saagi</string>
+  <string name="adjust_screen">Iskiriinii Sirreessuu</string>
+  <string name="please_wait_ad_is_loading">Mee eegaa, ad fe\'amaa jira</string>
+  <string name="home">Mana</string>
+  <string name="edge_lighting_border">Daangaa Ifa Qarqara</string>
+  <string name="view_more">Dabalata Ilaali</string>
+  <string name="brighten_up_by_stunning_edges">Edges ajaa\'ibsiisaa ta\'een ibsi</string>
+  <string name="live_wallpapers">Wallpapers Kallattiin</string>
+  <string name="stunning_wallpapers">Wallpapers nama ajaa\'ibsiisan</string>
+  <string name="experience_by_interactive_wallpapers">Muuxannoo Walqunnamtii Wallpapers tiin</string>
+  <string name="dismiss">Balleessuu</string>
+  <string name="language">Afaan</string>
+  <string name="privacy_policy">Imaammata Dhuunfaa</string>
+  <string name="rate_us">Nuuf Madaaluu</string>
+  <string name="more_app">Dabalata App</string>
+  <string name="exit">Ba\'uu</string>
+  <string name="alert">Akeekkachiisuu</string>
+  <string name="warning">Akeekkachiisa</string>
+  <string name="trending">Trending ta\'aa jira</string>
+  <string name="applying_wallpaper">Wallpaper Hojiirra Oolchuu</string>
+  <string name="wallpaper_applied">Wallpaper Hojiirra Oole</string>
+  <string name="accessibility_service_level_permission">Hayyama Sadarkaa Tajaajila Dhaqqabummaa:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Hayyamni Dhaqqabummaa akka amala ijootti Edge Lighting appii biroo irratti akka hojjetuu fi iskiriinii cufuuf dirqama</string>
+  <string name="this_permission_can_be_granted_as_follow">Hayyamni kun akka armaan gadiitti kennamuu danda’a:</string>
+  <string name="go_to_settings">Gara Settings deemaa</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Dhaqqabummaa > Appii/Tajaajiloota Fe\'aman > Ifa Qarqara</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Dhaqqabummaa > Tajaajila Buufannaa Dabalataa > Ifa Qarqara</string>
+  <string name="grant_permission_now">Amma Hayyama Kennuu?</string>
+  <string name="later">Booda</string>
+  <string name="yes_now">Eeyyee, amma</string>
+</resources>

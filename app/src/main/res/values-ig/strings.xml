@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Gosipụta n\'elu ngwa ndị ọzọ</string>
+  <string name="open_nav">Mepee drawer nsoroụzọ</string>
+  <string name="close_nav">Nso Drawer nsoroụzọ</string>
+  <string name="show_while_charging">Gosi mgbe ị na-akwụ ụgwọ</string>
+  <string name="text_enable_wallpaper">Kwado akwụkwọ ahụaja</string>
+  <string name="number_of_colors">Ọnụọgụ nke agba</string>
+  <string name="click_a_color_to_edit">Pịa agba iji dezie</string>
+  <string name="mtrl_picker_confirm">Ọ DỊ MMA</string>
+  <string name="SelectLanguage">Họrọ Asụsụ</string>
+  <string name="text_cancel">Kagbuo</string>
+  <string name="text_border_type">Ụdị oke</string>
+  <string name="text_animation_speed">Ọsọ ihe nkiri</string>
+  <string name="text_border_size">Oke oke</string>
+  <string name="text_radius_top">Radius n\'elu</string>
+  <string name="text_radius_bottom">Radius n\'okpuru</string>
+  <string name="text_enable_display_notch">Kwado notch</string>
+  <string name="text_notch_width_top">N\'elu obosara notch</string>
+  <string name="text_notch_width_bottom">Ọkpụkpụ obosara ala</string>
+  <string name="text_notch_height">Ogo ọkwa ọkwa</string>
+  <string name="text_notch_radius_top">Ọkwa radius n\'elu</string>
+  <string name="text_notch_radius_bottom">Ọkwa radius n\'okpuru</string>
+  <string name="select_wallpaper">Họrọ akwụkwọ ahụaja</string>
+  <string name="allow_display_over_other_apps">Kwe ka ngosi n\'elu ngwa ndị ọzọ</string>
+  <string name="continue_">Gaa n\'ihu</string>
+  <string name="app_name_service">Mepee ihe mkpuchi ihuenyo</string>
+  <string name="permission_request">Arịrịọ ikike</string>
+  <string name="power_connected">Ejikọrọ eriri ọkụ</string>
+  <string name="power_disconnected">Akwụpụrụ eriri ọkụ</string>
+  <string name="draw_over_cancelled">Enyebeghị ikikere machie ya. Nwaa ọzọ</string>
+  <string name="draw_over_granted">Anabatara arịrịọ ikike ịdọrọ machie</string>
+  <string name="app_name">Igwe ọkụ ihu</string>
+  <string name="please_wait">Biko chere nbudata akwụkwọ ahụaja…</string>
+  <string name="no_internet">Enweghị ịntanetị</string>
+  <string name="to_use_this">Iji njirimara a chọrọ ikike ịnweta ohere</string>
+  <string name="draw_over_denied">Enyebeghị ikikere machie ya. Nwaa ọzọ</string>
+  <string name="no_internet_war">Ị nọghị n\'ịntanetị biko gbanye ịntanetị gị ka ị nweta akwụkwọ ahụaja na-enwu ọkụ.</string>
+  <string name="you_must">Ị ga-emerịrị ikike \"Draw Over Other Apps\" maka \"Edge Lighting\" ka ọ rụọ ọrụ nke ọma.</string>
+  <string name="wallpaper_description">Akwụkwọ ahụaja ndụ</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Ọdịdị</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Okwu</string>
+  <string name="sunset">Anyanwụ dara</string>
+  <string name="top">N\'elu</string>
+  <string name="text_name_notification">Malite ọrụ</string>
+  <string name="No_topic_selected">Enweghị isiokwu ahọpụtara</string>
+  <string name="Update_finish">Mmelite emecha</string>
+  <string name="loading_ad">Na-ebubata Mgbasa ozi</string>
+  <string name="low_battery">Igwe ọkụ ihu batrị dị ala</string>
+  <string name="battery_one">Batrị 1</string>
+  <string name="battery_two">Batrị 2</string>
+  <string name="edge_service">Ọrụ na-agba ọsọ</string>
+  <string name="wallpaper">Akwụkwọ ahụaja</string>
+  <string name="magical_wallpaper">Dị ndụ</string>
+  <string name="main_ongoing_download">Nhụchalụ na-emepụta</string>
+  <string name="permission_required">Achọrọ ikike</string>
+  <string name="title_onboarding_1">Ikikere nnweta</string>
+  <string name="description_onboarding_1">Ịnweta bụ njirimara bụ isi</string>
+  <string name="string_text_onboarding_complete_description">Ikike nnweta dị ka ihe bụ isi bụ maka Edge Lighting ka ọ rụọ ọrụ n\'elu ngwa ndị ọzọ yana ihuenyo mkpọchi</string>
+  <string name="title_onboarding_2">Ikikere nnweta</string>
+  <string name="description_onboarding_2">Enwere ike ịnye ikike ahụ dị ka ndị a: \n \n Ịnweta > Ngwa/ọrụ arụnyere> Edge Lighting \n OR \n Ịnweta > Ọrụ nbudata ọzọ > Edge Lighting</string>
+  <string name="title_onboarding_3">Koodu ngwa mara mma</string>
+  <string name="description_onboarding_3">Ebumnuche anyị bụ ime ngwa bara uru &amp; aghụghọ. Anyị na-enwe mmasị inyere ndị mmadụ aka ịchekwa oge na ihe ndị mepere emepe, mana anyị na-emekwa ka ndụ dịkwuo mfe site n\'ịmepụta ihe ọhụrụ. Ndozi nke ọma!</string>
+  <string name="start_text_advice">Site na ịga n\'ihu na ngwa a ị kwenyere na Usoro ojiji na Amụma nzuzo</string>
+  <string name="start">Malite</string>
+  <string name="skip">Mafee</string>
+  <string name="finish">Mechaa</string>
+  <string name="next">Osote</string>
+  <string name="back">Azu</string>
+  <string name="allow">Kwe</string>
+  <string name="slider_Edge">Igwe ọkụ ihu</string>
+  <string name="slider_Edge1">Gosipụta ọkụ ihu n\'elu Edges</string>
+  <string name="alert_Edge">Ntinye batrị dị ala</string>
+  <string name="alert_Edge1">Ọkụ na-acha oroma maka njikere batrị dị obere</string>
+  <string name="warning_Edge">Ịdọ aka ná ntị batrị dị ala</string>
+  <string name="warning_Edge1">Ọkụ na-acha uhie uhie maka ịdọ aka ná ntị batrị dị obere</string>
+  <string name="notch_Edge">Ọkwa</string>
+  <string name="notch_Edge1">Jiri notch mee ọkụ ihu</string>
+  <string name="wallpaper_Edge">Akwụkwọ ahụaja</string>
+  <string name="wallpaper_Edge1">Ihu ọkụ na akwụkwọ ahụaja</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Ikuku</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Ndewo iberibe oghere</string>
+  <string name="apply">Tinye</string>
+  <string name="applied">Tinyere</string>
+  <string name="always_on_display_edge_lighting">Ọkụ n\'ọnụ ngosi mgbe niile</string>
+  <string name="confirm_exit">Kwenye Ọpụpụ?</string>
+  <string name="yes">Ee</string>
+  <string name="no">Mba</string>
+  <string name="wallpapers">Akwụkwọ ahụaja</string>
+  <string name="ok">Ọ dị mma</string>
+  <string name="what_would_you_like_to_do">Kedu ihe ị ga-achọ ime?</string>
+  <string name="set_home_screen">Tọọ ihuenyo ụlọ</string>
+  <string name="set_lock_screen">Tọọ ihuenyo mkpọchi</string>
+  <string name="set_both_screens">Tọọ ihuenyo abụọ ahụ</string>
+  <string name="adjust_screen">Gbanwee ihuenyo</string>
+  <string name="please_wait_ad_is_loading">Biko chere, mgbasa ozi na-ebu</string>
+  <string name="home">Ụlọ</string>
+  <string name="edge_lighting_border">Oke ọkụ Edge</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">Na-egbukepụ egbukepụ site na akụkụ dị egwu</string>
+  <string name="live_wallpapers">Akwụkwọ ahụaja dị ndụ</string>
+  <string name="stunning_wallpapers">Akwụkwọ ahụaja dị egwu</string>
+  <string name="experience_by_interactive_wallpapers">Ahụmahụ site na akwụkwọ ahụaja Interactive</string>
+  <string name="dismiss">Wepụ</string>
+  <string name="language">Asụsụ</string>
+  <string name="privacy_policy">Amụma nzuzo</string>
+  <string name="rate_us">Nye anyị ọnụ</string>
+  <string name="more_app">Ngwa ọzọ</string>
+  <string name="exit">Ụzọ ọpụpụ</string>
+  <string name="alert">Njikere</string>
+  <string name="warning">Ịdọ aka ná ntị</string>
+  <string name="trending">Na-agbanwe agbanwe</string>
+  <string name="applying_wallpaper">Na-etinye akwụkwọ ahụaja</string>
+  <string name="wallpaper_applied">Akwụkwọ ahụaja etinyere</string>
+  <string name="accessibility_service_level_permission">Ikikere Ọkwa ọrụ nnweta:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ikike nnweta dị ka ihe bụ isi bụ maka Edge Lighting ka ọ rụọ ọrụ n\'elu ngwa ndị ọzọ yana ihuenyo mkpọchi</string>
+  <string name="this_permission_can_be_granted_as_follow">Enwere ike ịnye ikike a dịka ndị a:</string>
+  <string name="go_to_settings">Gaa na Ntọala</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ịnweta> Ngwa/ọrụ arụnyere> Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ịnweta> Ọrụ nbudata ọzọ> Edge Lighting</string>
+  <string name="grant_permission_now">Nye ikike ugbu a?</string>
+  <string name="later">Emechaa</string>
+  <string name="yes_now">Ee, ugbua</string>
+</resources>

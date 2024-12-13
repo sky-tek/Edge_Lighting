@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Taisbeanadh thairis air aplacaidean eile</string>
+  <string name="open_nav">Drathair seòlaidh fosgailte</string>
+  <string name="close_nav">Dùin Navigation Drawer</string>
+  <string name="show_while_charging">Taisbeanadh fhad ‘s a tha thu a’ luchdachadh</string>
+  <string name="text_enable_wallpaper">Dèan comas air Pàipear-balla</string>
+  <string name="number_of_colors">Àireamh Dhathan</string>
+  <string name="click_a_color_to_edit">Cliog air dath airson deasachadh</string>
+  <string name="mtrl_picker_confirm">Ceart gu leòr</string>
+  <string name="SelectLanguage">Tagh Cànan</string>
+  <string name="text_cancel">Sguir dheth</string>
+  <string name="text_border_type">Seòrsa crìche</string>
+  <string name="text_animation_speed">Astar beothachaidh</string>
+  <string name="text_border_size">Meud crìche</string>
+  <string name="text_radius_top">Radius gu h-àrd</string>
+  <string name="text_radius_bottom">Radius gu h-ìosal</string>
+  <string name="text_enable_display_notch">Dèan comas air Notch</string>
+  <string name="text_notch_width_top">Mullach leud notch</string>
+  <string name="text_notch_width_bottom">Bun leud notch</string>
+  <string name="text_notch_height">Àirde notch</string>
+  <string name="text_notch_radius_top">Radius notch gu h-àrd</string>
+  <string name="text_notch_radius_bottom">Radius notch gu h-ìosal</string>
+  <string name="select_wallpaper">Tagh Pàipear-balla</string>
+  <string name="allow_display_over_other_apps">Leig le taisbeanadh thairis air aplacaidean eile</string>
+  <string name="continue_">Lean air adhart</string>
+  <string name="app_name_service">Ath-chòmhdach sgrion fosgailte</string>
+  <string name="permission_request">Iarrtas cead</string>
+  <string name="power_connected">Càball cumhachd ceangailte</string>
+  <string name="power_disconnected">Càball cumhachd air a dhì-cheangal</string>
+  <string name="draw_over_cancelled">Chan eil cead ath-chòmhdach tarraing air a thoirt seachad fhathast. Feuch ris a-rithist</string>
+  <string name="draw_over_granted">Iarrtas cead tar-chòmhdach air a thoirt seachad</string>
+  <string name="app_name">Solais Edge</string>
+  <string name="please_wait">Luchdaich a-nuas phàipear-balla feitheamh. . .</string>
+  <string name="no_internet">Gun eadar-lìon</string>
+  <string name="to_use_this">Gus am feart seo a chleachdadh tha feum air cead ruigsinneachd</string>
+  <string name="draw_over_denied">Chan eil cead ath-chòmhdach tarraing air a thoirt seachad fhathast. Feuch ris a-rithist</string>
+  <string name="no_internet_war">Tha thu far-loidhne feuch an tionndaidh thu air an eadar-lìn agad gus pàipearan-balla solais iomall fhaighinn.</string>
+  <string name="you_must">Feumaidh tu cead “Draw Over Other Apps” a chomasachadh airson “Edge Lighting” obrachadh mar bu chòir.</string>
+  <string name="wallpaper_description">Pàipear-balla_beò</string>
+  <string name="abstract_">Abradh</string>
+  <string name="nature">Nàdar</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Dol fodha na grèine</string>
+  <string name="top">Barr</string>
+  <string name="text_name_notification">Tòisich seirbheis</string>
+  <string name="No_topic_selected">Cha deach cuspair a thaghadh</string>
+  <string name="Update_finish">Crìochnachadh ùrachadh</string>
+  <string name="loading_ad">A\' luchdachadh Ad</string>
+  <string name="low_battery">Solais iomall bataraidh ìosal</string>
+  <string name="battery_one">Bataraidh 1</string>
+  <string name="battery_two">Bataraidh 2</string>
+  <string name="edge_service">A \'ruith seirbheis</string>
+  <string name="wallpaper">Pàipear-balla</string>
+  <string name="magical_wallpaper">Beò</string>
+  <string name="main_ongoing_download">A \'cruthachadh Ro-shealladh</string>
+  <string name="permission_required">Cead a dhìth</string>
+  <string name="title_onboarding_1">Cead Ruigsinneachd</string>
+  <string name="description_onboarding_1">Tha ruigsinneachd na phrìomh fheart</string>
+  <string name="string_text_onboarding_complete_description">Tha an Cead Ruigsinneachd mar phrìomh fheart riatanach airson Edge Lighting a bhith ag obair thairis air aplacaidean eile agus scrion glasaidh</string>
+  <string name="title_onboarding_2">Cead Ruigsinneachd</string>
+  <string name="description_onboarding_2">Faodar an cead a thoirt seachad mar a leanas: \n \n Ruigsinneachd > Apps/Seirbheisean air an stàladh > Solais Iomall \n NO \n Ruigsinneachd > Barrachd sheirbheisean luchdaich sìos > Solais iomall</string>
+  <string name="title_onboarding_3">Còd aplacaidean àlainn</string>
+  <string name="description_onboarding_3">Is e ar misean aplacaidean feumail is seòlta a dhèanamh. Tha sinn dèidheil air daoine a chuideachadh gus ùine a shàbhaladh le stuthan stòr fosgailte, ach bidh sinn cuideachd a’ dèanamh beatha nas fhasa le bhith a’ cruthachadh rudan ùra. Còdachadh math!</string>
+  <string name="start_text_advice">Le bhith a’ leantainn air adhart leis an tagradh seo tha thu ag aontachadh ris na Cumhachan Cleachdaidh agus Poileasaidh Dìomhaireachd againn</string>
+  <string name="start">Tòisich</string>
+  <string name="skip">Leum</string>
+  <string name="finish">Crìochnaich</string>
+  <string name="next">Air adhart</string>
+  <string name="back">Air ais</string>
+  <string name="allow">Leig</string>
+  <string name="slider_Edge">Solais Edge</string>
+  <string name="slider_Edge1">Taisbeanaidh solais iomall thairis air Edges</string>
+  <string name="alert_Edge">Rabhadh bataraidh ìosal</string>
+  <string name="alert_Edge1">Solais oir orains airson rabhadh bataraidh ìosal</string>
+  <string name="warning_Edge">Rabhadh bataraidh ìosal</string>
+  <string name="warning_Edge1">Solais oir dearg airson rabhadh bataraidh glè ìosal</string>
+  <string name="notch_Edge">Sgeag</string>
+  <string name="notch_Edge1">Dèan comas air solais iomall le notch</string>
+  <string name="wallpaper_Edge">Pàipear-balla</string>
+  <string name="wallpaper_Edge1">Solais iomall le pàipear-balla</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello pìos bàn</string>
+  <string name="apply">Cuir a-steach</string>
+  <string name="applied">Air a chur an sàs</string>
+  <string name="always_on_display_edge_lighting">An-còmhnaidh air solais iomall taisbeanaidh</string>
+  <string name="confirm_exit">Dearbhaich fàgail?</string>
+  <string name="yes">Tha</string>
+  <string name="no">Chan eil</string>
+  <string name="wallpapers">Pàipearan-balla</string>
+  <string name="ok">Ceart gu leòr</string>
+  <string name="what_would_you_like_to_do">Dè bu toil leat a dhèanamh?</string>
+  <string name="set_home_screen">Suidhich Sgrion Dachaigh</string>
+  <string name="set_lock_screen">Suidhich Lock Screen</string>
+  <string name="set_both_screens">Suidhich an dà sgrion</string>
+  <string name="adjust_screen">Atharraich Sgrion</string>
+  <string name="please_wait_ad_is_loading">Feuch an fuirich thu, tha sanas a’ luchdachadh</string>
+  <string name="home">Dhachaigh</string>
+  <string name="edge_lighting_border">Crìochan solais iomall</string>
+  <string name="view_more">Seall Tuilleadh</string>
+  <string name="brighten_up_by_stunning_edges">Air a shoilleireachadh le Edges iongantach</string>
+  <string name="live_wallpapers">Wallpapers beò</string>
+  <string name="stunning_wallpapers">Wallpapers iongantach</string>
+  <string name="experience_by_interactive_wallpapers">Eòlas le Interactive Wallpapers</string>
+  <string name="dismiss">Cur às</string>
+  <string name="language">Cànain</string>
+  <string name="privacy_policy">Poileasaidh Dìomhaireachd</string>
+  <string name="rate_us">Dèan measadh oirnn</string>
+  <string name="more_app">Tuilleadh App</string>
+  <string name="exit">Mach</string>
+  <string name="alert">Rabhadh</string>
+  <string name="warning">Rabhadh</string>
+  <string name="trending">Treas</string>
+  <string name="applying_wallpaper">A \'cur a-steach Wallpaper</string>
+  <string name="wallpaper_applied">Pàipear-balla air a chuir an sàs</string>
+  <string name="accessibility_service_level_permission">Cead Ìre Seirbheis Ruigsinneachd:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Tha an Cead Ruigsinneachd mar phrìomh fheart riatanach airson Edge Lighting a bhith ag obair thairis air aplacaidean eile agus scrion glasaidh</string>
+  <string name="this_permission_can_be_granted_as_follow">Faodar an cead seo a thoirt seachad mar a leanas:</string>
+  <string name="go_to_settings">Rach gu Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Ruigsinneachd> Apps / Seirbheisean air an stàladh> Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Ruigsinneachd > Barrachd sheirbheisean luchdaich sìos > Edge Lighting</string>
+  <string name="grant_permission_now">Thoir cead a-nis?</string>
+  <string name="later">Nas fhaide air adhart</string>
+  <string name="yes_now">Tha, a-nis</string>
+</resources>

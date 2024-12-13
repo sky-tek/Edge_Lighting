@@ -1,0 +1,136 @@
+plugins {
+    id 'com.android.application'
+    id 'kotlin-android'
+    id 'com.google.gms.google-services'
+    id 'com.google.firebase.crashlytics'
+    id 'org.jetbrains.kotlin.plugin.serialization'
+}
+
+//everything is accessibility service
+android {
+    compileSdk 34
+
+    defaultConfig {
+        applicationId "com.skytek.edgelighting"
+        minSdk 23
+        targetSdk 34
+        versionCode 177
+        versionName "2.2.72"
+        multiDexEnabled = true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        renderscriptTargetApi 31
+        renderscriptSupportModeEnabled true
+    }
+
+    buildTypes {
+
+        debug{
+
+            resValue ("string", "EL_AppAD_ID", "ca-app-pub-3940256099942544~3347511713")
+            resValue ("string", "EL_I_Splash", "ca-app-pub-3940256099942544/1033173712")
+            resValue ("string", "EL_I_Activities", "ca-app-pub-3940256099942544/1033173712")
+            resValue ("string", "EL_I_Video", "ca-app-pub-3940256099942544/8691691433")
+            resValue ("string", "EL_B_Main", "ca-app-pub-3940256099942544/6300978111")
+            resValue ("string", "EL_NativeBannerAD", "ca-app-pub-3940256099942544/2247696110")
+            resValue ("string", "EL_OpenAd", "ca-app-pub-3940256099942544/3419835294")
+            resValue ("string", "collapisble_banner_ad", "ca-app-pub-3940256099942544/2014213617")
+        }
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            resValue ("string", "EL_AppAD_ID", "ca-app-pub-2011235963710101~4696409784")
+            resValue ("string", "EL_I_Splash", "ca-app-pub-2011235963710101/3094932004")
+            resValue ("string", "EL_I_Activities", "ca-app-pub-2011235963710101/3191756428")
+            resValue ("string", "EL_B_Main", "ca-app-pub-2011235963710101/9757164774")
+            resValue ("string", "EL_NativeBannerAD", "ca-app-pub-2011235963710101/6789462608")
+            resValue ("string", "EL_OpenAd", "ca-app-pub-2011235963710101/3758020874")
+            resValue ("string", "collapisble_banner_ad", "ca-app-pub-2011235963710101/9757164774")
+            signingConfig signingConfigs.debug
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+    kotlinOptions {
+        jvmTarget = '17'
+    }
+
+    viewBinding {
+        enabled = true
+    }
+
+    namespace 'com.skytek.edgelighting'
+}
+
+dependencies {
+    implementation 'org.jetbrains.kotlinx:kotlinx-serialization-json:1.3.3'
+    implementation 'androidx.core:core-ktx:1.13.1'
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
+    implementation 'com.google.ar.sceneform:filament-android:1.17.1'
+    implementation 'com.android.volley:volley:1.2.1'
+    implementation 'androidx.preference:preference-ktx:1.2.1'
+    implementation 'androidx.lifecycle:lifecycle-process:2.8.4'
+    implementation 'org.chromium.net:cronet-embedded:119.6045.31'
+    implementation 'com.google.firebase:firebase-config-ktx:22.0.0'
+    implementation 'androidx.activity:activity-ktx:1.9.1'
+    implementation 'androidx.navigation:navigation-fragment-ktx:2.7.7'
+    implementation 'com.google.android.play:app-update-ktx:2.1.0'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.2.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.6.1'
+
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+//    implementation 'com.jaeger.statusbarutil:library:1.5.1'
+    implementation "androidx.multidex:multidex:2.0.1"
+    implementation("org.greenrobot:eventbus:3.3.1")
+
+    implementation platform('com.google.firebase:firebase-bom:33.2.0')
+    implementation 'com.google.firebase:firebase-crashlytics-ktx'
+    implementation 'com.google.firebase:firebase-analytics-ktx'
+    implementation "com.airbnb.android:lottie:5.0.2"
+    implementation ("com.github.Amankhan-mobipixels:MobiPixels:2.1.12")
+    implementation 'androidx.work:work-runtime-ktx:2.9.1'
+    implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.17'
+    implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+
+    implementation("androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.4")
+
+    implementation("com.google.android.play:review:2.0.1")
+    implementation("com.google.android.play:review-ktx:2.0.1")
+
+
+
+
+
+    implementation 'com.skyfishjy.ripplebackground:library:1.0.1'
+
+
+//    dependency for Refresh layout
+    implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
+
+    implementation 'com.google.code.gson:gson:2.11.0'
+//    coil dep for image loading
+    implementation 'io.coil-kt:coil:1.4.0'
+// dependency for slider view
+    implementation 'com.github.smarteist:Android-Image-Slider:1.4.0'
+// dependency for loading image from url
+    implementation 'com.github.bumptech.glide:glide:4.16.0'
+    implementation platform('org.jetbrains.kotlin:kotlin-bom:1.8.22')
+
+
+//    exo player
+    implementation 'com.google.android.exoplayer:exoplayer-core:2.19.1'
+    implementation 'com.google.android.exoplayer:exoplayer-ui:2.19.1'
+
+//view pager two dependency
+    implementation 'androidx.viewpager2:viewpager2:1.1.0'
+
+    implementation 'com.davemorrissey.labs:subsampling-scale-image-view-androidx:3.10.0'
+
+}
+

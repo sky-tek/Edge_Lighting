@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Boshqa ilovalar ustida ko\'rsatish</string>
+  <string name="open_nav">Navigatsiya tortmasini oching</string>
+  <string name="close_nav">Navigatsiya tortmasini yoping</string>
+  <string name="show_while_charging">Zaryadlash paytida ko\'rsatish</string>
+  <string name="text_enable_wallpaper">Fon rasmini yoqish</string>
+  <string name="number_of_colors">Ranglar soni</string>
+  <string name="click_a_color_to_edit">Tahrirlash uchun rangni bosing</string>
+  <string name="mtrl_picker_confirm">KELISHDIKMI</string>
+  <string name="SelectLanguage">Tilni tanlang</string>
+  <string name="text_cancel">Bekor qilish</string>
+  <string name="text_border_type">Chegara turi</string>
+  <string name="text_animation_speed">Animatsiya tezligi</string>
+  <string name="text_border_size">Chegara o\'lchami</string>
+  <string name="text_radius_top">Yuqori radius</string>
+  <string name="text_radius_bottom">Radius pastki</string>
+  <string name="text_enable_display_notch">Notch-ni yoqing</string>
+  <string name="text_notch_width_top">Teshik kengligi yuqori</string>
+  <string name="text_notch_width_bottom">Teshik kengligi pastki</string>
+  <string name="text_notch_height">Teshik balandligi</string>
+  <string name="text_notch_radius_top">Teshik radiusi yuqori</string>
+  <string name="text_notch_radius_bottom">Teshik radiusi pastki</string>
+  <string name="select_wallpaper">Fon rasmi-ni tanlang</string>
+  <string name="allow_display_over_other_apps">Boshqa ilovalar ustidan koʻrsatishga ruxsat bering</string>
+  <string name="continue_">Davom eting</string>
+  <string name="app_name_service">Ekran qoplamasini oching</string>
+  <string name="permission_request">Ruxsat so\'rovi</string>
+  <string name="power_connected">Quvvat kabeli ulangan</string>
+  <string name="power_disconnected">Quvvat kabeli uzilgan</string>
+  <string name="draw_over_cancelled">Rasm chizish uchun ruxsat hali berilmagan. Qayta urinib ko\'ring</string>
+  <string name="draw_over_granted">Chizish uchun ruxsat soʻrovi berildi</string>
+  <string name="app_name">Chet yoritgichi</string>
+  <string name="please_wait">Fon rasmi yuklanishini kuting...</string>
+  <string name="no_internet">Internet yo\'q</string>
+  <string name="to_use_this">Ushbu xususiyatdan foydalanish uchun Maxsus imkoniyatlar ruxsati talab qilinadi</string>
+  <string name="draw_over_denied">Rasm chizish uchun ruxsat hali berilmagan. Qayta urinib ko\'ring</string>
+  <string name="no_internet_war">Siz oflayndasiz, chekka yorug\'lik fon rasmlarini olish uchun internetni yoqing.</string>
+  <string name="you_must">\"Edge Lighting\" to\'g\'ri ishlashi uchun \"Boshqa ilovalarni chizish\" ruxsatini yoqishingiz kerak.</string>
+  <string name="wallpaper_description">Live_fon rasmi</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Tabiat</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Iqtibos</string>
+  <string name="sunset">Quyosh botishi</string>
+  <string name="top">Yuqori</string>
+  <string name="text_name_notification">Xizmatni ishga tushirish</string>
+  <string name="No_topic_selected">Hech qanday mavzu tanlanmagan</string>
+  <string name="Update_finish">Yangilash tugallandi</string>
+  <string name="loading_ad">E\'lon yuklanmoqda</string>
+  <string name="low_battery">Batareya quvvati kam boʻlgan chetni yoritish</string>
+  <string name="battery_one">Batareya 1</string>
+  <string name="battery_two">Batareya 2</string>
+  <string name="edge_service">Yugurish xizmati</string>
+  <string name="wallpaper">Fon rasmi</string>
+  <string name="magical_wallpaper">Jonli</string>
+  <string name="main_ongoing_download">Ko‘rib chiqish yaratilmoqda</string>
+  <string name="permission_required">Ruxsat kerak</string>
+  <string name="title_onboarding_1">Foydalanish uchun ruxsat</string>
+  <string name="description_onboarding_1">Foydalanish imkoniyati asosiy xususiyatdir</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting boshqa ilovalar va blokirovka ekrani ustida ishlashi uchun asosiy xususiyat sifatida foydalanishga ruxsat berish kerak.</string>
+  <string name="title_onboarding_2">Foydalanish uchun ruxsat</string>
+  <string name="description_onboarding_2">Ruxsat quyidagi tarzda berilishi mumkin: \n \n Maxsus imkoniyatlar > Oʻrnatilgan ilovalar/xizmatlar > Edge Lighting \n YOKI \n Maxsus imkoniyatlar > Boshqa yuklash xizmatlari > Edge Lighting</string>
+  <string name="title_onboarding_3">Chiroyli ilovalarni kodlash</string>
+  <string name="description_onboarding_3">Bizning vazifamiz foydali va nozik ilovalar yaratishdir. Biz odamlarga ochiq manbalar bilan vaqtni tejashga yordam berishni yaxshi ko\'ramiz, lekin biz yangi narsalarni yaratish orqali hayotni osonlashtiramiz. Yaxshi kodlash!</string>
+  <string name="start_text_advice">Ushbu ilovada davom etish orqali siz Foydalanish shartlari va Maxfiylik siyosatimizga rozilik bildirasiz</string>
+  <string name="start">Boshlash</string>
+  <string name="skip">Oʻtkazib yuborish</string>
+  <string name="finish">Tugatish</string>
+  <string name="next">Keyingisi</string>
+  <string name="back">Orqaga</string>
+  <string name="allow">Ruxsat bering</string>
+  <string name="slider_Edge">Chet yoritgichi</string>
+  <string name="slider_Edge1">Qirralar ustidagi chekka yoritishni ko\'rsatish</string>
+  <string name="alert_Edge">Batareya kamligi haqida ogohlantirish</string>
+  <string name="alert_Edge1">Batareya kamligi haqida ogohlantirish uchun to\'q sariq rangli yorug\'lik</string>
+  <string name="warning_Edge">Batareya kamligi haqida ogohlantirish</string>
+  <string name="warning_Edge1">Batareyaning juda kamligi haqida ogohlantirish uchun qizil qirrali yoritish</string>
+  <string name="notch_Edge">Teshik</string>
+  <string name="notch_Edge1">Teshik bilan chekka yoritishni yoqing</string>
+  <string name="wallpaper_Edge">Fon rasmi</string>
+  <string name="wallpaper_Edge1">Fon rasmi bilan chekka yoritish</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Simsiz</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salom bo\'sh parcha</string>
+  <string name="apply">Murojaat qiling</string>
+  <string name="applied">Qo\'llaniladi</string>
+  <string name="always_on_display_edge_lighting">Har doim ekranning chekka yorug\'ligi</string>
+  <string name="confirm_exit">Chiqish tasdiqlansinmi?</string>
+  <string name="yes">Ha</string>
+  <string name="no">Yo\'q</string>
+  <string name="wallpapers">Fon rasmi</string>
+  <string name="ok">Kelishdikmi</string>
+  <string name="what_would_you_like_to_do">Nima qilishni xohlaysiz?</string>
+  <string name="set_home_screen">Asosiy ekranni sozlash</string>
+  <string name="set_lock_screen">Ekranni qulflash</string>
+  <string name="set_both_screens">Ikkala ekranni ham o\'rnating</string>
+  <string name="adjust_screen">Ekranni sozlash</string>
+  <string name="please_wait_ad_is_loading">Iltimos, kuting, reklama yuklanmoqda</string>
+  <string name="home">Uy</string>
+  <string name="edge_lighting_border">Yoritish chegarasi</string>
+  <string name="view_more">Koʻproq koʻrish</string>
+  <string name="brighten_up_by_stunning_edges">Ajoyib Edges bilan yoritib turing</string>
+  <string name="live_wallpapers">Jonli fon rasmlari</string>
+  <string name="stunning_wallpapers">Ajoyib fon rasmlari</string>
+  <string name="experience_by_interactive_wallpapers">Interaktiv fon rasmlari bilan tajriba</string>
+  <string name="dismiss">Rad etish</string>
+  <string name="language">Til</string>
+  <string name="privacy_policy">Maxfiylik siyosati</string>
+  <string name="rate_us">Bizga baho bering</string>
+  <string name="more_app">Ko\'proq ilova</string>
+  <string name="exit">Chiqish</string>
+  <string name="alert">Ogohlantirish</string>
+  <string name="warning">Ogohlantirish</string>
+  <string name="trending">Trend</string>
+  <string name="applying_wallpaper">Fon rasmi qo\'llash</string>
+  <string name="wallpaper_applied">Fon rasmi qo\'llaniladi</string>
+  <string name="accessibility_service_level_permission">Maxsus imkoniyatlar xizmati darajasidagi ruxsat:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting boshqa ilovalar va blokirovka ekrani ustida ishlashi uchun asosiy xususiyat sifatida foydalanishga ruxsat berish kerak.</string>
+  <string name="this_permission_can_be_granted_as_follow">Ushbu ruxsatnoma quyidagi tarzda berilishi mumkin:</string>
+  <string name="go_to_settings">Sozlamalarga o‘ting</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Maxsus imkoniyatlar > O‘rnatilgan ilovalar/xizmatlar > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Maxsus imkoniyatlar > Qo‘shimcha yuklash xizmatlari > Edge Lighting</string>
+  <string name="grant_permission_now">Hozir ruxsat berilsinmi?</string>
+  <string name="later">Keyinchalik</string>
+  <string name="yes_now">Ha, hozir</string>
+</resources>

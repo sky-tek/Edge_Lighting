@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Aseho amin\'ny fampiharana hafa</string>
+  <string name="open_nav">Sokafy ny Drawer Navigation</string>
+  <string name="close_nav">Akaiky Navigation Drawer</string>
+  <string name="show_while_charging">Asehoy eo am-charge</string>
+  <string name="text_enable_wallpaper">Alefaso ny Wallpaper</string>
+  <string name="number_of_colors">Isan\'ny loko</string>
+  <string name="click_a_color_to_edit">Kitiho loko iray hanovana</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Select Language</string>
+  <string name="text_cancel">Hanafoana</string>
+  <string name="text_border_type">Karazana sisintany</string>
+  <string name="text_animation_speed">Hafainganam-pamokarana</string>
+  <string name="text_border_size">Haben\'ny sisintany</string>
+  <string name="text_radius_top">Radius ambony</string>
+  <string name="text_radius_bottom">Radius ambany</string>
+  <string name="text_enable_display_notch">Alefaso ny Notch</string>
+  <string name="text_notch_width_top">Notch sakany ambony</string>
+  <string name="text_notch_width_bottom">Notch sakany ambany</string>
+  <string name="text_notch_height">Haavo notch</string>
+  <string name="text_notch_radius_top">Notch radius ambony</string>
+  <string name="text_notch_radius_bottom">Notch radius ambany</string>
+  <string name="select_wallpaper">Fidio Wallpaper</string>
+  <string name="allow_display_over_other_apps">Avelao hiseho amin\'ny fampiharana hafa</string>
+  <string name="continue_">FOANA</string>
+  <string name="app_name_service">Sokafy ny overlay ecran</string>
+  <string name="permission_request">Fangatahana alalana</string>
+  <string name="power_connected">Power Cable mifandray</string>
+  <string name="power_disconnected">Tapaka ny tariby herinaratra</string>
+  <string name="draw_over_cancelled">Mbola tsy nomena alalana hanao sary overlay. Andramo indray mandeha</string>
+  <string name="draw_over_granted">Fangatahana fahazoan-dàlana hanao sary overlay nomena</string>
+  <string name="app_name">Edge Lighting</string>
+  <string name="please_wait">Andraso azafady ny fampidinana Wallpaper…</string>
+  <string name="no_internet">Tsy misy aterineto</string>
+  <string name="to_use_this">Mba hampiasana ity endri-javatra ity dia ilaina ny fahazoan-dàlana fidirana</string>
+  <string name="draw_over_denied">Mbola tsy nomena alalana hanao sary overlay. Andramo indray mandeha</string>
+  <string name="no_internet_war">Tsy an-tserasera ianao, azafady velomy ny Interneto mba hahazoana sary mihetsika amin\'ny jiro.</string>
+  <string name="you_must">Tsy maintsy avelanao ny alalana \"Draw Over Other Apps\" mba hiasa tsara ny \"Edge Lighting\".</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Toetra</string>
+  <string name="neon">Néon</string>
+  <string name="quotes">Quotes</string>
+  <string name="sunset">Masoandro</string>
+  <string name="top">Top</string>
+  <string name="text_name_notification">Manomboka serivisy</string>
+  <string name="No_topic_selected">Tsy misy lohahevitra voafantina</string>
+  <string name="Update_finish">Fanavaozana farany</string>
+  <string name="loading_ad">Loading doka</string>
+  <string name="low_battery">Fahazavana ambany amin\'ny sisin\'ny bateria</string>
+  <string name="battery_one">Batterie 1</string>
+  <string name="battery_two">Batterie 2</string>
+  <string name="edge_service">Serivisy mandeha</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Velona</string>
+  <string name="main_ongoing_download">Mamorona Preview</string>
+  <string name="permission_required">Mila alalana</string>
+  <string name="title_onboarding_1">Fahazoan-dàlana fidirana</string>
+  <string name="description_onboarding_1">Ny fidirana dia endri-javatra fototra</string>
+  <string name="string_text_onboarding_complete_description">Ny Fahazoan-dàlana fidirana ho endri-javatra fototra dia tsy maintsy ho an\'ny Edge Lighting miasa amin\'ny fampiharana hafa sy ny efijery hidin-trano</string>
+  <string name="title_onboarding_2">Fahazoan-dàlana fidirana</string>
+  <string name="description_onboarding_2">Ny Fahazoan-dalana dia azo omena toy izao manaraka izao: \n \n Accessibility > Apps/Services napetraka > Edge Lighting \n NA \n Accessibility > Services Download More > Edge Lighting</string>
+  <string name="title_onboarding_3">Kaody fampiharana mahafinaritra</string>
+  <string name="description_onboarding_3">Ny iraka ataonay dia ny mamorona fampiharana mahasoa sy an-kolaka. Tianay ny manampy ny olona hitsitsy fotoana amin\'ny zavatra misokatra, fa manamora ny fiainana koa izahay amin\'ny famoronana zava-baovao. Coding tsara!</string>
+  <string name="start_text_advice">Amin\'ny fanohizana ity fampiharana ity dia manaiky ny fepetran\'ny fampiasanay sy ny politika momba ny fiainana manokana ianao</string>
+  <string name="start">Fanombohana</string>
+  <string name="skip">Mifohaza</string>
+  <string name="finish">Farany</string>
+  <string name="next">Manaraka</string>
+  <string name="back">Indray</string>
+  <string name="allow">Avelao</string>
+  <string name="slider_Edge">Edge Lighting</string>
+  <string name="slider_Edge1">Asehoy ny jiron\'ny sisiny eo ambonin\'ny Edges</string>
+  <string name="alert_Edge">Fanairana bateria ambany</string>
+  <string name="alert_Edge1">Jiro volomboasary amin\'ny sisiny ho fanairana bateria kely</string>
+  <string name="warning_Edge">Fampitandremana bateria kely</string>
+  <string name="warning_Edge1">Jiro mena amin\'ny sisiny ho an\'ny fampitandremana momba ny bateria tena ambany</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Alefaso ny jiro amin\'ny sisiny miaraka amin\'ny notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Jiro sisiny miaraka amin\'ny Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>As</item>  
+    <item>USB</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Salama sombiny banga</string>
+  <string name="apply">AMPIHARO</string>
+  <string name="applied">Nampiharina</string>
+  <string name="always_on_display_edge_lighting">Asehoy foana ny jiro eo amin\'ny sisiny</string>
+  <string name="confirm_exit">Hamafiso ny fivoahana ?</string>
+  <string name="yes">ENY</string>
+  <string name="no">Tsy misy</string>
+  <string name="wallpapers">Ny wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Inona no tianao hatao?</string>
+  <string name="set_home_screen">Mametraka efijery an-trano</string>
+  <string name="set_lock_screen">Mametraka Lock Screen</string>
+  <string name="set_both_screens">Mametraha ecran roa</string>
+  <string name="adjust_screen">Ahitsio Ecran</string>
+  <string name="please_wait_ad_is_loading">Andraso azafady, mipetaka ny doka</string>
+  <string name="home">An-trano</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Hijery misimisy kokoa</string>
+  <string name="brighten_up_by_stunning_edges">Hamirapiratra amin\'ny Edges manaitra</string>
+  <string name="live_wallpapers">Wallpapers mivantana</string>
+  <string name="stunning_wallpapers">Wallpapers manaitra</string>
+  <string name="experience_by_interactive_wallpapers">Traikefa amin\'ny Wallpaper Interactive</string>
+  <string name="dismiss">Handroaka</string>
+  <string name="language">Fiteny</string>
+  <string name="privacy_policy">Politika fiarovana fiainan\'olona</string>
+  <string name="rate_us">Hamarino izahay</string>
+  <string name="more_app">App bebe kokoa</string>
+  <string name="exit">Fivoahana</string>
+  <string name="alert">Fanairana</string>
+  <string name="warning">FAMPITANDREMANA</string>
+  <string name="trending">Malaza</string>
+  <string name="applying_wallpaper">Fampiharana Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Fahazoan-dàlana amin\'ny ambaratongan\'ny serivisy:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ny Fahazoan-dàlana fidirana ho endri-javatra fototra dia tsy maintsy ho an\'ny Edge Lighting miasa amin\'ny fampiharana hafa sy ny efijery hidin-trano</string>
+  <string name="this_permission_can_be_granted_as_follow">Ity alalana ity dia azo omena toy izao manaraka izao:</string>
+  <string name="go_to_settings">Mandehana any amin\'ny Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility > Apps/Services napetraka > Jiro Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Fidirana> Serivisy fampidinana bebe kokoa> Jiro Edge</string>
+  <string name="grant_permission_now">Omeo alalana izao?</string>
+  <string name="later">TATỲ AORIANA</string>
+  <string name="yes_now">Eny, ankehitriny</string>
+</resources>

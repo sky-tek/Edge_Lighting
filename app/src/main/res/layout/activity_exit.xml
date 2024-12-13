@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    android:weightSum="10"
+
+    tools:context=".activities.ExitActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <View
+            android:id="@+id/view"
+            android:layout_width="match_parent"
+            android:layout_height="30dp"
+            android:background="#1C2754" />
+
+        <RelativeLayout
+            android:id="@+id/a1"
+            android:layout_width="fill_parent"
+            android:layout_height="57dp"
+            android:layoutDirection="ltr"
+            android:orientation="horizontal">
+
+            <androidx.appcompat.widget.Toolbar
+                android:id="@+id/toolbar"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#1C2754" />
+
+            <ImageView
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="10dp"
+                android:foreground="?attr/selectableItemBackgroundBorderless"
+                android:background="@drawable/back_clipart" />
+
+            <TextView
+                android:id="@+id/textLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="50dp"
+                android:singleLine="true"
+                android:text="@string/app_name"
+                android:textColor="#ffff"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_marginTop="20dp">
+
+            <TextView
+                android:id="@+id/tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="10dp"
+                android:layout_marginEnd="10dp"
+                android:singleLine="true"
+                android:text="@string/confirm_exit"
+                android:textColor="#ffff"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <LinearLayout
+                android:id="@+id/buttons"
+                style="?android:attr/buttonBarStyle"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/tv"
+                android:layout_marginTop="20dp"
+                android:gravity="center_horizontal"
+                android:weightSum="10">
+
+                <TextView
+                    android:id="@+id/yes"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_weight="4"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    android:background="@drawable/capsule_shape"
+                    android:gravity="center"
+                    android:text="@string/yes" />
+
+                <TextView
+                    android:id="@+id/no"
+                    android:layout_width="0dp"
+                    android:layout_height="40dp"
+                    android:layout_marginTop="8dp"
+                    android:layout_marginEnd="30dp"
+                    android:layout_marginStart="30dp"
+                    android:layout_weight="4"
+                    android:foreground="?attr/selectableItemBackgroundBorderless"
+                    android:background="@drawable/capsule_shape"
+                    android:gravity="center"
+                    android:text="@string/no" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <!--    <FrameLayout-->
+    <!--        android:id="@+id/adView_container"-->
+    <!--        android:layout_width="match_parent"-->
+    <!--        android:layout_height="60dp"-->
+    <!--        android:layout_alignParentBottom="true"-->
+    <!--        android:background="@color/colorAccent"-->
+    <!--        android:padding="1dp"/>-->
+
+</RelativeLayout>
+
+
+
+

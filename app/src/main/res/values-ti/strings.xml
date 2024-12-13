@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ኣብ ልዕሊ ካልኦት ኣፕስ ምርኣይ</string>
+  <string name="open_nav">ናይ ምድህሳስ ሳጹን ክፈት</string>
+  <string name="close_nav">Close ናይ ምድህሳስ ሳጹን</string>
+  <string name="show_while_charging">ቻርጅ እናገበርካ ምርኣይ</string>
+  <string name="text_enable_wallpaper">ልጣፍ ኣንቅሕ</string>
+  <string name="number_of_colors">ብዝሒ ሕብርታት</string>
+  <string name="click_a_color_to_edit">ንምእራም ሓደ ሕብሪ ጠውቕ</string>
+  <string name="mtrl_picker_confirm">እሺ</string>
+  <string name="SelectLanguage">ቋንቋ ምረጽ</string>
+  <string name="text_cancel">ሰርዝ</string>
+  <string name="text_border_type">ዓይነት ዶብ</string>
+  <string name="text_animation_speed">ፍጥነት ኣኒሜሽን</string>
+  <string name="text_border_size">ስፍሓት ዶብ</string>
+  <string name="text_radius_top">ራድዩስ ላዕለዋይ ክፋል</string>
+  <string name="text_radius_bottom">ራድየስ ታሕተዋይ</string>
+  <string name="text_enable_display_notch">ኖች ኣኽእሎ</string>
+  <string name="text_notch_width_top">ኖትች ስፍሓት ላዕለዋይ ክፋል</string>
+  <string name="text_notch_width_bottom">ኖትች ስፍሓት ታሕቲ</string>
+  <string name="text_notch_height">ቁመት ኖትች</string>
+  <string name="text_notch_radius_top">ኖትች ራድዩስ ላዕለዋይ ክፋል</string>
+  <string name="text_notch_radius_bottom">ኖትች ራድዩስ ታሕቲ</string>
+  <string name="select_wallpaper">ልጣፍ ምረጽ</string>
+  <string name="allow_display_over_other_apps">ኣብ ልዕሊ ካልኦት ኣፕስ ምርኢት ምፍቃድ</string>
+  <string name="continue_">ቀፃሊ</string>
+  <string name="app_name_service">ስክሪን ምድብላቕ ክፈት</string>
+  <string name="permission_request">ናይ ፍቓድ ሕቶ</string>
+  <string name="power_connected">ናይ ሓይሊ ገመድ ተተሓሒዙ</string>
+  <string name="power_disconnected">ገመድ ሓይሊ ተቛሪጹ</string>
+  <string name="draw_over_cancelled">ፍቓድ ምድብላቕ ስእሊ ገና ኣይተዋህበን። እንደገና ፈትን።</string>
+  <string name="draw_over_granted">ናይ ስእሊ ምድብላቕ ፍቓድ ሕቶ ተፈቒዱ</string>
+  <string name="app_name">ኤጅ ላይቲንግ</string>
+  <string name="please_wait">በጃኹም ተጸበዩ Wallpaper Downloading...</string>
+  <string name="no_internet">ኢንተርነት የለን</string>
+  <string name="to_use_this">ነዚ ባህሪ ንምጥቃም ፍቓድ ተበጻሕነት የድሊ</string>
+  <string name="draw_over_denied">ፍቓድ ምድብላቕ ስእሊ ገና ኣይተዋህበን። እንደገና ፈትን።</string>
+  <string name="no_internet_war">ካብ መስመር ወጻኢ ኢኻ ዘለኻ በጃኻ ኢንተርነትካ ወልዕ ናይ ወሰን መብራህቲ ልጣፍ ክትረክብ።</string>
+  <string name="you_must">\"Edge Lighting\" ብግቡእ ንኽሰርሕ \"Draw Over Other Apps\" ዝብል ፍቓድ ከተኽእሎ ኣለካ።</string>
+  <string name="wallpaper_description">Live_wallpaper ዝብል ጽሑፍ ኣሎ።</string>
+  <string name="abstract_">መመላኽዒ</string>
+  <string name="nature">ተፈጥሮ</string>
+  <string name="neon">ኒዮን</string>
+  <string name="quotes">ጥቕስታት</string>
+  <string name="sunset">ጸሓይ ዕራርቦ</string>
+  <string name="top">ላዕለዋይ</string>
+  <string name="text_name_notification">ኣገልግሎት ጀምር</string>
+  <string name="No_topic_selected">ኣርእስቲ ኣይተመርጸን።</string>
+  <string name="Update_finish">Update finish</string>
+  <string name="loading_ad">Loading Ad</string>
+  <string name="low_battery">ትሑት ባትሪ ወሰን መብራህቲ</string>
+  <string name="battery_one">ባትሪ 1</string>
+  <string name="battery_two">ባትሪ 2</string>
+  <string name="edge_service">ኣገልግሎት ምጉያይ</string>
+  <string name="wallpaper">ልጣፍ ልጣፍ</string>
+  <string name="magical_wallpaper">ንበር</string>
+  <string name="main_ongoing_download">ቅድመ-ምርኢት ምፍጣር</string>
+  <string name="permission_required">ፍቓድ የድሊ</string>
+  <string name="title_onboarding_1">ናይ ተበጻሕነት ፍቓድ</string>
+  <string name="description_onboarding_1">ተበጻሕነት ቀንዲ ባህሪ እዩ።</string>
+  <string name="string_text_onboarding_complete_description">እቲ ናይ ተበጻሕነት ፍቓድ ከም ቀንዲ ባህሪ ንኤጅ ላይቲንግ ኣብ ልዕሊ ካልኦት ኣፕስ ክሰርሕን ስክሪን ክዕጾን ግድን እዩ።</string>
+  <string name="title_onboarding_2">ናይ ተበጻሕነት ፍቓድ</string>
+  <string name="description_onboarding_2">እቲ ፍቓድ ከምዚ ዝስዕብ ክወሃብ ይኽእል እዩ \n \n ተበጻሕነት > ዝተተኽሉ መተግበሪታት/ኣገልግሎታት > መብራህቲ ወሰን \n ወይ \n ተበጻሕነት > ተወሳኺ ኣገልግሎታት ምውራድ > መብራህቲ ወሰን</string>
+  <string name="title_onboarding_3">ጽቡቕ ኣፕስ ኮድ</string>
+  <string name="description_onboarding_3">ተልእኾና ጠቐምቲ &amp; ረቀቕቲ ኣፕስ ምግባር እዩ። ሰባት ብክፉት ምንጪ ዘለዎም ነገራት ግዜ ንኽቑጥቡ ምሕጋዝ ንፈቱ፡ እንተኾነ ግን ሓደስቲ ነገራት ብምፍጣር ህይወት ንቐልል። ጽቡቕ ኮዲንግ!</string>
+  <string name="start_text_advice">ኣብዚ መተግበሪ ብምቕጻል ንውዕል ኣጠቓቕማናን ፖሊሲ ውልቃዊ ሓበሬታናን ትሰማማዕ</string>
+  <string name="start">ጀምር</string>
+  <string name="skip">ዝለል</string>
+  <string name="finish">ወደአ</string>
+  <string name="next">ቀፃሊ</string>
+  <string name="back">ዝባን</string>
+  <string name="allow">ፍቀድ</string>
+  <string name="slider_Edge">ኤጅ ላይቲንግ</string>
+  <string name="slider_Edge1">ኣብ ልዕሊ Edges ናይ ወሰን መብራህቲ ኣርእዩ</string>
+  <string name="alert_Edge">ትሑት ባትሪ ዘለዎ መጠንቀቕታ</string>
+  <string name="alert_Edge1">ንትሑት መጠንቀቕታ ባትሪ ዝኸውን ኣራንሺ ወሰን መብራህቲ</string>
+  <string name="warning_Edge">መጠንቀቕታ ትሑት ባትሪ</string>
+  <string name="warning_Edge1">ቀይሕ ወሰን መብራህቲ ንኣዝዩ ትሑት መጠንቀቕታ ባትሪ</string>
+  <string name="notch_Edge">ኖትች</string>
+  <string name="notch_Edge1">ብኖትች ናይ ወሰን መብራህቲ ኣኽእሉ።</string>
+  <string name="wallpaper_Edge">ልጣፍ ልጣፍ</string>
+  <string name="wallpaper_Edge1">ወሰን ብርሃን ምስ ልጣፍ</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ገመድ ኣልቦ</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ሰላም ባዶ ቁንጣሮ</string>
+  <string name="apply">ኣተግብር</string>
+  <string name="applied">ተግባራዊ ኮይኑ</string>
+  <string name="always_on_display_edge_lighting">ኩሉ ግዜ ኣብ ድስፕሊን ወሰን መብራህቲ</string>
+  <string name="confirm_exit">መውጽኢ ምርግጋጽ ?</string>
+  <string name="yes">እወ</string>
+  <string name="no">አይኮንን</string>
+  <string name="wallpapers">ልጣፍ ልጣፍ</string>
+  <string name="ok">እሺ</string>
+  <string name="what_would_you_like_to_do">እንታይ ክትገብር ምደለኻ፧</string>
+  <string name="set_home_screen">ናይ ገዛ ስክሪን ኣቐምጥ</string>
+  <string name="set_lock_screen">ሎክ ስክሪን ኣቐምጥ</string>
+  <string name="set_both_screens">ክልቲኡ ስክሪናት ኣቐምጥ</string>
+  <string name="adjust_screen">ስክሪን ኣስተኻኽል</string>
+  <string name="please_wait_ad_is_loading">በጃኹም ተጸበዩ፡ ኣድ ይጽዕን ኣሎ።</string>
+  <string name="home">ገዛ</string>
+  <string name="edge_lighting_border">ወሰን መብራህቲ ዶብ</string>
+  <string name="view_more">ተወሳኺ ርአ</string>
+  <string name="brighten_up_by_stunning_edges">ብዘደንጹ ኤጅስ ድሙቕ</string>
+  <string name="live_wallpapers">ቀጥታዊ ልጣፍ</string>
+  <string name="stunning_wallpapers">ዘደንጹ ልጣፍ</string>
+  <string name="experience_by_interactive_wallpapers">ተመኩሮ ብኢንተርኣክቲቭ ልጣፍ</string>
+  <string name="dismiss">ምስንባት</string>
+  <string name="language">ቋንቋ</string>
+  <string name="privacy_policy">ፖሊሲ ውልቃዊ ሓበሬታ</string>
+  <string name="rate_us">ደረጃ ሃቡና።</string>
+  <string name="more_app">ተወሳኺ ኣፕ</string>
+  <string name="exit">መውፅኢ</string>
+  <string name="alert">ምንቃሕ</string>
+  <string name="warning">ምኸዳን</string>
+  <string name="trending">ትሬንዲንግ ዝበሃል</string>
+  <string name="applying_wallpaper">ምትግባር ልጣፍ</string>
+  <string name="wallpaper_applied">ልጣፍ ተግባራዊ ኮይኑ</string>
+  <string name="accessibility_service_level_permission">ፍቓድ ደረጃ ኣገልግሎት ተበጻሕነት፤</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">እቲ ናይ ተበጻሕነት ፍቓድ ከም ቀንዲ ባህሪ ንኤጅ ላይቲንግ ኣብ ልዕሊ ካልኦት ኣፕስ ክሰርሕን ስክሪን ክዕጾን ግድን እዩ።</string>
+  <string name="this_permission_can_be_granted_as_follow">እዚ ፍቓድ ብኸምዚ ዝስዕብ ክወሃብ ይኽእል፤</string>
+  <string name="go_to_settings">ናብ ቅጥዕታት ኪድ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ተበጻሕነት > ዝተተኽሉ ኣፕስ/ኣገልግሎታት > ኤጅ ላይቲንግ</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ተበጻሕነት > ተወሳኺ ኣገልግሎታት ምውራድ > ኤጅ ላይቲንግ</string>
+  <string name="grant_permission_now">ሕጂ ፍቓድ ምሃብ?</string>
+  <string name="later">ዳሕራይ</string>
+  <string name="yes_now">እወ ሕጂ</string>
+</resources>

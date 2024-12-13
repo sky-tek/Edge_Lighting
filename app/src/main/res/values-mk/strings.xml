@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Прикажи преку други апликации</string>
+  <string name="open_nav">Отворете ја фиоката за навигација</string>
+  <string name="close_nav">Затворете ја фиоката за навигација</string>
+  <string name="show_while_charging">Прикажи додека се полни</string>
+  <string name="text_enable_wallpaper">Овозможи Позадина</string>
+  <string name="number_of_colors">Број на бои</string>
+  <string name="click_a_color_to_edit">Кликнете на боја за уредување</string>
+  <string name="mtrl_picker_confirm">Во ред</string>
+  <string name="SelectLanguage">Изберете Јазик</string>
+  <string name="text_cancel">Откажи</string>
+  <string name="text_border_type">Тип на граница</string>
+  <string name="text_animation_speed">Брзина на анимација</string>
+  <string name="text_border_size">Големина на границата</string>
+  <string name="text_radius_top">Врв со радиус</string>
+  <string name="text_radius_bottom">Радиус на дното</string>
+  <string name="text_enable_display_notch">Овозможи Notch</string>
+  <string name="text_notch_width_top">Горна ширина на засек</string>
+  <string name="text_notch_width_bottom">Ширина на засекот дното</string>
+  <string name="text_notch_height">Висина на засекот</string>
+  <string name="text_notch_radius_top">Врв со радиус со засек</string>
+  <string name="text_notch_radius_bottom">Долно со радиус на засек</string>
+  <string name="select_wallpaper">Изберете Позадина</string>
+  <string name="allow_display_over_other_apps">Дозволете прикажување преку други апликации</string>
+  <string name="continue_">Продолжи</string>
+  <string name="app_name_service">Отворете го преклопувањето на екранот</string>
+  <string name="permission_request">Барање за дозвола</string>
+  <string name="power_connected">Поврзан е кабел за напојување</string>
+  <string name="power_disconnected">Кабелот за напојување е исклучен</string>
+  <string name="draw_over_cancelled">Дозволата за преклопување на цртање сè уште не е дадена. Обидете се повторно</string>
+  <string name="draw_over_granted">Барањето за дозволи за преклопување на цртање е одобрено</string>
+  <string name="app_name">Осветлување на рабовите</string>
+  <string name="please_wait">Ве молиме почекајте Позадина се презема…</string>
+  <string name="no_internet">Нема интернет</string>
+  <string name="to_use_this">За користење на оваа функција Потребна е дозвола за пристапност</string>
+  <string name="draw_over_denied">Дозволата за преклопување на цртање сè уште не е дадена. Обидете се повторно</string>
+  <string name="no_internet_war">Вие сте офлајн, ве молиме вклучете го вашиот интернет за да добиете позадини со осветлување на рабовите.</string>
+  <string name="you_must">Мора да ја овозможите дозволата „Draw Over Other Apps“ за „Edge Lighting“ да работи правилно.</string>
+  <string name="wallpaper_description">Жива_позадина</string>
+  <string name="abstract_">Апстракт</string>
+  <string name="nature">Природата</string>
+  <string name="neon">Неонски</string>
+  <string name="quotes">Цитати</string>
+  <string name="sunset">Зајдисонце</string>
+  <string name="top">Врвот</string>
+  <string name="text_name_notification">Започнете ја услугата</string>
+  <string name="No_topic_selected">Нема избрана тема</string>
+  <string name="Update_finish">Заврши ажурирањето</string>
+  <string name="loading_ad">Се вчитува огласот</string>
+  <string name="low_battery">Осветлување на работ со ниска батерија</string>
+  <string name="battery_one">Батерија 1</string>
+  <string name="battery_two">Батерија 2</string>
+  <string name="edge_service">Сервис за трчање</string>
+  <string name="wallpaper">Позадина</string>
+  <string name="magical_wallpaper">Во живо</string>
+  <string name="main_ongoing_download">Се генерира преглед</string>
+  <string name="permission_required">Потребна е дозвола</string>
+  <string name="title_onboarding_1">Дозвола за пристапност</string>
+  <string name="description_onboarding_1">Пристапноста е основна карактеристика</string>
+  <string name="string_text_onboarding_complete_description">Дозволата за пристапност како основна карактеристика е задолжителна за Edge Lighting да работи преку други апликации и заклучен екран</string>
+  <string name="title_onboarding_2">Дозвола за пристапност</string>
+  <string name="description_onboarding_2">Дозволата може да се додели на следниов начин: \n \n Пристапност > Инсталирани апликации/услуги > Edge Lighting \n ИЛИ \n Пристапност > Повеќе услуги за преземање > Edge Lighting</string>
+  <string name="title_onboarding_3">Кодирајте убави апликации</string>
+  <string name="description_onboarding_3">Нашата мисија е да направиме корисни и суптилни апликации. Сакаме да им помагаме на луѓето да заштедат време со работи со отворен код, но исто така го олеснуваме животот со создавање нови работи. Добро кодирање!</string>
+  <string name="start_text_advice">Продолжувајќи со оваа апликација, се согласувате со нашите Услови за користење и Политика за приватност</string>
+  <string name="start">Започнете</string>
+  <string name="skip">Прескокни</string>
+  <string name="finish">Заврши</string>
+  <string name="next">Следно</string>
+  <string name="back">Назад</string>
+  <string name="allow">Дозволи</string>
+  <string name="slider_Edge">Осветлување на рабовите</string>
+  <string name="slider_Edge1">Прикажете го осветлувањето на рабовите преку рабовите</string>
+  <string name="alert_Edge">Предупредување за слаба батерија</string>
+  <string name="alert_Edge1">Портокалово осветлување на рабовите за предупредување за слаба батерија</string>
+  <string name="warning_Edge">Предупредување за слаба батерија</string>
+  <string name="warning_Edge1">Црвени рабови за предупредување за многу слаба батерија</string>
+  <string name="notch_Edge">Засек</string>
+  <string name="notch_Edge1">Овозможете осветлување на рабовите со засек</string>
+  <string name="wallpaper_Edge">Позадина</string>
+  <string name="wallpaper_Edge1">Работно осветлување со тапет</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ак</item>  
+    <item>USB</item>  
+    <item>Безжичен</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Здраво празен фрагмент</string>
+  <string name="apply">Пријавете се</string>
+  <string name="applied">Применета</string>
+  <string name="always_on_display_edge_lighting">Секогаш вклучено осветлување на рабовите на екранот</string>
+  <string name="confirm_exit">Потврди Излез?</string>
+  <string name="yes">Да</string>
+  <string name="no">Бр</string>
+  <string name="wallpapers">Позадини</string>
+  <string name="ok">Во ред</string>
+  <string name="what_would_you_like_to_do">Што би сакале да правите?</string>
+  <string name="set_home_screen">Поставете го почетниот екран</string>
+  <string name="set_lock_screen">Поставете заклучување на екранот</string>
+  <string name="set_both_screens">Поставете ги двата екрани</string>
+  <string name="adjust_screen">Прилагодете го екранот</string>
+  <string name="please_wait_ad_is_loading">Ве молиме почекајте, рекламата се вчитува</string>
+  <string name="home">Дома</string>
+  <string name="edge_lighting_border">Граница за осветлување на рабовите</string>
+  <string name="view_more">Види повеќе</string>
+  <string name="brighten_up_by_stunning_edges">Осветлете се со зачудувачки рабови</string>
+  <string name="live_wallpapers">Позадини во живо</string>
+  <string name="stunning_wallpapers">Зачудувачки позадини</string>
+  <string name="experience_by_interactive_wallpapers">Искуство со интерактивни позадини</string>
+  <string name="dismiss">Отфрли</string>
+  <string name="language">Јазик</string>
+  <string name="privacy_policy">Политика за приватност</string>
+  <string name="rate_us">Оцени нас</string>
+  <string name="more_app">Повеќе апликација</string>
+  <string name="exit">Излез</string>
+  <string name="alert">Предупредување</string>
+  <string name="warning">Предупредување</string>
+  <string name="trending">Во тренд</string>
+  <string name="applying_wallpaper">Примена на тапет</string>
+  <string name="wallpaper_applied">Применета позадина</string>
+  <string name="accessibility_service_level_permission">Дозвола за ниво на услуга за пристапност:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Дозволата за пристапност како основна карактеристика е задолжителна за Edge Lighting да работи преку други апликации и заклучен екран</string>
+  <string name="this_permission_can_be_granted_as_follow">Оваа дозвола може да се додели на следниов начин:</string>
+  <string name="go_to_settings">Одете во Поставки</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Пристапност > Инсталирани апликации/услуги > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Пристапност > Повеќе услуги за преземање > Edge Lighting</string>
+  <string name="grant_permission_now">Да се ​​даде дозвола сега?</string>
+  <string name="later">Подоцна</string>
+  <string name="yes_now">Да, сега</string>
+</resources>

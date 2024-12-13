@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Laga ku apps endala</string>
+  <string name="open_nav">Ggulawo Drawer y’okutambulirako</string>
+  <string name="close_nav">Close Drawer y’okutambulirako</string>
+  <string name="show_while_charging">Laga nga osasula</string>
+  <string name="text_enable_wallpaper">Ssobozesa Wallpaper</string>
+  <string name="number_of_colors">Omuwendo gwa Langi</string>
+  <string name="click_a_color_to_edit">Nywa ku langi okulongoosa</string>
+  <string name="mtrl_picker_confirm">KALE</string>
+  <string name="SelectLanguage">Londa Olulimi</string>
+  <string name="text_cancel">Okusazaamu</string>
+  <string name="text_border_type">Ekika ky’ensalosalo</string>
+  <string name="text_animation_speed">Sipiidi y’okukola animation</string>
+  <string name="text_border_size">Sayizi y’ensalosalo</string>
+  <string name="text_radius_top">Radius waggulu</string>
+  <string name="text_radius_bottom">Radius wansi</string>
+  <string name="text_enable_display_notch">Ssobozesa Notch</string>
+  <string name="text_notch_width_top">Notch obugazi waggulu</string>
+  <string name="text_notch_width_bottom">Notch obugazi wansi</string>
+  <string name="text_notch_height">Obugulumivu bwa notch</string>
+  <string name="text_notch_radius_top">Notch radius waggulu</string>
+  <string name="text_notch_radius_bottom">Notch radius wansi</string>
+  <string name="select_wallpaper">Londa Wallpaper</string>
+  <string name="allow_display_over_other_apps">Kiriza okulaga ku apps endala</string>
+  <string name="continue_">Eeyongera</string>
+  <string name="app_name_service">Ggulawo ekibikka ku screen</string>
+  <string name="permission_request">Okusaba Olukusa</string>
+  <string name="power_connected">Cable y\'Amasannyalaze Eyungiddwa</string>
+  <string name="power_disconnected">Cable y\'amasannyalaze Ekutuddwako</string>
+  <string name="draw_over_cancelled">Olukusa lw\'okukuba ebifaananyi (draw overlay permission) terunnaweebwa. Gezaako nate</string>
+  <string name="draw_over_granted">Draw overlay olukusa okusaba kukkiriziddwa</string>
+  <string name="app_name">Okutaasa ku mabbali</string>
+  <string name="please_wait">Nsaba mulinde Wallpaper Okuwanula...</string>
+  <string name="no_internet">Tewali yintaneeti</string>
+  <string name="to_use_this">Okukozesa ekintu kino Olukusa lw’okutuuka ku bantu lwetaagibwa</string>
+  <string name="draw_over_denied">Olukusa lw\'okukuba ebifaananyi (draw overlay permission) terunnaweebwa. Gezaako nate</string>
+  <string name="no_internet_war">Oli offline nsaba okole internet yo ofune edge lighting wallpapers.</string>
+  <string name="you_must">Olina okusobozesa olukusa lwa \"Draw Over Other Apps\" \"Edge Lighting\" okukola obulungi.</string>
+  <string name="wallpaper_description">Live_wallpaper ku lupapula lw\'amawulire</string>
+  <string name="abstract_">Kyebaje mu buwandike</string>
+  <string name="nature">Enkula</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Ebiwandiiko</string>
+  <string name="sunset">Obugwanjuba</string>
+  <string name="top">Waggulu</string>
+  <string name="text_name_notification">Tandika okuweereza</string>
+  <string name="No_topic_selected">Tewali mulamwa gulondeddwa</string>
+  <string name="Update_finish">Update okumaliriza</string>
+  <string name="loading_ad">Okutikka Ad</string>
+  <string name="low_battery">Okutaasa ku mabbali ga bbaatule entono</string>
+  <string name="battery_one">Battery 1. Omuntu 1</string>
+  <string name="battery_two">Battery 2</string>
+  <string name="edge_service">Okuddukanya empeereza</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Kubeera</string>
+  <string name="main_ongoing_download">Okukola Okusooka okulaba</string>
+  <string name="permission_required">Olukusa Lwetaagisa</string>
+  <string name="title_onboarding_1">Olukusa lw’okutuuka ku bantu</string>
+  <string name="description_onboarding_1">Okutuuka ku bantu kye kintu ekikulu</string>
+  <string name="string_text_onboarding_complete_description">Olukusa lw’Okutuuka ng’ekintu ekikulu kiteekwa Edge Lighting okukola ku pulogulaamu endala n’okusiba screen</string>
+  <string name="title_onboarding_2">Olukusa lw’okutuuka ku bantu</string>
+  <string name="description_onboarding_2">Olukusa luyinza okuweebwa bwe luti: \n \n Okutuuka ku > Apps/Services eziteekeddwa > Edge Lighting \n OBA \n Okutuuka ku > Empeereza endala ez\'okuwanula > Edge Lighting</string>
+  <string name="title_onboarding_3">Code apps ennungi</string>
+  <string name="description_onboarding_3">Mission yaffe kwe kukola apps ez\'omugaso &amp; ezitali za maanyi. Twagala nnyo okuyamba abantu okukekkereza obudde n’ebintu ebiggule, naye era twanguyiza obulamu nga tuyiiya ebintu ebipya. Coding Ennungi!</string>
+  <string name="start_text_advice">Bw’ogenda mu maaso n’okukozesa enkola eno oba okkirizza Etteeka lyaffe ery’Okukozesa n’Enkola y’Ebyama</string>
+  <string name="start">Okutandika</string>
+  <string name="skip">Okubuuka</string>
+  <string name="finish">Okumaliriza</string>
+  <string name="next">Ekiddako</string>
+  <string name="back">Mabega</string>
+  <string name="allow">Okukkiriza</string>
+  <string name="slider_Edge">Okutaasa ku mabbali</string>
+  <string name="slider_Edge1">Laga amataala g’empenda ku Edges</string>
+  <string name="alert_Edge">Okulabula kwa Battery Entono</string>
+  <string name="alert_Edge1">Amataala ga ‘orange edge’ okusobola okulabula ku bbaatule entono</string>
+  <string name="warning_Edge">Okulabula kwa Battery Entono</string>
+  <string name="warning_Edge1">Amataala ga red edge okusobola okulabula ku bbaatule entono ennyo</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Ssobozesa okutaasa ku mabbali nga olina notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Okutaasa ku mbiriizi ne Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello ekitundu ekitaliimu kintu kyonna</string>
+  <string name="apply">Okuteeka mu nkola</string>
+  <string name="applied">Yassibwa mu nkola</string>
+  <string name="always_on_display_edge_lighting">Bulijjo ku display edge lighting</string>
+  <string name="confirm_exit">Kakasa Okufuluma ?</string>
+  <string name="yes">Yee</string>
+  <string name="no">Nedda</string>
+  <string name="wallpapers">Wallpapers eziriko ebifaananyi</string>
+  <string name="ok">Kale</string>
+  <string name="what_would_you_like_to_do">Kiki kye wandyagadde okukola?</string>
+  <string name="set_home_screen">Teekawo Screen y\'Awaka</string>
+  <string name="set_lock_screen">Teekawo Lock Screen</string>
+  <string name="set_both_screens">Teeka Screens Zombi</string>
+  <string name="adjust_screen">Okutereeza Screen</string>
+  <string name="please_wait_ad_is_loading">Nsaba mulinde, ad etikka</string>
+  <string name="home">Ewaka</string>
+  <string name="edge_lighting_border">Ensalo y\'okutaasa ku mabbali</string>
+  <string name="view_more">Laba Ebisingawo</string>
+  <string name="brighten_up_by_stunning_edges">Yakaayakana nga Edges eziwuniikiriza</string>
+  <string name="live_wallpapers">Wallpapers eziriko obutereevu</string>
+  <string name="stunning_wallpapers">Wallpapers Eziwuniikiriza</string>
+  <string name="experience_by_interactive_wallpapers">Obumanyirivu nga buyita mu Interactive Wallpapers</string>
+  <string name="dismiss">Okusiibula</string>
+  <string name="language">Olulimi</string>
+  <string name="privacy_policy">Enkola y’Ebyama</string>
+  <string name="rate_us">Tuwe ekipimo</string>
+  <string name="more_app">Ebisingawo ku App</string>
+  <string name="exit">-fuluma</string>
+  <string name="alert">Okulabula</string>
+  <string name="warning">Okulabula</string>
+  <string name="trending">Okugenda mu maaso</string>
+  <string name="applying_wallpaper">Okusiiga Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Ekoleddwa</string>
+  <string name="accessibility_service_level_permission">Olukusa lw’Eddaala ly’Empeereza y’Okutuuka ku bantu:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Olukusa lw’Okutuuka ng’ekintu ekikulu kiteekwa Edge Lighting okukola ku pulogulaamu endala n’okusiba screen</string>
+  <string name="this_permission_can_be_granted_as_follow">Olukusa luno luyinza okuweebwa bwe luti:</string>
+  <string name="go_to_settings">Genda ku Settings</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Okutuuka ku > Apps/Services eziteekeddwawo > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Okutuuka ku > Empeereza endala ez\'okuwanula > Edge Lighting</string>
+  <string name="grant_permission_now">Okuwa Olukusa Kati?</string>
+  <string name="later">Oluvannyuma</string>
+  <string name="yes_now">Yee, kati</string>
+</resources>

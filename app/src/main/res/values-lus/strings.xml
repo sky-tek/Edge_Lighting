@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">App dang chungah display</string>
+  <string name="open_nav">Navigation Drawer hawng rawh</string>
+  <string name="close_nav">Navigation Drawer chu khar rawh</string>
+  <string name="show_while_charging">Charge laiin entir rawh</string>
+  <string name="text_enable_wallpaper">Wallpaper kha enable rawh</string>
+  <string name="number_of_colors">Color awm zat</string>
+  <string name="click_a_color_to_edit">Color pakhat click la, edit rawh</string>
+  <string name="mtrl_picker_confirm">A THA E</string>
+  <string name="SelectLanguage">Ṭawng thlang rawh</string>
+  <string name="text_cancel">Titawp</string>
+  <string name="text_border_type">Border chi hrang hrang</string>
+  <string name="text_animation_speed">Animation speed a ni</string>
+  <string name="text_border_size">Border size a ni</string>
+  <string name="text_radius_top">Radius chunglam a ni</string>
+  <string name="text_radius_bottom">Radius hnuai lam</string>
+  <string name="text_enable_display_notch">Notch tih kha enable rawh</string>
+  <string name="text_notch_width_top">Notch zau zawng chunglam</string>
+  <string name="text_notch_width_bottom">Notch zau zawng hnuai lam</string>
+  <string name="text_notch_height">Notch san zawng a ni</string>
+  <string name="text_notch_radius_top">Notch radius chunglam a ni</string>
+  <string name="text_notch_radius_bottom">Notch radius hnuai lam</string>
+  <string name="select_wallpaper">Wallpaper tih kha thlang rawh</string>
+  <string name="allow_display_over_other_apps">App dang chungah display phalsak rawh</string>
+  <string name="continue_">Chhunzawm</string>
+  <string name="app_name_service">Screen overlay hawng rawh</string>
+  <string name="permission_request">Phalna Dilna</string>
+  <string name="power_connected">Power Cable hmanga inzawm a ni</string>
+  <string name="power_disconnected">Power Cable a inzawm lo</string>
+  <string name="draw_over_cancelled">Draw overlay phalna pek a la ni lo. Ti leh teh</string>
+  <string name="draw_over_granted">Draw overlay phalna dilna chu pek a ni</string>
+  <string name="app_name">Edge Lighting a awm bawk</string>
+  <string name="please_wait">Wallpaper Downloading hi lo nghak teh...</string>
+  <string name="no_internet">Internet a awm lo</string>
+  <string name="to_use_this">He feature hmang tur hian Accessibility Permission a ngai a ni</string>
+  <string name="draw_over_denied">Draw overlay phalna pek a la ni lo. Ti leh teh</string>
+  <string name="no_internet_war">Offline i nih chuan i internet on la, edge lighting wallpapers i hmu ang.</string>
+  <string name="you_must">\"Edge Lighting\" hi a thawk tha thei tur chuan \"Draw Over Other Apps\" phalna i enable tur a ni.</string>
+  <string name="wallpaper_description">Live_wallpaper hmanga siam a ni</string>
+  <string name="abstract_">Suangtuahna</string>
+  <string name="nature">Nihphung</string>
+  <string name="neon">Neon a ni</string>
+  <string name="quotes">Thusawi</string>
+  <string name="sunset">Nitla</string>
+  <string name="top">Chung</string>
+  <string name="text_name_notification">Service tan tir rawh</string>
+  <string name="No_topic_selected">Thupui thlan a ni lo</string>
+  <string name="Update_finish">Update zawh tawh</string>
+  <string name="loading_ad">Ad load mek a ni</string>
+  <string name="low_battery">Battery Edge hniam tak a ni</string>
+  <string name="battery_one">Battery 1 a ni</string>
+  <string name="battery_two">Battery 2 a ni</string>
+  <string name="edge_service">Service kalpui mek</string>
+  <string name="wallpaper">Wallpaper a ni</string>
+  <string name="magical_wallpaper">Nung</string>
+  <string name="main_ongoing_download">Preview siam chhuah</string>
+  <string name="permission_required">Phalna lak a ngai</string>
+  <string name="title_onboarding_1">Accessibility phalna pek a ni</string>
+  <string name="description_onboarding_1">Accessibility hi a bulpui ber a ni</string>
+  <string name="string_text_onboarding_complete_description">Accessibility Permission hi core feature angin Edge Lighting hian app dang a thawh theih nan leh screen a lock theih nan a ngai a ni</string>
+  <string name="title_onboarding_2">Accessibility phalna pek a ni</string>
+  <string name="description_onboarding_2">Phalna hi hetiang hian pek theih a ni: \n \n Accessibility > Installed Apps/Services > Edge Lighting \n OR \n Accessibility > More Download Services > Edge Lighting</string>
+  <string name="title_onboarding_3">Code mawi tak tak apps</string>
+  <string name="description_onboarding_3">Kan mission chu apps tangkai &amp; fiah lo tak tak siam hi a ni. Open-source thil hmanga mite hun humhim tura tanpui hi kan ngaina a, mahse thil thar siamin nun kan ti awlsam bawk. Coding tha tak a ni!</string>
+  <string name="start_text_advice">He application hi i chhunzawm zel chuan kan Terms of Use leh Privacy Policy i pawm tihna a ni</string>
+  <string name="start">Tan</string>
+  <string name="skip">Bawhkan</string>
+  <string name="finish">Zo</string>
+  <string name="next">Dawtchiah</string>
+  <string name="back">Hnung</string>
+  <string name="allow">Phalsak</string>
+  <string name="slider_Edge">Edge Lighting a awm bawk</string>
+  <string name="slider_Edge1">Edges chungah edge lighting a lantir</string>
+  <string name="alert_Edge">Battery a hniam tih hriattirna</string>
+  <string name="alert_Edge1">Battery hniam alert nan orange edge lighting a awm bawk</string>
+  <string name="warning_Edge">Battery a hniam tih hriattirna</string>
+  <string name="warning_Edge1">Battery hniam lutuk warning atan red edge lighting a awm</string>
+  <string name="notch_Edge">Notch a ni</string>
+  <string name="notch_Edge1">Edge lighting chu notch hmangin enable rawh</string>
+  <string name="wallpaper_Edge">Wallpaper a ni</string>
+  <string name="wallpaper_Edge1">Wallpaper hmangin edge lighting a awm bawk</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1. A rilru a hah lutuk chuan a rilru a buai em em a</item>  
+    <item>2. 2. A rilru a hah lutuk chuan a rilru a buai em em a</item>  
+    <item>3. A rilru a hah lutuk chuan a rilru a buai em em a</item>  
+    <item>4. 4. A rilru a hah lutuk chuan a rilru a buai em em a</item>  
+    <item>5. A rilru a hah lutuk</item>  
+    <item>6. 6. A rilru a hah lutuk chuan a rilru a buai em em a</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless hmanga tih a ni</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hello blank fragment a ni</string>
+  <string name="apply">Dil</string>
+  <string name="applied">Apply a ni</string>
+  <string name="always_on_display_edge_lighting">Display edge lighting ah a awm reng thin</string>
+  <string name="confirm_exit">Exit tih nemnghet rawh ?</string>
+  <string name="yes">Awle</string>
+  <string name="no">Aih</string>
+  <string name="wallpapers">Wallpaper te pawh a awm</string>
+  <string name="ok">A tha e</string>
+  <string name="what_would_you_like_to_do">Eng nge tih i duh ang?</string>
+  <string name="set_home_screen">Home Screen ah set rawh</string>
+  <string name="set_lock_screen">Lock Screen ah dah rawh</string>
+  <string name="set_both_screens">Screen pahnih hi set rawh</string>
+  <string name="adjust_screen">Screen chu siamrem rawh</string>
+  <string name="please_wait_ad_is_loading">Khawngaihin lo nghak teh, ad a load mek</string>
+  <string name="home">In</string>
+  <string name="edge_lighting_border">Edge Lighting Border a awm bawk</string>
+  <string name="view_more">A dang pawh en rawh</string>
+  <string name="brighten_up_by_stunning_edges">Edges mak tak tak hmangin ti eng rawh</string>
+  <string name="live_wallpapers">Live Wallpapers te pawh a awm</string>
+  <string name="stunning_wallpapers">Wallpaper mak tak tak te</string>
+  <string name="experience_by_interactive_wallpapers">Interactive Wallpapers hmanga thil tawn</string>
+  <string name="dismiss">Hnawl</string>
+  <string name="language">Tawng</string>
+  <string name="privacy_policy">Thuruk humhalh dan tur</string>
+  <string name="rate_us">Rate Us</string>
+  <string name="more_app">App dang pawh a awm</string>
+  <string name="exit">Chhuak</string>
+  <string name="alert">Inring</string>
+  <string name="warning">Vaulawkna</string>
+  <string name="trending">Trending a ni</string>
+  <string name="applying_wallpaper">Wallpaper hman dan</string>
+  <string name="wallpaper_applied">Wallpaper hman a ni</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level phalna pek: 1.1.</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Accessibility Permission hi core feature angin Edge Lighting hian app dang a thawh theih nan leh screen a lock theih nan a ngai a ni</string>
+  <string name="this_permission_can_be_granted_as_follow">He Permission hi a hnuaia mi ang hian pek theih a ni:</string>
+  <string name="go_to_settings">Settings ah kal rawh</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Accessibility > Apps/Services install tawh > Edge Lighting hmanga thil tih theihna</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">A hman theihna > Download Service tam zawk > Edge Lighting</string>
+  <string name="grant_permission_now">Tunah hian Permission pe rawh?</string>
+  <string name="later">A hnuah</string>
+  <string name="yes_now">Ni e, tunah chuan</string>
+</resources>

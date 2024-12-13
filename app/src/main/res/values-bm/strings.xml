@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">A jira porogaramu wɛrɛw kan</string>
+  <string name="open_nav">Navigation Drawer da wuli</string>
+  <string name="close_nav">Da Navigation Drawer (Dɔgɔtɔrɔso Navigation) da</string>
+  <string name="show_while_charging">A jira k’a sɔrɔ i bɛ charge (sara) la</string>
+  <string name="text_enable_wallpaper">Wallpaper ( Wallpaper) baara</string>
+  <string name="number_of_colors">Kulɛriw hakɛ</string>
+  <string name="click_a_color_to_edit">Kulɛri dɔ digi walisa k’a ladilan</string>
+  <string name="mtrl_picker_confirm">N SƆNNA</string>
+  <string name="SelectLanguage">Kan sugandi</string>
+  <string name="text_cancel">Ka dankari</string>
+  <string name="text_border_type">Dankan suguya</string>
+  <string name="text_animation_speed">Animatɛri teliya</string>
+  <string name="text_border_size">Dankan hakɛ</string>
+  <string name="text_radius_top">Radius sanfɛla</string>
+  <string name="text_radius_bottom">Radius duguma</string>
+  <string name="text_enable_display_notch">Notch (Notch) baara</string>
+  <string name="text_notch_width_top">Notch bonya sanfɛla</string>
+  <string name="text_notch_width_bottom">Notch bonya duguma</string>
+  <string name="text_notch_height">Notch janya</string>
+  <string name="text_notch_radius_top">Notch radius sanfɛla</string>
+  <string name="text_notch_radius_bottom">Notch radius duguma</string>
+  <string name="select_wallpaper">Wallpaper sugandi</string>
+  <string name="allow_display_over_other_apps">A to a ka jira porogramu wɛrɛw kan</string>
+  <string name="continue_">Ka taa fɛ</string>
+  <string name="app_name_service">Ekran da wulilen da wuli</string>
+  <string name="permission_request">Izini ɲinini</string>
+  <string name="power_connected">Kuran kabɔri min bɛ ɲɔgɔn kan</string>
+  <string name="power_disconnected">Kuran kabɔri tigɛlen don</string>
+  <string name="draw_over_cancelled">Draw overlay yamaruya ma di fɔlɔ. Aw bɛ segin ka a lajɛ</string>
+  <string name="draw_over_granted">Draw overlay yamaruyaw ɲinini dira</string>
+  <string name="app_name">Edge Yeelen</string>
+  <string name="please_wait">Aw ka Wallpaper Downloading makɔnɔ...</string>
+  <string name="no_internet">Ɛntɛrinɛti tɛ yen</string>
+  <string name="to_use_this">Walasa ka baara kɛ ni nin fɛɛrɛ ye Accessibility Permission de wajibiyalen don</string>
+  <string name="draw_over_denied">Draw overlay yamaruya ma di fɔlɔ. Aw bɛ segin ka a lajɛ</string>
+  <string name="no_internet_war">Aw tɛ ɛntɛrinɛti kan aw ka aw ka ɛntɛrinɛti daminɛ walasa ka edge lighting wallpapers sɔrɔ.</string>
+  <string name="you_must">I ka kan ka \"Draw Over Other Apps\" yamaruya di walasa \"Edge Lighting\" ka baara kɛ ka ɲɛ.</string>
+  <string name="wallpaper_description">Live_wallpaper (sɛbɛn ɲɛnama)</string>
+  <string name="abstract_">Ɲɛfɔli kunkurun</string>
+  <string name="nature">Kɛcogo</string>
+  <string name="neon">Neon (Neon) ye</string>
+  <string name="quotes">Sɔngɔn di</string>
+  <string name="sunset">Tilebin</string>
+  <string name="top">San fɛ</string>
+  <string name="text_name_notification">Baara daminɛ</string>
+  <string name="No_topic_selected">Barokun si ma sugandi</string>
+  <string name="Update_finish">Update laban</string>
+  <string name="loading_ad">Loading Ad. Bamako, Mali</string>
+  <string name="low_battery">Batiri dawolo yeelen</string>
+  <string name="battery_one">Batiri 1. Bamako, Mali</string>
+  <string name="battery_two">Batiri 2. Batiri 2</string>
+  <string name="edge_service">Baarakɛyɔrɔ min bɛ boli</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Ka balo</string>
+  <string name="main_ongoing_download">Preview (Ɲɛjirali) labɛnni</string>
+  <string name="permission_required">Izini de wajibiyalen don</string>
+  <string name="title_onboarding_1">Sɔrɔcogo yamaruya</string>
+  <string name="description_onboarding_1">Sɔrɔli ye fɛn koloma ye</string>
+  <string name="string_text_onboarding_complete_description">Accessibility Permission min ye fɛn koloma ye, o ye wajibi ye walasa Edge Lighting ka baara kɛ porogaramu wɛrɛw kan ani ka ekran datugu</string>
+  <string name="title_onboarding_2">Sɔrɔcogo yamaruya</string>
+  <string name="description_onboarding_2">Izini bɛ se ka di nin cogo la: \n \n Sɔrɔcogo > Porogaramu/Services sigilenw > Edge Lighting \n OR \n Seko > Téléchargement Services wɛrɛw > Edge Lighting</string>
+  <string name="title_onboarding_3">Kode apps cɛɲiw</string>
+  <string name="description_onboarding_3">An ka cidenyabaara ye ka apps nafama &amp; subtle dilan. A ka di an ye ka mɔgɔw dɛmɛ u ka waati kisi ni fɛn dafalenw ye, nka an bɛ ɲɛnamaya nɔgɔya fana ni fɛn kuraw dabɔli ye. Coding ɲuman!</string>
+  <string name="start_text_advice">Ni i taara a fɛ nin porogaramu in kan, i bɛ sɔn an ka baarakɛcogo sariyaw ma ani an ka kunnafoniw maracogo ma</string>
+  <string name="start">Ka daminɛ</string>
+  <string name="skip">Ka lasogo</string>
+  <string name="finish">Laban</string>
+  <string name="next">Nata</string>
+  <string name="back">Kɔ</string>
+  <string name="allow">Ka yamaruya</string>
+  <string name="slider_Edge">Edge Yeelen</string>
+  <string name="slider_Edge1">A jira dakun yeelen na Edges kan</string>
+  <string name="alert_Edge">Batiri dɔgɔyali Alert</string>
+  <string name="alert_Edge1">Yeelen oranjɛ da la walasa ka batiri dɔgɔya</string>
+  <string name="warning_Edge">Batiri dɔgɔyali lasɔmini</string>
+  <string name="warning_Edge1">Yeelen bilenman da la walasa ka batiri lasɔmini kosɛbɛ</string>
+  <string name="notch_Edge">Notch (Notch) ye</string>
+  <string name="notch_Edge1">Aw bɛ se ka edge lighting kɛ ni notch ye</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edge yeelen ni Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1.</item>  
+    <item>2. 2. Ɲɛgɛnɛsiraw ani mɔgɔ dogoyɔrɔw</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Bonjour fragment blanc</string>
+  <string name="apply">Ka waleya</string>
+  <string name="applied">A kɛra cogo min na</string>
+  <string name="always_on_display_edge_lighting">Tuma bɛɛ jirali dakun yeelen</string>
+  <string name="confirm_exit">Confirmer Exit ?</string>
+  <string name="yes">Awɔ</string>
+  <string name="no">Ayi</string>
+  <string name="wallpapers">Wallpapers (sɛbɛnni) minnu bɛ yen</string>
+  <string name="ok">N sɔnna</string>
+  <string name="what_would_you_like_to_do">I b’a fɛ ka mun kɛ?</string>
+  <string name="set_home_screen">Set Home Screen (Ekran so kɔnɔ).</string>
+  <string name="set_lock_screen">Set Lock Screen (Ekran min bɛ wele ko Lock Screen).</string>
+  <string name="set_both_screens">Set Écran fila bɛɛ</string>
+  <string name="adjust_screen">Adjust Écran (Ekran ladilan).</string>
+  <string name="please_wait_ad_is_loading">Aw ka kɔnɔni kɛ, piblisite bɛ ka doni</string>
+  <string name="home">So</string>
+  <string name="edge_lighting_border">Edge Yeelen Dankan</string>
+  <string name="view_more">Aw ye fɛn wɛrɛw lajɛ</string>
+  <string name="brighten_up_by_stunning_edges">A ye yeelen bɔ ni Edges kabakomaw ye</string>
+  <string name="live_wallpapers">Wallpapers ɲɛnamaw</string>
+  <string name="stunning_wallpapers">Wallpapers kabakomaw</string>
+  <string name="experience_by_interactive_wallpapers">Ko kɛlen min kɛra Interactive Wallpapers fɛ</string>
+  <string name="dismiss">Ka gɛn</string>
+  <string name="language">Kan</string>
+  <string name="privacy_policy">Kunnafoni dogolenw maracogo</string>
+  <string name="rate_us">Rate Anw ka jate</string>
+  <string name="more_app">App caman wɛrɛw</string>
+  <string name="exit">Ka bɔ</string>
+  <string name="alert">Lasɔmini</string>
+  <string name="warning">Lasɔmi</string>
+  <string name="trending">Fɛn min bɛ taa ɲɛ</string>
+  <string name="applying_wallpaper">Wallpaper (Fond d’écran) kɛcogo</string>
+  <string name="wallpaper_applied">Wallpaper (Fond d’écran Appliqué) ye</string>
+  <string name="accessibility_service_level_permission">Sɔrɔli Baarakɛyɔrɔ Nivo Izini:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Accessibility Permission min ye fɛn koloma ye, o ye wajibi ye walasa Edge Lighting ka baara kɛ porogaramu wɛrɛw kan ani ka ekran datugu</string>
+  <string name="this_permission_can_be_granted_as_follow">Nin Izini bɛ se ka di nin cogo la:</string>
+  <string name="go_to_settings">Taga Settings yɔrɔ la</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Sɔrɔcogo > Application/Services sigilenw > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Sɔrɔcogo > Téléchargement services wɛrɛw > Edge Lighting</string>
+  <string name="grant_permission_now">I ka yamaruya di Sisan wa?</string>
+  <string name="later">Kɔfɛ</string>
+  <string name="yes_now">Ɔwɔ, sisan</string>
+</resources>

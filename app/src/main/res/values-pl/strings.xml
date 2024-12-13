@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Wyświetlaj nad innymi aplikacjami</string>
+  <string name="open_nav">Otwórz szufladę nawigacji</string>
+  <string name="close_nav">Zamknij szufladę nawigacji</string>
+  <string name="show_while_charging">Pokaż podczas ładowania</string>
+  <string name="text_enable_wallpaper">Włącz tapetę</string>
+  <string name="number_of_colors">Liczba kolorów</string>
+  <string name="click_a_color_to_edit">Kliknij kolor, który chcesz edytować</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Wybierz Język</string>
+  <string name="text_cancel">Anulować</string>
+  <string name="text_border_type">Typ obramowania</string>
+  <string name="text_animation_speed">Szybkość animacji</string>
+  <string name="text_border_size">Rozmiar obramowania</string>
+  <string name="text_radius_top">Promień u góry</string>
+  <string name="text_radius_bottom">Promień dołu</string>
+  <string name="text_enable_display_notch">Włącz wycięcie</string>
+  <string name="text_notch_width_top">Szerokość wycięcia u góry</string>
+  <string name="text_notch_width_bottom">Szerokość wycięcia u dołu</string>
+  <string name="text_notch_height">Wysokość wycięcia</string>
+  <string name="text_notch_radius_top">Promień wycięcia u góry</string>
+  <string name="text_notch_radius_bottom">Promień wycięcia u dołu</string>
+  <string name="select_wallpaper">Wybierz opcję Tapeta</string>
+  <string name="allow_display_over_other_apps">Zezwalaj na wyświetlanie nad innymi aplikacjami</string>
+  <string name="continue_">Kontynuować</string>
+  <string name="app_name_service">Otwórz nakładkę ekranu</string>
+  <string name="permission_request">Prośba o pozwolenie</string>
+  <string name="power_connected">Podłączono kabel zasilający</string>
+  <string name="power_disconnected">Odłączony kabel zasilający</string>
+  <string name="draw_over_cancelled">Pozwolenie na nakładkę rysowania nie zostało jeszcze przyznane. Spróbuj ponownie</string>
+  <string name="draw_over_granted">Żądanie uprawnień do rysowania nakładki zostało przyjęte</string>
+  <string name="app_name">Oświetlenie krawędziowe</string>
+  <string name="please_wait">Proszę czekać Pobieranie tapety…</string>
+  <string name="no_internet">Brak internetu</string>
+  <string name="to_use_this">Aby korzystać z tej funkcji, wymagane jest zezwolenie na dostępność</string>
+  <string name="draw_over_denied">Pozwolenie na nakładkę rysowania nie zostało jeszcze przyznane. Spróbuj ponownie</string>
+  <string name="no_internet_war">Jesteś offline. Włącz internet, aby pobrać tapety z oświetleniem krawędziowym.</string>
+  <string name="you_must">Aby funkcja „Oświetlenie krawędziowe” działała poprawnie, musisz włączyć uprawnienia „Rysuj nad innymi aplikacjami”.</string>
+  <string name="wallpaper_description">Żywa_tapeta</string>
+  <string name="abstract_">Abstrakcyjny</string>
+  <string name="nature">Natura</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Cytaty</string>
+  <string name="sunset">Zachód słońca</string>
+  <string name="top">Szczyt</string>
+  <string name="text_name_notification">Uruchom usługę</string>
+  <string name="No_topic_selected">Nie wybrano tematu</string>
+  <string name="Update_finish">Zakończenie aktualizacji</string>
+  <string name="loading_ad">Ładowanie reklamy</string>
+  <string name="low_battery">Oświetlenie krawędziowe o niskim poziomie baterii</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Działający serwis</string>
+  <string name="wallpaper">Tapeta</string>
+  <string name="magical_wallpaper">Na żywo</string>
+  <string name="main_ongoing_download">Generowanie podglądu</string>
+  <string name="permission_required">Wymagane pozwolenie</string>
+  <string name="title_onboarding_1">Zezwolenie na dostępność</string>
+  <string name="description_onboarding_1">Dostępność jest podstawową cechą</string>
+  <string name="string_text_onboarding_complete_description">Aby funkcja Edge Lighting działała z innymi aplikacjami i ekranem blokady, konieczne jest zezwolenie na dostępność jako podstawowa funkcja</string>
+  <string name="title_onboarding_2">Zezwolenie na dostępność</string>
+  <string name="description_onboarding_2">Zezwolenie może zostać udzielone w następujący sposób: \n \n Dostępność > Zainstalowane aplikacje/usługi > Oświetlenie krawędziowe \n LUB \n Dostępność > Więcej usług pobierania > Oświetlenie krawędziowe</string>
+  <string name="title_onboarding_3">Koduj piękne aplikacje</string>
+  <string name="description_onboarding_3">Naszą misją jest tworzenie przydatnych i subtelnych aplikacji. Uwielbiamy pomagać ludziom oszczędzać czas dzięki programom typu open source, ale ułatwiamy też życie, tworząc nowe rzeczy. Dobre kodowanie!</string>
+  <string name="start_text_advice">Kontynuując korzystanie z tej aplikacji, wyrażasz zgodę na nasze Warunki użytkowania i Politykę prywatności</string>
+  <string name="start">Start</string>
+  <string name="skip">Pominąć</string>
+  <string name="finish">Skończyć</string>
+  <string name="next">Następny</string>
+  <string name="back">Z powrotem</string>
+  <string name="allow">Umożliwić</string>
+  <string name="slider_Edge">Oświetlenie krawędziowe</string>
+  <string name="slider_Edge1">Wyświetl oświetlenie krawędziowe nad krawędziami</string>
+  <string name="alert_Edge">Alarm niskiego poziomu baterii</string>
+  <string name="alert_Edge1">Pomarańczowe oświetlenie krawędziowe sygnalizujące niski poziom naładowania baterii</string>
+  <string name="warning_Edge">Ostrzeżenie o niskim stanie baterii</string>
+  <string name="warning_Edge1">Czerwone oświetlenie krawędziowe ostrzegające o bardzo niskim poziomie naładowania baterii</string>
+  <string name="notch_Edge">Karb</string>
+  <string name="notch_Edge1">Włącz oświetlenie krawędziowe za pomocą wycięcia</string>
+  <string name="wallpaper_Edge">Tapeta</string>
+  <string name="wallpaper_Edge1">Oświetlenie krawędziowe za pomocą tapety</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>AC</item>  
+    <item>Usb</item>  
+    <item>Bezprzewodowy</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Witam pusty fragment</string>
+  <string name="apply">Stosować</string>
+  <string name="applied">Stosowany</string>
+  <string name="always_on_display_edge_lighting">Zawsze włączone oświetlenie krawędzi wyświetlacza</string>
+  <string name="confirm_exit">Potwierdzić wyjście?</string>
+  <string name="yes">Tak</string>
+  <string name="no">NIE</string>
+  <string name="wallpapers">Tapety</string>
+  <string name="ok">OK</string>
+  <string name="what_would_you_like_to_do">Co chciałbyś zrobić?</string>
+  <string name="set_home_screen">Ustaw ekran główny</string>
+  <string name="set_lock_screen">Ustaw ekran blokady</string>
+  <string name="set_both_screens">Ustaw oba ekrany</string>
+  <string name="adjust_screen">Dostosuj ekran</string>
+  <string name="please_wait_ad_is_loading">Proszę czekać, reklama się ładuje</string>
+  <string name="home">Dom</string>
+  <string name="edge_lighting_border">Obramowanie oświetlenia krawędziowego</string>
+  <string name="view_more">Zobacz więcej</string>
+  <string name="brighten_up_by_stunning_edges">Rozjaśnij się dzięki oszałamiającym krawędziom</string>
+  <string name="live_wallpapers">Tapety na żywo</string>
+  <string name="stunning_wallpapers">Oszałamiające tapety</string>
+  <string name="experience_by_interactive_wallpapers">Doświadczenie dzięki interaktywnym tapetom</string>
+  <string name="dismiss">Odrzucać</string>
+  <string name="language">Język</string>
+  <string name="privacy_policy">Polityka prywatności</string>
+  <string name="rate_us">Oceń nas</string>
+  <string name="more_app">Więcej aplikacji</string>
+  <string name="exit">Wyjście</string>
+  <string name="alert">Alarm</string>
+  <string name="warning">Ostrzeżenie</string>
+  <string name="trending">Trendy</string>
+  <string name="applying_wallpaper">Stosowanie tapety</string>
+  <string name="wallpaper_applied">Zastosowano tapetę</string>
+  <string name="accessibility_service_level_permission">Pozwolenie na poziom usług dostępności:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Aby funkcja Edge Lighting działała z innymi aplikacjami i ekranem blokady, konieczne jest zezwolenie na dostępność jako podstawowa funkcja</string>
+  <string name="this_permission_can_be_granted_as_follow">Zezwolenie to może zostać udzielone w następujący sposób:</string>
+  <string name="go_to_settings">Przejdź do Ustawień</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Dostępność > Zainstalowane aplikacje/usługi > Oświetlenie krawędziowe</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Dostępność > Więcej usług pobierania > Oświetlenie krawędziowe</string>
+  <string name="grant_permission_now">Przyznać pozwolenie teraz?</string>
+  <string name="later">Później</string>
+  <string name="yes_now">Tak, teraz</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".activities.StaticCategoryWallpaperPreviewActivity">
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:visibility="visible"
+        android:indeterminateTint="@color/white"
+        android:layout_centerInParent="true"
+         />
+    <ImageView
+        android:id="@+id/fullScreenWallpaperImageView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY" />
+
+    <TextView
+        android:id="@+id/applyButton"
+        android:layout_width="170dp"
+        android:layout_height="50dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="35dp"
+        android:layout_marginEnd="35dp"
+        android:layout_marginBottom="35dp"
+        android:background="@drawable/bg_function"
+        android:gravity="center"
+        android:foreground="?attr/selectableItemBackgroundBorderless"
+        android:text="@string/apply"
+        android:textColor="@color/white"
+        android:textSize="20dp" /> <!-- Adjust this value to shift the text upwards -->
+
+
+
+</RelativeLayout>

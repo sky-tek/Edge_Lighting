@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">แสดงเหนือแอปอื่นๆ</string>
+  <string name="open_nav">เปิดลิ้นชักการนำทาง</string>
+  <string name="close_nav">ปิดลิ้นชักการนำทาง</string>
+  <string name="show_while_charging">แสดงขณะชาร์จ</string>
+  <string name="text_enable_wallpaper">เปิดใช้งานวอลเปเปอร์</string>
+  <string name="number_of_colors">จำนวนสี</string>
+  <string name="click_a_color_to_edit">คลิกสีเพื่อแก้ไข</string>
+  <string name="mtrl_picker_confirm">ตกลง</string>
+  <string name="SelectLanguage">เลือกภาษา</string>
+  <string name="text_cancel">ยกเลิก</string>
+  <string name="text_border_type">ประเภทเส้นขอบ</string>
+  <string name="text_animation_speed">ความเร็วของแอนิเมชั่น</string>
+  <string name="text_border_size">ขนาดขอบ</string>
+  <string name="text_radius_top">รัศมีด้านบน</string>
+  <string name="text_radius_bottom">รัศมีด้านล่าง</string>
+  <string name="text_enable_display_notch">เปิดใช้งานรอยบาก</string>
+  <string name="text_notch_width_top">ความกว้างของรอยบากด้านบน</string>
+  <string name="text_notch_width_bottom">ความกว้างของรอยบากด้านล่าง</string>
+  <string name="text_notch_height">ความสูงของรอยบาก</string>
+  <string name="text_notch_radius_top">รัศมีรอยบากด้านบน</string>
+  <string name="text_notch_radius_bottom">รัศมีรอยบากด้านล่าง</string>
+  <string name="select_wallpaper">เลือกวอลเปเปอร์</string>
+  <string name="allow_display_over_other_apps">อนุญาตให้แสดงทับแอปอื่นๆ</string>
+  <string name="continue_">ดำเนินการต่อ</string>
+  <string name="app_name_service">เปิดการซ้อนทับหน้าจอ</string>
+  <string name="permission_request">คำขออนุญาต</string>
+  <string name="power_connected">เชื่อมต่อสายไฟแล้ว</string>
+  <string name="power_disconnected">สายไฟถูกตัดการเชื่อมต่อ</string>
+  <string name="draw_over_cancelled">ยังไม่ได้รับอนุญาตให้วาดทับ ลองอีกครั้ง</string>
+  <string name="draw_over_granted">ได้รับคำขอสิทธิ์การซ้อนทับแล้ว</string>
+  <string name="app_name">แสงสว่างขอบ</string>
+  <string name="please_wait">โปรดรอสักครู่ กำลังดาวน์โหลดวอลเปเปอร์...</string>
+  <string name="no_internet">ไม่มีอินเทอร์เน็ต</string>
+  <string name="to_use_this">หากต้องการใช้คุณสมบัตินี้จำเป็นต้องได้รับอนุญาตการเข้าถึง</string>
+  <string name="draw_over_denied">ยังไม่ได้รับอนุญาตให้วาดทับ ลองอีกครั้ง</string>
+  <string name="no_internet_war">คุณออฟไลน์อยู่ โปรดเปิดอินเทอร์เน็ตเพื่อรับวอลเปเปอร์แสงขอบ</string>
+  <string name="you_must">คุณต้องเปิดใช้งานการอนุญาต \"Draw Over Other Apps\" เพื่อให้ \"Edge Lighting\" ทำงานได้อย่างถูกต้อง</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">เชิงนามธรรม</string>
+  <string name="nature">ธรรมชาติ</string>
+  <string name="neon">นีออน</string>
+  <string name="quotes">คำคม</string>
+  <string name="sunset">พระอาทิตย์ตก</string>
+  <string name="top">สูงสุด</string>
+  <string name="text_name_notification">เริ่มให้บริการ</string>
+  <string name="No_topic_selected">ไม่ได้เลือกหัวข้อ</string>
+  <string name="Update_finish">อัพเดทจบแล้ว</string>
+  <string name="loading_ad">กำลังโหลดโฆษณา</string>
+  <string name="low_battery">ไฟส่องขอบแบตเตอรี่ต่ำ</string>
+  <string name="battery_one">แบตเตอรี่ 1</string>
+  <string name="battery_two">แบตเตอรี่ 2</string>
+  <string name="edge_service">เรียกใช้บริการ</string>
+  <string name="wallpaper">วอลล์เปเปอร์</string>
+  <string name="magical_wallpaper">สด</string>
+  <string name="main_ongoing_download">กำลังสร้างการแสดงตัวอย่าง</string>
+  <string name="permission_required">ต้องได้รับอนุญาต</string>
+  <string name="title_onboarding_1">สิทธิ์การเข้าถึง</string>
+  <string name="description_onboarding_1">การเข้าถึงเป็นคุณสมบัติหลัก</string>
+  <string name="string_text_onboarding_complete_description">สิทธิ์การเข้าถึงเป็นคุณสมบัติหลักเป็นสิ่งจำเป็นสำหรับ Edge Lighting เพื่อทำงานบนแอพอื่นและหน้าจอล็อค</string>
+  <string name="title_onboarding_2">สิทธิ์การเข้าถึง</string>
+  <string name="description_onboarding_2">สามารถให้สิทธิ์ได้ดังนี้: \n \n การเข้าถึง > แอป/บริการที่ติดตั้ง > Edge Lighting \n หรือ \n การเข้าถึง > บริการดาวน์โหลดเพิ่มเติม > Edge Lighting</string>
+  <string name="title_onboarding_3">โค้ดแอพสวยๆ</string>
+  <string name="description_onboarding_3">ภารกิจของเราคือการสร้างแอปที่มีประโยชน์และละเอียดอ่อน เราชอบที่จะช่วยเหลือผู้คนประหยัดเวลาด้วยโอเพ่นซอร์ส แต่เรายังทำให้ชีวิตง่ายขึ้นด้วยการสร้างสรรค์สิ่งใหม่ๆ การเข้ารหัสที่ดี!</string>
+  <string name="start_text_advice">การดำเนินการต่อในแอปพลิเคชันนี้แสดงว่าคุณยอมรับข้อกำหนดการใช้งานและนโยบายความเป็นส่วนตัวของเรา</string>
+  <string name="start">เริ่ม</string>
+  <string name="skip">ข้าม</string>
+  <string name="finish">เสร็จ</string>
+  <string name="next">ต่อไป</string>
+  <string name="back">กลับ</string>
+  <string name="allow">อนุญาต</string>
+  <string name="slider_Edge">แสงสว่างขอบ</string>
+  <string name="slider_Edge1">แสดงแสงขอบบน Edges</string>
+  <string name="alert_Edge">การแจ้งเตือนแบตเตอรี่ต่ำ</string>
+  <string name="alert_Edge1">ไฟขอบสีส้มเพื่อแจ้งเตือนแบตเตอรี่เหลือน้อย</string>
+  <string name="warning_Edge">คำเตือนแบตเตอรี่ต่ำ</string>
+  <string name="warning_Edge1">ไฟขอบสีแดงเพื่อเตือนแบตเตอรี่เหลือน้อยมาก</string>
+  <string name="notch_Edge">รอยบาก</string>
+  <string name="notch_Edge1">เปิดใช้งานแสงขอบด้วยรอยบาก</string>
+  <string name="wallpaper_Edge">วอลล์เปเปอร์</string>
+  <string name="wallpaper_Edge1">การจัดแสงขอบด้วยวอลเปเปอร์</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>เครื่องปรับอากาศ</item>  
+    <item>ยูเอสบี</item>  
+    <item>ไร้สาย</item> 
+  </string-array>
+  <string name="hello_blank_fragment">สวัสดีส่วนที่ว่างเปล่า</string>
+  <string name="apply">นำมาใช้</string>
+  <string name="applied">สมัครแล้ว</string>
+  <string name="always_on_display_edge_lighting">เปิดไฟขอบจอแสดงผลเสมอ</string>
+  <string name="confirm_exit">ยืนยันการออก ?</string>
+  <string name="yes">ใช่</string>
+  <string name="no">เลขที่</string>
+  <string name="wallpapers">วอลเปเปอร์</string>
+  <string name="ok">ตกลง</string>
+  <string name="what_would_you_like_to_do">คุณอยากจะทำอะไร?</string>
+  <string name="set_home_screen">ตั้งค่าหน้าจอหลัก</string>
+  <string name="set_lock_screen">ตั้งค่าล็อคหน้าจอ</string>
+  <string name="set_both_screens">ตั้งค่าทั้งสองหน้าจอ</string>
+  <string name="adjust_screen">ปรับหน้าจอ</string>
+  <string name="please_wait_ad_is_loading">กรุณารอสักครู่ โฆษณากำลังโหลด</string>
+  <string name="home">บ้าน</string>
+  <string name="edge_lighting_border">ขอบแสงขอบ</string>
+  <string name="view_more">ดูเพิ่มเติม</string>
+  <string name="brighten_up_by_stunning_edges">เพิ่มความสดใสด้วย Edges อันน่าทึ่ง</string>
+  <string name="live_wallpapers">วอลเปเปอร์สด</string>
+  <string name="stunning_wallpapers">วอลเปเปอร์อันน่าทึ่ง</string>
+  <string name="experience_by_interactive_wallpapers">ประสบการณ์โดยวอลเปเปอร์แบบโต้ตอบ</string>
+  <string name="dismiss">อนุญาตให้ออกไป</string>
+  <string name="language">ภาษา</string>
+  <string name="privacy_policy">นโยบายความเป็นส่วนตัว</string>
+  <string name="rate_us">ให้คะแนนเรา</string>
+  <string name="more_app">แอพเพิ่มเติม</string>
+  <string name="exit">ออก</string>
+  <string name="alert">เตือน</string>
+  <string name="warning">คำเตือน</string>
+  <string name="trending">กำลังมาแรง</string>
+  <string name="applying_wallpaper">การใช้วอลเปเปอร์</string>
+  <string name="wallpaper_applied">ใช้วอลเปเปอร์แล้ว</string>
+  <string name="accessibility_service_level_permission">สิทธิ์การเข้าถึงระดับบริการ:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">สิทธิ์การเข้าถึงเป็นคุณสมบัติหลักเป็นสิ่งจำเป็นสำหรับ Edge Lighting เพื่อทำงานบนแอพอื่นและหน้าจอล็อค</string>
+  <string name="this_permission_can_be_granted_as_follow">การอนุญาตนี้สามารถให้ได้ดังต่อไปนี้:</string>
+  <string name="go_to_settings">ไปที่การตั้งค่า</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">การเข้าถึง > แอพ/บริการที่ติดตั้ง > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">การเข้าถึง > บริการดาวน์โหลดเพิ่มเติม > Edge Lighting</string>
+  <string name="grant_permission_now">ให้สิทธิ์ทันที?</string>
+  <string name="later">ภายหลัง</string>
+  <string name="yes_now">ใช่แล้ว</string>
+</resources>

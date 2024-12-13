@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Kuva teiste rakenduste kohal</string>
+  <string name="open_nav">Avage navigeerimissahtel</string>
+  <string name="close_nav">Sulgege navigeerimissahtel</string>
+  <string name="show_while_charging">Näita laadimise ajal</string>
+  <string name="text_enable_wallpaper">Luba taustapilt</string>
+  <string name="number_of_colors">Värvide arv</string>
+  <string name="click_a_color_to_edit">Redigeerimiseks klõpsake värvi</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Valige keel</string>
+  <string name="text_cancel">Tühista</string>
+  <string name="text_border_type">Piiri tüüp</string>
+  <string name="text_animation_speed">Animatsiooni kiirus</string>
+  <string name="text_border_size">Ääriste suurus</string>
+  <string name="text_radius_top">Raadius ülemine osa</string>
+  <string name="text_radius_bottom">Raadius põhi</string>
+  <string name="text_enable_display_notch">Luba Notch</string>
+  <string name="text_notch_width_top">Sälguga ülaosa</string>
+  <string name="text_notch_width_bottom">Sälgu laius põhjas</string>
+  <string name="text_notch_height">Sälgu kõrgus</string>
+  <string name="text_notch_radius_top">Sälk raadiusega ülaosas</string>
+  <string name="text_notch_radius_bottom">Sälgu raadiusega põhi</string>
+  <string name="select_wallpaper">Valige Taustpilt</string>
+  <string name="allow_display_over_other_apps">Luba kuvamine teiste rakenduste kohal</string>
+  <string name="continue_">Jätka</string>
+  <string name="app_name_service">Ava ekraani ülekate</string>
+  <string name="permission_request">Loa taotlus</string>
+  <string name="power_connected">Toitekaabel ühendatud</string>
+  <string name="power_disconnected">Toitekaabel lahti ühendatud</string>
+  <string name="draw_over_cancelled">Ülekatte joonistamise luba pole veel antud. Proovi uuesti</string>
+  <string name="draw_over_granted">Joonistamise ülekatte lubade taotlus on antud</string>
+  <string name="app_name">Äärevalgustus</string>
+  <string name="please_wait">Palun oodake Taustapildi allalaadimine…</string>
+  <string name="no_internet">Internetti pole</string>
+  <string name="to_use_this">Selle funktsiooni kasutamiseks on vajalik juurdepääsetavuse luba</string>
+  <string name="draw_over_denied">Ülekatte joonistamise luba pole veel antud. Proovi uuesti</string>
+  <string name="no_internet_war">Olete võrguühenduseta, lülitage internet sisse, et saada servavalgustusega taustapilte.</string>
+  <string name="you_must">Et \"Edge Lighting\" korralikult töötaks, peate lubama \"Draw Over Other Apps\" loa.</string>
+  <string name="wallpaper_description">Live_taustapilt</string>
+  <string name="abstract_">Abstraktne</string>
+  <string name="nature">Loodus</string>
+  <string name="neon">Neoon</string>
+  <string name="quotes">Tsitaadid</string>
+  <string name="sunset">Päikeseloojang</string>
+  <string name="top">Üles</string>
+  <string name="text_name_notification">Käivitage teenus</string>
+  <string name="No_topic_selected">Teemat pole valitud</string>
+  <string name="Update_finish">Värskenduse lõpp</string>
+  <string name="loading_ad">Reklaami laadimine</string>
+  <string name="low_battery">Aku tühjenemise serva valgustus</string>
+  <string name="battery_one">Aku 1</string>
+  <string name="battery_two">Aku 2</string>
+  <string name="edge_service">Jooksuteenus</string>
+  <string name="wallpaper">Tapeet</string>
+  <string name="magical_wallpaper">Otse</string>
+  <string name="main_ongoing_download">Eelvaate genereerimine</string>
+  <string name="permission_required">Nõutav luba</string>
+  <string name="title_onboarding_1">Juurdepääsetavuse luba</string>
+  <string name="description_onboarding_1">Juurdepääsetavus on põhifunktsioon</string>
+  <string name="string_text_onboarding_complete_description">Ligipääsetavuse luba kui põhifunktsioon on vajalik, et Edge Lighting töötaks üle teiste rakenduste ja lukustuskuva</string>
+  <string name="title_onboarding_2">Juurdepääsetavuse luba</string>
+  <string name="description_onboarding_2">Loa saab anda järgmiselt: \n \n Juurdepääsetavus > Installitud rakendused/teenused > Edge Lighting \n VÕI \n Juurdepääsetavus > Rohkem allalaadimisteenuseid > Edge Lighting</string>
+  <string name="title_onboarding_3">Kodeerige ilusaid rakendusi</string>
+  <string name="description_onboarding_3">Meie missioon on luua kasulikke ja peeneid rakendusi. Meile meeldib aidata inimestel avatud lähtekoodiga asjadega aega säästa, kuid teeme ka elu lihtsamaks, luues uusi asju. Head kodeerimist!</string>
+  <string name="start_text_advice">Selle rakendusega jätkates nõustute meie kasutustingimuste ja privaatsuspoliitikaga</string>
+  <string name="start">Alusta</string>
+  <string name="skip">Jäta vahele</string>
+  <string name="finish">Lõpeta</string>
+  <string name="next">Edasi</string>
+  <string name="back">Tagasi</string>
+  <string name="allow">Luba</string>
+  <string name="slider_Edge">Äärevalgustus</string>
+  <string name="slider_Edge1">Ekraani servavalgustus servade kohal</string>
+  <string name="alert_Edge">Aku tühjenemise hoiatus</string>
+  <string name="alert_Edge1">Oranž servavalgustus aku tühjenemise hoiatuse jaoks</string>
+  <string name="warning_Edge">Tühja aku hoiatus</string>
+  <string name="warning_Edge1">Punase serva valgustus väga tühja aku hoiatuseks</string>
+  <string name="notch_Edge">Sälk</string>
+  <string name="notch_Edge1">Lubage sälguga servavalgustus</string>
+  <string name="wallpaper_Edge">Tapeet</string>
+  <string name="wallpaper_Edge1">Äärevalgustus tapeediga</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Juhtmevaba</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Tere tühi fragment</string>
+  <string name="apply">Rakenda</string>
+  <string name="applied">Rakendatud</string>
+  <string name="always_on_display_edge_lighting">Alati ekraani servavalgustus</string>
+  <string name="confirm_exit">Kas kinnitada väljumine?</string>
+  <string name="yes">Jah</string>
+  <string name="no">Ei</string>
+  <string name="wallpapers">Taustapildid</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Mida sa teha tahaksid?</string>
+  <string name="set_home_screen">Avakuva seadistamine</string>
+  <string name="set_lock_screen">Seadistage lukustuskuva</string>
+  <string name="set_both_screens">Määra mõlemad ekraanid</string>
+  <string name="adjust_screen">Reguleerige ekraani</string>
+  <string name="please_wait_ad_is_loading">Palun oodake, kuulutus laaditakse</string>
+  <string name="home">Kodu</string>
+  <string name="edge_lighting_border">Äärevalgustuse ääris</string>
+  <string name="view_more">Vaata rohkem</string>
+  <string name="brighten_up_by_stunning_edges">Tehke sära vapustavate servadega</string>
+  <string name="live_wallpapers">Reaalajas taustapildid</string>
+  <string name="stunning_wallpapers">Vapustavad taustapildid</string>
+  <string name="experience_by_interactive_wallpapers">Interaktiivsete taustapiltide kogemus</string>
+  <string name="dismiss">Loobu</string>
+  <string name="language">Keel</string>
+  <string name="privacy_policy">Privaatsuspoliitika</string>
+  <string name="rate_us">Hinda meid</string>
+  <string name="more_app">Rohkem rakendust</string>
+  <string name="exit">Väljuda</string>
+  <string name="alert">Hoiatus</string>
+  <string name="warning">Hoiatus</string>
+  <string name="trending">Trendikas</string>
+  <string name="applying_wallpaper">Taustapildi pealekandmine</string>
+  <string name="wallpaper_applied">Rakendatud tapeet</string>
+  <string name="accessibility_service_level_permission">Juurdepääsetavuse teenuse taseme luba:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Ligipääsetavuse luba kui põhifunktsioon on vajalik, et Edge Lighting töötaks üle teiste rakenduste ja lukustuskuva</string>
+  <string name="this_permission_can_be_granted_as_follow">Selle loa saab anda järgmiselt:</string>
+  <string name="go_to_settings">Avage Seaded</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Juurdepääsetavus > Installitud rakendused/teenused > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Juurdepääsetavus > Rohkem allalaadimisteenuseid > Edge Lighting</string>
+  <string name="grant_permission_now">Kas anda luba kohe?</string>
+  <string name="later">Hiljem</string>
+  <string name="yes_now">Jah, nüüd</string>
+</resources>

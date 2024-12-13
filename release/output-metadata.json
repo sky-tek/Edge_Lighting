@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.skytek.edgelighting",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 95,
+      "versionName": "2.0.82",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

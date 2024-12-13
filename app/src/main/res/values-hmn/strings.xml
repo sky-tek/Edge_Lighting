@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Tso saib dua lwm cov apps</string>
+  <string name="open_nav">Qhib Navigation Drawer</string>
+  <string name="close_nav">Kaw Navigation Drawer</string>
+  <string name="show_while_charging">Qhia thaum them nyiaj</string>
+  <string name="text_enable_wallpaper">Pab kom Wallpaper</string>
+  <string name="number_of_colors">Tus naj npawb ntawm Xim</string>
+  <string name="click_a_color_to_edit">Nyem ib xim los kho</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Xaiv hom lus</string>
+  <string name="text_cancel">Tso tseg</string>
+  <string name="text_border_type">Hom ciam teb</string>
+  <string name="text_animation_speed">Animation ceev</string>
+  <string name="text_border_size">Ciam teb loj</string>
+  <string name="text_radius_top">Radius saum</string>
+  <string name="text_radius_bottom">Radius hauv qab</string>
+  <string name="text_enable_display_notch">Qhib Notch</string>
+  <string name="text_notch_width_top">Notch dav saum</string>
+  <string name="text_notch_width_bottom">Notch dav hauv qab</string>
+  <string name="text_notch_height">Notch qhov siab</string>
+  <string name="text_notch_radius_top">Lub kaum sab xis saum toj</string>
+  <string name="text_notch_radius_bottom">Notch radius hauv qab</string>
+  <string name="select_wallpaper">Xaiv Wallpaper</string>
+  <string name="allow_display_over_other_apps">Tso cai tso saib dua lwm cov apps</string>
+  <string name="continue_">Txuas ntxiv</string>
+  <string name="app_name_service">Qhib qhov screen overlay</string>
+  <string name="permission_request">Thov tso cai</string>
+  <string name="power_connected">Fais fab Cable Txuas</string>
+  <string name="power_disconnected">Fais fab Cable Disconnected</string>
+  <string name="draw_over_cancelled">Kos overlay tso cai tseem tsis tau tso cai. Sim dua</string>
+  <string name="draw_over_granted">Kos overlay permissions thov tso cai</string>
+  <string name="app_name">Ntug Teeb pom kev zoo</string>
+  <string name="please_wait">Thov tos Wallpaper Downloading…</string>
+  <string name="no_internet">Tsis muaj internet</string>
+  <string name="to_use_this">Txhawm rau siv qhov no feature Accessibility Permission yog xav tau</string>
+  <string name="draw_over_denied">Kos overlay tso cai tseem tsis tau tso cai. Sim dua</string>
+  <string name="no_internet_war">Koj nyob nraum offline thov qhib koj lub internet kom tau txais ntug teeb pom kev zoo wallpapers.</string>
+  <string name="you_must">Koj yuav tsum ua kom \"Draw Over Other Apps\" tso cai rau \"Edge Lighting\" ua haujlwm kom raug.</string>
+  <string name="wallpaper_description">Nyob_wallpaper</string>
+  <string name="abstract_">Abstract</string>
+  <string name="nature">Xwm</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Cov lus hais</string>
+  <string name="sunset">Hnub poob</string>
+  <string name="top">Sab saum toj</string>
+  <string name="text_name_notification">Pib kev pabcuam</string>
+  <string name="No_topic_selected">Tsis xaiv lub ntsiab lus</string>
+  <string name="Update_finish">Hloov kho tiav</string>
+  <string name="loading_ad">Chaw thau khoom Ad</string>
+  <string name="low_battery">Tsawg roj teeb ntug teeb pom kev zoo</string>
+  <string name="battery_one">Roj teeb 1</string>
+  <string name="battery_two">Roj teeb 2</string>
+  <string name="edge_service">Kev pabcuam ua haujlwm</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Nyob</string>
+  <string name="main_ongoing_download">Generating Saib ua ntej</string>
+  <string name="permission_required">Yuav tsum tso cai</string>
+  <string name="title_onboarding_1">Kev Tso Cai Siv Tau</string>
+  <string name="description_onboarding_1">Accessibility yog ib qho tseem ceeb feature</string>
+  <string name="string_text_onboarding_complete_description">Daim Ntawv Tso Cai Nkag Mus Nkag tau yog qhov tseem ceeb ntawm Edge Lighting ua haujlwm tshaj lwm cov apps thiab xauv npo</string>
+  <string name="title_onboarding_2">Kev Tso Cai Siv Tau</string>
+  <string name="description_onboarding_2">Kev Tso Cai tuaj yeem tso cai raws li hauv qab no: \n \n Kev nkag tau> Kev teeb tsa Apps/Kev Pabcuam> Ntug Teeb pom kev zoo \n OR \n Kev nkag tau> Ntau qhov kev pabcuam rub tawm> Ntug teeb pom kev zoo</string>
+  <string name="title_onboarding_3">Code zoo nkauj apps</string>
+  <string name="description_onboarding_3">Peb lub luag haujlwm yog ua kom muaj txiaj ntsig &amp; hloov maj mam apps. Peb hlub pab tib neeg kom txuag sij hawm nrog cov khoom qhib, tab sis peb kuj ua kom lub neej yooj yim dua los ntawm kev tsim cov khoom tshiab. Zoo Coding!</string>
+  <string name="start_text_advice">Los ntawm kev txuas ntxiv ntawm daim ntawv thov no koj pom zoo rau peb Cov Cai Siv thiab Txoj Cai Tswjfwm Ntiag Tug</string>
+  <string name="start">Pib</string>
+  <string name="skip">Hla</string>
+  <string name="finish">Ua kom tiav</string>
+  <string name="next">Tom ntej no</string>
+  <string name="back">Rov qab</string>
+  <string name="allow">Tso cai</string>
+  <string name="slider_Edge">Ntug Teeb pom kev zoo</string>
+  <string name="slider_Edge1">Tso cov teeb pom kev zoo hla Edges</string>
+  <string name="alert_Edge">Tsawg roj teeb ceeb toom</string>
+  <string name="alert_Edge1">Txiv kab ntxwv ntug teeb pom kev zoo rau kev ceeb toom roj teeb tsawg</string>
+  <string name="warning_Edge">Low Battery Warning</string>
+  <string name="warning_Edge1">Liab ntug teeb pom kev zoo rau kev ceeb toom roj teeb tsawg heev</string>
+  <string name="notch_Edge">Ntsig</string>
+  <string name="notch_Edge1">Qhib ntug teeb pom kev zoo nrog thais</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Ntug teeb pom kev zoo nrog Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wireless</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Nyob zoo blank fragment</string>
+  <string name="apply">Thov</string>
+  <string name="applied">Siv tau</string>
+  <string name="always_on_display_edge_lighting">Ib txwm nyob ntawm ntug teeb pom kev zoo</string>
+  <string name="confirm_exit">Confirm Exit?</string>
+  <string name="yes">Yog lawm</string>
+  <string name="no">Tsis muaj</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Koj xav ua dab tsi?</string>
+  <string name="set_home_screen">Teem Lub Tsev Screen</string>
+  <string name="set_lock_screen">Teem xauv npo</string>
+  <string name="set_both_screens">Teem Ob Qhov Ncauj</string>
+  <string name="adjust_screen">Kho qhov screen</string>
+  <string name="please_wait_ad_is_loading">Thov tos, ad tab tom thauj khoom</string>
+  <string name="home">Tsev</string>
+  <string name="edge_lighting_border">Ntug Teeb Pom Kev Ciam Teb</string>
+  <string name="view_more">Saib Ntxiv</string>
+  <string name="brighten_up_by_stunning_edges">Brighten los ntawm stunning Edges</string>
+  <string name="live_wallpapers">Nyob Wallpapers</string>
+  <string name="stunning_wallpapers">Stunning Wallpapers</string>
+  <string name="experience_by_interactive_wallpapers">Kev paub los ntawm Interactive Wallpapers</string>
+  <string name="dismiss">Tso tseg</string>
+  <string name="language">Lus</string>
+  <string name="privacy_policy">Txoj Cai Tswjfwm Ntiag Tug</string>
+  <string name="rate_us">Ntsuas peb</string>
+  <string name="more_app">Ntau App</string>
+  <string name="exit">Tawm</string>
+  <string name="alert">Ceeb toom</string>
+  <string name="warning">Ceeb toom</string>
+  <string name="trending">Kev sib tw</string>
+  <string name="applying_wallpaper">Siv Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper Applied</string>
+  <string name="accessibility_service_level_permission">Accessibility Service Level Permission:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Daim Ntawv Tso Cai Nkag Mus Nkag tau yog qhov tseem ceeb ntawm Edge Lighting ua haujlwm tshaj lwm cov apps thiab xauv npo</string>
+  <string name="this_permission_can_be_granted_as_follow">Qhov Kev Tso Cai no tuaj yeem tso cai raws li hauv qab no:</string>
+  <string name="go_to_settings">Mus rau Chaw</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kev Siv Tau> Nruab Apps/Kev Pabcuam> Ntug Teeb Pom Kev</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kev Siv Tau> Ntau Cov Kev Pab Download> Ntug Teeb Pom Kev</string>
+  <string name="grant_permission_now">Tso cai tam sim no?</string>
+  <string name="later">Tom qab ntawd</string>
+  <string name="yes_now">Yog lawm, tam sim no</string>
+</resources>

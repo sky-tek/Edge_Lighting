@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">အခြားအက်ပ်များပေါ်တွင်ပြသပါ။</string>
+  <string name="open_nav">Navigation Drawer ကိုဖွင့်ပါ။</string>
+  <string name="close_nav">Navigation Drawer ကိုပိတ်ပါ။</string>
+  <string name="show_while_charging">အားသွင်းနေစဉ်ပြပါ။</string>
+  <string name="text_enable_wallpaper">Wallpaper ကိုဖွင့်ပါ။</string>
+  <string name="number_of_colors">အရောင်များ</string>
+  <string name="click_a_color_to_edit">တည်းဖြတ်ရန် အရောင်တစ်ခုကို နှိပ်ပါ။</string>
+  <string name="mtrl_picker_confirm">အိုကေ</string>
+  <string name="SelectLanguage">ဘာသာစကားကို ရွေးပါ။</string>
+  <string name="text_cancel">မလုပ်တော့</string>
+  <string name="text_border_type">နယ်ခြားအမျိုးအစား</string>
+  <string name="text_animation_speed">Animation မြန်နှုန်း</string>
+  <string name="text_border_size">နယ်စပ်အရွယ်အစား</string>
+  <string name="text_radius_top">အချင်းဝက်ထိပ်</string>
+  <string name="text_radius_bottom">အချင်းဝက် အောက်ခြေ</string>
+  <string name="text_enable_display_notch">Notch ကိုဖွင့်ပါ။</string>
+  <string name="text_notch_width_top">အပေါ်မှ Notch အကျယ်</string>
+  <string name="text_notch_width_bottom">Notch အောက်ခြေအကျယ်</string>
+  <string name="text_notch_height">Notch အမြင့်</string>
+  <string name="text_notch_radius_top">Notch အချင်းဝက် ထိပ်</string>
+  <string name="text_notch_radius_bottom">Notch အချင်းဝက် အောက်ခြေ</string>
+  <string name="select_wallpaper">Wallpaper ကို ရွေးပါ။</string>
+  <string name="allow_display_over_other_apps">အခြားအက်ပ်များပေါ်တွင် ပြသခွင့်ပြုပါ။</string>
+  <string name="continue_">ဆက်ရန်</string>
+  <string name="app_name_service">ဖန်သားပြင်အပေါ်ထပ်ကိုဖွင့်ပါ။</string>
+  <string name="permission_request">ခွင့်ပြုချက်တောင်းခံခြင်း။</string>
+  <string name="power_connected">ပါဝါကြိုး ချိတ်ဆက်ထားသည်။</string>
+  <string name="power_disconnected">ပါဝါကြိုး ဖြုတ်ထားသည်။</string>
+  <string name="draw_over_cancelled">ထပ်ဆင့်ဆွဲရန် ခွင့်ပြုချက်မရရှိသေးပါ။ ထပ်ကြိုးစားပါ။</string>
+  <string name="draw_over_granted">ထပ်ဆင့်ဆွဲရန် ခွင့်ပြုချက်များ တောင်းဆိုမှုကို ခွင့်ပြုထားသည်။</string>
+  <string name="app_name">အစွန်းမီးထွန်း</string>
+  <string name="please_wait">Wallpaper ဒေါင်းလုဒ်လုပ်နေတာကို ခဏစောင့်ပါ...</string>
+  <string name="no_internet">အင်တာနက်မရှိပါ။</string>
+  <string name="to_use_this">ဤအင်္ဂါရပ်ကိုအသုံးပြုရန် Accessibility Permission လိုအပ်ပါသည်။</string>
+  <string name="draw_over_denied">ထပ်ဆင့်ဆွဲရန် ခွင့်ပြုချက်မရရှိသေးပါ။ ထပ်ကြိုးစားပါ။</string>
+  <string name="no_internet_war">သင်သည် အော့ဖ်လိုင်းဖြစ်နေသည် ကျေးဇူးပြု၍ အလင်းအမှောင်နောက်ခံပုံများရရှိရန် သင့်အင်တာနက်ကိုဖွင့်ပါ။</string>
+  <string name="you_must">\"Edge Lighting\" အတွက် \"Draw Over Other Apps\" ခွင့်ပြုချက်ကို ဖွင့်ထားရပါမည်။</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">စိတ္တဇ</string>
+  <string name="nature">သဘာဝတရား</string>
+  <string name="neon">နီယွန်</string>
+  <string name="quotes">မျက်တောင်များ</string>
+  <string name="sunset">နေဝင်ချိန်</string>
+  <string name="top">ထိပ်တန်း</string>
+  <string name="text_name_notification">ဝန်ဆောင်မှုစတင်ပါ။</string>
+  <string name="No_topic_selected">မည်သည့်အကြောင်းအရာကိုမျှ ရွေးထားခြင်းမရှိပါ။</string>
+  <string name="Update_finish">Update ပြီးအောင်လုပ်ပါ။</string>
+  <string name="loading_ad">ကြော်ငြာတင်နေသည်။</string>
+  <string name="low_battery">ဘက်ထရီအားနည်းသော အစွန်းအလင်းရောင်</string>
+  <string name="battery_one">ဘက်ထရီ ၁</string>
+  <string name="battery_two">ဘက်ထရီ ၂</string>
+  <string name="edge_service">ဝန်ဆောင်မှုပေးနေပါပြီ။</string>
+  <string name="wallpaper">နံရံကပ်</string>
+  <string name="magical_wallpaper">နေထိုင်ပါ။</string>
+  <string name="main_ongoing_download">အစမ်းကြည့်ရှုခြင်းကို ထုတ်လုပ်ခြင်း။</string>
+  <string name="permission_required">ခွင့်ပြုချက်လိုအပ်သည်။</string>
+  <string name="title_onboarding_1">သုံးစွဲနိုင်မှု ခွင့်ပြုချက်</string>
+  <string name="description_onboarding_1">အသုံးပြုနိုင်စွမ်းသည် အဓိကအင်္ဂါရပ်တစ်ခုဖြစ်သည်။</string>
+  <string name="string_text_onboarding_complete_description">ပင်မအင်္ဂါရပ်တစ်ခုအနေဖြင့် ဝင်ရောက်နိုင်မှုခွင့်ပြုချက်သည် အခြားအက်ပ်များနှင့် လော့ခ်ချခြင်းစခရင်တို့ထက် Edge Lighting လုပ်ဆောင်ရန်အတွက် လိုအပ်ပါသည်။</string>
+  <string name="title_onboarding_2">သုံးစွဲနိုင်မှု ခွင့်ပြုချက်</string>
+  <string name="description_onboarding_2">ခွင့်ပြုချက်ကို အောက်ပါအတိုင်း ခွင့်ပြုနိုင်သည်- \n \n အများသုံးစွဲနိုင်မှု > ထည့်သွင်းထားသော အက်ပ်/ဝန်ဆောင်မှုများ > အနားသတ်အလင်းရောင် \n သို့မဟုတ် \n ဝင်ရောက်နိုင်မှု > နောက်ထပ် ဒေါင်းလုဒ်ဝန်ဆောင်မှုများ > အစွန်းအလင်းရောင်</string>
+  <string name="title_onboarding_3">ကုဒ်လှလှ အက်ပ်များ</string>
+  <string name="description_onboarding_3">ကျွန်ုပ်တို့၏တာဝန်မှာ အသုံးဝင်ပြီး သိမ်မွေ့သောအက်ပ်များကို ဖန်တီးရန်ဖြစ်သည်။ ကျွန်ုပ်တို့သည် လူများကို open-source ပစ္စည်းများဖြင့် အချိန်ကုန်သက်သာစေရန် ကူညီပေးသော်လည်း အသစ်သောအရာများကို ဖန်တီးခြင်းဖြင့် ဘဝပိုမိုလွယ်ကူစေသည်။ Coding ကောင်းကောင်း</string>
+  <string name="start_text_advice">ဤအပလီကေးရှင်းကို ဆက်လက်လုပ်ဆောင်ခြင်းဖြင့် သင်သည် ကျွန်ုပ်တို့၏အသုံးပြုမှုစည်းမျဉ်းများနှင့် ကိုယ်ရေးကိုယ်တာမူဝါဒကို သဘောတူပါသည်။</string>
+  <string name="start">စတင်ပါ။</string>
+  <string name="skip">ကျော်သွားပါ။</string>
+  <string name="finish">ပြီးအောင်</string>
+  <string name="next">နောက်တစ်ခု</string>
+  <string name="back">ကျော</string>
+  <string name="allow">ခွင့်ပြုပါ။</string>
+  <string name="slider_Edge">အစွန်းမီးထွန်း</string>
+  <string name="slider_Edge1">အနားသတ်များပေါ်တွင် အစွန်းအလင်းရောင်ကို ပြသပါ။</string>
+  <string name="alert_Edge">ဘက်ထရီနည်းသော သတိပေးချက်</string>
+  <string name="alert_Edge1">ဘက်ထရီနည်းသောသတိပေးချက်အတွက် လိမ္မော်ရောင်အစွန်းအလင်းရောင်</string>
+  <string name="warning_Edge">ဘက်ထရီနည်းသော သတိပေးချက်</string>
+  <string name="warning_Edge1">အလွန်နည်းသော ဘက်ထရီသတိပေးချက်အတွက် အနီရောင်အစွန်းအလင်းရောင်</string>
+  <string name="notch_Edge">ထစ်</string>
+  <string name="notch_Edge1">အစွန်းမီးများကို ထစ်ဖြင့်ဖွင့်ပါ။</string>
+  <string name="wallpaper_Edge">နံရံကပ်</string>
+  <string name="wallpaper_Edge1">Wallpaper ဖြင့် အနားသတ်အလင်းရောင်</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>၁</item>  
+    <item>၂</item>  
+    <item>၃</item>  
+    <item>၄</item>  
+    <item>၅</item>  
+    <item>၆</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ကြိုးမဲ့</item> 
+  </string-array>
+  <string name="hello_blank_fragment">မင်္ဂလာပါ အပိုင်းဗလာ</string>
+  <string name="apply">လျှောက်ထားပါ။</string>
+  <string name="applied">အသုံးချပါ။</string>
+  <string name="always_on_display_edge_lighting">မျက်နှာပြင်အစွန်းအလင်းရောင်တွင် အမြဲရှိသည်။</string>
+  <string name="confirm_exit">ထွက်ရန် အတည်ပြုမလား။</string>
+  <string name="yes">ဟုတ်ကဲ့</string>
+  <string name="no">မရှိ</string>
+  <string name="wallpapers">နောက်ခံပုံများ</string>
+  <string name="ok">အိုကေ</string>
+  <string name="what_would_you_like_to_do">မင်းဘာလုပ်ချင်လဲ။</string>
+  <string name="set_home_screen">ပင်မစခရင်ကို သတ်မှတ်ပါ။</string>
+  <string name="set_lock_screen">Lock Screen ကို သတ်မှတ်ပါ။</string>
+  <string name="set_both_screens">မျက်နှာပြင်နှစ်ခုလုံးကို သတ်မှတ်ပါ။</string>
+  <string name="adjust_screen">မျက်နှာပြင်ကို ချိန်ညှိပါ။</string>
+  <string name="please_wait_ad_is_loading">ခဏစောင့်ပါ၊ ကြော်ငြာဖွင့်နေပါသည်။</string>
+  <string name="home">အိမ်</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">ပိုမိုကြည့်ရှုပါ။</string>
+  <string name="brighten_up_by_stunning_edges">အံ့မခန်း Edges များဖြင့် တောက်ပစေသည်။</string>
+  <string name="live_wallpapers">တိုက်ရိုက်နောက်ခံပုံများ</string>
+  <string name="stunning_wallpapers">ရင်သပ်ရှုမောဖွယ် နောက်ခံပုံများ</string>
+  <string name="experience_by_interactive_wallpapers">အပြန်အလှန်အကျိုးပြုသောနောက်ခံပုံများဖြင့် အတွေ့အကြုံ</string>
+  <string name="dismiss">ပယ်ရန်</string>
+  <string name="language">ဘာသာစကား</string>
+  <string name="privacy_policy">ကိုယ်ရေးအချက်အလက်မူဝါဒ</string>
+  <string name="rate_us">ကျွန်ုပ်တို့ကို အဆင့်သတ်မှတ်ပါ။</string>
+  <string name="more_app">နောက်ထပ်အက်ပ်</string>
+  <string name="exit">ထွက်ပေါက်</string>
+  <string name="alert">သတိပေးချက်</string>
+  <string name="warning">သတိပေးချက်</string>
+  <string name="trending">ခေတ်စားနေသည်။</string>
+  <string name="applying_wallpaper">Wallpaper ကိုအသုံးပြုခြင်း။</string>
+  <string name="wallpaper_applied">နံရံကပ်ကို အသုံးပြုထားသည်။</string>
+  <string name="accessibility_service_level_permission">ဝင်ရောက်နိုင်မှု ဝန်ဆောင်မှု အဆင့် ခွင့်ပြုချက်-</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">ပင်မအင်္ဂါရပ်တစ်ခုအနေဖြင့် ဝင်ရောက်နိုင်မှုခွင့်ပြုချက်သည် အခြားအက်ပ်များနှင့် လော့ခ်ချခြင်းစခရင်တို့ထက် Edge Lighting လုပ်ဆောင်ရန်အတွက် လိုအပ်ပါသည်။</string>
+  <string name="this_permission_can_be_granted_as_follow">ဤခွင့်ပြုချက်ကို အောက်ပါအတိုင်း ခွင့်ပြုနိုင်သည်။</string>
+  <string name="go_to_settings">ဆက်တင်များသို့ သွားပါ။</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ဝင်ရောက်နိုင်မှု > ထည့်သွင်းထားသော အက်ပ်/ဝန်ဆောင်မှုများ > အနားသတ်အလင်းရောင်</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ဝင်ရောက်နိုင်မှု > နောက်ထပ် ဒေါင်းလုဒ်ဝန်ဆောင်မှုများ > အစွန်းအလင်းရောင်</string>
+  <string name="grant_permission_now">ယခုခွင့်ပြုချက်ပေးမလား။</string>
+  <string name="later">နောက်တော့</string>
+  <string name="yes_now">ဟုတ်တယ်၊ အခု</string>
+</resources>

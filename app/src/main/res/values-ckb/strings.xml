@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">پیشاندانی لەسەر ئەپەکانی تر</string>
+  <string name="open_nav">کشۆی گەشتیاری بکەرەوە</string>
+  <string name="close_nav">داخستنی کشۆی گەشتیاری</string>
+  <string name="show_while_charging">لەکاتی شەحنکردنەوەدا پیشان بدە</string>
+  <string name="text_enable_wallpaper">Wallpaper چالاک بکە</string>
+  <string name="number_of_colors">ژمارەی ڕەنگەکان</string>
+  <string name="click_a_color_to_edit">بۆ دەستکاریکردن کلیک لە ڕەنگێک بکە</string>
+  <string name="mtrl_picker_confirm">باشە</string>
+  <string name="SelectLanguage">زمان هەڵبژێرە</string>
+  <string name="text_cancel">ڕەتکردنەوە</string>
+  <string name="text_border_type">جۆری سنوور</string>
+  <string name="text_animation_speed">خێرایی ئەنیمەیشن</string>
+  <string name="text_border_size">قەبارەی سنوور</string>
+  <string name="text_radius_top">سەرەوەی تیژڕەوی</string>
+  <string name="text_radius_bottom">تیژڕەوی خوارەوە</string>
+  <string name="text_enable_display_notch">Notch چالاک بکە</string>
+  <string name="text_notch_width_top">سەرەوەی پانی چەقۆ</string>
+  <string name="text_notch_width_bottom">پانی چەقۆ لە خوارەوە</string>
+  <string name="text_notch_height">بەرزی چەقۆ</string>
+  <string name="text_notch_radius_top">سەرەوەی تیژڕەوی نوچ</string>
+  <string name="text_notch_radius_bottom">تیژڕەوی چەقۆ لە خوارەوە</string>
+  <string name="select_wallpaper">Wallpaper هەڵبژێرە</string>
+  <string name="allow_display_over_other_apps">ڕێگە بە پیشاندانی بدە لەسەر ئەپەکانی تر</string>
+  <string name="continue_">بەردەوام بوون</string>
+  <string name="app_name_service">سەرپۆشی شاشە بکەرەوە</string>
+  <string name="permission_request">داوای مۆڵەت</string>
+  <string name="power_connected">کێبڵی کارەبا بەستراوەتەوە</string>
+  <string name="power_disconnected">کێبڵی کارەبا پچڕاوە</string>
+  <string name="draw_over_cancelled">هێشتا مۆڵەتی سەرپۆشکردنی کێشان نەدراوە. دووبارە هەوڵبدەرەوە</string>
+  <string name="draw_over_granted">داواکاری مۆڵەتی سەرپۆشکردنی کێشان بەخشرا</string>
+  <string name="app_name">ڕووناکی لێوار</string>
+  <string name="please_wait">تکایە چاوەڕوان بن Wallpaper Downloading...</string>
+  <string name="no_internet">ئینتەرنێت نییە</string>
+  <string name="to_use_this">بۆ بەکارهێنانی ئەم تایبەتمەندییە مۆڵەتی دەستڕاگەیشتن پێویستە</string>
+  <string name="draw_over_denied">هێشتا مۆڵەتی سەرپۆشکردنی کێشان نەدراوە. دووبارە هەوڵبدەرەوە</string>
+  <string name="no_internet_war">تۆ لە ئۆفلاین تکایە ئینتەرنێتەکەت دابگیرسێنە بۆ ئەوەی کاغەزی دیواری ڕووناکی لێوار بەدەست بهێنیت.</string>
+  <string name="you_must">پێویستە مۆڵەتی \"Draw Over Other Apps\" چالاک بکەیت بۆ ئەوەی \"Edge Lighting\" بە باشی کار بکات.</string>
+  <string name="wallpaper_description">کاغەزی_دیواری ڕاستەوخۆ</string>
+  <string name="abstract_">پوختە</string>
+  <string name="nature">سروشت</string>
+  <string name="neon">نیۆن</string>
+  <string name="quotes">وەرگیراو</string>
+  <string name="sunset">خۆرهەڵاتن</string>
+  <string name="top">سەروو</string>
+  <string name="text_name_notification">دەست بە خزمەتگوزاری بکە</string>
+  <string name="No_topic_selected">هیچ بابەتێک هەڵنەبژێردراوە</string>
+  <string name="Update_finish">تەواوکردنی نوێکردنەوە</string>
+  <string name="loading_ad">بارکردنی ڕێکلام</string>
+  <string name="low_battery">ڕووناکی لێواری پاتری کەم</string>
+  <string name="battery_one">پاتری 1</string>
+  <string name="battery_two">پاتری ٢</string>
+  <string name="edge_service">خزمەتگوزاری بەڕێوەبردنی</string>
+  <string name="wallpaper">کاغەزی دیوار</string>
+  <string name="magical_wallpaper">ژیان</string>
+  <string name="main_ongoing_download">دروستکردنی پێشبینی</string>
+  <string name="permission_required">مۆڵەتی پێویستە</string>
+  <string name="title_onboarding_1">مۆڵەتی دەستڕاگەیشتن</string>
+  <string name="description_onboarding_1">دەستڕاگەیشتن تایبەتمەندییەکی سەرەکییە</string>
+  <string name="string_text_onboarding_complete_description">مۆڵەتی دەستڕاگەیشتن وەک تایبەتمەندییەکی سەرەکی پێویستە بۆ ئەوەی Edge Lighting کار لەسەر ئەپەکانی تر بکات و شاشەی قوفڵ بکات</string>
+  <string name="title_onboarding_2">مۆڵەتی دەستڕاگەیشتن</string>
+  <string name="description_onboarding_2">دەتوانرێت مۆڵەتەکە بەم شێوەیە بدرێت: \n \n دەستڕاگەیشتن > ئەپ/خزمەتگوزارییە دامەزراوەکان > ڕووناکی لێوار \n یان \n دەستڕاگەیشتن > خزمەتگوزارییەکانی دابەزاندنی زیاتر > ڕووناکی لێوار</string>
+  <string name="title_onboarding_3">کۆدکردنی ئەپی جوان</string>
+  <string name="description_onboarding_3">ئەرکی ئێمە دروستکردنی ئەپی بەسوود و وردە. ئێمە زۆرمان خۆشدەوێت یارمەتی خەڵک بدەین بۆ پاشەکەوتکردنی کات بە شتە سەرچاوە کراوەکان، بەڵام ئێمە ژیان ئاسانتر دەکەین بە دروستکردنی شتی نوێ. کۆدکردنی باش!</string>
+  <string name="start_text_advice">بە بەردەوامبوون لەسەر ئەم بەرنامەیە تۆ ڕەزامەندیت لەسەر مەرجەکانی بەکارهێنان و سیاسەتی نهێنی</string>
+  <string name="start">دەستپێکردن</string>
+  <string name="skip">بازدان</string>
+  <string name="finish">کۆتایی</string>
+  <string name="next">داهاتوو</string>
+  <string name="back">گەڕانەوە</string>
+  <string name="allow">ڕێپێدان</string>
+  <string name="slider_Edge">ڕووناکی لێوار</string>
+  <string name="slider_Edge1">ڕووناکی لێوارەکان لەسەر لێوارەکان پیشان بدە</string>
+  <string name="alert_Edge">ئاگادارکردنەوەی پاتری کەم</string>
+  <string name="alert_Edge1">ڕووناکی لێواری پرتەقاڵی بۆ ئاگادارکردنەوەی کەمی پاتری</string>
+  <string name="warning_Edge">ئاگادارکردنەوەی کەمی پاتری</string>
+  <string name="warning_Edge1">ڕووناکی لێواری سوور بۆ ئاگادارکردنەوەی پاتری زۆر کەم</string>
+  <string name="notch_Edge">نۆچ</string>
+  <string name="notch_Edge1">ڕووناکی لێوارەکان بە نۆچ چالاک بکە</string>
+  <string name="wallpaper_Edge">کاغەزی دیوار</string>
+  <string name="wallpaper_Edge1">ڕووناکی لێوارەکان بە Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>بێ وایەر</item> 
+  </string-array>
+  <string name="hello_blank_fragment">سڵاو پارچەیەکی سپی</string>
+  <string name="apply">جێبەجێکردن</string>
+  <string name="applied">جێبەجێ کراوە</string>
+  <string name="always_on_display_edge_lighting">هەمیشە لەسەر شاشە ڕووناکی لێواری</string>
+  <string name="confirm_exit">دەرچوون پشتڕاست بکەرەوە ?</string>
+  <string name="yes">بەڵێ</string>
+  <string name="no">نەخێر</string>
+  <string name="wallpapers">کاغەزی دیوار</string>
+  <string name="ok">باشە</string>
+  <string name="what_would_you_like_to_do">حەز دەکەیت چی بکەیت؟</string>
+  <string name="set_home_screen">شاشەی سەرەکی دابنێ</string>
+  <string name="set_lock_screen">شاشەی قوفڵ دابنێ</string>
+  <string name="set_both_screens">هەردوو شاشەکە دابنێ</string>
+  <string name="adjust_screen">شاشەی ڕێکخستن</string>
+  <string name="please_wait_ad_is_loading">تکایە چاوەڕوان بن، ڕێکلامەکە باردەبێت</string>
+  <string name="home">ماڵەوە</string>
+  <string name="edge_lighting_border">سنووری ڕووناکی لێوار</string>
+  <string name="view_more">بینینی زیاتر</string>
+  <string name="brighten_up_by_stunning_edges">بە لێوارە سەرسوڕهێنەرەکان گەشاوە بکەرەوە</string>
+  <string name="live_wallpapers">لایڤ والپێپەرەکان</string>
+  <string name="stunning_wallpapers">کاغەزی دیواری سەرسوڕهێنەر</string>
+  <string name="experience_by_interactive_wallpapers">ئەزموون لەلایەن Interactive Wallpapers</string>
+  <string name="dismiss">بەلاوە نان</string>
+  <string name="language">زمان</string>
+  <string name="privacy_policy">سیاسەتی پاراستنی نهێنی</string>
+  <string name="rate_us">ڕیزبەندی ئێمە</string>
+  <string name="more_app">ئەپی زیاتر</string>
+  <string name="exit">دەرچوون</string>
+  <string name="alert">ئاگاداری</string>
+  <string name="warning">ئاگادار کردنەوە</string>
+  <string name="trending">ترێندینگ</string>
+  <string name="applying_wallpaper">بەکارهێنانی کاغەزی دیوار</string>
+  <string name="wallpaper_applied">کاغەزی دیواری جێبەجێ کراوە</string>
+  <string name="accessibility_service_level_permission">ئاستی خزمەتگوزاری دەستڕاگەیشتن مۆڵەت:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">مۆڵەتی دەستڕاگەیشتن وەک تایبەتمەندییەکی سەرەکی پێویستە بۆ ئەوەی Edge Lighting کار لەسەر ئەپەکانی تر بکات و شاشەی قوفڵ بکات</string>
+  <string name="this_permission_can_be_granted_as_follow">ئەم مۆڵەتە دەتوانرێت بەم شێوەیە بدرێت:</string>
+  <string name="go_to_settings">بڕۆ بۆ ڕێکخستنەکان</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">دەستڕاگەیشتن > ئەپ/خزمەتگوزارییە دامەزراوەکان > ڕووناکی لێوار</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">دەستڕاگەیشتن > خزمەتگوزاری زیاتر دابەزاندن > ڕووناکی لێوار</string>
+  <string name="grant_permission_now">ئێستا مۆڵەت بدە؟</string>
+  <string name="later">دواتر</string>
+  <string name="yes_now">بەڵێ ئێستا</string>
+</resources>

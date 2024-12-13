@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">العرض على التطبيقات الأخرى</string>
+  <string name="open_nav">افتح درج التنقل</string>
+  <string name="close_nav">أغلق درج التنقل</string>
+  <string name="show_while_charging">تظهر أثناء الشحن</string>
+  <string name="text_enable_wallpaper">تمكين ورق الحائط</string>
+  <string name="number_of_colors">عدد الألوان</string>
+  <string name="click_a_color_to_edit">انقر فوق اللون لتحريره</string>
+  <string name="mtrl_picker_confirm">نعم</string>
+  <string name="SelectLanguage">اختر اللغة</string>
+  <string name="text_cancel">يلغي</string>
+  <string name="text_border_type">نوع الحدود</string>
+  <string name="text_animation_speed">سرعة الرسوم المتحركة</string>
+  <string name="text_border_size">حجم الحدود</string>
+  <string name="text_radius_top">قمة الشعاع</string>
+  <string name="text_radius_bottom">نصف القطر السفلي</string>
+  <string name="text_enable_display_notch">تمكين الشق</string>
+  <string name="text_notch_width_top">عرض الشق العلوي</string>
+  <string name="text_notch_width_bottom">عرض الشق السفلي</string>
+  <string name="text_notch_height">ارتفاع الشق</string>
+  <string name="text_notch_radius_top">قمة نصف قطرها الشق</string>
+  <string name="text_notch_radius_bottom">نصف قطر الشق السفلي</string>
+  <string name="select_wallpaper">حدد ورق الحائط</string>
+  <string name="allow_display_over_other_apps">السماح بالعرض على التطبيقات الأخرى</string>
+  <string name="continue_">يكمل</string>
+  <string name="app_name_service">فتح تراكب الشاشة</string>
+  <string name="permission_request">طلب الإذن</string>
+  <string name="power_connected">تم توصيل كابل الطاقة</string>
+  <string name="power_disconnected">تم فصل كابل الطاقة</string>
+  <string name="draw_over_cancelled">لم يتم منح إذن التراكب بعد. حاول ثانية</string>
+  <string name="draw_over_granted">تم منح طلب أذونات التراكب</string>
+  <string name="app_name">إضاءة الحافة</string>
+  <string name="please_wait">يرجى الانتظار جارٍ تنزيل الخلفية...</string>
+  <string name="no_internet">لا يوجد إنترنت</string>
+  <string name="to_use_this">لاستخدام هذه الميزة مطلوب إذن الوصول</string>
+  <string name="draw_over_denied">لم يتم منح إذن التراكب بعد. حاول ثانية</string>
+  <string name="no_internet_war">أنت غير متصل بالإنترنت، يرجى تشغيل الإنترنت الخاص بك للحصول على خلفيات الإضاءة المتطورة.</string>
+  <string name="you_must">يجب عليك تمكين إذن \"الرسم فوق التطبيقات الأخرى\" حتى تعمل \"إضاءة الحافة\" بشكل صحيح.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">خلاصة</string>
+  <string name="nature">طبيعة</string>
+  <string name="neon">نيون</string>
+  <string name="quotes">يقتبس</string>
+  <string name="sunset">غروب</string>
+  <string name="top">قمة</string>
+  <string name="text_name_notification">ابدأ الخدمة</string>
+  <string name="No_topic_selected">لم يتم اختيار أي موضوع</string>
+  <string name="Update_finish">تحديث الانتهاء</string>
+  <string name="loading_ad">جارٍ تحميل الإعلان</string>
+  <string name="low_battery">إضاءة حافة البطارية المنخفضة</string>
+  <string name="battery_one">البطارية 1</string>
+  <string name="battery_two">البطارية 2</string>
+  <string name="edge_service">خدمة التشغيل</string>
+  <string name="wallpaper">ورق جدران</string>
+  <string name="magical_wallpaper">يعيش</string>
+  <string name="main_ongoing_download">جارٍ إنشاء المعاينة</string>
+  <string name="permission_required">الإذن مطلوب</string>
+  <string name="title_onboarding_1">إذن الوصول</string>
+  <string name="description_onboarding_1">إمكانية الوصول هي ميزة أساسية</string>
+  <string name="string_text_onboarding_complete_description">يعد إذن الوصول كميزة أساسية ضروريًا لكي تعمل Edge Lighting على التطبيقات الأخرى وشاشة القفل</string>
+  <string name="title_onboarding_2">إذن الوصول</string>
+  <string name="description_onboarding_2">يمكن منح الإذن كما يلي: \n \n إمكانية الوصول > التطبيقات/الخدمات المثبتة > إضاءة الحافة \n أو \n إمكانية الوصول > المزيد من خدمات التنزيل > إضاءة الحافة</string>
+  <string name="title_onboarding_3">كود التطبيقات الجميلة</string>
+  <string name="description_onboarding_3">مهمتنا هي إنشاء تطبيقات مفيدة ودقيقة. نحن نحب مساعدة الأشخاص على توفير الوقت باستخدام المواد مفتوحة المصدر، ولكننا أيضًا نجعل الحياة أسهل من خلال إنشاء أشياء جديدة. ترميز جيد!</string>
+  <string name="start_text_advice">من خلال الاستمرار في هذا التطبيق فإنك توافق على شروط الاستخدام وسياسة الخصوصية الخاصة بنا</string>
+  <string name="start">يبدأ</string>
+  <string name="skip">يتخطى</string>
+  <string name="finish">ينهي</string>
+  <string name="next">التالي</string>
+  <string name="back">خلف</string>
+  <string name="allow">يسمح</string>
+  <string name="slider_Edge">إضاءة الحافة</string>
+  <string name="slider_Edge1">عرض إضاءة الحافة على الحواف</string>
+  <string name="alert_Edge">تنبيه انخفاض البطارية</string>
+  <string name="alert_Edge1">إضاءة حافة برتقالية لتنبيه انخفاض البطارية</string>
+  <string name="warning_Edge">تحذير من انخفاض مستوى البطارية</string>
+  <string name="warning_Edge1">إضاءة الحافة الحمراء للتحذير من انخفاض البطارية للغاية</string>
+  <string name="notch_Edge">الشق</string>
+  <string name="notch_Edge1">تمكين إضاءة الحافة باستخدام الشق</string>
+  <string name="wallpaper_Edge">ورق جدران</string>
+  <string name="wallpaper_Edge1">إضاءة الحافة مع ورق الحائط</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>تيار متردد</item>  
+    <item>USB</item>  
+    <item>لاسلكي</item> 
+  </string-array>
+  <string name="hello_blank_fragment">مرحبا جزء فارغ</string>
+  <string name="apply">يتقدم</string>
+  <string name="applied">مُطبَّق</string>
+  <string name="always_on_display_edge_lighting">دائما على إضاءة حافة الشاشة</string>
+  <string name="confirm_exit">تأكيد الخروج؟</string>
+  <string name="yes">نعم</string>
+  <string name="no">لا</string>
+  <string name="wallpapers">خلفيات</string>
+  <string name="ok">نعم</string>
+  <string name="what_would_you_like_to_do">ماذا تريد أن تفعل؟</string>
+  <string name="set_home_screen">ضبط الشاشة الرئيسية</string>
+  <string name="set_lock_screen">ضبط شاشة القفل</string>
+  <string name="set_both_screens">ضبط كلا الشاشتين</string>
+  <string name="adjust_screen">ضبط الشاشة</string>
+  <string name="please_wait_ad_is_loading">برجاء الإنتظار، جاري تحميل الإعلان</string>
+  <string name="home">بيت</string>
+  <string name="edge_lighting_border">حدود إضاءة الحافة</string>
+  <string name="view_more">عرض المزيد</string>
+  <string name="brighten_up_by_stunning_edges">سطع بحواف مذهلة</string>
+  <string name="live_wallpapers">خلفيات حية</string>
+  <string name="stunning_wallpapers">خلفيات مذهلة</string>
+  <string name="experience_by_interactive_wallpapers">تجربة من خلال خلفيات تفاعلية</string>
+  <string name="dismiss">رفض</string>
+  <string name="language">لغة</string>
+  <string name="privacy_policy">سياسة الخصوصية</string>
+  <string name="rate_us">قيمنا</string>
+  <string name="more_app">المزيد من التطبيقات</string>
+  <string name="exit">مخرج</string>
+  <string name="alert">يُحذًِر</string>
+  <string name="warning">تحذير</string>
+  <string name="trending">تتجه</string>
+  <string name="applying_wallpaper">تطبيق ورق الحائط</string>
+  <string name="wallpaper_applied">تم تطبيق الخلفية</string>
+  <string name="accessibility_service_level_permission">إذن مستوى خدمة الوصول:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">يعد إذن الوصول كميزة أساسية ضروريًا لكي تعمل Edge Lighting على التطبيقات الأخرى وشاشة القفل</string>
+  <string name="this_permission_can_be_granted_as_follow">يمكن منح هذا الإذن على النحو التالي:</string>
+  <string name="go_to_settings">انتقل إلى الإعدادات</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">إمكانية الوصول > التطبيقات/الخدمات المثبتة > إضاءة الحافة</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">إمكانية الوصول > المزيد من خدمات التنزيل > إضاءة الحواف</string>
+  <string name="grant_permission_now">منح الإذن الآن؟</string>
+  <string name="later">لاحقاً</string>
+  <string name="yes_now">نعم الآن</string>
+</resources>

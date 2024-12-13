@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">በሌሎች መተግበሪያዎች ላይ አሳይ</string>
+  <string name="open_nav">የአሰሳ መሳቢያን ክፈት</string>
+  <string name="close_nav">የአሰሳ መሳቢያን ዝጋ</string>
+  <string name="show_while_charging">ኃይል በሚሞላበት ጊዜ አሳይ</string>
+  <string name="text_enable_wallpaper">ልጣፍ አንቃ</string>
+  <string name="number_of_colors">የቀለም ብዛት</string>
+  <string name="click_a_color_to_edit">ለማርትዕ ቀለም ጠቅ ያድርጉ</string>
+  <string name="mtrl_picker_confirm">እሺ</string>
+  <string name="SelectLanguage">ቋንቋ ይምረጡ</string>
+  <string name="text_cancel">ሰርዝ</string>
+  <string name="text_border_type">የድንበር አይነት</string>
+  <string name="text_animation_speed">የአኒሜሽን ፍጥነት</string>
+  <string name="text_border_size">የድንበር መጠን</string>
+  <string name="text_radius_top">ራዲየስ የላይኛው</string>
+  <string name="text_radius_bottom">ራዲየስ ታች</string>
+  <string name="text_enable_display_notch">ኖት አንቃ</string>
+  <string name="text_notch_width_top">የኖት ስፋት ከላይ</string>
+  <string name="text_notch_width_bottom">የኖት ስፋት ታች</string>
+  <string name="text_notch_height">የኖት ቁመት</string>
+  <string name="text_notch_radius_top">የኖት ራዲየስ አናት</string>
+  <string name="text_notch_radius_bottom">ራዲየስ የታችኛው ክፍል</string>
+  <string name="select_wallpaper">ልጣፍ ይምረጡ</string>
+  <string name="allow_display_over_other_apps">በሌሎች መተግበሪያዎች ላይ ለማሳየት ፍቀድ</string>
+  <string name="continue_">ቀጥል</string>
+  <string name="app_name_service">የስክሪን ተደራቢ ክፈት</string>
+  <string name="permission_request">የፍቃድ ጥያቄ</string>
+  <string name="power_connected">የኃይል ገመድ ተገናኝቷል</string>
+  <string name="power_disconnected">የኃይል ገመድ ተቋርጧል</string>
+  <string name="draw_over_cancelled">የመሳል ተደራቢ ፈቃድ ገና አልተሰጠም። እንደገና ይሞክሩ</string>
+  <string name="draw_over_granted">የመሳል የተደራቢ ፈቃዶች ጥያቄ ተፈቅዷል</string>
+  <string name="app_name">የጠርዝ መብራት</string>
+  <string name="please_wait">እባክዎን የግድግዳ ወረቀት ማውረድ ይጠብቁ…</string>
+  <string name="no_internet">ኢንተርኔት የለም።</string>
+  <string name="to_use_this">ይህንን ባህሪ ለመጠቀም የተደራሽነት ፍቃድ ያስፈልጋል</string>
+  <string name="draw_over_denied">የመሳል ተደራቢ ፈቃድ ገና አልተሰጠም። እንደገና ይሞክሩ</string>
+  <string name="no_internet_war">ከመስመር ውጭ ነዎት እባክዎን የጠርዝ ብርሃን የግድግዳ ወረቀቶችን ለማግኘት በይነመረብዎን ያብሩ።</string>
+  <string name="you_must">\"Edge Lighting\" በትክክል እንዲሰራ የ\"Draw Over Other Apps\" ፍቃድን ማንቃት አለቦት።</string>
+  <string name="wallpaper_description">የቀጥታ_ልጣፍ</string>
+  <string name="abstract_">ረቂቅ</string>
+  <string name="nature">ተፈጥሮ</string>
+  <string name="neon">ኒዮን</string>
+  <string name="quotes">ጥቅሶች</string>
+  <string name="sunset">ጀንበር ስትጠልቅ</string>
+  <string name="top">ከፍተኛ</string>
+  <string name="text_name_notification">አገልግሎት ጀምር</string>
+  <string name="No_topic_selected">ምንም ርዕስ አልተመረጠም።</string>
+  <string name="Update_finish">ማዘመን ጨርስ</string>
+  <string name="loading_ad">ማስታወቂያን በመጫን ላይ</string>
+  <string name="low_battery">ዝቅተኛ የባትሪ ጠርዝ ብርሃን</string>
+  <string name="battery_one">ባትሪ 1</string>
+  <string name="battery_two">ባትሪ 2</string>
+  <string name="edge_service">የሩጫ አገልግሎት</string>
+  <string name="wallpaper">ልጣፍ</string>
+  <string name="magical_wallpaper">ቀጥታ</string>
+  <string name="main_ongoing_download">ቅድመ እይታን በማመንጨት ላይ</string>
+  <string name="permission_required">ፍቃድ ያስፈልጋል</string>
+  <string name="title_onboarding_1">የተደራሽነት ፍቃድ</string>
+  <string name="description_onboarding_1">ተደራሽነት ዋና ባህሪ ነው።</string>
+  <string name="string_text_onboarding_complete_description">Edge Lighting በሌሎች መተግበሪያዎች ላይ እንዲሰራ እና ስክሪን እንዲቆለፍ የተደራሽነት ፈቃዱ እንደ ዋና ባህሪ መሆን አለበት።</string>
+  <string name="title_onboarding_2">የተደራሽነት ፍቃድ</string>
+  <string name="description_onboarding_2">ፈቃዱ በሚከተለው መልኩ ሊሰጥ ይችላል \n \n ተደራሽነት > የተጫኑ መተግበሪያዎች/አገልግሎቶች > የጠርዝ መብራት \n ወይም \n ተደራሽነት > ተጨማሪ የማውረድ አገልግሎቶች > የጠርዝ መብራት</string>
+  <string name="title_onboarding_3">የሚያምሩ መተግበሪያዎችን ኮድ ያድርጉ</string>
+  <string name="description_onboarding_3">የእኛ ተልእኮ ጠቃሚ እና ስውር መተግበሪያዎችን መፍጠር ነው። ሰዎች በክፍት ምንጭ ነገሮች ጊዜ እንዲቆጥቡ መርዳት እንወዳለን፣ ነገር ግን አዳዲስ ነገሮችን በመፍጠር ህይወትን ቀላል እናደርጋለን። ጥሩ ኮድ መስጠት!</string>
+  <string name="start_text_advice">በዚህ መተግበሪያ ላይ በመቀጠልዎ በእኛ የአጠቃቀም ውል እና የግላዊነት መመሪያ ተስማምተዋል።</string>
+  <string name="start">ጀምር</string>
+  <string name="skip">ዝለል</string>
+  <string name="finish">ጨርስ</string>
+  <string name="next">ቀጥሎ</string>
+  <string name="back">ተመለስ</string>
+  <string name="allow">ፍቀድ</string>
+  <string name="slider_Edge">የጠርዝ መብራት</string>
+  <string name="slider_Edge1">የጠርዝ ብርሃንን በ Edges ላይ አሳይ</string>
+  <string name="alert_Edge">ዝቅተኛ የባትሪ ማንቂያ</string>
+  <string name="alert_Edge1">ለአነስተኛ የባትሪ ማንቂያ ብርቱካናማ ጠርዝ መብራት</string>
+  <string name="warning_Edge">ዝቅተኛ የባትሪ ማስጠንቀቂያ</string>
+  <string name="warning_Edge1">ቀይ የጠርዝ መብራት በጣም ዝቅተኛ የባትሪ ማስጠንቀቂያ</string>
+  <string name="notch_Edge">ኖት</string>
+  <string name="notch_Edge1">የጠርዝ መብራትን በኖት አንቃ</string>
+  <string name="wallpaper_Edge">ልጣፍ</string>
+  <string name="wallpaper_Edge1">የጠርዝ መብራት ከግድግዳ ወረቀት ጋር</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ገመድ አልባ</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ሰላም ባዶ ቁራጭ</string>
+  <string name="apply">ያመልክቱ</string>
+  <string name="applied">ተተግብሯል።</string>
+  <string name="always_on_display_edge_lighting">ሁልጊዜ በማሳያ ጠርዝ ብርሃን ላይ</string>
+  <string name="confirm_exit">መውጣት ይረጋገጥ?</string>
+  <string name="yes">አዎ</string>
+  <string name="no">አይ</string>
+  <string name="wallpapers">የግድግዳ ወረቀቶች</string>
+  <string name="ok">እሺ</string>
+  <string name="what_would_you_like_to_do">ምን ማድረግ ይፈልጋሉ?</string>
+  <string name="set_home_screen">መነሻ ስክሪን አዘጋጅ</string>
+  <string name="set_lock_screen">የመቆለፊያ ማያ ያዘጋጁ</string>
+  <string name="set_both_screens">ሁለቱንም ማያ ገጾች ያዘጋጁ</string>
+  <string name="adjust_screen">ስክሪን አስተካክል።</string>
+  <string name="please_wait_ad_is_loading">እባክዎ ይጠብቁ፣ ማስታወቂያ እየተጫነ ነው።</string>
+  <string name="home">ቤት</string>
+  <string name="edge_lighting_border">የጠርዝ መብራት ድንበር</string>
+  <string name="view_more">ተጨማሪ ይመልከቱ</string>
+  <string name="brighten_up_by_stunning_edges">በሚያስደንቅ ጠርዞች ያበራል።</string>
+  <string name="live_wallpapers">የቀጥታ የግድግዳ ወረቀቶች</string>
+  <string name="stunning_wallpapers">አስደናቂ የግድግዳ ወረቀቶች</string>
+  <string name="experience_by_interactive_wallpapers">በይነተገናኝ የግድግዳ ወረቀቶች ልምድ</string>
+  <string name="dismiss">አሰናብት</string>
+  <string name="language">ቋንቋ</string>
+  <string name="privacy_policy">የግላዊነት ፖሊሲ</string>
+  <string name="rate_us">ደረጃ ይስጡን።</string>
+  <string name="more_app">ተጨማሪ መተግበሪያ</string>
+  <string name="exit">መውጣት</string>
+  <string name="alert">ማንቂያ</string>
+  <string name="warning">ማስጠንቀቂያ</string>
+  <string name="trending">በመታየት ላይ ያለ</string>
+  <string name="applying_wallpaper">የግድግዳ ወረቀት መተግበር</string>
+  <string name="wallpaper_applied">ልጣፍ ተተግብሯል።</string>
+  <string name="accessibility_service_level_permission">የተደራሽነት አገልግሎት ደረጃ ፍቃድ፡</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Edge Lighting በሌሎች መተግበሪያዎች ላይ እንዲሰራ እና ስክሪን እንዲቆለፍ የተደራሽነት ፈቃዱ እንደ ዋና ባህሪ መሆን አለበት።</string>
+  <string name="this_permission_can_be_granted_as_follow">ይህ ፈቃድ በሚከተለው መንገድ ሊሰጥ ይችላል፡-</string>
+  <string name="go_to_settings">ወደ ቅንብሮች ይሂዱ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ተደራሽነት > የተጫኑ መተግበሪያዎች/አገልግሎቶች > የጠርዝ መብራት</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ተደራሽነት > ተጨማሪ የማውረድ አገልግሎቶች > የጠርዝ መብራት</string>
+  <string name="grant_permission_now">አሁን ፍቃድ ይስጡ?</string>
+  <string name="later">በኋላ</string>
+  <string name="yes_now">አዎ አሁን</string>
+</resources>

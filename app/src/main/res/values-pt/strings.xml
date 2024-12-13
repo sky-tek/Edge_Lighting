@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Exibir sobre outros aplicativos</string>
+  <string name="open_nav">Abra a gaveta de navegação</string>
+  <string name="close_nav">Fechar gaveta de navegação</string>
+  <string name="show_while_charging">Mostrar durante o carregamento</string>
+  <string name="text_enable_wallpaper">Ativar papel de parede</string>
+  <string name="number_of_colors">Número de cores</string>
+  <string name="click_a_color_to_edit">Clique em uma cor para editar</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Selecione o idioma</string>
+  <string name="text_cancel">Cancelar</string>
+  <string name="text_border_type">Tipo de borda</string>
+  <string name="text_animation_speed">Velocidade de animação</string>
+  <string name="text_border_size">Tamanho da borda</string>
+  <string name="text_radius_top">Raio superior</string>
+  <string name="text_radius_bottom">Raio inferior</string>
+  <string name="text_enable_display_notch">Habilitar entalhe</string>
+  <string name="text_notch_width_top">Largura do entalhe superior</string>
+  <string name="text_notch_width_bottom">Largura do entalhe inferior</string>
+  <string name="text_notch_height">Altura do entalhe</string>
+  <string name="text_notch_radius_top">Raio de entalhe superior</string>
+  <string name="text_notch_radius_bottom">Raio de entalhe inferior</string>
+  <string name="select_wallpaper">Selecione papel de parede</string>
+  <string name="allow_display_over_other_apps">Permitir exibição sobre outros aplicativos</string>
+  <string name="continue_">Continuar</string>
+  <string name="app_name_service">Sobreposição de tela aberta</string>
+  <string name="permission_request">Solicitação de permissão</string>
+  <string name="power_connected">Cabo de alimentação conectado</string>
+  <string name="power_disconnected">Cabo de alimentação desconectado</string>
+  <string name="draw_over_cancelled">Permissão de sobreposição de desenho ainda não concedida. Tente novamente</string>
+  <string name="draw_over_granted">Solicitação de permissões de sobreposição de desenho concedida</string>
+  <string name="app_name">Iluminação de borda</string>
+  <string name="please_wait">Aguarde o download do papel de parede…</string>
+  <string name="no_internet">Sem internet</string>
+  <string name="to_use_this">Para usar este recurso é necessária permissão de acessibilidade</string>
+  <string name="draw_over_denied">Permissão de sobreposição de desenho ainda não concedida. Tente novamente</string>
+  <string name="no_internet_war">Você está offline, ligue sua internet para obter papéis de parede com iluminação de borda.</string>
+  <string name="you_must">Você deve ativar a permissão \"Desenhar sobre outros aplicativos\" para que \"Edge Lighting\" funcione corretamente.</string>
+  <string name="wallpaper_description">Papel de parede ao vivo</string>
+  <string name="abstract_">Resumo</string>
+  <string name="nature">Natureza</string>
+  <string name="neon">Néon</string>
+  <string name="quotes">Citações</string>
+  <string name="sunset">Pôr do sol</string>
+  <string name="top">Principal</string>
+  <string name="text_name_notification">Iniciar serviço</string>
+  <string name="No_topic_selected">Nenhum tópico selecionado</string>
+  <string name="Update_finish">Conclusão da atualização</string>
+  <string name="loading_ad">Carregando anúncio</string>
+  <string name="low_battery">Iluminação de borda de bateria fraca</string>
+  <string name="battery_one">Bateria 1</string>
+  <string name="battery_two">Bateria 2</string>
+  <string name="edge_service">Serviço em execução</string>
+  <string name="wallpaper">Papel de parede</string>
+  <string name="magical_wallpaper">Ao vivo</string>
+  <string name="main_ongoing_download">Gerando visualização</string>
+  <string name="permission_required">Permissão necessária</string>
+  <string name="title_onboarding_1">Permissão de acessibilidade</string>
+  <string name="description_onboarding_1">Acessibilidade é um recurso central</string>
+  <string name="string_text_onboarding_complete_description">A permissão de acessibilidade como recurso principal é obrigatória para que o Edge Lighting funcione em outros aplicativos e na tela de bloqueio</string>
+  <string name="title_onboarding_2">Permissão de acessibilidade</string>
+  <string name="description_onboarding_2">A permissão pode ser concedida da seguinte forma: \n \n Acessibilidade > Aplicativos/serviços instalados > Edge Lighting \n OU \n Acessibilidade > Mais serviços de download > Edge Lighting</string>
+  <string name="title_onboarding_3">Codifique belos aplicativos</string>
+  <string name="description_onboarding_3">Nossa missão é criar aplicativos úteis e sutis. Adoramos ajudar as pessoas a economizar tempo com materiais de código aberto, mas também facilitamos a vida criando coisas novas. Boa codificação!</string>
+  <string name="start_text_advice">Ao continuar neste aplicativo você concorda com nossos Termos de Uso e Política de Privacidade</string>
+  <string name="start">Começar</string>
+  <string name="skip">Pular</string>
+  <string name="finish">Terminar</string>
+  <string name="next">Próximo</string>
+  <string name="back">Voltar</string>
+  <string name="allow">Permitir</string>
+  <string name="slider_Edge">Iluminação de borda</string>
+  <string name="slider_Edge1">Exibir iluminação de borda sobre bordas</string>
+  <string name="alert_Edge">Alerta de bateria fraca</string>
+  <string name="alert_Edge1">Iluminação lateral laranja para alerta de bateria fraca</string>
+  <string name="warning_Edge">Aviso de bateria fraca</string>
+  <string name="warning_Edge1">Iluminação de borda vermelha para aviso de bateria muito fraca</string>
+  <string name="notch_Edge">Entalhe</string>
+  <string name="notch_Edge1">Habilite iluminação de borda com entalhe</string>
+  <string name="wallpaper_Edge">Papel de parede</string>
+  <string name="wallpaper_Edge1">Iluminação de borda com papel de parede</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>Sem fio</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Olá fragmento em branco</string>
+  <string name="apply">Aplicar</string>
+  <string name="applied">Aplicado</string>
+  <string name="always_on_display_edge_lighting">Iluminação de borda sempre em exibição</string>
+  <string name="confirm_exit">Confirmar saída?</string>
+  <string name="yes">Sim</string>
+  <string name="no">Não</string>
+  <string name="wallpapers">Papéis de parede</string>
+  <string name="ok">OK</string>
+  <string name="what_would_you_like_to_do">O que você gostaria de fazer?</string>
+  <string name="set_home_screen">Definir tela inicial</string>
+  <string name="set_lock_screen">Definir tela de bloqueio</string>
+  <string name="set_both_screens">Definir ambas as telas</string>
+  <string name="adjust_screen">Ajustar tela</string>
+  <string name="please_wait_ad_is_loading">Aguarde, o anúncio está carregando</string>
+  <string name="home">Lar</string>
+  <string name="edge_lighting_border">Borda de iluminação de borda</string>
+  <string name="view_more">Ver mais</string>
+  <string name="brighten_up_by_stunning_edges">Ilumine com bordas deslumbrantes</string>
+  <string name="live_wallpapers">Papéis de parede animados</string>
+  <string name="stunning_wallpapers">Papéis de parede impressionantes</string>
+  <string name="experience_by_interactive_wallpapers">Experiência por papéis de parede interativos</string>
+  <string name="dismiss">Liberar</string>
+  <string name="language">Linguagem</string>
+  <string name="privacy_policy">Política de Privacidade</string>
+  <string name="rate_us">Avalie-nos</string>
+  <string name="more_app">Mais aplicativos</string>
+  <string name="exit">Saída</string>
+  <string name="alert">Alerta</string>
+  <string name="warning">Aviso</string>
+  <string name="trending">Tendências</string>
+  <string name="applying_wallpaper">Aplicando papel de parede</string>
+  <string name="wallpaper_applied">Papel de parede aplicado</string>
+  <string name="accessibility_service_level_permission">Permissão de nível de serviço de acessibilidade:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">A permissão de acessibilidade como recurso principal é obrigatória para que o Edge Lighting funcione em outros aplicativos e na tela de bloqueio</string>
+  <string name="this_permission_can_be_granted_as_follow">Esta permissão pode ser concedida da seguinte forma:</string>
+  <string name="go_to_settings">Vá para Configurações</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Acessibilidade > Aplicativos/serviços instalados > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Acessibilidade > Mais serviços de download > Edge Lighting</string>
+  <string name="grant_permission_now">Conceder permissão agora?</string>
+  <string name="later">Mais tarde</string>
+  <string name="yes_now">Sim, agora</string>
+</resources>

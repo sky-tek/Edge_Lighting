@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Display ova ɔda ap dɛn</string>
+  <string name="open_nav">Opin Navigation Drawer</string>
+  <string name="close_nav">Klos Navigation Drawer</string>
+  <string name="show_while_charging">Sho we yu de chaj</string>
+  <string name="text_enable_wallpaper">Enable Wallpaper</string>
+  <string name="number_of_colors">Nɔmba fɔ di Kɔlɔ dɛn</string>
+  <string name="click_a_color_to_edit">Klik wan kɔlɔ fɔ ɛdit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Pik di Langwej</string>
+  <string name="text_cancel">Nɔ</string>
+  <string name="text_border_type">Bɔda tayp</string>
+  <string name="text_animation_speed">Animashɔn spid</string>
+  <string name="text_border_size">Bɔda saiz</string>
+  <string name="text_radius_top">Radius we de ɔp</string>
+  <string name="text_radius_bottom">Radius na di bɔt</string>
+  <string name="text_enable_display_notch">Ɛnabul Notch</string>
+  <string name="text_notch_width_top">Notch wit di top</string>
+  <string name="text_notch_width_bottom">Notch wit di bottom</string>
+  <string name="text_notch_height">Notch ayt we i gɛt</string>
+  <string name="text_notch_radius_top">Notch rayus top</string>
+  <string name="text_notch_radius_bottom">Notch radius na di bɔt</string>
+  <string name="select_wallpaper">Pik di Wallpaper</string>
+  <string name="allow_display_over_other_apps">Alaw displei oba ɔda ap dɛn</string>
+  <string name="continue_">Kɔntinyu</string>
+  <string name="app_name_service">Opin skrin ɔvlay</string>
+  <string name="permission_request">Rikwest fɔ Pɛrmishɔn</string>
+  <string name="power_connected">Pawa Kebul we dɛn dɔn kɔnɛkt</string>
+  <string name="power_disconnected">Pawa Kebul dɔn Diskonɛkt</string>
+  <string name="draw_over_cancelled">Draw ovalay permishɔn nɔ gi yet. Tray bak</string>
+  <string name="draw_over_granted">Draw ɔvlay pɔmishɔn rikwest grant</string>
+  <string name="app_name">Edj Layt we dɛn kin yuz</string>
+  <string name="please_wait">Duya una wet Wallpaper Downloading...</string>
+  <string name="no_internet">Nɔ intanɛt nɔ de</string>
+  <string name="to_use_this">Fɔ yuz dis ficha, yu nid fɔ gɛt Aksesbiliti Pɛmishɔn</string>
+  <string name="draw_over_denied">Draw ovalay permishɔn nɔ gi yet. Tray bak</string>
+  <string name="no_internet_war">Yu de oflain duya on yu intanet fo geht ed lait wallpapers.</string>
+  <string name="you_must">Yu fɔ ɛnabul \"Draw Over Other Apps\" pɔmishɔn fɔ mek \"Edge Lighting\" wok fayn.</string>
+  <string name="wallpaper_description">Layv_wɔlpepa</string>
+  <string name="abstract_">At fɔ ɔndastand</string>
+  <string name="nature">Nechɔ</string>
+  <string name="neon">Niɔn</string>
+  <string name="quotes">Tɔk dɛn</string>
+  <string name="sunset">We di san dɔn go dɔŋ</string>
+  <string name="top">Ɔp</string>
+  <string name="text_name_notification">Start savis</string>
+  <string name="No_topic_selected">No tɔpik nɔ de we dɛn pik</string>
+  <string name="Update_finish">Update finish</string>
+  <string name="loading_ad">We yu de lod Ad</string>
+  <string name="low_battery">Low Batri edj Layt</string>
+  <string name="battery_one">Batri 1. Di wan dɛn we de yuz am</string>
+  <string name="battery_two">Batri 2. Di wan dɛn we de yuz am</string>
+  <string name="edge_service">Rɔnin savis</string>
+  <string name="wallpaper">Wallpaper</string>
+  <string name="magical_wallpaper">Tap</string>
+  <string name="main_ongoing_download">Fɔ Jɛnɛret Privyu</string>
+  <string name="permission_required">Dɛn nid fɔ gɛt di rayt fɔ du dat</string>
+  <string name="title_onboarding_1">Aksesbiliti Pɛmishɔn</string>
+  <string name="description_onboarding_1">Aksesbiliti na wan men tin</string>
+  <string name="string_text_onboarding_complete_description">Di Aksesibiliti Pɛmishɔn as wan kɔr ficha na fɔ mek Ɛj Layt wok oba ɔda ap dɛn ɛn lɔk skrin</string>
+  <string name="title_onboarding_2">Aksesbiliti Pɛmishɔn</string>
+  <string name="description_onboarding_2">Yu kin gi di Pɔmishɔn lɛk dis: \n \n Aksesibiliti > Instɔl Ap/Savis > Ɛj Layt \n Ɔ \n Aksesibiliti > Mɔ Daunlod Savis > Ɛj Layt</string>
+  <string name="title_onboarding_3">Kod fayn fayn ap dɛn</string>
+  <string name="description_onboarding_3">Wi mishɔn na fɔ mek yusful &amp; subtil ap dɛn. Wi lɛk fɔ ɛp pipul dɛn fɔ sev tɛm wit opin-sɔs tin dɛn, bɔt wi kin mek layf izi bak bay we wi de mek nyu tin dɛn. Gud Kɔdin!</string>
+  <string name="start_text_advice">We yu kɔntinyu fɔ yuz dis aplikeshɔn, yu gri wit wi Tɛm fɔ Yuz ɛn Prayvesi Polisi</string>
+  <string name="start">Stat</string>
+  <string name="skip">Jɔmp</string>
+  <string name="finish">Dɔn</string>
+  <string name="next">Nɛks</string>
+  <string name="back">Bak</string>
+  <string name="allow">Gri</string>
+  <string name="slider_Edge">Edj Layt we dɛn kin yuz</string>
+  <string name="slider_Edge1">Display ed laytin oba Edj</string>
+  <string name="alert_Edge">Lɔw Batri Alɛt</string>
+  <string name="alert_Edge1">Ɔrɛnj edj layt fɔ lɔw bateri alert</string>
+  <string name="warning_Edge">Wonin fɔ di Batri we Nɔ De</string>
+  <string name="warning_Edge1">Rɛd edj layt fɔ rili lɔw bateri wɔnin</string>
+  <string name="notch_Edge">Notch we dɛn kɔl</string>
+  <string name="notch_Edge1">Enable ed laytin wit notch</string>
+  <string name="wallpaper_Edge">Wallpaper</string>
+  <string name="wallpaper_Edge1">Edj laytin wit Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1. 1. 1.</item>  
+    <item>2. 2.</item>  
+    <item>3. 3.</item>  
+    <item>4. 4.</item>  
+    <item>5. 5.</item>  
+    <item>6. 6.</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Wayales</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Halo blank fragmɛnt</string>
+  <string name="apply">Aplay</string>
+  <string name="applied">Dɛn bin aplay am</string>
+  <string name="always_on_display_edge_lighting">Ɔltɛm na displei ed laytin</string>
+  <string name="confirm_exit">Kɔnfɛm Ɛkzit ?</string>
+  <string name="yes">Yɛs</string>
+  <string name="no">Nɔ</string>
+  <string name="wallpapers">Wallpaper dɛn we dɛn kin yuz</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Wetin yu go lɛk fɔ du?</string>
+  <string name="set_home_screen">Set di Ɔm Skrin</string>
+  <string name="set_lock_screen">Set Lɔk Skrin</string>
+  <string name="set_both_screens">Set Ɔl tu di Skrin dɛn</string>
+  <string name="adjust_screen">Adjɔst di Skrin</string>
+  <string name="please_wait_ad_is_loading">Duya wet, ad de lod</string>
+  <string name="home">Os</string>
+  <string name="edge_lighting_border">Edj Layt Bɔda</string>
+  <string name="view_more">View More</string>
+  <string name="brighten_up_by_stunning_edges">Brayt op bay stunning Edges</string>
+  <string name="live_wallpapers">Layf Wallpaper dɛn we de na di wɔl</string>
+  <string name="stunning_wallpapers">Wallpaper dɛn we de mek pɔsin sɔprayz</string>
+  <string name="experience_by_interactive_wallpapers">Ekspiriɛns bay Intaraktiv Wallpapers</string>
+  <string name="dismiss">Pul</string>
+  <string name="language">Langwej</string>
+  <string name="privacy_policy">Prayvesi Polisi</string>
+  <string name="rate_us">Rayt Wi</string>
+  <string name="more_app">Mɔ Ap</string>
+  <string name="exit">Kɔmɔt</string>
+  <string name="alert">Pe atɛnshɔn</string>
+  <string name="warning">Wɔnin</string>
+  <string name="trending">Trendin we de go bifo</string>
+  <string name="applying_wallpaper">Fɔ Aplay Wallpaper</string>
+  <string name="wallpaper_applied">Wallpaper we dɛn dɔn aplay</string>
+  <string name="accessibility_service_level_permission">Aksesibiliti Savis Lɛvul Pɛmishɔn:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Di Aksesibiliti Pɛmishɔn as wan kɔr ficha na fɔ mek Ɛj Layt wok oba ɔda ap dɛn ɛn lɔk skrin</string>
+  <string name="this_permission_can_be_granted_as_follow">Yu kin gi dis Pɔmishɔn lɛk aw i de dɔŋ ya:</string>
+  <string name="go_to_settings">Go na di say we se Sɛtin dɛn</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Aksesibiliti > Instɔl Ap/Savis > Ɛj Layt</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Aksesibiliti > Mɔ Daunlod Savis > Ɛj Layt</string>
+  <string name="grant_permission_now">Gi Pɔmishɔn Naw?</string>
+  <string name="later">Leta</string>
+  <string name="yes_now">Yɛs, naw</string>
+</resources>

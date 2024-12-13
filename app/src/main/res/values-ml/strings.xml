@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">മറ്റ് ആപ്പുകളിൽ പ്രദർശിപ്പിക്കുക</string>
+  <string name="open_nav">നാവിഗേഷൻ ഡ്രോയർ തുറക്കുക</string>
+  <string name="close_nav">നാവിഗേഷൻ ഡ്രോയർ അടയ്ക്കുക</string>
+  <string name="show_while_charging">ചാർജ് ചെയ്യുമ്പോൾ കാണിക്കുക</string>
+  <string name="text_enable_wallpaper">വാൾപേപ്പർ പ്രവർത്തനക്ഷമമാക്കുക</string>
+  <string name="number_of_colors">നിറങ്ങളുടെ എണ്ണം</string>
+  <string name="click_a_color_to_edit">എഡിറ്റുചെയ്യാൻ ഒരു നിറത്തിൽ ക്ലിക്കുചെയ്യുക</string>
+  <string name="mtrl_picker_confirm">ശരി</string>
+  <string name="SelectLanguage">ഭാഷ തിരഞ്ഞെടുക്കുക</string>
+  <string name="text_cancel">റദ്ദാക്കുക</string>
+  <string name="text_border_type">ബോർഡർ തരം</string>
+  <string name="text_animation_speed">ആനിമേഷൻ വേഗത</string>
+  <string name="text_border_size">ബോർഡർ വലിപ്പം</string>
+  <string name="text_radius_top">റേഡിയസ് ടോപ്പ്</string>
+  <string name="text_radius_bottom">റേഡിയസ് അടിഭാഗം</string>
+  <string name="text_enable_display_notch">നോച്ച് പ്രവർത്തനക്ഷമമാക്കുക</string>
+  <string name="text_notch_width_top">നോച്ച് വീതി മുകളിൽ</string>
+  <string name="text_notch_width_bottom">നോച്ച് വീതി താഴെ</string>
+  <string name="text_notch_height">നോച്ച് ഉയരം</string>
+  <string name="text_notch_radius_top">നോച്ച് റേഡിയസ് ടോപ്പ്</string>
+  <string name="text_notch_radius_bottom">നോച്ച് റേഡിയസ് അടിഭാഗം</string>
+  <string name="select_wallpaper">വാൾപേപ്പർ തിരഞ്ഞെടുക്കുക</string>
+  <string name="allow_display_over_other_apps">മറ്റ് ആപ്പുകളിൽ പ്രദർശിപ്പിക്കാൻ അനുവദിക്കുക</string>
+  <string name="continue_">തുടരുക</string>
+  <string name="app_name_service">സ്ക്രീൻ ഓവർലേ തുറക്കുക</string>
+  <string name="permission_request">അനുമതി അഭ്യർത്ഥന</string>
+  <string name="power_connected">പവർ കേബിൾ ബന്ധിപ്പിച്ചു</string>
+  <string name="power_disconnected">പവർ കേബിൾ വിച്ഛേദിച്ചു</string>
+  <string name="draw_over_cancelled">ഡ്രോ ഓവർലേ അനുമതി ഇതുവരെ നൽകിയിട്ടില്ല. വീണ്ടും ശ്രമിക്കുക</string>
+  <string name="draw_over_granted">ഡ്രോ ഓവർലേ അനുമതികൾക്കുള്ള അഭ്യർത്ഥന അനുവദിച്ചു</string>
+  <string name="app_name">എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="please_wait">ദയവായി കാത്തിരിക്കുക വാൾപേപ്പർ ഡൗൺലോഡ് ചെയ്യുന്നു...</string>
+  <string name="no_internet">ഇൻ്റർനെറ്റ് ഇല്ല</string>
+  <string name="to_use_this">ഈ ഫീച്ചർ ഉപയോഗിക്കുന്നതിന് പ്രവേശനക്ഷമത അനുമതി ആവശ്യമാണ്</string>
+  <string name="draw_over_denied">ഡ്രോ ഓവർലേ അനുമതി ഇതുവരെ നൽകിയിട്ടില്ല. വീണ്ടും ശ്രമിക്കുക</string>
+  <string name="no_internet_war">നിങ്ങൾ ഓഫ്‌ലൈനാണ്, എഡ്ജ് ലൈറ്റിംഗ് വാൾപേപ്പറുകൾ ലഭിക്കാൻ നിങ്ങളുടെ ഇൻ്റർനെറ്റ് ഓണാക്കുക.</string>
+  <string name="you_must">\"എഡ്ജ് ലൈറ്റിംഗ്\" ശരിയായി പ്രവർത്തിക്കുന്നതിന് നിങ്ങൾ \"Draw Over Other Apps\" അനുമതി പ്രവർത്തനക്ഷമമാക്കണം.</string>
+  <string name="wallpaper_description">ലൈവ്_വാൾപേപ്പർ</string>
+  <string name="abstract_">അമൂർത്തമായ</string>
+  <string name="nature">പ്രകൃതി</string>
+  <string name="neon">നിയോൺ</string>
+  <string name="quotes">ഉദ്ധരണികൾ</string>
+  <string name="sunset">സൂര്യാസ്തമയം</string>
+  <string name="top">മുകളിൽ</string>
+  <string name="text_name_notification">സേവനം ആരംഭിക്കുക</string>
+  <string name="No_topic_selected">വിഷയമൊന്നും തിരഞ്ഞെടുത്തിട്ടില്ല</string>
+  <string name="Update_finish">അപ്ഡേറ്റ് ഫിനിഷ്</string>
+  <string name="loading_ad">പരസ്യം ലോഡ് ചെയ്യുന്നു</string>
+  <string name="low_battery">കുറഞ്ഞ ബാറ്ററി എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="battery_one">ബാറ്ററി 1</string>
+  <string name="battery_two">ബാറ്ററി 2</string>
+  <string name="edge_service">പ്രവർത്തിപ്പിക്കുന്ന സേവനം</string>
+  <string name="wallpaper">വാൾപേപ്പർ</string>
+  <string name="magical_wallpaper">തത്സമയം</string>
+  <string name="main_ongoing_download">പ്രിവ്യൂ സൃഷ്ടിക്കുന്നു</string>
+  <string name="permission_required">അനുമതി ആവശ്യമാണ്</string>
+  <string name="title_onboarding_1">പ്രവേശനക്ഷമത അനുമതി</string>
+  <string name="description_onboarding_1">പ്രവേശനക്ഷമത ഒരു പ്രധാന സവിശേഷതയാണ്</string>
+  <string name="string_text_onboarding_complete_description">മറ്റ് ആപ്പുകളിലും ലോക്ക് സ്‌ക്രീനിലും പ്രവർത്തിക്കുന്നതിന് എഡ്ജ് ലൈറ്റിംഗിന് ഒരു പ്രധാന സവിശേഷത എന്ന നിലയിൽ പ്രവേശനക്ഷമത അനുമതി നിർബന്ധമാണ്</string>
+  <string name="title_onboarding_2">പ്രവേശനക്ഷമത അനുമതി</string>
+  <string name="description_onboarding_2">ഇനിപ്പറയുന്ന രീതിയിൽ അനുമതി നൽകാം: \n \n പ്രവേശനക്ഷമത > ഇൻസ്റ്റാൾ ചെയ്ത ആപ്പുകൾ/സേവനങ്ങൾ > എഡ്ജ് ലൈറ്റിംഗ് \n അല്ലെങ്കിൽ \n പ്രവേശനക്ഷമത > കൂടുതൽ ഡൗൺലോഡ് സേവനങ്ങൾ > എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="title_onboarding_3">മനോഹരമായ ആപ്പുകൾ കോഡ് ചെയ്യുക</string>
+  <string name="description_onboarding_3">ഉപയോഗപ്രദവും സൂക്ഷ്മവുമായ ആപ്പുകൾ നിർമ്മിക്കുക എന്നതാണ് ഞങ്ങളുടെ ദൗത്യം. ഓപ്പൺ സോഴ്‌സ് സ്റ്റഫുകൾ ഉപയോഗിച്ച് സമയം ലാഭിക്കാൻ ആളുകളെ സഹായിക്കാൻ ഞങ്ങൾ ഇഷ്ടപ്പെടുന്നു, എന്നാൽ പുതിയ കാര്യങ്ങൾ സൃഷ്‌ടിച്ച് ജീവിതം എളുപ്പമാക്കുകയും ചെയ്യുന്നു. നല്ല കോഡിംഗ്!</string>
+  <string name="start_text_advice">ഈ ആപ്ലിക്കേഷനിൽ തുടരുന്നതിലൂടെ ഞങ്ങളുടെ ഉപയോഗ നിബന്ധനകളും സ്വകാര്യതാ നയവും നിങ്ങൾ അംഗീകരിക്കുന്നു</string>
+  <string name="start">ആരംഭിക്കുക</string>
+  <string name="skip">ഒഴിവാക്കുക</string>
+  <string name="finish">പൂർത്തിയാക്കുക</string>
+  <string name="next">അടുത്തത്</string>
+  <string name="back">തിരികെ</string>
+  <string name="allow">അനുവദിക്കുക</string>
+  <string name="slider_Edge">എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="slider_Edge1">അരികുകളിൽ എഡ്ജ് ലൈറ്റിംഗ് പ്രദർശിപ്പിക്കുക</string>
+  <string name="alert_Edge">കുറഞ്ഞ ബാറ്ററി അലേർട്ട്</string>
+  <string name="alert_Edge1">കുറഞ്ഞ ബാറ്ററി അലേർട്ടിനായി ഓറഞ്ച് എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="warning_Edge">കുറഞ്ഞ ബാറ്ററി മുന്നറിയിപ്പ്</string>
+  <string name="warning_Edge1">വളരെ കുറഞ്ഞ ബാറ്ററി മുന്നറിയിപ്പിനായി റെഡ് എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="notch_Edge">നോച്ച്</string>
+  <string name="notch_Edge1">നോച്ച് ഉപയോഗിച്ച് എഡ്ജ് ലൈറ്റിംഗ് പ്രവർത്തനക്ഷമമാക്കുക</string>
+  <string name="wallpaper_Edge">വാൾപേപ്പർ</string>
+  <string name="wallpaper_Edge1">വാൾപേപ്പർ ഉപയോഗിച്ച് എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>വയർലെസ്സ്</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ഹലോ ശൂന്യ ശകലം</string>
+  <string name="apply">അപേക്ഷിക്കുക</string>
+  <string name="applied">പ്രയോഗിച്ചു</string>
+  <string name="always_on_display_edge_lighting">എല്ലായ്പ്പോഴും ഡിസ്പ്ലേ എഡ്ജ് ലൈറ്റിംഗിൽ</string>
+  <string name="confirm_exit">പുറത്തുകടക്കൽ സ്ഥിരീകരിക്കണോ?</string>
+  <string name="yes">അതെ</string>
+  <string name="no">ഇല്ല</string>
+  <string name="wallpapers">വാൾപേപ്പറുകൾ</string>
+  <string name="ok">ശരി</string>
+  <string name="what_would_you_like_to_do">നിങ്ങൾ എന്താണ് ചെയ്യാൻ ആഗ്രഹിക്കുന്നത്?</string>
+  <string name="set_home_screen">ഹോം സ്‌ക്രീൻ സജ്ജമാക്കുക</string>
+  <string name="set_lock_screen">ലോക്ക് സ്ക്രീൻ സജ്ജമാക്കുക</string>
+  <string name="set_both_screens">രണ്ട് സ്ക്രീനുകളും സജ്ജമാക്കുക</string>
+  <string name="adjust_screen">സ്‌ക്രീൻ ക്രമീകരിക്കുക</string>
+  <string name="please_wait_ad_is_loading">ദയവായി കാത്തിരിക്കൂ, പരസ്യം ലോഡ് ചെയ്യുന്നു</string>
+  <string name="home">വീട്</string>
+  <string name="edge_lighting_border">എഡ്ജ് ലൈറ്റിംഗ് ബോർഡർ</string>
+  <string name="view_more">കൂടുതൽ കാണുക</string>
+  <string name="brighten_up_by_stunning_edges">അതിശയകരമായ അരികുകൾ ഉപയോഗിച്ച് പ്രകാശമാനമാക്കുക</string>
+  <string name="live_wallpapers">തത്സമയ വാൾപേപ്പറുകൾ</string>
+  <string name="stunning_wallpapers">അതിശയകരമായ വാൾപേപ്പറുകൾ</string>
+  <string name="experience_by_interactive_wallpapers">ഇൻ്ററാക്ടീവ് വാൾപേപ്പറുകൾ മുഖേനയുള്ള അനുഭവം</string>
+  <string name="dismiss">പിരിച്ചുവിടുക</string>
+  <string name="language">ഭാഷ</string>
+  <string name="privacy_policy">സ്വകാര്യതാ നയം</string>
+  <string name="rate_us">ഞങ്ങളെ റേറ്റുചെയ്യുക</string>
+  <string name="more_app">കൂടുതൽ ആപ്പ്</string>
+  <string name="exit">പുറത്ത്</string>
+  <string name="alert">മുന്നറിയിപ്പ്</string>
+  <string name="warning">മുന്നറിയിപ്പ്</string>
+  <string name="trending">ട്രെൻഡിംഗ്</string>
+  <string name="applying_wallpaper">വാൾപേപ്പർ പ്രയോഗിക്കുന്നു</string>
+  <string name="wallpaper_applied">വാൾപേപ്പർ പ്രയോഗിച്ചു</string>
+  <string name="accessibility_service_level_permission">പ്രവേശനക്ഷമത സേവന നില അനുമതി:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">മറ്റ് ആപ്പുകളിലും ലോക്ക് സ്‌ക്രീനിലും പ്രവർത്തിക്കുന്നതിന് എഡ്ജ് ലൈറ്റിംഗിന് ഒരു പ്രധാന സവിശേഷത എന്ന നിലയിൽ പ്രവേശനക്ഷമത അനുമതി നിർബന്ധമാണ്</string>
+  <string name="this_permission_can_be_granted_as_follow">ഈ അനുമതി ഇനിപ്പറയുന്ന രീതിയിൽ നൽകാം:</string>
+  <string name="go_to_settings">ക്രമീകരണങ്ങളിലേക്ക് പോകുക</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">പ്രവേശനക്ഷമത > ഇൻസ്റ്റാൾ ചെയ്ത ആപ്പുകൾ/സേവനങ്ങൾ > എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">പ്രവേശനക്ഷമത > കൂടുതൽ ഡൗൺലോഡ് സേവനങ്ങൾ > എഡ്ജ് ലൈറ്റിംഗ്</string>
+  <string name="grant_permission_now">ഇപ്പോൾ അനുമതി നൽകണോ?</string>
+  <string name="later">പിന്നീട്</string>
+  <string name="yes_now">അതെ, ഇപ്പോൾ</string>
+</resources>

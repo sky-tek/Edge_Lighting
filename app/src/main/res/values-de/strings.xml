@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Anzeige über anderen Apps</string>
+  <string name="open_nav">Öffnen Sie die Navigationsleiste</string>
+  <string name="close_nav">Schließen Sie die Navigationsleiste</string>
+  <string name="show_while_charging">Während des Ladevorgangs anzeigen</string>
+  <string name="text_enable_wallpaper">Hintergrundbild aktivieren</string>
+  <string name="number_of_colors">Anzahl der Farben</string>
+  <string name="click_a_color_to_edit">Klicken Sie auf eine Farbe, um sie zu bearbeiten</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Wählen Sie Sprache aus</string>
+  <string name="text_cancel">Stornieren</string>
+  <string name="text_border_type">Randtyp</string>
+  <string name="text_animation_speed">Animationsgeschwindigkeit</string>
+  <string name="text_border_size">Randgröße</string>
+  <string name="text_radius_top">Radius oben</string>
+  <string name="text_radius_bottom">Radius unten</string>
+  <string name="text_enable_display_notch">Aktivieren Sie Notch</string>
+  <string name="text_notch_width_top">Kerbbreite oben</string>
+  <string name="text_notch_width_bottom">Kerbbreite unten</string>
+  <string name="text_notch_height">Kerbhöhe</string>
+  <string name="text_notch_radius_top">Kerbradius oben</string>
+  <string name="text_notch_radius_bottom">Kerbradius unten</string>
+  <string name="select_wallpaper">Wählen Sie Hintergrundbild</string>
+  <string name="allow_display_over_other_apps">Anzeige über anderen Apps zulassen</string>
+  <string name="continue_">Weitermachen</string>
+  <string name="app_name_service">Bildschirm-Overlay öffnen</string>
+  <string name="permission_request">Erlaubnisanfrage</string>
+  <string name="power_connected">Stromkabel angeschlossen</string>
+  <string name="power_disconnected">Stromkabel getrennt</string>
+  <string name="draw_over_cancelled">Die Berechtigung zum Zeichnen von Overlays wurde noch nicht erteilt. Versuchen Sie es erneut</string>
+  <string name="draw_over_granted">Anfrage zur Berechtigung zum Zeichnen von Overlays erteilt</string>
+  <string name="app_name">Kantenbeleuchtung</string>
+  <string name="please_wait">Bitte warten Sie, das Hintergrundbild wird heruntergeladen…</string>
+  <string name="no_internet">Kein Internet</string>
+  <string name="to_use_this">Um diese Funktion nutzen zu können, ist eine Barrierefreiheitsberechtigung erforderlich</string>
+  <string name="draw_over_denied">Die Berechtigung zum Zeichnen von Overlays wurde noch nicht erteilt. Versuchen Sie es erneut</string>
+  <string name="no_internet_war">Sie sind offline. Bitte schalten Sie Ihr Internet ein, um Hintergrundbilder mit Randbeleuchtung zu erhalten.</string>
+  <string name="you_must">Sie müssen die Berechtigung „Über andere Apps zeichnen“ aktivieren, damit „Edge Lighting“ ordnungsgemäß funktioniert.</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">Abstrakt</string>
+  <string name="nature">Natur</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Zitate</string>
+  <string name="sunset">Sonnenuntergang</string>
+  <string name="top">Spitze</string>
+  <string name="text_name_notification">Dienst starten</string>
+  <string name="No_topic_selected">Kein Thema ausgewählt</string>
+  <string name="Update_finish">Update abgeschlossen</string>
+  <string name="loading_ad">Anzeige wird geladen</string>
+  <string name="low_battery">Randbeleuchtung bei niedrigem Batteriestand</string>
+  <string name="battery_one">Batterie 1</string>
+  <string name="battery_two">Batterie 2</string>
+  <string name="edge_service">Laufservice</string>
+  <string name="wallpaper">Tapete</string>
+  <string name="magical_wallpaper">Live</string>
+  <string name="main_ongoing_download">Vorschau erstellen</string>
+  <string name="permission_required">Erlaubnis erforderlich</string>
+  <string name="title_onboarding_1">Barrierefreiheitserlaubnis</string>
+  <string name="description_onboarding_1">Barrierefreiheit ist ein Kernmerkmal</string>
+  <string name="string_text_onboarding_complete_description">Die Zugriffsberechtigung als Kernfunktion ist ein Muss, damit Edge Lighting über andere Apps und den Sperrbildschirm hinweg funktioniert</string>
+  <string name="title_onboarding_2">Barrierefreiheitserlaubnis</string>
+  <string name="description_onboarding_2">Die Berechtigung kann wie folgt erteilt werden: \n \n Barrierefreiheit > Installierte Apps/Dienste > Edge Lighting \n ODER \n Barrierefreiheit > Weitere Download-Dienste > Edge Lighting</string>
+  <string name="title_onboarding_3">Programmieren Sie schöne Apps</string>
+  <string name="description_onboarding_3">Unsere Mission ist es, nützliche und subtile Apps zu entwickeln. Wir lieben es, Menschen dabei zu helfen, mit Open-Source-Inhalten Zeit zu sparen, aber wir machen das Leben auch einfacher, indem wir neue Dinge schaffen. Gute Codierung!</string>
+  <string name="start_text_advice">Wenn Sie mit dieser Anwendung fortfahren, stimmen Sie unseren Nutzungsbedingungen und Datenschutzrichtlinien zu</string>
+  <string name="start">Start</string>
+  <string name="skip">Überspringen</string>
+  <string name="finish">Beenden</string>
+  <string name="next">Nächste</string>
+  <string name="back">Zurück</string>
+  <string name="allow">Erlauben</string>
+  <string name="slider_Edge">Kantenbeleuchtung</string>
+  <string name="slider_Edge1">Kantenbeleuchtung über Kanten anzeigen</string>
+  <string name="alert_Edge">Warnung bei niedrigem Batteriestand</string>
+  <string name="alert_Edge1">Orangefarbene Randbeleuchtung zur Warnung bei niedrigem Batteriestand</string>
+  <string name="warning_Edge">Warnung bei niedrigem Batteriestand</string>
+  <string name="warning_Edge1">Rote Randbeleuchtung zur Warnung bei sehr niedrigem Batteriestand</string>
+  <string name="notch_Edge">Kerbe</string>
+  <string name="notch_Edge1">Kantenbeleuchtung mit Notch aktivieren</string>
+  <string name="wallpaper_Edge">Tapete</string>
+  <string name="wallpaper_Edge1">Kantenbeleuchtung mit Tapete</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>Kabellos</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Hallo leeres Fragment</string>
+  <string name="apply">Anwenden</string>
+  <string name="applied">Angewandt</string>
+  <string name="always_on_display_edge_lighting">Immer sichtbare Kantenbeleuchtung</string>
+  <string name="confirm_exit">Beenden bestätigen?</string>
+  <string name="yes">Ja</string>
+  <string name="no">NEIN</string>
+  <string name="wallpapers">Hintergrundbilder</string>
+  <string name="ok">OK</string>
+  <string name="what_would_you_like_to_do">Was möchten Sie tun?</string>
+  <string name="set_home_screen">Startbildschirm festlegen</string>
+  <string name="set_lock_screen">Sperrbildschirm einstellen</string>
+  <string name="set_both_screens">Stellen Sie beide Bildschirme ein</string>
+  <string name="adjust_screen">Bildschirm anpassen</string>
+  <string name="please_wait_ad_is_loading">Bitte warten, die Anzeige wird geladen</string>
+  <string name="home">Heim</string>
+  <string name="edge_lighting_border">Kantenbeleuchtungsrand</string>
+  <string name="view_more">Mehr anzeigen</string>
+  <string name="brighten_up_by_stunning_edges">Aufhellung durch atemberaubende Kanten</string>
+  <string name="live_wallpapers">Live-Hintergründe</string>
+  <string name="stunning_wallpapers">Atemberaubende Hintergrundbilder</string>
+  <string name="experience_by_interactive_wallpapers">Erleben Sie interaktive Hintergrundbilder</string>
+  <string name="dismiss">Zurückweisen</string>
+  <string name="language">Sprache</string>
+  <string name="privacy_policy">Datenschutzrichtlinie</string>
+  <string name="rate_us">Bewerten Sie uns</string>
+  <string name="more_app">Mehr App</string>
+  <string name="exit">Ausfahrt</string>
+  <string name="alert">Alarm</string>
+  <string name="warning">Warnung</string>
+  <string name="trending">Im Trend</string>
+  <string name="applying_wallpaper">Anbringen von Tapeten</string>
+  <string name="wallpaper_applied">Tapete aufgetragen</string>
+  <string name="accessibility_service_level_permission">Service-Level-Berechtigung für Barrierefreiheit:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Die Zugriffsberechtigung als Kernfunktion ist ein Muss, damit Edge Lighting über andere Apps und den Sperrbildschirm hinweg funktioniert</string>
+  <string name="this_permission_can_be_granted_as_follow">Diese Erlaubnis kann wie folgt erteilt werden:</string>
+  <string name="go_to_settings">Gehen Sie zu Einstellungen</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Barrierefreiheit > Installierte Apps/Dienste > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Barrierefreiheit > Weitere Download-Dienste > Kantenbeleuchtung</string>
+  <string name="grant_permission_now">Jetzt Erlaubnis erteilen?</string>
+  <string name="later">Später</string>
+  <string name="yes_now">Ja, jetzt</string>
+</resources>

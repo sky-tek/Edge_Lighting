@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Onetsani pa mapulogalamu ena</string>
+  <string name="open_nav">Tsegulani Navigation Drawer</string>
+  <string name="close_nav">Tsekani Navigation Drawer</string>
+  <string name="show_while_charging">Onetsani pamene mukulipiritsa</string>
+  <string name="text_enable_wallpaper">Yambitsani Wallpaper</string>
+  <string name="number_of_colors">Chiwerengero cha Mitundu</string>
+  <string name="click_a_color_to_edit">Dinani mtundu kuti musinthe</string>
+  <string name="mtrl_picker_confirm">Chabwino</string>
+  <string name="SelectLanguage">Sankhani Chiyankhulo</string>
+  <string name="text_cancel">Letsani</string>
+  <string name="text_border_type">Mtundu wa malire</string>
+  <string name="text_animation_speed">Liwiro la makanema</string>
+  <string name="text_border_size">Kukula kwa malire</string>
+  <string name="text_radius_top">Radius pamwamba</string>
+  <string name="text_radius_bottom">Radius pansi</string>
+  <string name="text_enable_display_notch">Yambitsani Notch</string>
+  <string name="text_notch_width_top">Notch m\'lifupi pamwamba</string>
+  <string name="text_notch_width_bottom">Notch m\'lifupi pansi</string>
+  <string name="text_notch_height">Kutalika kwa notch</string>
+  <string name="text_notch_radius_top">Notch radius pamwamba</string>
+  <string name="text_notch_radius_bottom">Notch radius pansi</string>
+  <string name="select_wallpaper">Sankhani Wallpaper</string>
+  <string name="allow_display_over_other_apps">Lolani kuwonetsedwa pa mapulogalamu ena</string>
+  <string name="continue_">Pitirizani</string>
+  <string name="app_name_service">Tsegulani chophimba chophimba</string>
+  <string name="permission_request">Pempho la Chilolezo</string>
+  <string name="power_connected">Chingwe Chamagetsi Cholumikizidwa</string>
+  <string name="power_disconnected">Chingwe Chamagetsi Chachotsedwa</string>
+  <string name="draw_over_cancelled">Chilolezo chojambulira pamwamba sichinapatsidwebe. Yesaninso</string>
+  <string name="draw_over_granted">Pempho la zilolezo zojambulira pamwamba laperekedwa</string>
+  <string name="app_name">Kuwala kwa Edge</string>
+  <string name="please_wait">Chonde dikirani Kutsitsa Wallpaper…</string>
+  <string name="no_internet">Palibe intaneti</string>
+  <string name="to_use_this">Kuti mugwiritse ntchito izi Chilolezo Chofikira ndichofunika</string>
+  <string name="draw_over_denied">Chilolezo chojambulira pamwamba sichinapatsidwebe. Yesaninso</string>
+  <string name="no_internet_war">Simunagwiritse ntchito intaneti chonde yatsani intaneti yanu kuti mupeze zithunzi zazithunzi zowunikira.</string>
+  <string name="you_must">Muyenera kuloleza chilolezo cha \"Draw Over Other Apps\" kuti \"Edge Lighting\" igwire ntchito bwino.</string>
+  <string name="wallpaper_description">Live_ wallpaper</string>
+  <string name="abstract_">Ndemanga</string>
+  <string name="nature">Chilengedwe</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Ndemanga</string>
+  <string name="sunset">Kulowa kwadzuwa</string>
+  <string name="top">Pamwamba</string>
+  <string name="text_name_notification">Yambani utumiki</string>
+  <string name="No_topic_selected">Palibe mutu wosankhidwa</string>
+  <string name="Update_finish">Kusintha komaliza</string>
+  <string name="loading_ad">Kutsegula Malonda</string>
+  <string name="low_battery">Kuwala kwa Battery Kutsika Kwambiri</string>
+  <string name="battery_one">Battery 1</string>
+  <string name="battery_two">Battery 2</string>
+  <string name="edge_service">Kuthamanga utumiki</string>
+  <string name="wallpaper">Zithunzi</string>
+  <string name="magical_wallpaper">Khalani ndi moyo</string>
+  <string name="main_ongoing_download">Kupanga Kuwoneratu</string>
+  <string name="permission_required">Chilolezo Chofunika</string>
+  <string name="title_onboarding_1">Chilolezo Chopezeka</string>
+  <string name="description_onboarding_1">Kupezeka ndi gawo lofunikira</string>
+  <string name="string_text_onboarding_complete_description">Chilolezo cha Kufikika monga chinthu chofunikira ndichofunika kuti Edge Lighting igwire ntchito pa mapulogalamu ena ndi loko yotchinga</string>
+  <string name="title_onboarding_2">Chilolezo Chopezeka</string>
+  <string name="description_onboarding_2">Chilolezocho chingaperekedwe motere: \n \n Kufikika > Mapulogalamu/Mapulogalamu Oyikirapo > Kuwala kwa Edge \n KAPENA \n Kufikika > Ntchito Zotsitsa Zowonjezera > Kuwala kwa Edge</string>
+  <string name="title_onboarding_3">Mapulogalamu okongola a code</string>
+  <string name="description_onboarding_3">Cholinga chathu ndikupanga mapulogalamu othandiza komanso owoneka bwino. Timakonda kuthandiza anthu kuti asunge nthawi ndi zinthu zomwe sizili bwino, komanso timapangitsa moyo kukhala wosavuta popanga zatsopano. Coding yabwino!</string>
+  <string name="start_text_advice">Mukapitiliza kugwiritsa ntchito pulogalamuyi mukuvomereza Migwirizano yathu Yogwiritsira Ntchito ndi Mfundo Zazinsinsi</string>
+  <string name="start">Yambani</string>
+  <string name="skip">Dumphani</string>
+  <string name="finish">Malizitsani</string>
+  <string name="next">Ena</string>
+  <string name="back">Kubwerera</string>
+  <string name="allow">Lolani</string>
+  <string name="slider_Edge">Kuwala kwa Edge</string>
+  <string name="slider_Edge1">Onetsani kuyatsa m\'mphepete pamphepete</string>
+  <string name="alert_Edge">Chidziwitso cha Battery Yochepa</string>
+  <string name="alert_Edge1">Kuyatsa m\'mphepete kwa lalanje kwa chenjezo la batri yocheperako</string>
+  <string name="warning_Edge">Chenjezo la Batire Lochepa</string>
+  <string name="warning_Edge1">Kuunikira kofiyira kwa batire yotsika kwambiri</string>
+  <string name="notch_Edge">Notch</string>
+  <string name="notch_Edge1">Yambitsani kuyatsa m\'mphepete ndi notch</string>
+  <string name="wallpaper_Edge">Zithunzi</string>
+  <string name="wallpaper_Edge1">Kuunikira m\'mphepete ndi Wallpaper</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>USB</item>  
+    <item>Opanda zingwe</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Moni chopanda kanthu</string>
+  <string name="apply">Ikani</string>
+  <string name="applied">Zagwiritsidwa ntchito</string>
+  <string name="always_on_display_edge_lighting">Nthawi zonse pakuwonetsa zowunikira</string>
+  <string name="confirm_exit">Tsimikizani Kutuluka?</string>
+  <string name="yes">Inde</string>
+  <string name="no">Ayi</string>
+  <string name="wallpapers">Zithunzi</string>
+  <string name="ok">Chabwino</string>
+  <string name="what_would_you_like_to_do">Kodi mungakonde kuchita chiyani?</string>
+  <string name="set_home_screen">Khazikitsani Home Screen</string>
+  <string name="set_lock_screen">Khazikitsani Lock Screen</string>
+  <string name="set_both_screens">Khazikitsani Zowonera Onse</string>
+  <string name="adjust_screen">Sinthani Screen</string>
+  <string name="please_wait_ad_is_loading">Chonde dikirani, malonda akutsegula</string>
+  <string name="home">Kunyumba</string>
+  <string name="edge_lighting_border">Mphepete mwa Kuwala kwa Border</string>
+  <string name="view_more">Onani Zambiri</string>
+  <string name="brighten_up_by_stunning_edges">Walitsani ndi ma Edges odabwitsa</string>
+  <string name="live_wallpapers">Zithunzi Zamoyo Zamoyo</string>
+  <string name="stunning_wallpapers">Zithunzi Zodabwitsa</string>
+  <string name="experience_by_interactive_wallpapers">Zochitika ndi Interactive Wallpapers</string>
+  <string name="dismiss">Chotsani</string>
+  <string name="language">Chiyankhulo</string>
+  <string name="privacy_policy">Mfundo zazinsinsi</string>
+  <string name="rate_us">Tivotereni</string>
+  <string name="more_app">More App</string>
+  <string name="exit">Potulukira</string>
+  <string name="alert">Chenjezo</string>
+  <string name="warning">Chenjezo</string>
+  <string name="trending">Zokonda</string>
+  <string name="applying_wallpaper">Kugwiritsa Wallpaper</string>
+  <string name="wallpaper_applied">Tsamba Lapamwamba Lagwiritsidwa Ntchito</string>
+  <string name="accessibility_service_level_permission">Chilolezo cha Mulingo wa Ntchito Yopezeka:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Chilolezo cha Kufikika monga chinthu chofunikira ndichofunika kuti Edge Lighting igwire ntchito pa mapulogalamu ena ndi loko yotchinga</string>
+  <string name="this_permission_can_be_granted_as_follow">Chilolezochi chikhoza kuperekedwa motere:</string>
+  <string name="go_to_settings">Pitani ku Zikhazikiko</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kufikika> Mapulogalamu/Ntchito zoyikidwa> Kuwunikira kwa Edge</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kufikika> Ntchito Zambiri Zotsitsa> Kuwala kwa Edge</string>
+  <string name="grant_permission_now">Perekani Chilolezo Tsopano?</string>
+  <string name="later">Kenako</string>
+  <string name="yes_now">Inde, tsopano</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Paparkan di atas apl lain</string>
+  <string name="open_nav">Buka Laci Navigasi</string>
+  <string name="close_nav">Tutup Laci Navigasi</string>
+  <string name="show_while_charging">Tunjukkan semasa mengecas</string>
+  <string name="text_enable_wallpaper">Dayakan Kertas Dinding</string>
+  <string name="number_of_colors">Bilangan Warna</string>
+  <string name="click_a_color_to_edit">Klik warna untuk mengedit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Pilih Bahasa</string>
+  <string name="text_cancel">Batal</string>
+  <string name="text_border_type">Jenis sempadan</string>
+  <string name="text_animation_speed">Kelajuan animasi</string>
+  <string name="text_border_size">Saiz sempadan</string>
+  <string name="text_radius_top">Jejari atas</string>
+  <string name="text_radius_bottom">Jejari bawah</string>
+  <string name="text_enable_display_notch">Dayakan Notch</string>
+  <string name="text_notch_width_top">Bahagian atas lebar takuk</string>
+  <string name="text_notch_width_bottom">Bahagian bawah lebar takuk</string>
+  <string name="text_notch_height">Ketinggian takuk</string>
+  <string name="text_notch_radius_top">Jejari bahagian atas takuk</string>
+  <string name="text_notch_radius_bottom">Jejari takik bawah</string>
+  <string name="select_wallpaper">Pilih Kertas Dinding</string>
+  <string name="allow_display_over_other_apps">Benarkan paparan di atas apl lain</string>
+  <string name="continue_">Teruskan</string>
+  <string name="app_name_service">Buka tindanan skrin</string>
+  <string name="permission_request">Permintaan Kebenaran</string>
+  <string name="power_connected">Kabel Kuasa Disambungkan</string>
+  <string name="power_disconnected">Kabel Kuasa Terputus</string>
+  <string name="draw_over_cancelled">Kebenaran tindanan lukis belum diberikan lagi. Cuba lagi</string>
+  <string name="draw_over_granted">Permintaan kebenaran tindanan lukis diberikan</string>
+  <string name="app_name">Pencahayaan Tepi</string>
+  <string name="please_wait">Sila tunggu Muat Turun Kertas Dinding…</string>
+  <string name="no_internet">Tiada internet</string>
+  <string name="to_use_this">Untuk menggunakan ciri ini Kebenaran Kebolehcapaian diperlukan</string>
+  <string name="draw_over_denied">Kebenaran tindanan lukis belum diberikan lagi. Cuba lagi</string>
+  <string name="no_internet_war">Anda di luar talian sila hidupkan internet anda untuk mendapatkan kertas dinding pencahayaan tepi.</string>
+  <string name="you_must">Anda mesti mendayakan kebenaran \"Draw Over Other Apps\" untuk \"Pencahayaan Tepi\" berfungsi dengan betul.</string>
+  <string name="wallpaper_description">Kertas dinding hidup</string>
+  <string name="abstract_">Abstrak</string>
+  <string name="nature">Alam semula jadi</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Petikan</string>
+  <string name="sunset">Matahari terbenam</string>
+  <string name="top">Atas</string>
+  <string name="text_name_notification">Mulakan perkhidmatan</string>
+  <string name="No_topic_selected">Tiada topik dipilih</string>
+  <string name="Update_finish">Kemas kini selesai</string>
+  <string name="loading_ad">Memuatkan Iklan</string>
+  <string name="low_battery">Pencahayaan Tepi Bateri Rendah</string>
+  <string name="battery_one">Bateri 1</string>
+  <string name="battery_two">Bateri 2</string>
+  <string name="edge_service">Menjalankan perkhidmatan</string>
+  <string name="wallpaper">Kertas dinding</string>
+  <string name="magical_wallpaper">Langsung</string>
+  <string name="main_ongoing_download">Menjana Pratonton</string>
+  <string name="permission_required">Kebenaran Diperlukan</string>
+  <string name="title_onboarding_1">Kebenaran Kebolehcapaian</string>
+  <string name="description_onboarding_1">Kebolehcapaian ialah ciri teras</string>
+  <string name="string_text_onboarding_complete_description">Kebenaran Kebolehcapaian sebagai ciri teras adalah kemestian untuk Pencahayaan Tepi berfungsi pada apl lain dan skrin kunci</string>
+  <string name="title_onboarding_2">Kebenaran Kebolehcapaian</string>
+  <string name="description_onboarding_2">Kebenaran boleh diberikan seperti berikut: \n \n Kebolehcapaian > Apl/Perkhidmatan yang Dipasang > Pencahayaan Tepi \n ATAU \n Kebolehcapaian > Perkhidmatan Muat Turun Lagi > Pencahayaan Tepi</string>
+  <string name="title_onboarding_3">Kod apl cantik</string>
+  <string name="description_onboarding_3">Misi kami adalah untuk membuat aplikasi yang berguna &amp; halus. Kami suka membantu orang ramai menjimatkan masa dengan bahan sumber terbuka, tetapi kami juga menjadikan kehidupan lebih mudah dengan mencipta perkara baharu. Pengekodan yang bagus!</string>
+  <string name="start_text_advice">Dengan meneruskan aplikasi ini, anda bersetuju menerima Terma Penggunaan dan Dasar Privasi kami</string>
+  <string name="start">Mulakan</string>
+  <string name="skip">Langkau</string>
+  <string name="finish">Selesai</string>
+  <string name="next">Seterusnya</string>
+  <string name="back">Belakang</string>
+  <string name="allow">Benarkan</string>
+  <string name="slider_Edge">Pencahayaan Tepi</string>
+  <string name="slider_Edge1">Paparkan lampu tepi atas Edges</string>
+  <string name="alert_Edge">Makluman Bateri Rendah</string>
+  <string name="alert_Edge1">Pencahayaan tepi jingga untuk amaran bateri lemah</string>
+  <string name="warning_Edge">Amaran Bateri Rendah</string>
+  <string name="warning_Edge1">Pencahayaan tepi merah untuk amaran bateri yang sangat rendah</string>
+  <string name="notch_Edge">Takik</string>
+  <string name="notch_Edge1">Dayakan pencahayaan tepi dengan takuk</string>
+  <string name="wallpaper_Edge">Kertas dinding</string>
+  <string name="wallpaper_Edge1">Pencahayaan tepi dengan Kertas Dinding</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Tanpa wayar</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Halo serpihan kosong</string>
+  <string name="apply">Mohon</string>
+  <string name="applied">Digunakan</string>
+  <string name="always_on_display_edge_lighting">Sentiasa pada lampu tepi paparan</string>
+  <string name="confirm_exit">Sahkan Keluar?</string>
+  <string name="yes">Ya</string>
+  <string name="no">Tidak</string>
+  <string name="wallpapers">Kertas dinding</string>
+  <string name="ok">Ok</string>
+  <string name="what_would_you_like_to_do">Apa yang anda ingin lakukan?</string>
+  <string name="set_home_screen">Tetapkan Skrin Utama</string>
+  <string name="set_lock_screen">Tetapkan Skrin Kunci</string>
+  <string name="set_both_screens">Tetapkan Kedua-dua Skrin</string>
+  <string name="adjust_screen">Laraskan Skrin</string>
+  <string name="please_wait_ad_is_loading">Sila tunggu, iklan sedang dimuatkan</string>
+  <string name="home">Rumah</string>
+  <string name="edge_lighting_border">Sempadan Pencahayaan Tepi</string>
+  <string name="view_more">Lihat Lagi</string>
+  <string name="brighten_up_by_stunning_edges">Cerahkan dengan Edges yang menakjubkan</string>
+  <string name="live_wallpapers">Kertas Dinding Langsung</string>
+  <string name="stunning_wallpapers">Kertas Dinding Menakjubkan</string>
+  <string name="experience_by_interactive_wallpapers">Pengalaman melalui Kertas Dinding Interaktif</string>
+  <string name="dismiss">Tolak</string>
+  <string name="language">Bahasa</string>
+  <string name="privacy_policy">Dasar Privasi</string>
+  <string name="rate_us">Nilaikan Kami</string>
+  <string name="more_app">Lagi Apl</string>
+  <string name="exit">Keluar</string>
+  <string name="alert">Makluman</string>
+  <string name="warning">Amaran</string>
+  <string name="trending">Trending</string>
+  <string name="applying_wallpaper">Menggunakan Kertas Dinding</string>
+  <string name="wallpaper_applied">Kertas Dinding Dipakai</string>
+  <string name="accessibility_service_level_permission">Kebenaran Tahap Perkhidmatan Kebolehcapaian:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Kebenaran Kebolehcapaian sebagai ciri teras adalah kemestian untuk Pencahayaan Tepi berfungsi pada apl lain dan skrin kunci</string>
+  <string name="this_permission_can_be_granted_as_follow">Kebenaran ini boleh diberikan seperti berikut:</string>
+  <string name="go_to_settings">Pergi ke Tetapan</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Kebolehcapaian > Apl/Perkhidmatan yang Dipasang > Pencahayaan Tepi</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Kebolehcapaian > Lagi Perkhidmatan Muat Turun > Pencahayaan Tepi</string>
+  <string name="grant_permission_now">Berikan Kebenaran Sekarang?</string>
+  <string name="later">Nanti</string>
+  <string name="yes_now">Ya, sekarang</string>
+</resources>

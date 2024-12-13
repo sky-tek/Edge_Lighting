@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#cc323c46">
+
+    <RelativeLayout
+        android:id="@+id/a1"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_centerHorizontal="true"
+        android:background="#323c46">
+
+        <TextView
+            android:id="@+id/DialogTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Alert"
+            android:textSize="20dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffff"/>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/l2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp"
+        android:layout_below="@id/a1"
+        android:paddingBottom="10dp">
+
+        <LinearLayout
+            android:layout_gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:id="@+id/DialogMessage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:text="Internet connection seems slow/not connected."
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="#ffff"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

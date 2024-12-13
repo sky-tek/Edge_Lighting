@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">ଅନ୍ୟ ଆପ୍ସ ଉପରେ ପ୍ରଦର୍ଶନ କରନ୍ତୁ |</string>
+  <string name="open_nav">ନାଭିଗେସନ୍ ଡ୍ରୟର ଖୋଲନ୍ତୁ |</string>
+  <string name="close_nav">ନାଭିଗେସନ୍ ଡ୍ରୟର ବନ୍ଦ କରନ୍ତୁ |</string>
+  <string name="show_while_charging">ଚାର୍ଜ କରିବା ସମୟରେ ଦେଖାନ୍ତୁ |</string>
+  <string name="text_enable_wallpaper">ୱାଲପେପର ସକ୍ଷମ କରନ୍ତୁ |</string>
+  <string name="number_of_colors">ରଙ୍ଗ ସଂଖ୍ୟା</string>
+  <string name="click_a_color_to_edit">ସଂପାଦନ କରିବାକୁ ଏକ ରଙ୍ଗ କ୍ଲିକ୍ କରନ୍ତୁ |</string>
+  <string name="mtrl_picker_confirm">ଠିକ ଅଛି |</string>
+  <string name="SelectLanguage">ଭାଷା ଚୟନ କରନ୍ତୁ |</string>
+  <string name="text_cancel">ବାତିଲ୍ କରନ୍ତୁ |</string>
+  <string name="text_border_type">ସୀମା ପ୍ରକାର |</string>
+  <string name="text_animation_speed">ଆନିମେସନ୍ ଗତି |</string>
+  <string name="text_border_size">ସୀମା ଆକାର |</string>
+  <string name="text_radius_top">ରେଡିୟସ୍ ଟପ୍ |</string>
+  <string name="text_radius_bottom">ରେଡିୟସ୍ ତଳ |</string>
+  <string name="text_enable_display_notch">ନଚ୍ ସକ୍ଷମ କରନ୍ତୁ |</string>
+  <string name="text_notch_width_top">ଖଣ୍ଡ ମୋଟେଇ ଉପର |</string>
+  <string name="text_notch_width_bottom">ଖଣ୍ଡ ମୋଟେଇ ତଳ |</string>
+  <string name="text_notch_height">ଖଣ୍ଡ ଉଚ୍ଚତା |</string>
+  <string name="text_notch_radius_top">ଖଣ୍ଡ ବ୍ୟାଡ୍ୟୁସ୍ ଟପ୍ |</string>
+  <string name="text_notch_radius_bottom">ଖଣ୍ଡ ଖଣ୍ଡ</string>
+  <string name="select_wallpaper">ୱାଲପେପର୍ ଚୟନ କରନ୍ତୁ |</string>
+  <string name="allow_display_over_other_apps">ଅନ୍ୟ ଆପ୍ସ ଉପରେ ପ୍ରଦର୍ଶନକୁ ଅନୁମତି ଦିଅନ୍ତୁ |</string>
+  <string name="continue_">ଜାରି ରଖ |</string>
+  <string name="app_name_service">ସ୍କ୍ରିନ୍ ଓଭରଲେ ଖୋଲନ୍ତୁ |</string>
+  <string name="permission_request">ଅନୁମତି ଅନୁରୋଧ |</string>
+  <string name="power_connected">ଶକ୍ତି କେବୁଲ୍ ସଂଯୁକ୍ତ |</string>
+  <string name="power_disconnected">ପାୱାର କେବୁଲ୍ ବିଚ୍ଛିନ୍ନ ହୋଇଛି |</string>
+  <string name="draw_over_cancelled">ଏପର୍ଯ୍ୟନ୍ତ ମଞ୍ଜୁର ହୋଇନଥିବା ଓଭରଲେଜ୍ ଅନୁମତି ଅଙ୍କନ କରନ୍ତୁ | ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+  <string name="draw_over_granted">ମଞ୍ଜୁର ହୋଇଥିବା ଓଭରଲେଜ୍ ଅନୁମତି ଅନୁରୋଧ ଅଙ୍କନ କରନ୍ତୁ |</string>
+  <string name="app_name">ଧାର ଆଲୋକ</string>
+  <string name="please_wait">ଦୟାକରି ୱାଲପେପର ଡାଉନଲୋଡ୍ କୁ ଅପେକ୍ଷା କରନ୍ତୁ…</string>
+  <string name="no_internet">କ internet ଣସି ଇଣ୍ଟରନେଟ୍ ନାହିଁ |</string>
+  <string name="to_use_this">ଏହି ବ feature ଶିଷ୍ଟ୍ୟ ବ୍ୟବହାର କରିବାକୁ ଆକ୍ସେସିବିଲିଟି ଅନୁମତି ଆବଶ୍ୟକ |</string>
+  <string name="draw_over_denied">ଏପର୍ଯ୍ୟନ୍ତ ମଞ୍ଜୁର ହୋଇନଥିବା ଓଭରଲେଜ୍ ଅନୁମତି ଅଙ୍କନ କରନ୍ତୁ | ପୁନର୍ବାର ଚେଷ୍ଟା କରନ୍ତୁ |</string>
+  <string name="no_internet_war">ଆପଣ ଅଫଲାଇନରେ ଅଛନ୍ତି, ଧାର ଆଲୋକିତ ୱାଲପେପର ପାଇବା ପାଇଁ ଦୟାକରି ଆପଣଙ୍କର ଇଣ୍ଟରନେଟ୍ ଟର୍ନ୍ ଅନ୍ କରନ୍ତୁ |</string>
+  <string name="you_must">ସଠିକ୍ ଭାବରେ କାମ କରିବା ପାଇଁ ଆପଣ “ଅନ୍ୟ ଆପ୍ ଉପରେ ଅଙ୍କନ” ଅନୁମତି ସକ୍ଷମ କରିବା ଜରୁରୀ |</string>
+  <string name="wallpaper_description">Live_wallpaper</string>
+  <string name="abstract_">ବିସ୍ତୃତ</string>
+  <string name="nature">ପ୍ରକୃତି</string>
+  <string name="neon">ନିନ୍ |</string>
+  <string name="quotes">ଉଦ୍ଧୃତି</string>
+  <string name="sunset">ସୂର୍ଯ୍ୟାସ୍ତ |</string>
+  <string name="top">ଶୀର୍ଷ</string>
+  <string name="text_name_notification">ସେବା ଆରମ୍ଭ କରନ୍ତୁ |</string>
+  <string name="No_topic_selected">କ topic ଣସି ପ୍ରସଙ୍ଗ ଚୟନ ହୋଇନାହିଁ |</string>
+  <string name="Update_finish">ଅଦ୍ୟତନ ସମାପ୍ତ କରନ୍ତୁ |</string>
+  <string name="loading_ad">ବିଜ୍ଞାପନ ଲୋଡିଙ୍ଗ୍ |</string>
+  <string name="low_battery">କମ୍ ବ୍ୟାଟେରୀ ଏଜ୍ ଆଲୋକୀକରଣ |</string>
+  <string name="battery_one">ବ୍ୟାଟେରୀ 1</string>
+  <string name="battery_two">ବ୍ୟାଟେରୀ 2</string>
+  <string name="edge_service">ଚାଲୁଥିବା ସେବା |</string>
+  <string name="wallpaper">ୱାଲପେପର |</string>
+  <string name="magical_wallpaper">ଲାଇଭ୍ |</string>
+  <string name="main_ongoing_download">ପୂର୍ବାବଲୋକନ ସୃଷ୍ଟି କରୁଛି |</string>
+  <string name="permission_required">ଅନୁମତି ଆବଶ୍ୟକ |</string>
+  <string name="title_onboarding_1">ଅଭିଗମ୍ୟତା ଅନୁମତି |</string>
+  <string name="description_onboarding_1">ଅଭିଗମ୍ୟତା ହେଉଛି ଏକ ମୂଳ ବ feature ଶିଷ୍ଟ୍ୟ |</string>
+  <string name="string_text_onboarding_complete_description">ଏକ ମୂଳ ବ feature ଶିଷ୍ଟ୍ୟ ଭାବରେ ଆକ୍ସେସିବିଲିଟି ଅନୁମତି ଅନ୍ୟ ଆପ୍ ଏବଂ ଲକ୍ ସ୍କ୍ରିନ୍ ଉପରେ କାମ କରିବା ପାଇଁ ଏଜ୍ ଲାଇଟିଂ ପାଇଁ ଆବଶ୍ୟକ |</string>
+  <string name="title_onboarding_2">ଅଭିଗମ୍ୟତା ଅନୁମତି |</string>
+  <string name="description_onboarding_2">ନିମ୍ନଲିଖିତ ଭାବରେ ଅନୁମତି ଦିଆଯାଇପାରେ: \n \n ଆକ୍ସେସିବିଲିଟି> ସଂସ୍ଥାପିତ ଆପ୍ସ / ସର୍ଭିସେସ୍> ଏଜ୍ ଆଲୋକୀକରଣ \n OR \n ଆକ୍ସେସିବିଲିଟି> ଅଧିକ ଡାଉନଲୋଡ୍ ସେବା> ଏଜ୍ ଆଲୋକ</string>
+  <string name="title_onboarding_3">ସୁନ୍ଦର ଆପ୍ କୋଡ୍ କରନ୍ତୁ |</string>
+  <string name="description_onboarding_3">ଆମର ଉଦ୍ଦେଶ୍ୟ ହେଉଛି ଉପଯୋଗୀ ଏବଂ ସୂକ୍ଷ୍ମ ଆପ୍ ତିଆରି କରିବା | ଆମେ ଲୋକମାନଙ୍କୁ ମୁକ୍ତ ଉତ୍ସ ସାମଗ୍ରୀ ସହିତ ସମୟ ସଞ୍ଚୟ କରିବାରେ ସାହାଯ୍ୟ କରିବାକୁ ଭଲପାଉ, କିନ୍ତୁ ନୂତନ ଜିନିଷ ସୃଷ୍ଟି କରି ଆମେ ଜୀବନକୁ ସହଜ କରିଥାଉ | ଭଲ କୋଡିଂ!</string>
+  <string name="start_text_advice">ଏହି ଅନୁପ୍ରୟୋଗରେ ଜାରି କରି ଆପଣ ଆମର ବ୍ୟବହାର ସର୍ତ୍ତାବଳୀ ଏବଂ ଗୋପନୀୟତା ନୀତିରେ ରାଜି ହୁଅନ୍ତି |</string>
+  <string name="start">ଆରମ୍ଭ କରନ୍ତୁ |</string>
+  <string name="skip">ଛାଡିଦିଅ |</string>
+  <string name="finish">ସମାପ୍ତ</string>
+  <string name="next">ପରବର୍ତ୍ତୀ</string>
+  <string name="back">ପଛକୁ</string>
+  <string name="allow">ଅନୁମତି ଦିଅନ୍ତୁ |</string>
+  <string name="slider_Edge">ଧାର ଆଲୋକ</string>
+  <string name="slider_Edge1">ଏଜ୍ ଉପରେ ଧାର ଆଲୋକ ପ୍ରଦର୍ଶିତ କରନ୍ତୁ |</string>
+  <string name="alert_Edge">କମ୍ ବ୍ୟାଟେରୀ ଆଲର୍ଟ |</string>
+  <string name="alert_Edge1">କମ୍ ବ୍ୟାଟେରୀ ଆଲର୍ଟ ପାଇଁ କମଳା ଧାର ଆଲୋକ |</string>
+  <string name="warning_Edge">କମ୍ ବ୍ୟାଟେରୀ ଚେତାବନୀ |</string>
+  <string name="warning_Edge1">ବହୁତ କମ୍ ବ୍ୟାଟେରୀ ଚେତାବନୀ ପାଇଁ ଲାଲ୍ ଧାର ଆଲୋକ |</string>
+  <string name="notch_Edge">ଖଣ୍ଡ</string>
+  <string name="notch_Edge1">ଖଣ୍ଡ ସହିତ ଧାର ଆଲୋକ ସକ୍ଷମ କରନ୍ତୁ |</string>
+  <string name="wallpaper_Edge">ୱାଲପେପର |</string>
+  <string name="wallpaper_Edge1">ୱାଲପେପର ସହିତ ଏଜ୍ ଆଲୋକୀକରଣ |</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>୧</item>  
+    <item>୨</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>ବେତାର</item> 
+  </string-array>
+  <string name="hello_blank_fragment">ନମସ୍କାର ଖାଲି ଖଣ୍ଡ |</string>
+  <string name="apply">ପ୍ରୟୋଗ କରନ୍ତୁ |</string>
+  <string name="applied">ପ୍ରୟୋଗ |</string>
+  <string name="always_on_display_edge_lighting">ସର୍ବଦା ପ୍ରଦର୍ଶନୀ ଧାର ଆଲୋକରେ |</string>
+  <string name="confirm_exit">ପ୍ରସ୍ଥାନ ନିଶ୍ଚିତ କରନ୍ତୁ?</string>
+  <string name="yes">ହଁ</string>
+  <string name="no">ନା</string>
+  <string name="wallpapers">ୱାଲପେପର |</string>
+  <string name="ok">ଠିକ ଅଛି |</string>
+  <string name="what_would_you_like_to_do">ଆପଣ କଣ କରିବାକୁ ଚାହୁଁଛନ୍ତି?</string>
+  <string name="set_home_screen">ହୋମ୍ ସ୍କ୍ରିନ୍ ସେଟ୍ କରନ୍ତୁ |</string>
+  <string name="set_lock_screen">ଲକ୍ ସ୍କ୍ରିନ୍ ସେଟ୍ କରନ୍ତୁ |</string>
+  <string name="set_both_screens">ଉଭୟ ପରଦା ସେଟ୍ କରନ୍ତୁ |</string>
+  <string name="adjust_screen">ସ୍କ୍ରିନ୍ ଆଡଜଷ୍ଟ୍ କରନ୍ତୁ |</string>
+  <string name="please_wait_ad_is_loading">ଦୟାକରି ଅପେକ୍ଷା କରନ୍ତୁ, ବିଜ୍ଞାପନ ଲୋଡ୍ ହେଉଛି |</string>
+  <string name="home">ଘର</string>
+  <string name="edge_lighting_border">ଧାର ଆଲୋକୀକରଣ ସୀମା |</string>
+  <string name="view_more">ଅଧିକ ଦେଖନ୍ତୁ |</string>
+  <string name="brighten_up_by_stunning_edges">ଚମତ୍କାର ଏଜ୍ ଦ୍ୱାରା ଉଜ୍ଜ୍ୱଳ କରନ୍ତୁ |</string>
+  <string name="live_wallpapers">ଲାଇଭ୍ ୱାଲପେପର |</string>
+  <string name="stunning_wallpapers">ଚମତ୍କାର ୱାଲପେପର |</string>
+  <string name="experience_by_interactive_wallpapers">ଇଣ୍ଟରାକ୍ଟିଭ୍ ୱାଲପେପର ଦ୍ୱାରା ଅଭିଜ୍ଞତା |</string>
+  <string name="dismiss">ବରଖାସ୍ତ</string>
+  <string name="language">ଭାଷା</string>
+  <string name="privacy_policy">ଗୋପନୀୟତା ନୀତି</string>
+  <string name="rate_us">ଆମକୁ ମୂଲ୍ୟାଙ୍କନ କର |</string>
+  <string name="more_app">ଅଧିକ ଆପ୍ |</string>
+  <string name="exit">ପ୍ରସ୍ଥାନ</string>
+  <string name="alert">ସତର୍କତା |</string>
+  <string name="warning">ଚେତାବନୀ</string>
+  <string name="trending">ଟ୍ରେଣ୍ଡିଂ</string>
+  <string name="applying_wallpaper">ୱାଲପେପର ପ୍ରୟୋଗ |</string>
+  <string name="wallpaper_applied">ୱାଲପେପର ପ୍ରୟୋଗ |</string>
+  <string name="accessibility_service_level_permission">ଅଭିଗମ୍ୟତା ସେବା ସ୍ତର ଅନୁମତି:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">ଏକ ମୂଳ ବ feature ଶିଷ୍ଟ୍ୟ ଭାବରେ ଆକ୍ସେସିବିଲିଟି ଅନୁମତି ଅନ୍ୟ ଆପ୍ ଏବଂ ଲକ୍ ସ୍କ୍ରିନ୍ ଉପରେ କାମ କରିବା ପାଇଁ ଏଜ୍ ଲାଇଟିଂ ପାଇଁ ଆବଶ୍ୟକ |</string>
+  <string name="this_permission_can_be_granted_as_follow">ଏହି ଅନୁମତି ନିମ୍ନଲିଖିତ ଭାବରେ ଦିଆଯାଇପାରେ:</string>
+  <string name="go_to_settings">ସେଟିଂସମୂହକୁ ଯାଆନ୍ତୁ |</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">ଅଭିଗମ୍ୟତା> ସଂସ୍ଥାପିତ ଆପ୍ସ / ସେବାଗୁଡିକ> ଏଜ୍ ଆଲୋକୀକରଣ |</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">ଅଭିଗମ୍ୟତା> ଅଧିକ ଡାଉନଲୋଡ୍ ସେବା> ଏଜ୍ ଆଲୋକୀକରଣ |</string>
+  <string name="grant_permission_now">ବର୍ତ୍ତମାନ ଅନୁମତି ଦିଅନ୍ତୁ?</string>
+  <string name="later">ପରେ</string>
+  <string name="yes_now">ହଁ, ବର୍ତ୍ତମାନ</string>
+</resources>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Адлюстраванне паверх іншых праграм</string>
+  <string name="open_nav">Адкрыйце панэль навігацыі</string>
+  <string name="close_nav">Зачыніць панэль навігацыі</string>
+  <string name="show_while_charging">Паказаць падчас зарадкі</string>
+  <string name="text_enable_wallpaper">Уключыць шпалеры</string>
+  <string name="number_of_colors">Колькасць колераў</string>
+  <string name="click_a_color_to_edit">Націсніце колер для рэдагавання</string>
+  <string name="mtrl_picker_confirm">Добра</string>
+  <string name="SelectLanguage">Выберыце мову</string>
+  <string name="text_cancel">Адмяніць</string>
+  <string name="text_border_type">Тып мяжы</string>
+  <string name="text_animation_speed">Хуткасць анімацыі</string>
+  <string name="text_border_size">Памер мяжы</string>
+  <string name="text_radius_top">Радыус верх</string>
+  <string name="text_radius_bottom">Радыуснае дно</string>
+  <string name="text_enable_display_notch">Уключыць Notch</string>
+  <string name="text_notch_width_top">Шырыня надрэзу зверху</string>
+  <string name="text_notch_width_bottom">Шырыня выемкі ўнізе</string>
+  <string name="text_notch_height">Вышыня выемкі</string>
+  <string name="text_notch_radius_top">Радыус выемкі зверху</string>
+  <string name="text_notch_radius_bottom">Радыус выемкі ўнізе</string>
+  <string name="select_wallpaper">Выберыце Шпалеры</string>
+  <string name="allow_display_over_other_apps">Дазволіць паказ паверх іншых праграм</string>
+  <string name="continue_">Працягнуць</string>
+  <string name="app_name_service">Адкрыць накладанне экрана</string>
+  <string name="permission_request">Запыт на дазвол</string>
+  <string name="power_connected">Кабель харчавання падключаны</string>
+  <string name="power_disconnected">Кабель сілкавання адключаны</string>
+  <string name="draw_over_cancelled">Дазвол на маляванне накладання яшчэ не дадзены. Паспрабуйце яшчэ раз</string>
+  <string name="draw_over_granted">Запыт на дазвол малявання накладання задаволены</string>
+  <string name="app_name">Краёвае асвятленне</string>
+  <string name="please_wait">Калі ласка, пачакайце загрузку шпалер…</string>
+  <string name="no_internet">Інтэрнэту няма</string>
+  <string name="to_use_this">Для выкарыстання гэтай функцыі патрабуецца дазвол на доступ</string>
+  <string name="draw_over_denied">Дазвол на маляванне накладання яшчэ не дадзены. Паспрабуйце яшчэ раз</string>
+  <string name="no_internet_war">Вы па-за сеткай, калі ласка, уключыце інтэрнэт, каб атрымаць шпалеры з асвятленнем краю.</string>
+  <string name="you_must">Вы павінны ўключыць дазвол «Маляваць па-над іншымі праграмамі», каб «Асвятленне краёў» працавала належным чынам.</string>
+  <string name="wallpaper_description">Жывыя_шпалеры</string>
+  <string name="abstract_">Анатацыя</string>
+  <string name="nature">Прырода</string>
+  <string name="neon">Неон</string>
+  <string name="quotes">Цытаты</string>
+  <string name="sunset">Закат</string>
+  <string name="top">Топ</string>
+  <string name="text_name_notification">Запусціць службу</string>
+  <string name="No_topic_selected">Тэма не выбрана</string>
+  <string name="Update_finish">Абнаўленне скончана</string>
+  <string name="loading_ad">Загрузка аб\'явы</string>
+  <string name="low_battery">Краёвае асвятленне з нізкім зарадам батарэі</string>
+  <string name="battery_one">Акумулятар 1</string>
+  <string name="battery_two">Акумулятар 2</string>
+  <string name="edge_service">Запушчаная служба</string>
+  <string name="wallpaper">Шпалеры</string>
+  <string name="magical_wallpaper">Жыць</string>
+  <string name="main_ongoing_download">Стварэнне папярэдняга прагляду</string>
+  <string name="permission_required">Патрабуецца дазвол</string>
+  <string name="title_onboarding_1">Дазвол на доступ</string>
+  <string name="description_onboarding_1">Даступнасць з\'яўляецца асноўнай функцыяй</string>
+  <string name="string_text_onboarding_complete_description">Дазвол доступу ў якасці асноўнай функцыі з\'яўляецца абавязковым для таго, каб Edge Lighting працаваў над іншымі праграмамі і экранам блакіроўкі</string>
+  <string name="title_onboarding_2">Дазвол на доступ</string>
+  <string name="description_onboarding_2">Дазвол можа быць дадзены наступным чынам: \n \n Спецыяльныя магчымасці > Усталяваныя прыкладанні/сэрвісы > Краёвае асвятленне \n АБО \n Спецыяльныя магчымасці > Іншыя сэрвісы спампоўкі > Краёвае асвятленне</string>
+  <string name="title_onboarding_3">Код прыгожых праграм</string>
+  <string name="description_onboarding_3">Наша місія - ствараць карысныя і тонкія праграмы. Мы любім дапамагаць людзям эканоміць час з дапамогай матэрыялаў з адкрытым зыходным кодам, але мы таксама палягчаем жыццё, ствараючы новыя рэчы. Добрае кадзіраванне!</string>
+  <string name="start_text_advice">Працягваючы выкарыстоўваць гэта дадатак, вы згаджаецеся з нашымі Умовамі выкарыстання і Палітыкай прыватнасці</string>
+  <string name="start">Пачаць</string>
+  <string name="skip">Прапусціць</string>
+  <string name="finish">Скончыць</string>
+  <string name="next">Далей</string>
+  <string name="back">Назад</string>
+  <string name="allow">Дазволіць</string>
+  <string name="slider_Edge">Краёвае асвятленне</string>
+  <string name="slider_Edge1">Адлюстраванне краявога асвятлення над краямі</string>
+  <string name="alert_Edge">Абвестка пра нізкі зарад батарэі</string>
+  <string name="alert_Edge1">Аранжавае асвятленне па краях для папярэджання пра нізкі зарад батарэі</string>
+  <string name="warning_Edge">Папярэджанне пра нізкі зарад батарэі</string>
+  <string name="warning_Edge1">Чырвонае асвятленне краю для папярэджання аб вельмі нізкім узроўні батарэі</string>
+  <string name="notch_Edge">Выемка</string>
+  <string name="notch_Edge1">Уключыце асвятленне краёў з выемкай</string>
+  <string name="wallpaper_Edge">Шпалеры</string>
+  <string name="wallpaper_Edge1">Краёвае асвятленне шпалерамі</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ак</item>  
+    <item>USB</item>  
+    <item>Бесправадной</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Прывітанне пусты фрагмент</string>
+  <string name="apply">Ужыць</string>
+  <string name="applied">Ужывальная</string>
+  <string name="always_on_display_edge_lighting">Заўсёды ўключанае асвятленне па краях</string>
+  <string name="confirm_exit">Пацвердзіць выхад?</string>
+  <string name="yes">Так</string>
+  <string name="no">Няма</string>
+  <string name="wallpapers">Шпалеры</string>
+  <string name="ok">Добра</string>
+  <string name="what_would_you_like_to_do">Чым бы ты хацеў займацца?</string>
+  <string name="set_home_screen">Наладзіць галоўны экран</string>
+  <string name="set_lock_screen">Наладзіць экран блакіроўкі</string>
+  <string name="set_both_screens">Усталюйце абодва экрана</string>
+  <string name="adjust_screen">Наладзіць экран</string>
+  <string name="please_wait_ad_is_loading">Калі ласка, пачакайце, рэклама загружаецца</string>
+  <string name="home">Дадому</string>
+  <string name="edge_lighting_border">Рамка асвятлення краю</string>
+  <string name="view_more">Глядзець больш</string>
+  <string name="brighten_up_by_stunning_edges">Упрыгожце ашаламляльныя краю</string>
+  <string name="live_wallpapers">Жывыя шпалеры</string>
+  <string name="stunning_wallpapers">Цудоўныя шпалеры</string>
+  <string name="experience_by_interactive_wallpapers">Вопыт інтэрактыўных шпалер</string>
+  <string name="dismiss">Звольніць</string>
+  <string name="language">Мова</string>
+  <string name="privacy_policy">Палітыка прыватнасці</string>
+  <string name="rate_us">Ацаніце нас</string>
+  <string name="more_app">Больш прыкладання</string>
+  <string name="exit">Выхад</string>
+  <string name="alert">Абвестка</string>
+  <string name="warning">Папярэджанне</string>
+  <string name="trending">У трэндзе</string>
+  <string name="applying_wallpaper">Наклейванне шпалер</string>
+  <string name="wallpaper_applied">Шпалеры нанесены</string>
+  <string name="accessibility_service_level_permission">Дазвол на ўзровень сэрвісу даступнасці:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Дазвол доступу ў якасці асноўнай функцыі з\'яўляецца абавязковым для таго, каб Edge Lighting працаваў над іншымі праграмамі і экранам блакіроўкі</string>
+  <string name="this_permission_can_be_granted_as_follow">Гэты дазвол можа быць дадзены наступным чынам:</string>
+  <string name="go_to_settings">Перайдзіце ў Налады</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Спецыяльныя магчымасці > Усталяваныя прыкладанні/сэрвісы > Асвятленне краёў</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Даступнасць > Іншыя сэрвісы спампоўкі > Edge Lighting</string>
+  <string name="grant_permission_now">Даць дазвол зараз?</string>
+  <string name="later">Пазней</string>
+  <string name="yes_now">Так, цяпер</string>
+</resources>

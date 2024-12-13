@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Ցուցադրել այլ հավելվածների վրա</string>
+  <string name="open_nav">Բացեք նավիգացիոն դարակը</string>
+  <string name="close_nav">Փակել նավիգացիոն դարակը</string>
+  <string name="show_while_charging">Ցույց տալ լիցքավորման ժամանակ</string>
+  <string name="text_enable_wallpaper">Միացնել Պաստառը</string>
+  <string name="number_of_colors">Գույների քանակը</string>
+  <string name="click_a_color_to_edit">Սեղմեք գույնը խմբագրելու համար</string>
+  <string name="mtrl_picker_confirm">Լավ</string>
+  <string name="SelectLanguage">Ընտրեք Լեզուն</string>
+  <string name="text_cancel">Չեղարկել</string>
+  <string name="text_border_type">Սահմանի տեսակը</string>
+  <string name="text_animation_speed">Անիմացիայի արագություն</string>
+  <string name="text_border_size">Սահմանի չափը</string>
+  <string name="text_radius_top">Շառավիղ վերև</string>
+  <string name="text_radius_bottom">Շառավիղ ներքեւ</string>
+  <string name="text_enable_display_notch">Միացնել Notch-ը</string>
+  <string name="text_notch_width_top">Վերևի խազի լայնությունը</string>
+  <string name="text_notch_width_bottom">Ներքևի հատվածի լայնությունը</string>
+  <string name="text_notch_height">Անցման բարձրություն</string>
+  <string name="text_notch_radius_top">Խազ շառավղով վերև</string>
+  <string name="text_notch_radius_bottom">Հատված շառավիղով ներքևում</string>
+  <string name="select_wallpaper">Ընտրեք Պաստառ</string>
+  <string name="allow_display_over_other_apps">Թույլատրել ցուցադրումը այլ հավելվածների վրա</string>
+  <string name="continue_">Շարունակեք</string>
+  <string name="app_name_service">Բացեք էկրանի ծածկույթը</string>
+  <string name="permission_request">Թույլտվության հարցում</string>
+  <string name="power_connected">Հոսանքի մալուխը միացված է</string>
+  <string name="power_disconnected">Հոսանքի մալուխը անջատված է</string>
+  <string name="draw_over_cancelled">Նկարչության ծածկույթի թույլտվությունը դեռ տրված չէ: Կրկին փորձեք</string>
+  <string name="draw_over_granted">Նկարչական ծածկույթի թույլտվությունների հարցումը տրվել է</string>
+  <string name="app_name">Եզրային լուսավորություն</string>
+  <string name="please_wait">Խնդրում ենք սպասել Պաստառի ներբեռնում…</string>
+  <string name="no_internet">Ինտերնետ չկա</string>
+  <string name="to_use_this">Այս ֆունկցիան օգտագործելու համար Մատչելիության թույլտվություն է պահանջվում</string>
+  <string name="draw_over_denied">Նկարչության ծածկույթի թույլտվությունը դեռ տրված չէ: Կրկին փորձեք</string>
+  <string name="no_internet_war">Դուք անցանց եք, խնդրում ենք միացրեք ձեր ինտերնետը՝ ծայրամասային լուսավորող պաստառներ ստանալու համար:</string>
+  <string name="you_must">Դուք պետք է միացնեք «Draw Over Other Apps» թույլտվությունը, որպեսզի «Edge Lighting»-ը ճիշտ աշխատի:</string>
+  <string name="wallpaper_description">Կենդանի_պաստառ</string>
+  <string name="abstract_">Վերացական</string>
+  <string name="nature">Բնություն</string>
+  <string name="neon">Նեոն</string>
+  <string name="quotes">Մեջբերումներ</string>
+  <string name="sunset">Մայրամուտ</string>
+  <string name="top">Վերև</string>
+  <string name="text_name_notification">Սկսեք ծառայությունը</string>
+  <string name="No_topic_selected">Ոչ մի թեմա ընտրված չէ</string>
+  <string name="Update_finish">Թարմացման ավարտը</string>
+  <string name="loading_ad">Բեռնվում է գովազդ</string>
+  <string name="low_battery">Ցածր մարտկոցի եզրային լուսավորություն</string>
+  <string name="battery_one">Մարտկոց 1</string>
+  <string name="battery_two">Մարտկոց 2</string>
+  <string name="edge_service">Վազքի ծառայություն</string>
+  <string name="wallpaper">Պաստառ</string>
+  <string name="magical_wallpaper">Ապրեք</string>
+  <string name="main_ongoing_download">Նախադիտման առաջացում</string>
+  <string name="permission_required">Պահանջվում է թույլտվություն</string>
+  <string name="title_onboarding_1">Մատչելիության թույլտվություն</string>
+  <string name="description_onboarding_1">Մատչելիությունը հիմնական հատկանիշն է</string>
+  <string name="string_text_onboarding_complete_description">Մատչելիության թույլտվությունը՝ որպես հիմնական հատկություն, պարտադիր է, որպեսզի Edge Lighting-ը աշխատի այլ հավելվածների և կողպէկրանի վրա</string>
+  <string name="title_onboarding_2">Մատչելիության թույլտվություն</string>
+  <string name="description_onboarding_2">\n կարող \n տրվել \n \n .</string>
+  <string name="title_onboarding_3">Կոդավորեք գեղեցիկ հավելվածներ</string>
+  <string name="description_onboarding_3">Մեր առաքելությունն է ստեղծել օգտակար և նուրբ հավելվածներ: Մենք սիրում ենք օգնել մարդկանց ժամանակ խնայել բաց կոդով նյութերով, բայց մենք նաև հեշտացնում ենք կյանքը՝ ստեղծելով նոր բաներ: Լավ կոդավորում!</string>
+  <string name="start_text_advice">Շարունակելով այս հավելվածը՝ դուք համաձայնում եք մեր Օգտագործման պայմաններին և Գաղտնիության քաղաքականությանը</string>
+  <string name="start">Սկսել</string>
+  <string name="skip">Բաց թողնել</string>
+  <string name="finish">Ավարտել</string>
+  <string name="next">Հաջորդը</string>
+  <string name="back">Ետ</string>
+  <string name="allow">Թույլատրել</string>
+  <string name="slider_Edge">Եզրային լուսավորություն</string>
+  <string name="slider_Edge1">Ցուցադրել եզրերի լուսավորությունը եզրերի վրա</string>
+  <string name="alert_Edge">Ցածր մարտկոցի մասին ահազանգ</string>
+  <string name="alert_Edge1">Նարնջագույն եզրային լուսավորություն մարտկոցի ցածր զգոնության համար</string>
+  <string name="warning_Edge">Մարտկոցի ցածր մարտկոցի նախազգուշացում</string>
+  <string name="warning_Edge1">Կարմիր եզրային լուսավորություն շատ ցածր մարտկոցի նախազգուշացման համար</string>
+  <string name="notch_Edge">Խազ</string>
+  <string name="notch_Edge1">Միացնել եզրերի լուսավորությունը խազով</string>
+  <string name="wallpaper_Edge">Պաստառ</string>
+  <string name="wallpaper_Edge1">Եզրային լուսավորություն Պաստառով</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ակ</item>  
+    <item>USB</item>  
+    <item>Անլար</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Բարև, դատարկ հատված</string>
+  <string name="apply">Դիմել</string>
+  <string name="applied">Կիրառվել է</string>
+  <string name="always_on_display_edge_lighting">Միշտ էկրանի եզրային լուսավորությամբ</string>
+  <string name="confirm_exit">Հաստատե՞լ Ելքը</string>
+  <string name="yes">Այո՛</string>
+  <string name="no">Ոչ</string>
+  <string name="wallpapers">Պաստառներ</string>
+  <string name="ok">Լավ</string>
+  <string name="what_would_you_like_to_do">Ի՞նչ կցանկանայիք անել։</string>
+  <string name="set_home_screen">Սահմանել հիմնական էկրանը</string>
+  <string name="set_lock_screen">Սահմանեք կողպեքի էկրանը</string>
+  <string name="set_both_screens">Սահմանեք երկու էկրանները</string>
+  <string name="adjust_screen">Կարգավորել Էկրանը</string>
+  <string name="please_wait_ad_is_loading">Խնդրում ենք սպասել, գովազդը բեռնվում է</string>
+  <string name="home">Տուն</string>
+  <string name="edge_lighting_border">Edge Lighting Border</string>
+  <string name="view_more">Դիտել Ավելին</string>
+  <string name="brighten_up_by_stunning_edges">Պայծառացրեք ցնցող եզրերով</string>
+  <string name="live_wallpapers">Կենդանի պաստառներ</string>
+  <string name="stunning_wallpapers">Ցնցող Պաստառներ</string>
+  <string name="experience_by_interactive_wallpapers">Փորձ ինտերակտիվ պաստառներով</string>
+  <string name="dismiss">Հեռացնել</string>
+  <string name="language">Լեզու</string>
+  <string name="privacy_policy">Գաղտնիության քաղաքականություն</string>
+  <string name="rate_us">Գնահատեք մեզ</string>
+  <string name="more_app">Լրացուցիչ հավելված</string>
+  <string name="exit">Ելք</string>
+  <string name="alert">Զգուշացում</string>
+  <string name="warning">Զգուշացում</string>
+  <string name="trending">Թրենդային</string>
+  <string name="applying_wallpaper">Պաստառի կիրառում</string>
+  <string name="wallpaper_applied">Կիրառվեց պաստառ</string>
+  <string name="accessibility_service_level_permission">Մատչելիության ծառայության մակարդակի թույլտվություն.</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Մատչելիության թույլտվությունը՝ որպես հիմնական հատկություն, պարտադիր է, որպեսզի Edge Lighting-ը աշխատի այլ հավելվածների և կողպէկրանի վրա</string>
+  <string name="this_permission_can_be_granted_as_follow">Այս թույլտվությունը կարող է տրվել հետևյալ կերպ.</string>
+  <string name="go_to_settings">Գնացեք Կարգավորումներ</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Մատչելիություն > Տեղադրված հավելվածներ/ծառայություններ > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Մատչելիություն > Լրացուցիչ Ներբեռնման ծառայություններ > Edge Lighting</string>
+  <string name="grant_permission_now">Թույլտվե՞լ հիմա:</string>
+  <string name="later">Ավելի ուշ</string>
+  <string name="yes_now">Այո, հիմա</string>
+</resources>

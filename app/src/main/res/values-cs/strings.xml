@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Automatically translated by Globalization Translator (https://github.com/wilinz/globalization-translator)-->
+<resources>
+  <string name="text_display_over_other_apps">Zobrazit přes jiné aplikace</string>
+  <string name="open_nav">Otevřete navigační panel</string>
+  <string name="close_nav">Zavřete navigační zásuvku</string>
+  <string name="show_while_charging">Zobrazit během nabíjení</string>
+  <string name="text_enable_wallpaper">Povolit tapetu</string>
+  <string name="number_of_colors">Počet barev</string>
+  <string name="click_a_color_to_edit">Klikněte na barvu, kterou chcete upravit</string>
+  <string name="mtrl_picker_confirm">OK</string>
+  <string name="SelectLanguage">Vyberte Jazyk</string>
+  <string name="text_cancel">Zrušit</string>
+  <string name="text_border_type">Typ ohraničení</string>
+  <string name="text_animation_speed">Rychlost animace</string>
+  <string name="text_border_size">Velikost okraje</string>
+  <string name="text_radius_top">Poloměr nahoře</string>
+  <string name="text_radius_bottom">Poloměr dna</string>
+  <string name="text_enable_display_notch">Povolit Notch</string>
+  <string name="text_notch_width_top">Horní díl o šířce zářezu</string>
+  <string name="text_notch_width_bottom">Spodní šířka zářezu</string>
+  <string name="text_notch_height">Výška zářezu</string>
+  <string name="text_notch_radius_top">Horní poloměr zářezu</string>
+  <string name="text_notch_radius_bottom">Dno poloměru zářezu</string>
+  <string name="select_wallpaper">Vyberte Tapeta</string>
+  <string name="allow_display_over_other_apps">Povolit zobrazení přes jiné aplikace</string>
+  <string name="continue_">Pokračovat</string>
+  <string name="app_name_service">Otevřete překryvnou vrstvu obrazovky</string>
+  <string name="permission_request">Žádost o povolení</string>
+  <string name="power_connected">Napájecí kabel připojen</string>
+  <string name="power_disconnected">Napájecí kabel odpojen</string>
+  <string name="draw_over_cancelled">Oprávnění k překryvnému kreslení zatím nebylo uděleno. Zkuste to znovu</string>
+  <string name="draw_over_granted">Byla udělena žádost o oprávnění k překryvnému kreslení</string>
+  <string name="app_name">Osvětlení okraje</string>
+  <string name="please_wait">Čekejte prosím Stahování tapety…</string>
+  <string name="no_internet">Žádný internet</string>
+  <string name="to_use_this">K použití této funkce je vyžadováno oprávnění k usnadnění</string>
+  <string name="draw_over_denied">Oprávnění k překryvnému kreslení zatím nebylo uděleno. Zkuste to znovu</string>
+  <string name="no_internet_war">Jste offline, zapněte si internet, abyste získali tapety s okrajovým osvětlením.</string>
+  <string name="you_must">Aby \"Edge Lighting\" fungovalo správně, musíte povolit oprávnění \"Draw Over Other Apps\".</string>
+  <string name="wallpaper_description">Živá_tapeta</string>
+  <string name="abstract_">Abstraktní</string>
+  <string name="nature">Příroda</string>
+  <string name="neon">Neon</string>
+  <string name="quotes">Citáty</string>
+  <string name="sunset">Západ slunce</string>
+  <string name="top">Nahoru</string>
+  <string name="text_name_notification">Spusťte službu</string>
+  <string name="No_topic_selected">Není vybráno žádné téma</string>
+  <string name="Update_finish">Dokončení aktualizace</string>
+  <string name="loading_ad">Načítání reklamy</string>
+  <string name="low_battery">Osvětlení okraje vybité baterie</string>
+  <string name="battery_one">Baterie 1</string>
+  <string name="battery_two">Baterie 2</string>
+  <string name="edge_service">Běžící služba</string>
+  <string name="wallpaper">Tapeta</string>
+  <string name="magical_wallpaper">Žít</string>
+  <string name="main_ongoing_download">Generování náhledu</string>
+  <string name="permission_required">Vyžaduje se povolení</string>
+  <string name="title_onboarding_1">Oprávnění k usnadnění</string>
+  <string name="description_onboarding_1">Přístupnost je základní funkcí</string>
+  <string name="string_text_onboarding_complete_description">Povolení k usnadnění jako základní funkce je nezbytné, aby Edge Lighting fungovalo přes jiné aplikace a zamykací obrazovku</string>
+  <string name="title_onboarding_2">Oprávnění k usnadnění</string>
+  <string name="description_onboarding_2">Povolení lze udělit následovně: \n \n Usnadnění > Nainstalované aplikace/služby > Edge Lighting \n NEBO \n Usnadnění > Další služby pro stahování > Edge Lighting</string>
+  <string name="title_onboarding_3">Kódujte krásné aplikace</string>
+  <string name="description_onboarding_3">Naším posláním je vytvářet užitečné a jemné aplikace. Rádi pomáháme lidem šetřit čas pomocí materiálů s otevřeným zdrojovým kódem, ale také usnadňujeme život vytvářením nových věcí. Dobré kódování!</string>
+  <string name="start_text_advice">Pokračováním v této aplikaci souhlasíte s našimi Podmínkami použití a Zásadami ochrany osobních údajů</string>
+  <string name="start">Start</string>
+  <string name="skip">Přeskočit</string>
+  <string name="finish">Dokončit</string>
+  <string name="next">Další</string>
+  <string name="back">Zadní</string>
+  <string name="allow">Povolit</string>
+  <string name="slider_Edge">Osvětlení okraje</string>
+  <string name="slider_Edge1">Osvětlení okraje displeje přes okraje</string>
+  <string name="alert_Edge">Upozornění na vybitou baterii</string>
+  <string name="alert_Edge1">Oranžové podsvícení pro upozornění na vybitou baterii</string>
+  <string name="warning_Edge">Upozornění na vybitou baterii</string>
+  <string name="warning_Edge1">Červené okrajové osvětlení pro upozornění na velmi vybitou baterii</string>
+  <string name="notch_Edge">Zářez</string>
+  <string name="notch_Edge1">Povolit okrajové osvětlení pomocí zářezu</string>
+  <string name="wallpaper_Edge">Tapeta</string>
+  <string name="wallpaper_Edge1">Okrajové osvětlení s tapetou</string>
+  <array name="wallpapers"> 
+    <item>@drawable/bg_wallpaper</item>  
+    <item>@drawable/background1</item>  
+    <item>@drawable/background2</item>  
+    <item>@drawable/background3</item>  
+    <item>@drawable/background4</item>  
+    <item>@drawable/background5</item>  
+    <item>@drawable/background6</item>  
+    <item>@drawable/background7</item>  
+    <item>@drawable/background8</item>  
+    <item>@drawable/background9</item>  
+    <item>@drawable/background10</item>  
+    <item>@drawable/background11</item>  
+    <item>@drawable/background12</item>  
+    <item>@drawable/background13</item>  
+    <item>@drawable/background14</item>  
+    <item>@drawable/background15</item>  
+    <item>@drawable/background16</item>  
+    <item>@drawable/background17</item>  
+    <item>@drawable/background18</item>  
+    <item>@drawable/background19</item>  
+    <item>@drawable/background20</item>  
+    <item>@drawable/background21</item> 
+  </array>
+  <string-array name="color_list"> 
+    <item>1</item>  
+    <item>2</item>  
+    <item>3</item>  
+    <item>4</item>  
+    <item>5</item>  
+    <item>6</item> 
+  </string-array>
+  <string-array name="pref_look_and_feel_rules_charger_values"> 
+    <item>Ac</item>  
+    <item>Usb</item>  
+    <item>Bezdrátový</item> 
+  </string-array>
+  <string name="hello_blank_fragment">Ahoj prázdný fragment</string>
+  <string name="apply">Použít</string>
+  <string name="applied">Aplikovaný</string>
+  <string name="always_on_display_edge_lighting">Vždy zapnuté osvětlení okraje displeje</string>
+  <string name="confirm_exit">Potvrdit Konec?</string>
+  <string name="yes">Ano</string>
+  <string name="no">Žádný</string>
+  <string name="wallpapers">Tapety</string>
+  <string name="ok">Dobře</string>
+  <string name="what_would_you_like_to_do">Co bys chtěl dělat?</string>
+  <string name="set_home_screen">Nastavení domovské obrazovky</string>
+  <string name="set_lock_screen">Nastavte Uzamknout obrazovku</string>
+  <string name="set_both_screens">Nastavte obě obrazovky</string>
+  <string name="adjust_screen">Upravit obrazovku</string>
+  <string name="please_wait_ad_is_loading">Čekejte prosím, reklama se načítá</string>
+  <string name="home">Domov</string>
+  <string name="edge_lighting_border">Hranice osvětlení okraje</string>
+  <string name="view_more">Zobrazit více</string>
+  <string name="brighten_up_by_stunning_edges">Rozjasněte se úžasnými hranami</string>
+  <string name="live_wallpapers">Živé tapety</string>
+  <string name="stunning_wallpapers">Ohromující tapety</string>
+  <string name="experience_by_interactive_wallpapers">Zkušenosti s interaktivními tapetami</string>
+  <string name="dismiss">Propustit</string>
+  <string name="language">Jazyk</string>
+  <string name="privacy_policy">Zásady ochrany osobních údajů</string>
+  <string name="rate_us">Ohodnoťte nás</string>
+  <string name="more_app">Více App</string>
+  <string name="exit">Výstup</string>
+  <string name="alert">Upozornění</string>
+  <string name="warning">Varování</string>
+  <string name="trending">Trendy</string>
+  <string name="applying_wallpaper">Aplikace tapety</string>
+  <string name="wallpaper_applied">Tapeta použita</string>
+  <string name="accessibility_service_level_permission">Oprávnění úrovně služby usnadnění:</string>
+  <string name="the_accessibility_permission_as_a_core_feature_is_must_for_edge_lighting_to_work_over_other_apps_and_lock_screen">Povolení k usnadnění jako základní funkce je nezbytné, aby Edge Lighting fungovalo přes jiné aplikace a zamykací obrazovku</string>
+  <string name="this_permission_can_be_granted_as_follow">Toto povolení lze udělit následovně:</string>
+  <string name="go_to_settings">Přejděte do Nastavení</string>
+  <string name="accessibility_gt_installed_apps_services_gt_edge_lighting">Usnadnění > Nainstalované aplikace/služby > Edge Lighting</string>
+  <string name="accessibility_gt_more_download_services_gt_edge_lighting">Usnadnění > Další služby stahování > Edge Lighting</string>
+  <string name="grant_permission_now">Udělit povolení nyní?</string>
+  <string name="later">Později</string>
+  <string name="yes_now">Ano, teď</string>
+</resources>
