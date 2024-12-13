@@ -25,7 +25,6 @@ import com.bumptech.glide.request.transition.Transition
 import com.davemorrissey.labs.subscaleview.ImageSource
 import com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
 import com.google.android.material.bottomsheet.BottomSheetDialog
-import com.google.firebase.analytics.FirebaseAnalytics
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
 import com.mobi.pixels.firebase.fireEvent
@@ -47,7 +46,6 @@ import kotlinx.coroutines.withContext
 class AdjustImageActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityAdjustImageBinding
-    var mFirebaseAnalytics: FirebaseAnalytics? = null
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityAdjustImageBinding.inflate(layoutInflater)
@@ -145,14 +143,9 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun showBottomSheetDialog() {
-        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this@AdjustImageActivity)
         // Assuming you have a data structure named 'wallpaperData' with the provided JSON data
 
-        val bundle = Bundle()
-        bundle.putString(
-            "static_preview_activity_adjust_apply", "static_adjust_screen_apply_clicked"
-        )
-        mFirebaseAnalytics!!.logEvent("live_wallpaper_events", bundle)
+        fireEvent("static_adjust_screen_apply_clicked")
         val bottomSheetDialog = BottomSheetDialog(this)
         bottomSheetDialog.setContentView(R.layout.download_bottom_sheet_dialog)
         val bottomSheetDialogColor =
@@ -192,11 +185,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setBothScreen() {
-        val bundle = Bundle()
-        bundle.putString(
-            "static_preview_activity_adjust_both", "static_adjust_screen_apply_set_both_clicked"
-        )
-        mFirebaseAnalytics!!.logEvent("live_wallpaper_events", bundle)
+        fireEvent("static_adjust_screen_apply_set_both_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -246,7 +235,7 @@ class AdjustImageActivity : AppCompatActivity() {
                         bottomSheetDialogWatcher.dismiss()
                     }
 
-                    override fun onError() {
+                    override fun onError(error: String) {
                         Log.d("sdfjkhdsf", "mainonFailedToLoad")
                         binding.resize.isDrawingCacheEnabled = true
                         val wallpaperManager =
@@ -325,11 +314,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setHomeScreen() {
-        val bundle = Bundle()
-        bundle.putString(
-            "static_preview_activity_adjust_home", "static_adjust_screen_apply_set_home_clicked"
-        )
-        mFirebaseAnalytics!!.logEvent("live_wallpaper_events", bundle)
+        fireEvent("static_adjust_screen_apply_set_home_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -353,7 +338,7 @@ class AdjustImageActivity : AppCompatActivity() {
                         Interstitial.load(this@AdjustImageActivity, activitiesAdId)
                     }
 
-                    override fun onError() {
+                    override fun onError(error: String) {
                         Log.d("sdfjkhdsf", "mainonFailedToLoad")
                         binding.resize.isDrawingCacheEnabled = true
                         val wallpaperManager =
@@ -441,11 +426,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setLockScreen() {
-        val bundle = Bundle()
-        bundle.putString(
-            "static_preview_activity_adjust_lock", "static_adjust_screen_apply_set_lock_clicked"
-        )
-        mFirebaseAnalytics!!.logEvent("live_wallpaper_events", bundle)
+        fireEvent("static_adjust_screen_apply_set_lock_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -486,7 +467,7 @@ class AdjustImageActivity : AppCompatActivity() {
                         bottomSheetDialogWatcher.dismiss()
                     }
 
-                    override fun onError() {
+                    override fun onError(error: String) {
                         binding.resize.isDrawingCacheEnabled = true
                         val wallpaperManager =
                             WallpaperManager.getInstance(this@AdjustImageActivity)

@@ -49,7 +49,6 @@ import androidx.multidex.MultiDex
 import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.airbnb.lottie.LottieAnimationView
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
 import com.mobi.pixels.adBannerOnDemand.loadOnDemandBannerAd
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
@@ -59,6 +58,7 @@ import com.mobi.pixels.adNativeOnDemand.loadOnDemandNativeAd
 import com.mobi.pixels.enums.BannerAdType
 import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
+import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.isOnline
@@ -412,9 +412,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         val intent_ =
                             Intent(this@EdgeOverlaySettingsActivity, WindowService::class.java)
                         startService(intent_)
-                        val bundle = Bundle()
-                        bundle.putString("low_battery_edge_on", "1")
-                        Firebase.analytics.logEvent("low_battery_edge_lighting_event", bundle)
+                        fireEvent("low_battery_edge_on")
                     }
 
                 } catch (e: Exception) {
@@ -454,7 +452,8 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                     this@EdgeOverlaySettingsActivity,
                     binding!!.nativeAdExit2,
                     nativeAdId,
-                    NativeAdType.NativeSmall
+                    NativeAdType.NativeSmall,
+                    NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                     .setTextColorDescription("#ffffff").setButtonColor("#FF5589F1")
@@ -920,9 +919,8 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             )
                             val intent_ = Intent(this, WindowService::class.java)
                             startService(intent_)
-                            val bundle = Bundle()
-                            bundle.putString("low_battery_edge_on", "1")
-                            Firebase.analytics.logEvent("low_battery_edge_lighting_event", bundle)
+                            fireEvent("low_battery_edge_on")
+
                             binding?.warningLayoutSuperParent?.visibility = View.VISIBLE
 
                         } else {
@@ -933,9 +931,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             )
                             val intent_ = Intent(this, WindowService::class.java)
                             startService(intent_)
-                            val bundle = Bundle()
-                            bundle.putString("low_battery_edge_on", "1")
-                            Firebase.analytics.logEvent("low_battery_edge_lighting_event", bundle)
+                            fireEvent("low_battery_edge_on")
                             binding?.warningLayoutSuperParent?.visibility = View.VISIBLE
                         }
 
@@ -1046,9 +1042,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         MySharePreferencesEdge.putAlwaysOnDisplayBooleanValue(
                             MySharePreferencesEdge.ALWAYS_ON_DISPLAY, true, activity
                         )
-                        val bundle = Bundle()
-                        bundle.putString("always_on_display_edge_lighting", "1")
-                        Firebase.analytics.logEvent("always_on_display_edge_lighting_event", bundle)
+                        fireEvent("always_on_display_edge_lighting")
                     } catch (e: NoClassDefFoundError) {
                     }
                 } else {
@@ -2399,7 +2393,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
                     }
 
-                    override fun onError() {
+                    override fun onError(error: String) {
                         Log.d("whatisIssue", "onDismissed")
                         Interstitial.load(
                             this@EdgeOverlaySettingsActivity,

@@ -28,8 +28,6 @@ import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
 import com.google.android.material.navigation.NavigationView
 import com.google.android.play.core.review.ReviewManagerFactory
-import com.google.firebase.analytics.FirebaseAnalytics
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
 
 import com.mobi.pixels.adBannerOnDemand.loadOnDemandBannerAd
@@ -40,6 +38,7 @@ import com.mobi.pixels.adNativeOnDemand.loadOnDemandNativeAd
 import com.mobi.pixels.enums.BannerAdType
 import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
+import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.isOnline
@@ -71,7 +70,6 @@ import retrofit2.http.GET
 
 class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelectedListener {
 
-    private lateinit var firebaseAnalytics: FirebaseAnalytics
 
     lateinit var activity: Activity
     var binding: ActivityMainBinding? = null
@@ -129,7 +127,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         /*Remove navigation drawer shadow/fadding*/
         binding!!.drawerLayout.setDrawerElevation(0F)
-        firebaseAnalytics = Firebase.analytics
+
         // Move this operation to a background thread using Coroutines
         GlobalScope.launch(Dispatchers.IO) {
             Utills.getHeightScreen(this@MainActivity)
@@ -198,7 +196,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     this@MainActivity,
                     binding!!.adViewContainer,
                     nativeAdId,
-                    NativeAdType.NativeSmall
+                    NativeAdType.NativeSmall,
+                    NativeLayoutType.Layout2
                 ).setBackgroundColor("#61C6A2FF").setTextColorButton("#ffffff")
 
                     .setButtonColor("#FF5589F1").setButtonRoundness(15)
@@ -250,7 +249,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     updateLastAdShownTime()
                 }
 
-                override fun onError() {
+                override fun onError(error: String) {
                     Log.d(
                         "hfasagifegifgijfvgikefvgif", "onError"
                     )

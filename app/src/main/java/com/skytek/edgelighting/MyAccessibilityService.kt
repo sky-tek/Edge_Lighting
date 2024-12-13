@@ -31,8 +31,8 @@ import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import androidx.preference.PreferenceManager
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
+import com.mobi.pixels.firebase.fireEvent
 import com.skytek.WindowService
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity.Companion.binding
@@ -426,7 +426,8 @@ class MyAccessibilityService : AccessibilityService() {
             MySharePreferencesEdge.putDisplayOverLayBooleanValue(
                 MySharePreferencesEdge.DISPLAY_OVERLAY, true, App.context
             )
-            logEvent("display_over_other_apps_event", "edge_border_display_overlay_on", "1")
+            fireEvent("edge_border_display_overlay_on")
+
         } catch (e: NullPointerException) {
             Log.e(
                 "AccessibilityService", "setupEdgeLighting: Error setting display overlay", e
@@ -531,9 +532,7 @@ class MyAccessibilityService : AccessibilityService() {
             MySharePreferencesEdge.putAlwaysOnDisplayBooleanValue(
                 MySharePreferencesEdge.ALWAYS_ON_DISPLAY, true, EdgeOverlaySettingsActivity.activity
             )
-            logEvent(
-                "always_on_display_edge_lighting_event", "always_on_display_edge_lighting", "1"
-            )
+            fireEvent("always_on_display_edge_lighting")
         }
     }
 
@@ -546,7 +545,7 @@ class MyAccessibilityService : AccessibilityService() {
                         MySharePreferencesEdge.SHOW_WHILE_CHARGING, true, App.context
                     )
                     startService(Intent(this, WindowService::class.java))
-                    logEvent("low_battery_edge_lighting_event", "low_battery_edge_on", "1")
+                    fireEvent("low_battery_edge_on")
                 }
 
             }
@@ -695,15 +694,6 @@ class MyAccessibilityService : AccessibilityService() {
         params?.width = 1080
         params?.height = 1920
     }
-
-
-    private fun logEvent(event: String, paramKey: String, paramValue: String) {
-        val bundle = Bundle().apply {
-            putString(paramKey, paramValue)
-        }
-        Firebase.analytics.logEvent(event, bundle)
-    }
-
 
     var intent: Intent? = null
     var intent2: Intent? = null

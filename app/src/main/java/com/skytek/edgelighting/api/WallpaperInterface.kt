@@ -7,6 +7,7 @@ import com.skytek.edgelighting.model2.MagicalWallpapers
 import com.skytek.edgelighting.model2.StaticWallCat
 import com.skytek.edgelighting.models.Wallpapers
 import okhttp3.*
+import okhttp3.MediaType.Companion.toMediaType
 import retrofit2.Call
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
@@ -74,15 +75,15 @@ interface WallpaperInterface {
             try {
                 response = chain.proceed(chain.request())
 
-                if (response != null && (response!!.isSuccessful.not() || response!!.code().let { it != 204 && it != 205 })) {
+                if (response != null && (response!!.isSuccessful.not() || response!!.code.let { it != 204 && it != 205 })) {
                     return response!!
                 }
 
-                if (response != null && (response!!.body()?.contentLength() ?: -1) > 0) {
+                if (response != null && (response!!.body?.contentLength() ?: -1) > 0) {
                     return response!!.newBuilder().code(200).build()
                 }
 
-                emptyBody = ResponseBody.create(MediaType.get("application/json"), "{}")
+                emptyBody = ResponseBody.create("application/json".toMediaType(), "{}")
 
             } catch (e: NoSuchElementException) {
                 Log.d("wrrrrrrrrrrrrrrrrrrrrr", "intercept: ${e.message} ")

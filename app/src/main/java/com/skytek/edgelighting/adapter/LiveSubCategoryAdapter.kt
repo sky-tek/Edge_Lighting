@@ -106,11 +106,11 @@ class LiveSubCategoryAdapter(
                         client.newCall(request).execute().use { response ->
                             if (!response.isSuccessful) throw IOException("Unexpected code $response")
 
-                            val contentLength = response.body()?.contentLength() ?: -1
+                            val contentLength = response.body?.contentLength() ?: -1
                             var bytesRead: Long =
                                 outputFile.length()  // Start reading from where the file left off
 
-                            val inputStream = response.body()?.byteStream()
+                            val inputStream = response.body?.byteStream()
                             if (inputStream != null) {
                                 withContext(Dispatchers.Main) {
                                     cancelBtn.setOnClickListener {

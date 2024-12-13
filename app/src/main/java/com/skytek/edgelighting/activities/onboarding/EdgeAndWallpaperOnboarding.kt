@@ -9,6 +9,7 @@ import com.mobi.pixels.adNativeOnDemand.loadOnDemandNativeAd
 import com.mobi.pixels.enums.BannerAdType
 import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
+import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity
 import com.skytek.edgelighting.databinding.ActivityEdgeAndWallpaperOnboardingBinding
@@ -28,7 +29,7 @@ class EdgeAndWallpaperOnboarding : AppCompatActivity() {
         if (wholeScreenAdShow && wallpaperOnboardingAdShow) {
             if (NativeToBanner) {
                 loadOnDemandNativeAd(
-                    this, binding.adContainer, INTROOnBoardingAdId, NativeAdType.NativeSmall
+                    this, binding.adContainer, INTROOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
                 ).setBackgroundColor("#1C1C1C").setTextColorButton("#000000")
                     .setTextColorTitle("#ffffff").setTextColorDescription("#ffffff")
                     .setButtonColor("#FFBE00").setButtonRoundness(15).setAdIcon(NativeAdIcon.White)

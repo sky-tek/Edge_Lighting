@@ -15,7 +15,6 @@ import com.google.android.gms.ads.FullScreenContentCallback
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.appopen.AppOpenAd
 import com.google.android.gms.ads.appopen.AppOpenAd.AppOpenAdLoadCallback
-import com.google.firebase.analytics.FirebaseAnalytics
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isShowingAd
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.utils.AdResources.openAppAdId
@@ -29,7 +28,6 @@ object IsShowingOpenAd{
 class OpenAd(val context: Context) : Application.ActivityLifecycleCallbacks,
     DefaultLifecycleObserver {
 
-    private var analytics: FirebaseAnalytics? = null
     private var appOpenAdManager: AppOpenAdManager? = null
     private var currentActivity: Activity? = null
 

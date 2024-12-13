@@ -77,7 +77,7 @@ class CategoryAdapter1(
                     updateLastAdShownTime()
                 }
 
-                override fun onError() {
+                override fun onError(error: String) {
 
                     Interstitial.load(
                         context as Activity,

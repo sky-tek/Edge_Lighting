@@ -32,19 +32,16 @@ import com.android.volley.Response
 import com.android.volley.VolleyError
 import com.android.volley.toolbox.JsonArrayRequest
 import com.android.volley.toolbox.Volley
-import com.google.android.gms.ads.AdError
 import com.google.android.gms.ads.AdRequest
-import com.google.android.gms.ads.FullScreenContentCallback
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.interstitial.InterstitialAd
 import com.google.android.gms.ads.interstitial.InterstitialAdLoadCallback
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
+import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.isOnline
 import com.skytek.edgelighting.App
-
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.LiveWallpaperActivity
 import com.skytek.edgelighting.activities.LiveWallpaperActivity.Companion.wallpaperClicked
@@ -384,7 +381,7 @@ class MagicalWallpaperFragment : Fragment(){
                     override fun onShowed() {
                     }
 
-                    override fun onError() {
+                    override fun onError(error: String) {
                     }
 
                     override fun onDismissed() {
@@ -446,9 +443,7 @@ class MagicalWallpaperFragment : Fragment(){
             val sharedEditior  = sharedPref.edit()
             sharedEditior.putBoolean("check_wallpaper_set", true)
             sharedEditior.apply()
-            val bundle = Bundle()
-            bundle.putString("wallpaper_applied", "1")
-            Firebase.analytics.logEvent("wallpaper_applied_event", bundle)
+            fireEvent("wallpaper_applied")
         }else{
             wallpaperClicked = false
         }

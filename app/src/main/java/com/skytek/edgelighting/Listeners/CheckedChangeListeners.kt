@@ -153,7 +153,7 @@ class CheckedChangeListeners(private val context: Context) :
                     }
                 }
 
-                override fun onError() {
+                override fun onError(error: String) {
                     isinterstitialvisible = false
                     Interstitial.load(
                         context,

@@ -150,7 +150,7 @@ class SplashActivity : AppCompatActivity() {
 
                     } else {
                         Log.d("", "insewide consenmt ")
-                        InitializeRemoteConfig {
+                        InitializeRemoteConfig(86400) {
                             Log.d("getting value here", "start to get value  ")
                             splashScreenAdId = Firebase.remoteConfig.getString("EL_I_Splash")
                             activitiesAdId = Firebase.remoteConfig.getString("EL_I_Activities")
@@ -313,7 +313,7 @@ class SplashActivity : AppCompatActivity() {
                                         isinterstitialvisible = false
                                     }
 
-                                    override fun onError() {
+                                    override fun onError(error: String) {
 
                                         isinterstitialvisible = false
                                     }
@@ -342,7 +342,7 @@ class SplashActivity : AppCompatActivity() {
                                     isinterstitialvisible = false
                                 }
 
-                                override fun onError() {
+                                override fun onError(error: String) {
 
                                     isinterstitialvisible = false
                                 }

@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import com.mobi.pixels.adNativeOnDemand.loadOnDemandNativeAd
 import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
+import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.mobi.pixels.firebase.fireEvent
 import com.skytek.edgelighting.R
@@ -47,7 +48,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         if (AdResources.wholeScreenAdShow && AdResources.inAppOnboardingShow) {
             if (intent.getBooleanExtra("onBoardingScreen", false)) {
                 loadOnDemandNativeAd(
-                    this, binding.adViewContainer, InAppOnBoardingAdId, NativeAdType.NativeSmall
+                    this, binding.adViewContainer, InAppOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                     .setTextColorDescription("#ffffff")
@@ -57,7 +58,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
                     .setShimmerColor(ShimmerColor.White).load()
             } else {
                 loadOnDemandNativeAd(
-                    this, binding.adViewContainer, nativeAdId, NativeAdType.NativeSmall
+                    this, binding.adViewContainer, nativeAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                     .setTextColorDescription("#ffffff")

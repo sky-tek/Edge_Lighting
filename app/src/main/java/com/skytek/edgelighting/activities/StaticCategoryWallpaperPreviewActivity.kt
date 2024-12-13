@@ -180,7 +180,7 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                                                 )
                                             }
 
-                                            override fun onError() {
+                                            override fun onError(error: String) {
                                                 Interstitial.load(
                                                     this@StaticCategoryWallpaperPreviewActivity,
                                                     activitiesAdId,
@@ -223,7 +223,7 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                                          )
                                      }
 
-                                     override fun onError() {
+                                     override fun onError(error: String) {
                                          showToast(getString(R.string.wallpaper_applied))
                                          Interstitial.load(
                                              this@StaticCategoryWallpaperPreviewActivity,
@@ -264,7 +264,7 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                      )
                  }
 
-                 override fun onError() {
+                 override fun onError(error: String) {
                      showToast(getString(R.string.wallpaper_applied))
                      Interstitial.load(
                          this@StaticCategoryWallpaperPreviewActivity,

@@ -15,6 +15,7 @@ import com.mobi.pixels.adNativeOnDemand.loadOnDemandNativeAd
 import com.mobi.pixels.enums.BannerAdType
 import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
+import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.skytek.edgelighting.App
 import com.skytek.edgelighting.R
@@ -53,7 +54,7 @@ class OnboardingExample4Activity : AppCompatActivity() {
             if (adContainer != null) {
                 if (NativeToBanner) {
                     loadOnDemandNativeAd(
-                        this, adContainer, permissionOnBoardingAdId, NativeAdType.NativeSmall
+                        this, adContainer, permissionOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
                     ).setBackgroundColor(resources.getString(R.color.round_background))
                         .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                         .setTextColorDescription("#ffffff").setButtonColor("#0071EC")

@@ -22,8 +22,8 @@ import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.Fragment
 import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
+import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.isOnline
 import com.skytek.edgelighting.App
 
@@ -228,12 +228,7 @@ class WallpaperFragment : Fragment() {
                     val sharedEditior = sharedPref.edit()
                     sharedEditior.putBoolean("check_wallpaper_set", true)
                     sharedEditior.apply()
-                    val bundle = Bundle()
-                    bundle.putString("wallp0aper_applied", "1")
-
-                    Firebase.analytics.logEvent("wallpaper_applied_event", bundle)
-
-
+                    fireEvent("wallp0aper_applied")
                 } catch (e: Exception) {
                 }
             } else {

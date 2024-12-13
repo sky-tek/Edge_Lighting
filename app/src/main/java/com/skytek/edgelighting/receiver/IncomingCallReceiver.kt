@@ -24,7 +24,6 @@ import android.widget.RemoteViews
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
 import androidx.preference.PreferenceManager
-import com.google.firebase.analytics.ktx.analytics
 import com.google.firebase.ktx.Firebase
 import com.skytek.edgelighting.App
 import com.skytek.edgelighting.MyAccessibilityService
