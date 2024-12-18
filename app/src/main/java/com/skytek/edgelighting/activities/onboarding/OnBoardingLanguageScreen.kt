@@ -16,6 +16,7 @@ import com.mobi.pixels.enums.NativeAdType
 import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.mobi.pixels.firebase.fireEvent
+import com.mobi.pixels.updateAppWithRemoteConfig
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.MainActivity
 import com.skytek.edgelighting.activities.RequestPermissionActivity
@@ -25,11 +26,13 @@ import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.InAppOnBoardingAdId
 import com.skytek.edgelighting.utils.AdResources.nativeAdId
 import com.skytek.edgelighting.utils.AdResources.onboardingShow
+import com.skytek.edgelighting.utils.AdResources.version
 import com.skytek.edgelighting.utils.ConversationLanguage
 import com.skytek.edgelighting.utils.getLanguages_for_translate_fragment
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
+import kotlin.system.exitProcess
 
 class OnBoardingLanguageScreen : AppCompatActivity() {
     private lateinit var languageList: ArrayList<ConversationLanguage>
@@ -46,7 +49,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         setContentView(binding.root)
         val packageInfo = packageManager?.getPackageInfo(packageName, 0)
         fireEvent("RV_${packageInfo?.versionCode}_App_Language_change_Screen_Opened")
-
+        updateAppWithRemoteConfig(version)
         Log.d("yh3yr8gfedhfvbjds vbufy", "${intent.getBooleanExtra("onBoardingScreen", false)}: ")
         if (AdResources.wholeScreenAdShow && AdResources.inAppOnboardingShow) {
             if (intent.getBooleanExtra("onBoardingScreen", false)) {
@@ -263,7 +266,15 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 //            }
 //        }
 //    }
+override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+    super.onActivityResult(requestCode, resultCode, data)
+    if (requestCode == 200 && resultCode == RESULT_CANCELED) {
+        // Make sure the request was successful
+        finishAffinity()
+        exitProcess(0)
 
+    }
+}
     companion object {
         const val LANGUAGE_PREFERENCE_KEY = "APP_LANGUAGE_PREFERENCE"
         const val LANGUAGE_PREFERENCE_VALUE_KEY = "LANGUAGE_PREFERENCE_VALUE"

@@ -638,9 +638,9 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
                     Log.d(
                         "whatisIssue",
-                        "${isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)}"
+                        "${isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount)}"
                     )
-                    if (isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
+                    if (isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount)) {
                         Log.d("whatisIssue", "insidee")
                         loadInterstitialAd(activitiesAdId)
                     }

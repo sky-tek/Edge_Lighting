@@ -137,7 +137,7 @@ class CategoryAdapter1(
             Log.d("axcgcsgcuevb uvcu vedbu", "${context!!.javaClass.simpleName} ")
             val i = Intent(context!!, StaticCategoryWallpaperPreviewActivity::class.java)
             Log.d("bjksdbfbvjvbjvbujv", "${category.wallpapers[0].img_path} ")
-            if ((isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
+            if ((isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
                 customdialog()
 
                 loadInterstitialAd(activitiesAdId, category.wallpapers[0].img_path, i)

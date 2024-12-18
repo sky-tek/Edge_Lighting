@@ -201,7 +201,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
@@ -333,7 +333,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
@@ -447,7 +447,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {

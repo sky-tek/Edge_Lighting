@@ -116,7 +116,7 @@ clicks++
             val downloadProgressbar = view.findViewById<TextView>(R.id.downloadProgressbar)
 
             if (outputFile.exists()) {
-                if ((isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
+                if ((isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
                     if (checkContext(context)) {
                         Interstitial.show(
                             context as Activity,
@@ -157,7 +157,7 @@ clicks++
             } else {
                 (context as? Activity)?.window?.decorView?.findViewById<ViewGroup>(android.R.id.content)
                     ?.addView(view)
-                if ((isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)&& wholeScreenAdShow && wholeInterAdShow) {
+                if ((isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)&& wholeScreenAdShow && wholeInterAdShow) {
                 if (checkContext(context)){
                     Interstitial.show(context as Activity, object : AdInterstitialShowListeners {
                         override fun onDismissed() {

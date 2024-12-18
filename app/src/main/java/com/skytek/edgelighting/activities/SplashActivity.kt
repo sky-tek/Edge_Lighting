@@ -57,6 +57,7 @@ import com.skytek.edgelighting.utils.AdResources.splashBannerAdId
 import com.skytek.edgelighting.utils.AdResources.splashBannerAdShow
 import com.skytek.edgelighting.utils.AdResources.splashScreenAdId
 import com.skytek.edgelighting.utils.AdResources.splashScreenAdShow
+import com.skytek.edgelighting.utils.AdResources.version
 import com.skytek.edgelighting.utils.AdResources.wallpaperOnboardingAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
@@ -75,7 +76,7 @@ class SplashActivity : AppCompatActivity() {
     private lateinit var progressText: TextView
     lateinit var handler: Handler
     var mInterstitial = false
-    var version = ""
+
     var countDownTimer: CountDownTimer? = null
 
     private lateinit var binding: ActivitySplashBinding

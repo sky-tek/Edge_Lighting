@@ -169,7 +169,7 @@ clicks++
 
                         Handler(Looper.getMainLooper()).postDelayed({
                             applyWallpaperToHomeScreen(wallpaperPath, dialog, view)
-                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount)) {
                                 if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
                                     Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
                                         object : AdInterstitialShowListeners {
@@ -213,7 +213,7 @@ clicks++
                         Handler(Looper.getMainLooper()).postDelayed({
                             applyWallpaperToLockScreen(wallpaperPath, dialog, view)
 
-                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
                                 if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
                                     Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
                                         object : AdInterstitialShowListeners {
@@ -256,7 +256,7 @@ clicks++
                         showToast(getString(R.string.applying_wallpaper))
                         Handler(Looper.getMainLooper()).postDelayed({
                             applyWallpaperToHomeAndLockScreen(wallpaperPath, dialog, view)
-                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
                                 if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
                                     Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
                                         object : AdInterstitialShowListeners {

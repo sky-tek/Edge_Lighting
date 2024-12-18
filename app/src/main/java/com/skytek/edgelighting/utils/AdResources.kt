@@ -28,6 +28,7 @@ var ads_clicks_on_inter=0
     var onboardingShow:Boolean=true
     var inAppOnboardingShow:Boolean=true
 var clicks=0
+    var version = ""
     var ElBtnClickCount=1
     var ElWallpaperTimeCount=45000
 

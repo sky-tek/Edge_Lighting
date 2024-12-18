@@ -122,7 +122,7 @@ class CheckedChangeListeners(private val context: Context) :
         clicks++
         Log.d(
             "fvyfy7d6td6tdt64d",
-            "${isOnline(context) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)}: "
+            "${isOnline(context) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount)}: "
         )
         if (isOnline(context) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
             loadInterstitialAd(activitiesAdId)

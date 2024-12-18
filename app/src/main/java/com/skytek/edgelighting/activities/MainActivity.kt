@@ -162,12 +162,12 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)}"
             )
             Log.d(
                 "hfasagifegifgijfvgikefvgif", "${getLastAdShownTime()} && ${isIntervalElapsed()}"
             )
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
                 val i = Intent(
                     this@MainActivity, EdgeOverlaySettingsActivity::class.java
                 )
@@ -218,10 +218,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)}"
             )
 
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
                 val i = Intent(this@MainActivity, StaticWallpaperActivity::class.java)
                 loadInterstitialAd(i, "live")
             } else {
