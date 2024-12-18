@@ -11,7 +11,7 @@ object AdResources {
     var INTROOnBoardingAdId:String="ca-app-pub-2011235963710101/8586455779"
     var InAppOnBoardingAdId:String="ca-app-pub-2011235963710101/2069459948"
     var splashScreenAdShow:Boolean=true
-
+var ads_clicks_on_inter=0
 //    var liveWallpaperScreenAdShow:Boolean=true
 //    var settingScreenAdShow:Boolean=true
 
@@ -27,7 +27,7 @@ object AdResources {
     var wallpaperOnboardingAdShow:Boolean=true
     var onboardingShow:Boolean=true
     var inAppOnboardingShow:Boolean=true
-
+var clicks=0
     var ElBtnClickCount=1
     var ElWallpaperTimeCount=45000
 

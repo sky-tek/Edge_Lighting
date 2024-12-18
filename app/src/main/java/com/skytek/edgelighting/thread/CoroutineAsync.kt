@@ -17,9 +17,9 @@ import kotlinx.coroutines.launch
 
 class CoroutineAsync {
 
-    fun doCoroutine(task:String,activity: EdgeOverlaySettingsActivity){
+    fun doCoroutine(task: String, activity: EdgeOverlaySettingsActivity) {
 
-        when(task){
+        when (task) {
             "removeWallpaperAndEdge" -> {
 
                 CoroutineScope(Dispatchers.IO).launch {
@@ -31,11 +31,16 @@ class CoroutineAsync {
                             activity.stopService(intent)
                         } catch (e: Exception) {
                         }
-                        MySharePreferencesEdge.putBoolean(MySharePreferencesEdge.ControlWindowManager, false, activity)
+                        MySharePreferencesEdge.putBoolean(
+                            MySharePreferencesEdge.ControlWindowManager,
+                            false,
+                            activity
+                        )
                     }
                     MySharePreferencesEdge.setInt(MySharePreferencesEdge.ID_THEME, -1, activity)
                 }
             }
+
             "getThemeData" -> {
                 val coroutine = CoroutineScope(Dispatchers.IO).async {
 
@@ -50,7 +55,8 @@ class CoroutineAsync {
                         Color.parseColor("#EB1111"), Color.parseColor("#1A11EB"),
                         Color.parseColor("#EB11DA"), Color.parseColor("#11D6EB"),
                         Color.parseColor("#EBDA11"), Color.parseColor("#EBDA11"),
-                        Color.parseColor("#EB1111"))
+                        Color.parseColor("#EB1111")
+                    )
 
                     val z = 0 == 1
                     val id = 1
@@ -62,8 +68,25 @@ class CoroutineAsync {
                     val string2 = "line"
                     val i6 = 0
                     arrayList.add(
-                        Theme(id, string, i2, i3, i4, i5, iArr, string2, i6, "#000000", "link", notch, notch,
-                            60, 50, 50, z)
+                        Theme(
+                            id,
+                            string,
+                            i2,
+                            i3,
+                            i4,
+                            i5,
+                            iArr,
+                            string2,
+                            i6,
+                            "#000000",
+                            "link",
+                            notch,
+                            notch,
+                            60,
+                            50,
+                            50,
+                            z
+                        )
                     )
                     return@async arrayList
                 }
@@ -86,42 +109,80 @@ class CoroutineAsync {
             "setEdgeBorderColor" -> {
 
                 CoroutineScope(Dispatchers.IO).launch {
-                    when(MySharePreferencesEdge.getSpinnerInt(MySharePreferencesEdge.SPINNER, activity)){
+                    when (MySharePreferencesEdge.getSpinnerInt(
+                        MySharePreferencesEdge.SPINNER,
+                        activity
+                    )) {
                         0 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color
+                            )
                         }
+
                         1 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color
+                            )
                         }
+
                         2 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color
+                            )
                         }
+
                         3 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color
+                            )
                         }
+
                         4 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor5!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor5!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color
+                            )
                         }
+
                         5 -> {
-                            activity.setEdgeBorderColoring((EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor5!!.background as ColorDrawable).color, (EdgeOverlaySettingsActivity.binding!!.imageColor6!!.background as ColorDrawable).color,
-                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color)
+                            activity.setEdgeBorderColoring(
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor2!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor3!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor4!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor5!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor6!!.background as ColorDrawable).color,
+                                (EdgeOverlaySettingsActivity.binding!!.imageColor1!!.background as ColorDrawable).color
+                            )
                         }
 
                     }

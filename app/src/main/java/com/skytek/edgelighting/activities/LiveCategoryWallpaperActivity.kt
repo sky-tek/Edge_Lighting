@@ -225,7 +225,8 @@ class LiveCategoryWallpaperActivity : AppCompatActivity(),
 
     override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
         super.onActivityResult(requestCode, resultCode, data)
-        Log.d("asdfdasf", "onActivityResult: ")
+        Log.d("asdfdasf12332", "oldID: $oldID")
+        Log.d("asdfdasf12332", "newID: $newID")
         if (requestCode == 100 && resultCode == RESULT_OK) {
             oldID = newID
             val sharedPreferences = getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
@@ -234,15 +235,13 @@ class LiveCategoryWallpaperActivity : AppCompatActivity(),
             editor.apply()
 
 
-
-
             //showRateApp(this@StaticWallpaperActivity)
         }
 
         if (requestCode == 100 && resultCode == RESULT_CANCELED) {
-            Log.d("djhfdkhfdkjhf", "onActivityResult: ")
+            Log.d("asdfdasf12332", "onActivityResult: ")
             currentId = oldID
-            Log.d("fdsfsd","245"+ oldID.toString())
+            Log.d("asdfdasf12332","245"+ oldID.toString())
 
         }
 

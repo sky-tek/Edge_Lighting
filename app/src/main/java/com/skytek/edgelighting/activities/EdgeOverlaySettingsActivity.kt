@@ -91,9 +91,11 @@ import com.skytek.edgelighting.service.AlwaysOnTileService
 import com.skytek.edgelighting.service.ForegroundService
 import com.skytek.edgelighting.service.TimerService
 import com.skytek.edgelighting.thread.AsynchronousTask
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.NativeToBanner
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
 import com.skytek.edgelighting.utils.AdResources.bannerAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.nativeAdId
 import com.skytek.edgelighting.utils.AdResources.settingScreenNativeAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
@@ -620,6 +622,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         mDisplayOverlayListener = CompoundButton.OnCheckedChangeListener { compoundButton, b ->
             fireEvent("RV_${packageInfo.versionCode}_Edge_Activity_permission_on ")
             Log.d("whatHappenbsjhvsa", "onCreate: $b ")
+            clicks++
             if (b) {
                 Log.d(
                     "fdsfdfhghjh", "onCreate: ${
@@ -632,11 +635,12 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
                     ) && isOnline(this@EdgeOverlaySettingsActivity)
                 ) {
+
                     Log.d(
                         "whatisIssue",
-                        "${isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()}"
+                        "${isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)}"
                     )
-                    if (isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()) {
+                    if (isOnline(this@EdgeOverlaySettingsActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
                         Log.d("whatisIssue", "insidee")
                         loadInterstitialAd(activitiesAdId)
                     }
@@ -1655,14 +1659,27 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
             val _checkNotch =
                 MySharePreferencesEdge.getBooleanValue(MySharePreferencesEdge.CHECKNOTCH, this)
             val _notchTop = MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHTOP, this)
+//            notchTop=_notchTop?:0
+//            checkNotch=_checkNotch
+//            type=_type
+//            size=_size
+//            speed=_speed
+
+            Log.d("whatiSISSUEhERE", "_notchTop :$_notchTop ")
             val _notchBottom =
                 MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHBOTTOM, this)
+//            notchBottom=_notchBottom
+            Log.d("whatiSISSUEhERE", "_notchBottom :$_notchBottom ")
             val _notchRadiusTop =
                 MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHRADIUSTOP, this)
+//            notchRadiusTop=_notchRadiusTop
+
             val _notchRadiusBottom =
                 MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, this)
+//            notchRadiusBottom=_notchRadiusBottom
             val _notchHeight =
                 MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHHEIGHT, this)
+//            notchHeigh=_notchHeight
             _theme = themeArrayList!![0] as Theme?
             checkNotch = if (_checkNotch == false) _theme!!.isNotchCheck else _checkNotch
             notchTop = if (_notchTop == -1) _theme!!.notchTop else _notchTop
@@ -1679,10 +1696,22 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
             checkBackground = _theme!!.checkBackground
             colorBg = _theme!!.colorBg
             linkBg = _theme!!.linkBg
-            Log.d("sizefgvcjswv", ": $size")
-            Log.d("sizefgvcjswv", ": $_size")
 
-            startApp()
+            Log.d("sizefgvcjswv", "checkNotch: $checkNotch")
+            Log.d("sizefgvcjswv", "_checkNotch: ${_checkNotch}")
+            Log.d("sizefgvcjswv", "notchTop: ${notchTop}")
+            Log.d("sizefgvcjswv", "_notchTop: ${_notchTop}")
+            Log.d("sizefgvcjswv", "_notchBottom: ${_notchBottom}")
+            Log.d("sizefgvcjswv", "notchBottom: ${notchBottom}")
+            Log.d("sizefgvcjswv", "notchRadiusTop: ${notchRadiusTop}")
+            Log.d("sizefgvcjswv", "_notchRadiusTop: ${_notchRadiusTop}")
+            Log.d("sizefgvcjswv", "notchRadiusBottom: ${notchRadiusBottom}")
+            Log.d("sizefgvcjswv", "_notchRadiusBottom: ${_notchRadiusBottom}")
+            Log.d("sizefgvcjswv", "notchHeight: ${notchHeight}")
+            Log.d("sizefgvcjswv", "_notchHeight: ${_notchHeight}")
+
+
+//            startApp()
             initColor()
             val borderType = intent.getStringExtra("borderType")
             Log.d("nuuuuuuuuuuuuuuuuulllllllllllllll", "datrs :$borderType ")
@@ -1804,6 +1833,8 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
             val i = displayMetrics.widthPixels / 2 - 200
             Log.d("loooog", "initNotch:${notchBottom} ")
             binding!!.apply {
+                Log.d("loooog", "initNotch:${notchBottom} ")
+                Log.d("loooog", "notchRadiusTop:${notchRadiusTop} ")
                 notchWidthTop.max = i
                 notchWidthBottom.max = i
                 notchHeight.max = 150
@@ -1823,6 +1854,13 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                     MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, this@EdgeOverlaySettingsActivity
                 )
             ) {
+//                binding!!.notchWidthBottom.progress= 100
+                Log.d("whatComeHere", "initNotch:$checkNotch ")
+                Log.d("whatComeHere", "initNotch:$notchTop ")
+                Log.d("whatComeHere", "initNotch:$notchBottom ")
+                Log.d("whatComeHere", "initNotch:$notchHeight ")
+                Log.d("whatComeHere", "initNotch:$notchRadiusTop ")
+                Log.d("whatComeHere", "initNotch:$notchRadiusBottom ")
                 edgeLightingView!!.changeNotch(
                     checkNotch,
                     notchTop,
@@ -2201,9 +2239,11 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
     @SuppressLint("WrongConstant")
     fun setNotchSeekbarListner() {
         binding?.switchNotch?.setOnCheckedChangeListener(CheckedChangeListeners(this@EdgeOverlaySettingsActivity))
+    Handler(Looper.getMainLooper()).postDelayed({
         for (seekbar in notchSeekbars) {
             seekbar.setOnSeekBarChangeListener(SeekbarChangeListeners("notch"))
         }
+    },2000)
     }
 
     fun setBorderSeekbarListner() {
@@ -2390,6 +2430,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         Log.d("whatisIssue", "onDismissed")
                         isinterstitialvisible = false
                         updateLastAdShownTime()
+                        clicks=0
 
                     }
 

@@ -34,6 +34,9 @@ import kotlinx.coroutines.withContext
 class OnBoardingLanguageScreen : AppCompatActivity() {
     private lateinit var languageList: ArrayList<ConversationLanguage>
     var selected = false
+    var lanName = ""
+    var lanCode = ""
+    var lanFlag = -1
     val binding: ActivityOnBoardingLanguageScreenBinding by lazy {
         ActivityOnBoardingLanguageScreenBinding.inflate(layoutInflater)
     }
@@ -48,7 +51,11 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         if (AdResources.wholeScreenAdShow && AdResources.inAppOnboardingShow) {
             if (intent.getBooleanExtra("onBoardingScreen", false)) {
                 loadOnDemandNativeAd(
-                    this, binding.adViewContainer, InAppOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
+                    this,
+                    binding.adViewContainer,
+                    InAppOnBoardingAdId,
+                    NativeAdType.NativeSmall,
+                    NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                     .setTextColorDescription("#ffffff")
@@ -58,7 +65,11 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
                     .setShimmerColor(ShimmerColor.White).load()
             } else {
                 loadOnDemandNativeAd(
-                    this, binding.adViewContainer, nativeAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
+                    this,
+                    binding.adViewContainer,
+                    nativeAdId,
+                    NativeAdType.NativeSmall,
+                    NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                     .setTextColorDescription("#ffffff")
@@ -83,9 +94,12 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         val adapter = InAppLanOneTimeRvAdapter(
             this, languageList, index
 
-        ) { click ->
+        ) { click, lanName, lanFlag, lanCode ->
             if (click) {
                 selected = true
+                this.lanCode = lanCode
+                this.lanFlag = lanFlag
+                this.lanName = lanName
                 binding.dialogSearchBtn.visibility = View.VISIBLE
             }
         }
@@ -98,6 +112,27 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
             markOnboardingAsCompleted()
             /*    setLanguage()*/
             if (selected) {
+                val languagePreferences =
+                    getSharedPreferences(
+                        OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_KEY,
+                        AppCompatActivity.MODE_PRIVATE
+                    )
+                val languagePreferenceEditor = languagePreferences.edit()
+
+                languagePreferenceEditor.putString(
+                    OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_VALUE_KEY,
+                    lanCode
+                )
+                Log.d("whatIsLAnguange", "onBindViewHolder: ${lanCode}")
+                languagePreferenceEditor.putString(
+                    OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_NAME_KEY,
+                    lanName
+                )
+                languagePreferenceEditor.putInt(
+                    "LANGUAGE_PREFERENCE_Flag_KEY",
+                    lanFlag
+                )
+                languagePreferenceEditor.apply()
                 if (intent.getBooleanExtra("onboardinglan", false)) {
 
                     startActivity(
@@ -185,12 +220,12 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 
     private fun setLanguage() {
         try {
-            val languagePreferences = getSharedPreferences(LANGUAGE_PREFERENCE_KEY, MODE_PRIVATE)
-            val languageCode = languagePreferences.getString(LANGUAGE_PREFERENCE_VALUE_KEY, "en")
-            Log.d("nekdjhbfiicngib8     8", "setLanguage:${languageCode} ")
+//            val languagePreferences = getSharedPreferences(LANGUAGE_PREFERENCE_KEY, MODE_PRIVATE)
+//            val languageCode = languagePreferences.getString(LANGUAGE_PREFERENCE_VALUE_KEY, "en")
+            Log.d("nekdjhbfiicngib8     8", "setLanguage:${lanCode} ")
             lifecycleScope.launch {
                 withContext(Dispatchers.IO) {
-                    val appLocale = LocaleListCompat.forLanguageTags(languageCode)
+                    val appLocale = LocaleListCompat.forLanguageTags(lanCode)
                     withContext(Dispatchers.Main) {
                         AppCompatDelegate.setApplicationLocales(appLocale)
                     }
@@ -201,33 +236,33 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         }
     }
 
-    override fun onDestroy() {
-        super.onDestroy()
-
-        if (!selected) {
-            val languagePreferences = getSharedPreferences(
-                LANGUAGE_PREFERENCE_KEY, MODE_PRIVATE
-            )
-            val languagePreferenceEditor = languagePreferences.edit()
-
-            languagePreferenceEditor.putString(
-                LANGUAGE_PREFERENCE_VALUE_KEY, languageList[12].languageCode
-            )
-            languagePreferenceEditor.putString(
-                LANGUAGE_PREFERENCE_NAME_KEY, languageList[12].languageName
-            )
-            languagePreferenceEditor.putInt(
-                "LANGUAGE_PREFERENCE_Flag_KEY", languageList[12].languageFlag
-            )
-            languagePreferenceEditor.apply()
-            val languageSelectDialog =
-                getSharedPreferences("languageSelectDialog", Context.MODE_PRIVATE)
-            val editor = languageSelectDialog.edit().apply {
-                putBoolean("languageSelectDialog", true)
-                apply()
-            }
-        }
-    }
+//    override fun onDestroy() {
+//        super.onDestroy()
+//        Log.d("whatIsLAnguange", "onDestroy:$selected ")
+//        if (!selected) {
+//            val languagePreferences = getSharedPreferences(
+//                LANGUAGE_PREFERENCE_KEY, MODE_PRIVATE
+//            )
+//            val languagePreferenceEditor = languagePreferences.edit()
+//
+//            languagePreferenceEditor.putString(
+//                LANGUAGE_PREFERENCE_VALUE_KEY, languageList[12].languageCode
+//            )
+//            languagePreferenceEditor.putString(
+//                LANGUAGE_PREFERENCE_NAME_KEY, languageList[12].languageName
+//            )
+//            languagePreferenceEditor.putInt(
+//                "LANGUAGE_PREFERENCE_Flag_KEY", languageList[12].languageFlag
+//            )
+//            languagePreferenceEditor.apply()
+//            val languageSelectDialog =
+//                getSharedPreferences("languageSelectDialog", Context.MODE_PRIVATE)
+//            val editor = languageSelectDialog.edit().apply {
+//                putBoolean("languageSelectDialog", true)
+//                apply()
+//            }
+//        }
+//    }
 
     companion object {
         const val LANGUAGE_PREFERENCE_KEY = "APP_LANGUAGE_PREFERENCE"

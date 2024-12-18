@@ -10,6 +10,8 @@ import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import android.widget.TextView
+import androidx.activity.result.ActivityResultLauncher
+import androidx.activity.result.contract.ActivityResultContracts
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
@@ -32,7 +34,7 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
     private lateinit var viewPager: ViewPager
     private lateinit var tabLayout: TabLayout
     private var mProgressIsShowing = false
-
+    private lateinit var liveWallpaperLauncher: ActivityResultLauncher<Intent>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -42,7 +44,11 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
 
         binding = ActivityStaticWallpaperBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
+        liveWallpaperLauncher = registerForActivityResult(
+            ActivityResultContracts.StartActivityForResult()
+        ) { result ->
+            handleActivityResult(result.resultCode, result.data)
+        }
         // Change the status bar color
         window.statusBarColor = ContextCompat.getColor(this, R.color.background)
 
@@ -109,49 +115,25 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
         }
     }
 
-    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-        super.onActivityResult(requestCode, resultCode, data)
-        Log.d("asdfdasf", "onActivityResult: ")
-        if (requestCode == 100 && resultCode == RESULT_OK) {
+    private fun handleActivityResult(resultCode: Int, data: Intent?) {
+        Log.d("asdfdasf12332", "resultCode == RESULT_OK:${resultCode == RESULT_OK} ")
+        Log.d("asdfdasf12332", "oldID: $oldID")
+        Log.d("asdfdasf12332", "newID: $newID")
+
+        if (resultCode == RESULT_OK) {
             oldID = newID
-            Log.d("asdfdasf", "onActivityResult sending id to gl: " + newID)
+            Log.d("asdfdasf", "onActivityResult sending id to gl: $newID")
             val sharedPreferences = getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
-            val editor = sharedPreferences.edit()
-            editor.putString("wallpaperPath", oldID)
-            editor.apply()
-            editor.apply()
-//            Interstitial.show(this, object : AdInterstitialShowListeners {
-//                override fun onShowed() {
-//                }
-//
-//                override fun onError() {
-//                }
-//
-//                override fun onDismissed() {
-//                    Toast.makeText(
-//                        this@StaticWallpaperActivity,
-//                        "Applied Successfully",
-//                        Toast.LENGTH_SHORT
-//                    ).show()
-//                }
-//
-//            })
-
-
-            //showRateApp(this@StaticWallpaperActivity)
-        }/*  if(requestCode==123456){
-            Log.d("abcd12", "onActivityResult sending id to gl: " + newID)
-        }*/
-        if (requestCode == 100 && resultCode == RESULT_CANCELED) {
-            Log.d("djhfdkhfdkjhf", "onActivityResult: ")
+            sharedPreferences.edit()
+                .putString("wallpaperPath", oldID)
+                .apply()
+        } else if (resultCode == RESULT_CANCELED) {
+            Log.d("djhfdkhfdkjhf", "onActivityResult: result canceled")
             currentId = oldID
-            Log.d("fdsfsd","stati148 ${oldID.toString()}")
-
-
+            Log.d("fdsfsd", "stati148 ${oldID.toString()}")
         }
-
-
     }
+
 
 
     private fun loadFragment(fragment: Fragment) {
@@ -163,38 +145,35 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
 
 
     override fun onNameAdded(wallpaperPath: Boolean, outputFile: String) {
-
-        if (wallpaperPath) {
-
-
-        } else {
-
-            Log.d("abcd4455454", "onBindViewHolder: ${outputFile}")
+        if (!wallpaperPath) {
+            Log.d("abcd4455454", "onBindViewHolder: $outputFile")
             val sharedPreferences = this.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
             oldID = sharedPreferences.getString("wallpaperPath", null)
-            Log.d("fdsfsd","17999" +oldID.toString())
+            Log.d("fdsfsd", "17999 $oldID")
             currentId = outputFile
             newID = currentId
-            Log.d("fdsfsd", "182" +newID.toString())
+            Log.d("fdsfsd", "182 $newID")
         }
+
         try {
             Log.d("callbackTAG", "onNameAdded call back: $outputFile")
             Log.d("callbackTAG", "onNameAdded call back: $wallpaperPath")
-            val intent = Intent(WallpaperManager.ACTION_CHANGE_LIVE_WALLPAPER)
-            intent.putExtra(
-                WallpaperManager.EXTRA_LIVE_WALLPAPER_COMPONENT,
-                ComponentName(this, GLWallpaperService::class.java)
-            )
-            intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK or Intent.FLAG_ACTIVITY_CLEAR_TASK
 
-            ActivityCompat.startActivityForResult(this as Activity, intent, 100, null)
-            Log.d("callbackTAG", "onNameAdded: ")
+            val intent = Intent(WallpaperManager.ACTION_CHANGE_LIVE_WALLPAPER).apply {
+                putExtra(
+                    WallpaperManager.EXTRA_LIVE_WALLPAPER_COMPONENT,
+                    ComponentName(this@StaticWallpaperActivity, GLWallpaperService::class.java)
+                )
+            }
+
+            Log.d("checkwallpaerscond", "before starting activity launcher")
+            liveWallpaperLauncher.launch(intent)
+
         } catch (e: ActivityNotFoundException) {
-
-
-            e.printStackTrace()
+            Log.e("Error", "Live wallpaper picker not found", e)
         }
     }
+
 
 
 }

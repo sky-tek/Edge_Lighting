@@ -10,9 +10,12 @@ import android.os.Looper
 import android.service.wallpaper.WallpaperService
 import android.util.Log
 import android.view.SurfaceHolder
+import com.google.android.exoplayer2.C
+import com.google.android.exoplayer2.DefaultRenderersFactory
 import com.google.android.exoplayer2.ExoPlayer
 import com.google.android.exoplayer2.MediaItem
 import com.google.android.exoplayer2.Player
+import com.google.android.exoplayer2.SimpleExoPlayer
 import com.google.android.exoplayer2.source.MediaSource
 import com.google.android.exoplayer2.source.ProgressiveMediaSource
 import com.google.android.exoplayer2.trackselection.DefaultTrackSelector
@@ -27,6 +30,7 @@ import com.skytek.edgelighting.activities.currentId
 import com.skytek.edgelighting.activities.newID
 import com.skytek.edgelighting.activities.oldID
 import com.skytek.edgelighting.utils.Utills
+import java.io.File
 
 class GLWallpaperService : WallpaperService() {
 
@@ -92,7 +96,7 @@ class GLWallpaperService : WallpaperService() {
                 context!!.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
             val editor = sharedPreferences.edit()
 
-            videopath = sharedPreferences!!.getString("wallpaperPath", "")!!
+            videopath = newID?:""
             Log.d("asdfdasf", "receiving Glvideopath: " + videopath)
             startPlayer()
 
@@ -178,103 +182,87 @@ class GLWallpaperService : WallpaperService() {
         }
 
         private fun startPlayer() {
+            stopPlayer()
 
-            try {
-                if (exoPlayer != null) {
-                    stopPlayer()
-                }
-                if (isPreview) {
-                    if (newID != null) {
-
-                        currentId = newID
-                        Log.d("fdsdbgv", "ispreview")
-                        Log.d("fdsdbgv", currentId!!)
-                    }
-                } else {
-
-                    if (oldID != null) {
-                        currentId = oldID
-                        Log.d("fdsdbgv", "isnotpreview")
-                        Log.d("fdsdbgv", currentId!!)
-
-                    }
-                }
-                if (context != null) {
-                    trackSelector = DefaultTrackSelector(context!!)
-                }
-
-                exoPlayer = ExoPlayer.Builder(context!!).build()
-                exoPlayer!!.volume = 0.0f
-                // Disable audio decoder.
-
-                exoPlayer!!.repeatMode = Player.REPEAT_MODE_ALL
-                val dataSourceFactory: DataSource.Factory = DefaultDataSourceFactory(
-                    context!!, Util.getUserAgent(context!!, "com.skytek.edgelighting")
-                )
-
-                // ExoPlayer can load file:///android_asset/ uri correctly.
-//            /storage/emulated/0/Android/data/com.skytek.live.wallpapers/files/live/298
-
-                Log.d("q12qz", getExternalFilesDir("live")!!.absolutePath + "/" + currentId)
-                Log.d("45434", "current id in start " + currentId.toString())
-                val sharedPreferences =
-                    context!!.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
-                if (currentId!=null) {
-                    sharedPreferences.edit().apply {
-                        putString("wallpaperPath", currentId)
-                        apply()
-                    }
-                }
-
-                videopath = sharedPreferences!!.getString("wallpaperPath", "")!!
-
-                Log.d("donttttttt", "current video id in start $videopath")
-                // ExoPlayer can load file:///android_asset/ uri correctly.
-                val audioSource: MediaSource =
-                    ProgressiveMediaSource.Factory(FileDataSource.Factory()).createMediaSource(
-                        MediaItem.fromUri(
-                            Uri.parse(videopath)
-                        )
-                    )
-                videoSource = audioSource
-
-                // Let we assume video has correct info in metadata, or user should fix it.
-                renderer!!.setVideoSizeAndRotation(videoWidth, videoHeight, videoRotation)
-                // This must be set after getting video info.
-                //      renderer!!.setSourcePlayer(exoPlayer!!)
-                renderer?.setExoPlayer(exoPlayer!!)
-                exoPlayer!!.prepare(videoSource!!)
-                exoPlayer!!.play()
-
-                // ExoPlayer's video size changed listener is buggy. Don't use it.
-                // It give's width and height after rotation, but did not rotate frames.
-                exoPlayer!!.playWhenReady = true
-
-            } catch (e: NullPointerException) {
+            // Determine the ID
+            currentId = if (isPreview) newID else oldID
+            currentId?.let {
+                Log.d("startPlayer", "Using ID: $currentId")
+                val sharedPreferences = context!!.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
+                sharedPreferences.edit().putString("wallpaperPath", currentId).apply()
             }
 
+            // Fetch video path from preferences
+            videopath = context!!.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
+                .getString("wallpaperPath", "") ?: return
 
+            if (videopath.isNullOrEmpty() || !File(videopath).exists()) {
+                Log.e("startPlayer", "Invalid video path: $videopath")
+                return
+            }
+
+            Log.d("startPlayercurrentId", "Initializing player with path: $videopath")
+            Log.d("startPlayercurrentId", "Initializing player with currentIdpath: $currentId")
+
+            // Initialize ExoPlayer
+            trackSelector = DefaultTrackSelector(context!!)
+            trackSelector!!.parameters = trackSelector!!.buildUponParameters()
+                .setForceHighestSupportedBitrate(true)
+                .build()
+
+            exoPlayer = SimpleExoPlayer.Builder(context!!)
+                .setTrackSelector(trackSelector!!)
+                .build()
+
+            // Prepare MediaSource
+            val mediaItem = MediaItem.fromUri(Uri.parse(videopath))
+            val appName = context?.applicationInfo?.let {
+                context!!.packageManager.getApplicationLabel(it).toString()
+            } ?: "com.skytek.edgelighting"
+            Log.d("startPlayer", "startPlayer: $appName")
+            val dataSourceFactory = DefaultDataSourceFactory(
+                context!!, Util.getUserAgent(context!!, appName)
+            )
+
+            videoSource = ProgressiveMediaSource.Factory(dataSourceFactory).createMediaSource(mediaItem)
+
+            renderer?.apply {
+                setVideoSizeAndRotation(videoWidth, videoHeight, videoRotation)
+                setSourcePlayer(exoPlayer!!)
+            }
+
+            exoPlayer?.apply {
+                setMediaSource(videoSource!!)
+                prepare()
+                repeatMode = Player.REPEAT_MODE_ALL
+                playWhenReady = true
+                volume = 0f
+            }
+
+            Log.d("startPlayer", "Player started successfully with path: $videopath")
         }
+
+
+
 
         private val handler = Handler(Looper.getMainLooper())
 
-        fun stopPlayer() {
-            handler.post {
-                try {
-                    if (exoPlayer != null) {
-                        if (exoPlayer!!.playWhenReady) {
-                            Utills.debug(TAG, "Player stopping")
-                            exoPlayer!!.playWhenReady = false
-                            exoPlayer!!.stop()
-                        }
-                        exoPlayer!!.release()
-                        exoPlayer = null
+        private fun stopPlayer(){
+            try {
+                Log.d("checkthevisibility" , "stopPlayer")
+                if (exoPlayer != null) {
+                    if (exoPlayer!!.playWhenReady) {
+                        exoPlayer?.playWhenReady = false
+                        exoPlayer?.volume = 0f
+                        exoPlayer?.stop()
                     }
-                    videoSource = null
-                    trackSelector = null
-                } catch (e: NullPointerException) {
-                    // Handle exception
+                    exoPlayer?.release()
+                    exoPlayer = null
                 }
+                videoSource = null
+                trackSelector = null
+            } catch (e: Exception) {
+                //IGNORE
             }
         }
 

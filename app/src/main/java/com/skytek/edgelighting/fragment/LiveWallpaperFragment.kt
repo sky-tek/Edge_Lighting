@@ -8,6 +8,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.Toast
+import androidx.appcompat.app.AppCompatActivity
 import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -16,6 +17,8 @@ import androidx.swiperefreshlayout.widget.SwipeRefreshLayout
 import com.mobi.pixels.firebase.fireEvent
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.LiveCategoryWallpaperActivity
+import com.skytek.edgelighting.activities.newID
+import com.skytek.edgelighting.activities.oldID
 import com.skytek.edgelighting.adapter.LiveCategoryAdapter
 import com.skytek.edgelighting.adapter.LiveCategoryAdapter1
 import com.skytek.edgelighting.api.WallpaperInterface
@@ -192,6 +195,13 @@ class   LiveWallpaperFragment : Fragment(), LiveCategoryAdapter1.LiveCategoryIte
 
     }
 
+//    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+//        super.onActivityResult(requestCode, resultCode, data)
+//        Log.d("asdfdasf12332", "onActivityResult:$requestCode ")
+//        Log.d("asdfdasf12332", "resultCode == RESULT_OK:${resultCode == AppCompatActivity.RESULT_OK} ")
+//        Log.d("asdfdasf12332", "oldID: $oldID")
+//        Log.d("asdfdasf12332", "newID: $newID")
+//    }
 
     private fun showProgressBar() {
         binding.progressBar.visibility = View.VISIBLE // Show ProgressBar

@@ -4,6 +4,7 @@ import android.content.Intent
 import android.graphics.Color
 import android.graphics.drawable.ColorDrawable
 import android.util.DisplayMetrics
+import android.util.Log
 import com.skytek.edgelighting.CoroutinesAsyncTask
 import com.skytek.edgelighting.MyAccessibilityService.Companion.edgeLightingView
 import com.skytek.edgelighting.WallpaperWindowEdgeService
@@ -123,26 +124,23 @@ class AsynchronousTask(val task:String,val activity: EdgeOverlaySettingsActivity
             "getThemeData" -> {
                 themeArrayList = ArrayList()
                 themeArrayList!!.addAll(list!!)
+                Log.d("kjsacvkgsyacv", "onPostExecute: $list")
                 if (activity.progressDialog != null && activity.progressDialog!!.isShowing) {
                     activity.progressDialog!!.dismiss()
                 }
                 activity.data
                 activity.init()
 
-                if(activity != null)
+                try
                 {
-                    try
-                    {
-                        activity.setNotchSeekbarListner()
-                        activity.setBorderSeekbarListner()
-                        activity.setBorderColorsListener()
-                        activity.setBorderTypeListener()
-                    }
-                    catch (e:java.lang.Exception)
-                    {
-                        e.printStackTrace()
-                    }
-
+//                    activity.setNotchSeekbarListner()
+                    activity.setBorderSeekbarListner()
+                    activity.setBorderColorsListener()
+                    activity.setBorderTypeListener()
+                }
+                catch (e:java.lang.Exception)
+                {
+                    e.printStackTrace()
                 }
             }
             "setEdgeBorderColor" -> {

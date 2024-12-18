@@ -18,7 +18,9 @@ import com.skytek.edgelighting.R
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.modelclass.LiveModelClass.LiveResponse
 import com.skytek.edgelighting.modelclass.LiveModelClass.LiveResponsePrent
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.skytek.edgelighting.utils.adTimeTraker.isIntervalElapsed
@@ -89,14 +91,21 @@ class LiveCategoryAdapter1(
             Log.d("rrrrrrrrrrrrrrrrr", "onBindViewHolder: ")
             // Set the clicked item position
             clickedItemPosition = position
-
+clicks++
             isDownloadEnabled = true
 
             val videoUrl = category.wallpapers[0].img_path
-            val cacheDir = context.cacheDir
+
 
             val fileName = category.wallpapers[0].id + ".mp4"
-            val outputFile = File(cacheDir, fileName)
+
+            val directory = File(context.getExternalFilesDir("live")?.absolutePath)
+
+            if (!directory.exists()) {
+                directory.mkdirs()
+            }
+
+            val outputFile = File(directory, fileName)
             stringpath = outputFile
             Log.d("rrrrrrrrrrrrrrrrr", fileName)
             Log.d("rrrrrrrrrrrrrrrrr", videoUrl)
@@ -107,7 +116,7 @@ class LiveCategoryAdapter1(
             val downloadProgressbar = view.findViewById<TextView>(R.id.downloadProgressbar)
 
             if (outputFile.exists()) {
-                if (isIntervalElapsed() && wholeScreenAdShow && wholeInterAdShow) {
+                if ((isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
                     if (checkContext(context)) {
                         Interstitial.show(
                             context as Activity,
@@ -116,6 +125,7 @@ class LiveCategoryAdapter1(
                                     isinterstitialvisible = false
                                     clickListener.onItemClicked(false, stringpath.absolutePath)
                                     updateLastAdShownTime()
+                                    clicks=0
                                 }
 
                                 override fun onError(error: String) {
@@ -147,7 +157,7 @@ class LiveCategoryAdapter1(
             } else {
                 (context as? Activity)?.window?.decorView?.findViewById<ViewGroup>(android.R.id.content)
                     ?.addView(view)
-                if (isIntervalElapsed() && wholeScreenAdShow && wholeInterAdShow) {
+                if ((isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)&& wholeScreenAdShow && wholeInterAdShow) {
                 if (checkContext(context)){
                     Interstitial.show(context as Activity, object : AdInterstitialShowListeners {
                         override fun onDismissed() {
@@ -162,6 +172,7 @@ class LiveCategoryAdapter1(
                                 clickListener
                             )
                             updateLastAdShownTime()
+                            clicks=0
                         }
 
                         override fun onError(error: String) {
@@ -234,6 +245,7 @@ class LiveCategoryAdapter1(
                 val client = OkHttpClient.Builder().callTimeout(400, TimeUnit.SECONDS).build()
                 val requestBuilder = Request.Builder().url(videoUrl)
 
+                // Handle resuming the download by adding a Range header
                 if (outputFile.length() > 0) {
                     requestBuilder.addHeader("Range", "bytes=${outputFile.length()}-")
                 }
@@ -244,8 +256,7 @@ class LiveCategoryAdapter1(
                     if (!response.isSuccessful) throw IOException("Unexpected code $response")
 
                     val contentLength = response.body?.contentLength() ?: -1
-                    var bytesRead: Long =
-                        outputFile.length()  // Start reading from where the file left off
+                    var bytesRead: Long = outputFile.length() // Start reading from where the file left off
 
                     val inputStream = response.body?.byteStream()
                     if (inputStream != null) {
@@ -257,24 +268,26 @@ class LiveCategoryAdapter1(
                             }
                         }
 
-                        val outputStream =
-                            FileOutputStream(outputFile, true) // Append to the existing file
+                        // Open FileOutputStream in append mode to continue the download
+                        val outputStream = FileOutputStream(outputFile, true)
                         inputStream.use { input ->
                             val buffer = ByteArray(DEFAULT_BUFFER_SIZE)
                             var bytesCopied: Int
                             while (input.read(buffer).also { bytesCopied = it } != -1) {
+                                // Write the binary data to the file
                                 outputStream.write(buffer, 0, bytesCopied)
                                 bytesRead += bytesCopied
+
                                 // Log download progress
-                                val progress =
-                                    ((bytesRead * 100 / contentLength).toInt()).coerceIn(0, 100)
+                                val progress = ((bytesRead * 100 / contentLength).toInt()).coerceIn(0, 100)
                                 withContext(Dispatchers.Main) {
                                     downloadProgressbar.text = "$progress %"
-                                    Log.d("DownloadProgress", "Progress: $progress%")
+                                    Log.d("DownloadProgress", "ye wala chal raha hai nProgress: $progress%")
                                 }
                             }
                         }
 
+                        // Ensure stream is flushed and closed
                         outputStream.flush()
                         outputStream.close()
 
@@ -283,6 +296,8 @@ class LiveCategoryAdapter1(
                             (view.parent as? ViewGroup)?.removeView(view)
                             clickListener.onItemClicked(false, outputFile.absolutePath)
                         }
+                    } else {
+                        throw IOException("Failed to open input stream")
                     }
                 }
             } catch (e: IOException) {
@@ -295,6 +310,7 @@ class LiveCategoryAdapter1(
                 }
             }
         }
+
     }
 
     private fun notifyUser(message: String) {

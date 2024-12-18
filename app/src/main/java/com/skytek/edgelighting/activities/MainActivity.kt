@@ -50,9 +50,11 @@ import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.databinding.ActivityMainBinding
 
 import com.skytek.edgelighting.modelclass.Response
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
 import com.skytek.edgelighting.utils.AdResources.bannerAdId
 import com.skytek.edgelighting.utils.AdResources.bannerToNative
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.mainScreenAdShow
 import com.skytek.edgelighting.utils.AdResources.nativeAdId
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
@@ -155,16 +157,17 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             }
         })
         binding!!.edgeOverlay.setOnClickListener {
+            clicks++
             fireEvent("RV_${packageInfo.versionCode}_Main_Activity_edge_click ")
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)}"
             )
             Log.d(
                 "hfasagifegifgijfvgikefvgif", "${getLastAdShownTime()} && ${isIntervalElapsed()}"
             )
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()) {
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
                 val i = Intent(
                     this@MainActivity, EdgeOverlaySettingsActivity::class.java
                 )
@@ -210,14 +213,15 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
 
         binding!!.liveWallpaper.setOnClickListener {
+            clicks++
             fireEvent("RV_${packageInfo.versionCode}_Main_Activity_LiveWall_click ")
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)}"
             )
 
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()) {
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
                 val i = Intent(this@MainActivity, StaticWallpaperActivity::class.java)
                 loadInterstitialAd(i, "live")
             } else {
@@ -246,6 +250,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     Log.d(
                         "hfasagifegifgijfvgikefvgif", "onDismissed"
                     )
+                    clicks=0
                     updateLastAdShownTime()
                 }
 
@@ -437,10 +442,21 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             }
 
             R.id.nav_rate -> {
-                showRateApp()
                 binding!!.drawerLayout.closeDrawer(GravityCompat.START)
                 Log.d("menubarClicked", "onNavigationItemSelected: rate clicked")
+
+                // Intent to open the Play Store link
+                val intent = Intent(Intent.ACTION_VIEW).apply {
+                    data = Uri.parse("https://play.google.com/store/apps/details?id=com.skytek.edgelighting&pcampaignid=web_share")
+                }
+                // Check if there is an app to handle the intent
+                if (intent.resolveActivity(this.packageManager) != null) {
+                    startActivity(intent)
+                } else {
+                    Log.e("RateApp", "No app can handle this intent.")
+                }
             }
+
 
             R.id.nav_more_app -> {
                 moreApp()

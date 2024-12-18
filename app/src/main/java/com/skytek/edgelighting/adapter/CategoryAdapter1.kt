@@ -20,7 +20,9 @@ import com.skytek.edgelighting.activities.StaticCategoryWallpaperPreviewActivity
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.modelclass.Response
 import com.skytek.edgelighting.modelclass.Responses
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.skytek.edgelighting.utils.adTimeTraker.isIntervalElapsed
@@ -75,6 +77,7 @@ class CategoryAdapter1(
                     intent.putExtra("wallpaperPath", imgPath)
                     context!!.startActivity(intent)
                     updateLastAdShownTime()
+                    clicks=0
                 }
 
                 override fun onError(error: String) {
@@ -130,10 +133,11 @@ class CategoryAdapter1(
         holder.categoryImage.load(imgPath) {}
 
         holder.itemView.setOnClickListener {
+            clicks++
             Log.d("axcgcsgcuevb uvcu vedbu", "${context!!.javaClass.simpleName} ")
             val i = Intent(context!!, StaticCategoryWallpaperPreviewActivity::class.java)
             Log.d("bjksdbfbvjvbjvbujv", "${category.wallpapers[0].img_path} ")
-            if (isIntervalElapsed() && wholeScreenAdShow && wholeInterAdShow) {
+            if ((isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
                 customdialog()
 
                 loadInterstitialAd(activitiesAdId, category.wallpapers[0].img_path, i)

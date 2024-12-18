@@ -22,8 +22,10 @@ import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity.Companion.
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity.Companion.binding
 import com.skytek.edgelighting.activities.MainActivity
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
+import com.skytek.edgelighting.utils.AdResources
 
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.skytek.edgelighting.utils.Const
@@ -45,6 +47,7 @@ class CheckedChangeListeners(private val context: Context) :
                 try {
                     if (b) {
                         Log.d("notchfix", "notch says ${b}")
+
 
                         loadAndShowInterstitialAd()
                     } else {
@@ -116,11 +119,12 @@ class CheckedChangeListeners(private val context: Context) :
 
     private fun loadAndShowInterstitialAd() {
         val binding = binding ?: return
+        clicks++
         Log.d(
             "fvyfy7d6td6tdt64d",
-            "${isOnline(context) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()}: "
+            "${isOnline(context) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)}: "
         )
-        if (isOnline(context) && wholeScreenAdShow && wholeInterAdShow && isIntervalElapsed()) {
+        if (isOnline(context) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
             loadInterstitialAd(activitiesAdId)
         } else {
 
@@ -141,6 +145,7 @@ class CheckedChangeListeners(private val context: Context) :
             Interstitial.show(context as Activity, object : AdInterstitialShowListeners {
                 override fun onDismissed() {
                     updateLastAdShownTime()
+                    clicks=0
                     isinterstitialvisible = false
                     Log.d("asdasassss", "onAdDismissedFullScreenContent: ad dismissted ")
                     binding?.let { safeBinding ->

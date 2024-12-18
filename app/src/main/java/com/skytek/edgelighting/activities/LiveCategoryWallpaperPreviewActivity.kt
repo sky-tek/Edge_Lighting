@@ -36,7 +36,7 @@ class LiveCategoryWallpaperPreviewActivity : AppCompatActivity() {
         showProgressBar()
 
         val wallpaperPath = intent.getStringExtra("wallpaperPath")
-
+        Log.d("whathappenYaar", "onCreate:$wallpaperPath ")
         val fullScreenWallpaperVideoView: VideoView =
             findViewById(R.id.fullScreenWallpaperVideoView)
 

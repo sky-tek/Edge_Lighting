@@ -34,7 +34,9 @@ import com.skytek.edgelighting.GenericFunctions.imgBitmap
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.databinding.ActivityStaticCategoryWallpaperPreviewBinding
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.skytek.edgelighting.utils.adTimeTraker.isIntervalElapsed
@@ -161,13 +163,13 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                     hideBottomProgressBar()
                     Log.d("dlksdlsjdskjd", "onCreate:  2")
                     applyToHomeButton?.setOnClickListener {
-
+clicks++
                         Log.d("abcd6666666", "asdasdasdasd")
                         showToast(getString(R.string.applying_wallpaper))
 
                         Handler(Looper.getMainLooper()).postDelayed({
                             applyWallpaperToHomeScreen(wallpaperPath, dialog, view)
-                            if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
                                 if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
                                     Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
                                         object : AdInterstitialShowListeners {
@@ -191,6 +193,7 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                                             override fun onDismissed() {
                                                 isinterstitialvisible = false
                                                 updateLastAdShownTime()
+                                                clicks=0
                                                 showToast(getString(R.string.wallpaper_applied))
                                             }
 
@@ -205,88 +208,95 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
                     }
                     applyToLockButton?.setOnClickListener {
                         Log.d("abcd", "asda23423sdasdasd")
-
+clicks++
                         showToast(getString(R.string.applying_wallpaper))
                         Handler(Looper.getMainLooper()).postDelayed({
                             applyWallpaperToLockScreen(wallpaperPath, dialog, view)
 
-                            if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
-                         if(checkContext(context = this@StaticCategoryWallpaperPreviewActivity)){
-                             Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
-                                 object : AdInterstitialShowListeners {
-                                     override fun onShowed() {
-                                         isinterstitialvisible = true
-                                         fireEvent("SHOW_EL_static_Lock_Wall_click")
-                                         Interstitial.load(
-                                             this@StaticCategoryWallpaperPreviewActivity,
-                                             activitiesAdId
-                                         )
-                                     }
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+                                if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
+                                    Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
+                                        object : AdInterstitialShowListeners {
+                                            override fun onShowed() {
+                                                isinterstitialvisible = true
+                                                fireEvent("SHOW_EL_static_Lock_Wall_click")
+                                                Interstitial.load(
+                                                    this@StaticCategoryWallpaperPreviewActivity,
+                                                    activitiesAdId
+                                                )
+                                            }
 
-                                     override fun onError(error: String) {
-                                         showToast(getString(R.string.wallpaper_applied))
-                                         Interstitial.load(
-                                             this@StaticCategoryWallpaperPreviewActivity,
-                                             activitiesAdId
-                                         )
-                                     }
+                                            override fun onError(error: String) {
+                                                showToast(getString(R.string.wallpaper_applied))
+                                                Interstitial.load(
+                                                    this@StaticCategoryWallpaperPreviewActivity,
+                                                    activitiesAdId
+                                                )
+                                            }
 
-                                     override fun onDismissed() {
-                                         isinterstitialvisible = false
-                                         updateLastAdShownTime()
-                                         showToast(getString(R.string.wallpaper_applied))
-                                     }
+                                            override fun onDismissed() {
+                                                isinterstitialvisible = false
+                                                updateLastAdShownTime()
+                                                clicks=0
+                                                showToast(getString(R.string.wallpaper_applied))
+                                            }
 
-                                 })
-                         }
-                            }
-
-                        }, 500)
-                    }
-                    applyToBothButton?.setOnClickListener {
-
-                        Log.d("abcd", "asdas345345dasdasd")
-
-                        showToast(getString(R.string.applying_wallpaper))
-                        Handler(Looper.getMainLooper()).postDelayed({
-                            applyWallpaperToHomeAndLockScreen(wallpaperPath, dialog, view)
-                            if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
-     if(checkContext(context = this@StaticCategoryWallpaperPreviewActivity)){
-         Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
-             object : AdInterstitialShowListeners {
-                 override fun onShowed() {
-                     isinterstitialvisible = true
-                     fireEvent("SHOW_EL_static_both_Wall_click")
-                     Interstitial.load(
-
-                         this@StaticCategoryWallpaperPreviewActivity,
-                         activitiesAdId
-                     )
-                 }
-
-                 override fun onError(error: String) {
-                     showToast(getString(R.string.wallpaper_applied))
-                     Interstitial.load(
-                         this@StaticCategoryWallpaperPreviewActivity,
-                         activitiesAdId
-                     )
-                 }
-
-                 override fun onDismissed() {
-                     isinterstitialvisible = false
-                     updateLastAdShownTime()
-                     showToast(getString(R.string.wallpaper_applied))
-                 }
-
-             })
-     }
+                                        })
+                                }
                             } else {
                                 showToast(getString(R.string.wallpaper_applied))
                             }
 
                         }, 500)
                     }
+                    applyToBothButton?.setOnClickListener {
+clicks++
+                        Log.d("abcd", "asdas345345dasdasd")
+
+                        showToast(getString(R.string.applying_wallpaper))
+                        Handler(Looper.getMainLooper()).postDelayed({
+                            applyWallpaperToHomeAndLockScreen(wallpaperPath, dialog, view)
+                            if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
+                                if (checkContext(context = this@StaticCategoryWallpaperPreviewActivity)) {
+                                    Interstitial.show(this@StaticCategoryWallpaperPreviewActivity,
+                                        object : AdInterstitialShowListeners {
+                                            override fun onShowed() {
+                                                isinterstitialvisible = true
+                                                fireEvent("SHOW_EL_static_both_Wall_click")
+                                                Interstitial.load(
+
+                                                    this@StaticCategoryWallpaperPreviewActivity,
+                                                    activitiesAdId
+                                                )
+                                            }
+
+                                            override fun onError(error: String) {
+                                                showToast(getString(R.string.wallpaper_applied))
+                                                Interstitial.load(
+                                                    this@StaticCategoryWallpaperPreviewActivity,
+                                                    activitiesAdId
+                                                )
+                                            }
+
+                                            override fun onDismissed() {
+                                                isinterstitialvisible = false
+                                                updateLastAdShownTime()
+                                                clicks=0
+                                                Log.d("abcd", "onDismissed")
+                                                showToast(getString(R.string.wallpaper_applied))
+                                            }
+
+                                        })
+                                }
+                            } else {
+                                Log.d("abcd", "else")
+                                showToast(getString(R.string.wallpaper_applied))
+                            }
+
+                        }, 700)
+                    }
                     adjustscreen?.setOnClickListener {
+                        clicks++
                         Log.d("abcd", "onCreate:  adjustscreen")
                         adjustscreen(wallpaperPath, dialog, view)
                     }
@@ -359,31 +369,38 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
     private fun applyWallpaperToHomeScreen(
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
     ) {
-
-
         val wallpaperManager = WallpaperManager.getInstance(this)
-        val request = ImageRequest.Builder(this).data(wallpaperPath).target { drawable ->
-            val bitmap = (drawable as? BitmapDrawable)?.bitmap
-            //imgBitmap = bitmap
-            bitmap?.let {
-                try {
+        val request = ImageRequest.Builder(this)
+            .data(wallpaperPath)
+            .target { drawable ->
+                val bitmap = (drawable as? BitmapDrawable)?.bitmap
+                bitmap?.let {
+                    try {
+                        // Apply wallpaper to home screen only
+                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+                            wallpaperManager.setBitmap(
+                                bitmap,
+                                null,
+                                true,
+                                WallpaperManager.FLAG_SYSTEM
+                            )
+                        } else {
+                            // Fallback for older versions (applies to both screens)
+                            wallpaperManager.setBitmap(bitmap)
+                        }
 
-                    wallpaperManager.setBitmap(bitmap)
-                    runOnUiThread {
-
-                        dialog.dismiss() // Dismiss the dialog after setting wallpaper
-
-
+                        runOnUiThread {
+                            dialog.dismiss()
+                        }
+                    } catch (e: IOException) {
+                        e.printStackTrace()
                     }
-                } catch (e: IOException) {
-                    e.printStackTrace()
-
                 }
-            }
-        }.build()
+            }.build()
 
         Coil.imageLoader(this).enqueue(request)
     }
+
 
     private fun adjustscreen(
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
@@ -437,7 +454,19 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
             //imgBitmap = bitmap
             bitmap?.let {
                 try {
-                    wallpaperManager.setBitmap(bitmap, null, true, WallpaperManager.FLAG_LOCK)
+                    // Apply wallpaper to home screen only
+                    if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+                        wallpaperManager.setBitmap(
+                            bitmap,
+                            null,
+                            true,
+                            WallpaperManager.FLAG_LOCK
+                        )
+                    } else {
+                        // Fallback for older versions (applies to both screens)
+                        wallpaperManager.setBitmap(bitmap)
+                    }
+
                     runOnUiThread {
 
                         dialog.dismiss() // Dismiss the BottomSheetDialog after setting wallpaper
@@ -456,28 +485,44 @@ class StaticCategoryWallpaperPreviewActivity : AppCompatActivity() {
     private fun applyWallpaperToHomeAndLockScreen(
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
     ) {
-
-
         val wallpaperManager = WallpaperManager.getInstance(this)
-        val request = ImageRequest.Builder(this).data(wallpaperPath).target { drawable ->
-            val bitmap = (drawable as? BitmapDrawable)?.bitmap
-            // imgBitmap = bitmap
-            bitmap?.let {
-                try {
-                    wallpaperManager.setBitmap(bitmap)
-                    runOnUiThread {
-                        dialog.dismiss()
+        val request = ImageRequest.Builder(this)
+            .data(wallpaperPath)
+            .target { drawable ->
+                val bitmap = (drawable as? BitmapDrawable)?.bitmap
+                bitmap?.let {
+                    try {
+                        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
+                            // Set wallpaper for both home and lock screens
+                            wallpaperManager.setBitmap(
+                                bitmap,
+                                null,
+                                true,
+                                WallpaperManager.FLAG_SYSTEM
+                            )
+                            wallpaperManager.setBitmap(
+                                bitmap,
+                                null,
+                                true,
+                                WallpaperManager.FLAG_LOCK
+                            )
+                        } else {
+                            // Fallback for older versions, applies to both screens by default
+                            wallpaperManager.setBitmap(bitmap)
+                        }
 
+                        runOnUiThread {
+                            dialog.dismiss()
+                        }
+                    } catch (e: IOException) {
+                        e.printStackTrace()
                     }
-                } catch (e: IOException) {
-                    e.printStackTrace()
-
                 }
-            }
-        }.build()
+            }.build()
 
         Coil.imageLoader(this).enqueue(request)
     }
+
 
     private fun showProgressBar() {
         binding.progressBar.visibility = View.VISIBLE // Show ProgressBar

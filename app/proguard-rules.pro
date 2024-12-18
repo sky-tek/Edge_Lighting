@@ -58,3 +58,5 @@
 -dontwarn okhttp3.**
 -dontwarn okio.**
 -dontwarn org.conscrypt.*
+-dontwarn android.media.LoudnessCodecController$OnLoudnessCodecUpdateListener
+-dontwarn android.media.LoudnessCodecController

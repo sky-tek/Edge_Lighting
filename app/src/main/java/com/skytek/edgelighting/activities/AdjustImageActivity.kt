@@ -32,7 +32,9 @@ import com.skytek.edgelighting.GenericFunctions.imgBitmap
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.databinding.ActivityAdjustImageBinding
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
+import com.skytek.edgelighting.utils.AdResources.clicks
 import com.skytek.edgelighting.utils.AdResources.wholeInterAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.skytek.edgelighting.utils.adTimeTraker.isIntervalElapsed
@@ -185,6 +187,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setBothScreen() {
+        clicks++
         fireEvent("static_adjust_screen_apply_set_both_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
@@ -198,7 +201,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || AdResources.clicks <= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
@@ -274,6 +277,7 @@ class AdjustImageActivity : AppCompatActivity() {
                     override fun onDismissed() {
                         isinterstitialvisible = false
                         updateLastAdShownTime()
+                        clicks=0
                         Toast.makeText(
                             this@AdjustImageActivity,
                             getString(R.string.applied),
@@ -314,6 +318,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setHomeScreen() {
+        clicks++
         fireEvent("static_adjust_screen_apply_set_home_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
@@ -328,7 +333,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
@@ -369,6 +374,7 @@ class AdjustImageActivity : AppCompatActivity() {
                     override fun onDismissed() {
                         isinterstitialvisible = false
                         updateLastAdShownTime()
+                        clicks=0
                         binding.resize.isDrawingCacheEnabled = true
                         val wallpaperManager =
                             WallpaperManager.getInstance(this@AdjustImageActivity)
@@ -426,6 +432,7 @@ class AdjustImageActivity : AppCompatActivity() {
     }
 
     private fun setLockScreen() {
+        clicks++
         fireEvent("static_adjust_screen_apply_set_lock_clicked")
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
@@ -440,7 +447,7 @@ class AdjustImageActivity : AppCompatActivity() {
             )
         )
         bottomSheetDialogWatcher.show()
-        if (wholeInterAdShow && wholeScreenAdShow && isIntervalElapsed()) {
+        if (wholeInterAdShow && wholeScreenAdShow && (isIntervalElapsed() || clicks<= AdResources.ElBtnClickCount)) {
 
             if (checkContext(context = this)) {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
@@ -495,6 +502,7 @@ class AdjustImageActivity : AppCompatActivity() {
                     override fun onDismissed() {
                         isinterstitialvisible = false
                         updateLastAdShownTime()
+                        clicks=0
                         Toast.makeText(
                             this@AdjustImageActivity,
                             getString(R.string.applied),

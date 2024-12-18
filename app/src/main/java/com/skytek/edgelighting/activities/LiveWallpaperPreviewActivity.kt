@@ -51,20 +51,20 @@ class LiveWallpaperPreviewActivity : AppCompatActivity() {
 
         window.statusBarColor = ContextCompat.getColor(this, R.color.background)
 
-
+        Log.d("fekgikjsagjgfcjsa","vuuv")
         progressBar = findViewById(R.id.progressBar) // Initialize progressBar
         showProgressBar()
 
 
          wallpaperPath = intent.getStringExtra("wallpaperPath")!!
-        Log.d("abcd",wallpaperPath!!)
+        Log.d("fekgikjsagjgfcjsa",wallpaperPath!!)
         val sharedPreferences = this.getSharedPreferences("MyPreferences", Context.MODE_PRIVATE)
         val editor = sharedPreferences.edit()
         editor.putString("wallpaperPath", wallpaperPath)
-        editor.commit()
         editor.apply()
 
-        Log.d("dsdsdhksdhjskd", "onCreate: " + wallpaperPath)
+        Log.d("fekgikjsagjgfcjsa",wallpaperPath!!)
+
         // ExoPlayer setup
         var exoPlayer = ExoPlayer.Builder(this).build()
         // Initialize your PlayerView

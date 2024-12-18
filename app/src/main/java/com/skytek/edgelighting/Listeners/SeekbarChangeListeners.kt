@@ -70,6 +70,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.radius_top -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgressChangedradius_top:$i ")
                     MySharePreferencesEdge.setInt(MySharePreferencesEdge.RADIUSTOP, i, activity)
                     cornerTop = i
                     if (MyAccessibilityService.edgeLightingView != null &&
@@ -85,6 +86,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.radius_bottom -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress radius_bottom:$i ")
                     MySharePreferencesEdge.setInt(MySharePreferencesEdge.RADIUSBOTTOM, i, activity)
                     cornerBottom = i
                     if (MyAccessibilityService.edgeLightingView != null &&
@@ -100,6 +102,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.notch_width_top -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress notch_width_top:$i ")
                     val i2 = MySharePreferencesEdge.getInt(MySharePreferencesEdge.NOTCHTOP, activity)
 
                     if (i <= notchBottom) {
@@ -145,6 +148,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.notch_width_bottom -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress notch_width_bottom:$i ")
                     if (i >= notchBottom) {
                         checkBottom = false
                     }
@@ -177,6 +181,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.notch_height -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress notch_height:$i ")
                     MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHHEIGHT, i, activity)
                     notchHeight = i
                     if (MyAccessibilityService.edgeLightingView != null &&
@@ -192,6 +197,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.notch_radius_top -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress notch_radius_top:$i ")
                     MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSTOP, i, activity)
                     notchRadiusTop = i
                     if (MyAccessibilityService.edgeLightingView != null &&
@@ -207,6 +213,7 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
 
             R.id.notch_radius_bottom -> {
                 try {
+                    Log.d("kyavaluaarahihaie", "onProgress notch_radius_bottom:$i ")
                     val i2 = notchBottom - i
                     if (i <= notchBottom && i2 >= 0) {
                         MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, i2, activity)

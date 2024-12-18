@@ -2,6 +2,7 @@ package com.skytek.edgelighting.adapter
 
 
 import android.content.Context
+import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -19,7 +20,7 @@ class InAppLanOneTimeRvAdapter(
     private val context: Context,
     private var languageList: ArrayList<ConversationLanguage>,
     val pos:Int,
-    private val onLanguageItemClick: (Boolean) -> Unit
+    private val onLanguageItemClick: (Boolean,String,Int,String) -> Unit
 
 
 ) : RecyclerView.Adapter<InAppLanOneTimeRvAdapter.LanguageViewHolder>() {
@@ -53,29 +54,10 @@ class InAppLanOneTimeRvAdapter(
             val previousSelectedPosition = selectedPosition
             scrollPosition = -1
             selectedPosition = position
-            val languagePreferences =
-                context.getSharedPreferences(
-                    OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_KEY,
-                    AppCompatActivity.MODE_PRIVATE
-                )
-            val languagePreferenceEditor = languagePreferences.edit()
 
-            languagePreferenceEditor.putString(
-                OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_VALUE_KEY,
-                languageList[position].languageCode
-            )
-            languagePreferenceEditor.putString(
-                OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_NAME_KEY,
-                languageList[position].languageName
-            )
-            languagePreferenceEditor.putInt(
-                "LANGUAGE_PREFERENCE_Flag_KEY",
-                languageList[position].languageFlag
-            )
-            languagePreferenceEditor.apply()
             notifyItemChanged(previousSelectedPosition)
             notifyItemChanged(selectedPosition)
-            onLanguageItemClick(true)
+            onLanguageItemClick(true,languageList[position].languageName,languageList[position].languageFlag,   languageList[position].languageCode)
         }
 
 

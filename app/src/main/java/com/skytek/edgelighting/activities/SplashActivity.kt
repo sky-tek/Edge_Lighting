@@ -14,6 +14,7 @@ import android.util.Log
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.lifecycle.lifecycleScope
 import com.google.android.gms.ads.MobileAds
 import com.google.firebase.Firebase
 import com.google.firebase.remoteconfig.remoteConfig
@@ -87,6 +88,9 @@ class SplashActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
 //        StatusBarUtil.setTransparent(this@SplashActivity)
         binding = ActivitySplashBinding.inflate(layoutInflater)
+//        lifecycleScope.launch {
+//            Interstitial.load(this@SplashActivity,"ca-app-pub-3940256099942544/1033173712")
+//        }
         if (BuildConfig.DEBUG) {
             StrictMode.setThreadPolicy(
                 ThreadPolicy.Builder()
@@ -130,7 +134,7 @@ class SplashActivity : AppCompatActivity() {
             consent.consentMessageRequest()
             consent.getConsent {
                 if (it) {
-                    if (false) {
+                    if (BuildConfig.DEBUG) {
                         Log.d("getting value here", "insewide debug ")
                         splashScreenAdId = "ca-app-pub-3940256099942544/1033173712"
                         activitiesAdId = "ca-app-pub-3940256099942544/1033173712"
