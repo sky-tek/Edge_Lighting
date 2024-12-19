@@ -19,6 +19,7 @@ import androidx.fragment.app.Fragment
 import androidx.viewpager.widget.ViewPager
 import com.google.android.material.tabs.TabLayout
 import com.mobi.pixels.firebase.fireEvent
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.adapter.ViewPagerAdapter
 import com.skytek.edgelighting.databinding.ActivityStaticWallpaperBinding
@@ -44,6 +45,7 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
 
         binding = ActivityStaticWallpaperBinding.inflate(layoutInflater)
         setContentView(binding.root)
+
         liveWallpaperLauncher = registerForActivityResult(
             ActivityResultContracts.StartActivityForResult()
         ) { result ->
@@ -56,7 +58,7 @@ class StaticWallpaperActivity : AppCompatActivity(), LiveWallpaperFragment.Fragm
         tabLayout = findViewById(R.id.tabLayout)
 
         val packageInfo = packageManager.getPackageInfo(packageName, 0)
-        fireEvent("RV_${packageInfo.versionCode}_Wallpaper_Activity ")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_Wallpaper_Activity ")
         val adapter = ViewPagerAdapter(supportFragmentManager)
         adapter.addFragment(StaticWallpaperFragment(), getString(R.string.wallpapers))
         adapter.addFragment(LiveWallpaperFragment(), getString(R.string.magical_wallpaper))

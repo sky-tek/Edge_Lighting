@@ -117,7 +117,7 @@ class CategoryAdapter1(
                         activitiesAdId,
                     )
 
-                    fireEvent("SHOW_EL_static_Wall_click")
+
 
                 }
             })
@@ -136,7 +136,7 @@ class CategoryAdapter1(
             clicks++
             Log.d("axcgcsgcuevb uvcu vedbu", "${context!!.javaClass.simpleName} ")
             val i = Intent(context!!, StaticCategoryWallpaperPreviewActivity::class.java)
-            Log.d("bjksdbfbvjvbjvbujv", "${category.wallpapers[0].img_path} ")
+            Log.d("bjksdbfbvjvbjvbujv", "${category.wallpapers[0].cat_name} ")
             if ((isIntervalElapsed() || AdResources.clicks >= AdResources.ElBtnClickCount) && wholeScreenAdShow && wholeInterAdShow) {
                 customdialog()
 

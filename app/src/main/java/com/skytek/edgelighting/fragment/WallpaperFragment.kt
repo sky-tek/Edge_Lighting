@@ -228,7 +228,7 @@ class WallpaperFragment : Fragment() {
                     val sharedEditior = sharedPref.edit()
                     sharedEditior.putBoolean("check_wallpaper_set", true)
                     sharedEditior.apply()
-                    fireEvent("wallp0aper_applied")
+
                 } catch (e: Exception) {
                 }
             } else {

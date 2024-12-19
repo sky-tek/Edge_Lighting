@@ -28,6 +28,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
 import com.mobi.pixels.firebase.fireEvent
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.GenericFunctions.imgBitmap
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
@@ -147,7 +148,6 @@ class AdjustImageActivity : AppCompatActivity() {
     private fun showBottomSheetDialog() {
         // Assuming you have a data structure named 'wallpaperData' with the provided JSON data
 
-        fireEvent("static_adjust_screen_apply_clicked")
         val bottomSheetDialog = BottomSheetDialog(this)
         bottomSheetDialog.setContentView(R.layout.download_bottom_sheet_dialog)
         val bottomSheetDialogColor =
@@ -188,7 +188,8 @@ class AdjustImageActivity : AppCompatActivity() {
 
     private fun setBothScreen() {
         clicks++
-        fireEvent("static_adjust_screen_apply_set_both_clicked")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_adjust_screen_set_both")
+
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -209,7 +210,7 @@ class AdjustImageActivity : AppCompatActivity() {
                         //showAdForBackPressed = 0
                         isinterstitialvisible = true
                         Interstitial.load(this@AdjustImageActivity, activitiesAdId)
-                        fireEvent("SHOW_EL_static_AD_both_Wall_click")
+
                         Log.d("adadsadqw", "ad is showed ")
                         binding.resize.isDrawingCacheEnabled = true
                         val wallpaperManager =
@@ -319,7 +320,8 @@ class AdjustImageActivity : AppCompatActivity() {
 
     private fun setHomeScreen() {
         clicks++
-        fireEvent("static_adjust_screen_apply_set_home_clicked")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_adjust_screen_set_home")
+
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -339,7 +341,7 @@ class AdjustImageActivity : AppCompatActivity() {
                 Interstitial.show(this@AdjustImageActivity, object : AdInterstitialShowListeners {
                     override fun onShowed() {
                         isinterstitialvisible = true
-                        fireEvent("SHOW_EL_static_AD_home_Wall_click")
+
                         Interstitial.load(this@AdjustImageActivity, activitiesAdId)
                     }
 
@@ -433,7 +435,8 @@ class AdjustImageActivity : AppCompatActivity() {
 
     private fun setLockScreen() {
         clicks++
-        fireEvent("static_adjust_screen_apply_set_lock_clicked")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_adjust_screen_set_lock")
+
         val bottomSheetDialogWatcher = BottomSheetDialog(this)
         bottomSheetDialogWatcher.setContentView(R.layout.download_bottom_sheet_dialog)
         val bgColor =
@@ -454,7 +457,7 @@ class AdjustImageActivity : AppCompatActivity() {
                     override fun onShowed() {
                         isinterstitialvisible = true
                         // showAdForBackPressed = 0
-                        fireEvent("SHOW_EL_static_AD_lock_Wall_click")
+
                         Interstitial.load(this@AdjustImageActivity, activitiesAdId)
                         updateLastAdShownTime()
                         Log.d("adadsadqw", "ad is showed ")

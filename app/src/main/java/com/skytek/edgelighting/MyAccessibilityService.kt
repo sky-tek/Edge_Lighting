@@ -31,8 +31,7 @@ import androidx.core.app.NotificationCompat
 import androidx.core.content.ContextCompat
 import androidx.localbroadcastmanager.content.LocalBroadcastManager
 import androidx.preference.PreferenceManager
-import com.google.firebase.ktx.Firebase
-import com.mobi.pixels.firebase.fireEvent
+
 import com.skytek.WindowService
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity.Companion.binding
@@ -426,7 +425,7 @@ class MyAccessibilityService : AccessibilityService() {
             MySharePreferencesEdge.putDisplayOverLayBooleanValue(
                 MySharePreferencesEdge.DISPLAY_OVERLAY, true, App.context
             )
-            fireEvent("edge_border_display_overlay_on")
+
 
         } catch (e: NullPointerException) {
             Log.e(
@@ -532,7 +531,7 @@ class MyAccessibilityService : AccessibilityService() {
             MySharePreferencesEdge.putAlwaysOnDisplayBooleanValue(
                 MySharePreferencesEdge.ALWAYS_ON_DISPLAY, true, EdgeOverlaySettingsActivity.activity
             )
-            fireEvent("always_on_display_edge_lighting")
+
         }
     }
 
@@ -545,7 +544,7 @@ class MyAccessibilityService : AccessibilityService() {
                         MySharePreferencesEdge.SHOW_WHILE_CHARGING, true, App.context
                     )
                     startService(Intent(this, WindowService::class.java))
-                    fireEvent("low_battery_edge_on")
+
                 }
 
             }

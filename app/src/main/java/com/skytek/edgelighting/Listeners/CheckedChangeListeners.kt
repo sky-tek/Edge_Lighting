@@ -15,6 +15,7 @@ import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
 import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.isOnline
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.MyAccessibilityService
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity
@@ -178,8 +179,7 @@ class CheckedChangeListeners(private val context: Context) :
                     isinterstitialvisible = true
 
                     Interstitial.load(context, activitiesAdId)
-                    fireEvent("SHOW_EL_notch_btn_click")
-
+                    fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_SHOW_EL_notch_btn_click")
                 }
             })
         }

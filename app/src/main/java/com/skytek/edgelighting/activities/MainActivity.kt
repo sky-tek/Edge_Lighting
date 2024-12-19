@@ -140,7 +140,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         val v = header.findViewById<TextView>(R.id.tv_version)
         v.text = "Version: ${packageInfo.versionName}"
 
-        fireEvent("RV_${packageInfo.versionCode}_Main_Activity ")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_Main_Activity ")
         Interstitial.load(this, activitiesAdId, object : AdInterstitialLoadListeners {
 
 
@@ -158,7 +158,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         })
         binding!!.edgeOverlay.setOnClickListener {
             clicks++
-            fireEvent("RV_${packageInfo.versionCode}_Main_Activity_edge_click ")
+            fireEvent("RV_${BuildConfig.VERSION_CODE}_Main_Activity_edge_click ")
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
@@ -214,7 +214,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
         binding!!.liveWallpaper.setOnClickListener {
             clicks++
-            fireEvent("RV_${packageInfo.versionCode}_Main_Activity_LiveWall_click ")
+            fireEvent("RV_${BuildConfig.VERSION_CODE}_Main_Activity_LiveWall_click ")
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
@@ -278,7 +278,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                         activitiesAdId,
                     )
 
-                    fireEvent("SHOW_EL_${s}_btn_click")
+
 
 
                 }

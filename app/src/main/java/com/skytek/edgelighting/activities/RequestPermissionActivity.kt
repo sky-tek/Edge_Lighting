@@ -8,10 +8,12 @@ import android.view.View
 import androidx.activity.enableEdgeToEdge
 import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
+import com.mobi.pixels.firebase.fireEvent
 import com.mobi.pixels.updateAppWithRemoteConfig
 
 import com.overlayhelper.OverlayHelper
 import com.skytek.edgelighting.App
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.databinding.ActivityRequestPermissionBinding
 import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.MySharePreferencesEdge
@@ -31,6 +33,7 @@ class RequestPermissionActivity : AppCompatActivity() {
         enableEdgeToEdge()
         binding = ActivityRequestPermissionBinding.inflate(layoutInflater)
         setContentView(binding!!.root)
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_Permission_Onboarding")
         updateAppWithRemoteConfig(AdResources.version)
 
     }

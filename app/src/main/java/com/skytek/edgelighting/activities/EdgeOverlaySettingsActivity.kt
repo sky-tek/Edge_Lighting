@@ -68,6 +68,7 @@ import com.skytek.WindowService.Companion.batteryAbove20
 import com.skytek.WindowService.Companion.chargingBroacast
 import com.skytek.WindowService.Companion.timerReceiver
 import com.skytek.edgelighting.App
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.CreateOrUpdateEdgesLight
 import com.skytek.edgelighting.Listeners.BorderColorClickListners
 import com.skytek.edgelighting.Listeners.BorderColorClickListners.Companion.convertIntToString
@@ -217,7 +218,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
 
         val packageInfo = packageManager.getPackageInfo(packageName, 0)
-        fireEvent("RV_${packageInfo.versionCode}_Edge_Activity ")
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity")
         warningValuesSharedPreferences =
             getSharedPreferences("WARNING_VALUES", Context.MODE_PRIVATE)
         warningValuesSharedPreferencesEditor = warningValuesSharedPreferences.edit()
@@ -414,7 +415,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         val intent_ =
                             Intent(this@EdgeOverlaySettingsActivity, WindowService::class.java)
                         startService(intent_)
-                        fireEvent("low_battery_edge_on")
+                        fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_low_battery_on")
                     }
 
                 } catch (e: Exception) {
@@ -620,7 +621,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         overlayHelper!!.startWatching()
 
         mDisplayOverlayListener = CompoundButton.OnCheckedChangeListener { compoundButton, b ->
-            fireEvent("RV_${packageInfo.versionCode}_Edge_Activity_permission_on ")
+            fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_permission_on ")
             Log.d("whatHappenbsjhvsa", "onCreate: $b ")
             clicks++
             if (b) {
@@ -923,7 +924,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             )
                             val intent_ = Intent(this, WindowService::class.java)
                             startService(intent_)
-                            fireEvent("low_battery_edge_on")
+                            fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_low_battery_on")
 
                             binding?.warningLayoutSuperParent?.visibility = View.VISIBLE
 
@@ -935,7 +936,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             )
                             val intent_ = Intent(this, WindowService::class.java)
                             startService(intent_)
-                            fireEvent("low_battery_edge_on")
+
                             binding?.warningLayoutSuperParent?.visibility = View.VISIBLE
                         }
 
@@ -1046,7 +1047,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         MySharePreferencesEdge.putAlwaysOnDisplayBooleanValue(
                             MySharePreferencesEdge.ALWAYS_ON_DISPLAY, true, activity
                         )
-                        fireEvent("always_on_display_edge_lighting")
+                        fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_edge_lighting_on")
                     } catch (e: NoClassDefFoundError) {
                     }
                 } else {
@@ -1064,6 +1065,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                     MySharePreferencesEdge.ALWAYS_ON_DISPLAY, false, activity
                 )
                 try {
+                    fireEvent("RV_${BuildConfig.VERSION_CODE}_Edge_Activity_edge_lighting_OFF")
                     if (!isMyServiceRunning(WindowService::class.java) && !isMyServiceRunning(
                             WallpaperWindowEdgeService::class.java
                         )
@@ -2451,7 +2453,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             this@EdgeOverlaySettingsActivity,
                             activitiesAdId,
                         )
-                        fireEvent("SHOW_EL_permission_btn_click")
+
 
                     }
                 })

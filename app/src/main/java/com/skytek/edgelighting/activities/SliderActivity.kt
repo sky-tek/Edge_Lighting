@@ -22,7 +22,7 @@ import com.skytek.edgelighting.utils.AdResources.permissionOnboardingAdShow
 import com.skytek.edgelighting.utils.AdResources.wholeScreenAdShow
 import com.smarteist.autoimageslider.SliderView
 
-class SliderActivity : AppCompatActivity() {
+class  SliderActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySliderBinding
     lateinit var sliderView: SliderView
@@ -96,11 +96,13 @@ class SliderActivity : AppCompatActivity() {
 
         binding.btn.setOnClickListener {
             if (isFirstTime() && !firstTimeInstall()) {
+                Log.d("arefirsttime", "onCreate: yess ")
                 markOnboardingAsCompleted()
                 startActivity(Intent(this@SliderActivity, EdgeAndWallpaperOnboarding::class.java))
 
                 finish()
             } else {
+                Log.d("arefirsttime", "onCreate: noo ")
                 markFirstOnboardingAsCompleted()
                 startActivity(Intent(this@SliderActivity, MainActivity::class.java))
                 finish()

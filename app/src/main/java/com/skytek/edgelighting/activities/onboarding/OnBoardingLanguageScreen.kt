@@ -115,20 +115,22 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
             markOnboardingAsCompleted()
             /*    setLanguage()*/
             if (selected) {
+
+                fireEvent("RV_${packageInfo?.versionCode}_App_Language_change_to_${lanCode}")
                 val languagePreferences =
                     getSharedPreferences(
-                        OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_KEY,
-                        AppCompatActivity.MODE_PRIVATE
+                        LANGUAGE_PREFERENCE_KEY,
+                        MODE_PRIVATE
                     )
                 val languagePreferenceEditor = languagePreferences.edit()
 
                 languagePreferenceEditor.putString(
-                    OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_VALUE_KEY,
+                    LANGUAGE_PREFERENCE_VALUE_KEY,
                     lanCode
                 )
                 Log.d("whatIsLAnguange", "onBindViewHolder: ${lanCode}")
                 languagePreferenceEditor.putString(
-                    OnBoardingLanguageScreen.LANGUAGE_PREFERENCE_NAME_KEY,
+                    LANGUAGE_PREFERENCE_NAME_KEY,
                     lanName
                 )
                 languagePreferenceEditor.putInt(

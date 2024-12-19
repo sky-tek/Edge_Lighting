@@ -11,6 +11,8 @@ import com.mobi.pixels.enums.NativeAdIcon
 import com.mobi.pixels.enums.NativeAdType
 import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
+import com.mobi.pixels.firebase.fireEvent
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.activities.EdgeOverlaySettingsActivity
 import com.skytek.edgelighting.databinding.ActivityEdgeAndWallpaperOnboardingBinding
 import com.skytek.edgelighting.utils.AdResources.INTROOnBoardingAdId
@@ -26,6 +28,7 @@ class EdgeAndWallpaperOnboarding : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         _binding = ActivityEdgeAndWallpaperOnboardingBinding.inflate(layoutInflater)
         setContentView(binding.root)
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_EDGE_AND_WallPaper_Boarding")
         if (wholeScreenAdShow && wallpaperOnboardingAdShow) {
             if (NativeToBanner) {
                 loadOnDemandNativeAd(

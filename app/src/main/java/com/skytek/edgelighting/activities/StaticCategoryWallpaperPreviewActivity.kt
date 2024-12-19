@@ -30,6 +30,7 @@ import com.google.android.material.bottomsheet.BottomSheetDialog
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
 import com.mobi.pixels.firebase.fireEvent
+import com.skytek.edgelighting.BuildConfig
 import com.skytek.edgelighting.GenericFunctions.imgBitmap
 import com.skytek.edgelighting.R
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
@@ -175,7 +176,7 @@ clicks++
                                         object : AdInterstitialShowListeners {
                                             override fun onShowed() {
                                                 isinterstitialvisible = true
-                                                fireEvent("SHOW_EL_static_home_Wall_click")
+
                                                 Interstitial.load(
                                                     this@StaticCategoryWallpaperPreviewActivity,
                                                     activitiesAdId,
@@ -219,7 +220,7 @@ clicks++
                                         object : AdInterstitialShowListeners {
                                             override fun onShowed() {
                                                 isinterstitialvisible = true
-                                                fireEvent("SHOW_EL_static_Lock_Wall_click")
+
                                                 Interstitial.load(
                                                     this@StaticCategoryWallpaperPreviewActivity,
                                                     activitiesAdId
@@ -262,7 +263,7 @@ clicks++
                                         object : AdInterstitialShowListeners {
                                             override fun onShowed() {
                                                 isinterstitialvisible = true
-                                                fireEvent("SHOW_EL_static_both_Wall_click")
+
                                                 Interstitial.load(
 
                                                     this@StaticCategoryWallpaperPreviewActivity,
@@ -369,6 +370,7 @@ clicks++
     private fun applyWallpaperToHomeScreen(
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
     ) {
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_screen_set_home")
         val wallpaperManager = WallpaperManager.getInstance(this)
         val request = ImageRequest.Builder(this)
             .data(wallpaperPath)
@@ -447,7 +449,7 @@ clicks++
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
     ) {
 
-
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_screen_set_lock")
         val wallpaperManager = WallpaperManager.getInstance(this)
         val request = ImageRequest.Builder(this).data(wallpaperPath).target { drawable ->
             val bitmap = (drawable as? BitmapDrawable)?.bitmap
@@ -485,6 +487,7 @@ clicks++
     private fun applyWallpaperToHomeAndLockScreen(
         wallpaperPath: String?, dialog: BottomSheetDialog, bottomSheetView: View
     ) {
+        fireEvent("RV_${BuildConfig.VERSION_CODE}_static_screen_set_both")
         val wallpaperManager = WallpaperManager.getInstance(this)
         val request = ImageRequest.Builder(this)
             .data(wallpaperPath)

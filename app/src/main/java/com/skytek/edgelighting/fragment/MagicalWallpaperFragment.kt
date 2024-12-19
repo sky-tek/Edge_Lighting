@@ -443,7 +443,7 @@ class MagicalWallpaperFragment : Fragment(){
             val sharedEditior  = sharedPref.edit()
             sharedEditior.putBoolean("check_wallpaper_set", true)
             sharedEditior.apply()
-            fireEvent("wallpaper_applied")
+
         }else{
             wallpaperClicked = false
         }

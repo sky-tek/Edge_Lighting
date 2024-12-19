@@ -2,7 +2,6 @@ package com.skytek.edgelighting.activities
 
 
 import android.content.Intent
-import android.content.SharedPreferences
 import android.os.Bundle
 import android.os.CountDownTimer
 import android.os.Handler
@@ -14,7 +13,6 @@ import android.util.Log
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
-import androidx.lifecycle.lifecycleScope
 import com.google.android.gms.ads.MobileAds
 import com.google.firebase.Firebase
 import com.google.firebase.remoteconfig.remoteConfig
@@ -35,7 +33,6 @@ import com.skytek.edgelighting.activities.onboarding.OnBoardingLanguageScreen
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.ads.OpenAd
 import com.skytek.edgelighting.databinding.ActivitySplashBinding
-
 import com.skytek.edgelighting.utils.AdResources.ElBtnClickCount
 import com.skytek.edgelighting.utils.AdResources.ElWallpaperTimeCount
 import com.skytek.edgelighting.utils.AdResources.INTROOnBoardingAdId
@@ -80,9 +77,6 @@ class SplashActivity : AppCompatActivity() {
     var countDownTimer: CountDownTimer? = null
 
     private lateinit var binding: ActivitySplashBinding
-
-
-
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -130,7 +124,7 @@ class SplashActivity : AppCompatActivity() {
         fireEvent("RV_${packageInfo.versionCode}_Splash_Activity_Total ")
         MobileAds.initialize(this) {}
         if (isOnline(this)) {
-            fireEvent("RV_${packageInfo.versionCode}_Splash_Activity_Available ")
+            fireEvent("RV_${packageInfo.versionCode}_Splash_Activity_net_Available ")
             val consent = GDPRMessage(this)
             consent.consentMessageRequest()
             consent.getConsent {
@@ -219,7 +213,7 @@ class SplashActivity : AppCompatActivity() {
 
                             } else {
                                 Log.d("getting value here", "Splash false ")
-                               startCountdownWithOutInternet(4000)
+                                startCountdownWithOutInternet(4000)
                             }
 
                             if (wholeScreenAdShow && splashScreenAdShow && splashBannerAdShow) {
@@ -235,7 +229,7 @@ class SplashActivity : AppCompatActivity() {
                 }
             }
         } else {
-            fireEvent("RV_${packageInfo.versionCode}_Splash_Activity_Not_Available ")
+            fireEvent("RV_${packageInfo.versionCode}_Splash_Activity_net_Not_Available ")
 
             startCountdownWithOutInternet(4000)
 

@@ -144,7 +144,7 @@ clicks++
                                         activitiesAdId,
                                     )
 
-                                    fireEvent("SHOW_EL_static_Wall_click")
+
 
                                 }
                             })
@@ -201,7 +201,7 @@ clicks++
                                 activitiesAdId,
                             )
 
-                            fireEvent("SHOW_EL_static_Wall_click")
+
 
                         }
                     })
