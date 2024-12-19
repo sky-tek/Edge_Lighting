@@ -152,21 +152,22 @@ class SeekbarChangeListeners : SeekBar.OnSeekBarChangeListener {
                     if (i >= notchBottom) {
                         checkBottom = false
                     }
-
+                    notchBottom = i
+                    MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHBOTTOM, i, activity)
                     if (!checkBottom && i >= 50 && i <= notchTop) {
-                        if (i <= notchRadiusBottom) {
-                            binding?.notchRadiusBottom?.progress = 0
-                            MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, i, activity)
-                            notchRadiusBottom = i
-                        } else {
-                            val i2 = i - (notchBottom - notchRadiusBottom)
-                            if (i2 >= 0) {
-                                MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, i2, activity)
-                                notchRadiusBottom = i2
-                            }
-                        }
-                        MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHBOTTOM, i, activity)
-                        notchBottom = i
+//                        if (i <= notchRadiusBottom) {
+//                            binding?.notchRadiusBottom?.progress = 0
+//                            MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, i, activity)
+//                            notchRadiusBottom = i
+//                        } else {
+//                            val i2 = i - (notchBottom - notchRadiusBottom)
+//                            if (i2 >= 0) {
+//                                MySharePreferencesEdge.setInt(MySharePreferencesEdge.NOTCHRADIUSBOTTOM, i2, activity)
+//                                notchRadiusBottom = i2
+//                            }
+//                        }
+
+
                         if (MyAccessibilityService.edgeLightingView != null &&
                             MySharePreferencesEdge.getAccessibilityEnabled(MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity)) {
                             MyAccessibilityService.edgeLightingView?.changeNotch(checkNotch, notchTop, notchBottom, notchHeight, notchRadiusTop, notchRadiusBottom)

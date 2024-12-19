@@ -99,7 +99,7 @@ class CoroutineAsync {
                     }
                     activity.data
                     activity.init()
-                    activity.setNotchSeekbarListner()
+//                    activity.setNotchSeekbarListner()
                     activity.setBorderSeekbarListner()
                     activity.setBorderColorsListener()
                     activity.setBorderTypeListener()

@@ -2245,7 +2245,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         for (seekbar in notchSeekbars) {
             seekbar.setOnSeekBarChangeListener(SeekbarChangeListeners("notch"))
         }
-    },2000)
+    },1000)
     }
 
     fun setBorderSeekbarListner() {
