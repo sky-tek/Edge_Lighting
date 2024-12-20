@@ -49,7 +49,6 @@ import androidx.multidex.MultiDex
 import androidx.preference.PreferenceManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.airbnb.lottie.LottieAnimationView
-import com.google.firebase.ktx.Firebase
 import com.mobi.pixels.adBannerOnDemand.loadOnDemandBannerAd
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
@@ -226,10 +225,28 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         binding!!.rangebar1.setTickTopLabels(topLabels)
         val prefs = PreferenceManager.getDefaultSharedPreferences(applicationContext)
 
+
+        Log.d(
+            "jkdshdskhd",
+            "onCreate: a gya iss mai ${
+                isAccessibilityServiceEnabled(
+                    this,
+                    MyAccessibilityService::class.java
+                )
+            }"
+        )
+        if (!isAccessibilityServiceEnabled(this, MyAccessibilityService::class.java)) {
+            drawOverlay = false
+            MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+                MySharePreferencesEdge.DISPLAY_OVERLAY, false, activity
+            )
+            MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+                MySharePreferencesEdge.SWITCH_CHARGING, false, activity
+            )
+        }
         val switchenabled = MySharePreferencesEdge.getDisplayOverLayBooleanValue(
             MySharePreferencesEdge.DISPLAY_OVERLAY, App.context
         )
-        Log.d("jkdshdskhd", "onCreate: a gya iss mai ")
 //        Log.d("jkdshdskhd", "onCreate: a gya iss mai ${binding!!.rememberColors.text} ")
         if (switchenabled) {
             Log.d("jkdshdskhd", "onCreate: a gya iss mai ")
@@ -598,8 +615,9 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             } catch (e: NoClassDefFoundError) {
                             }
                         } else {
-                            if (!MySharePreferencesEdge.getAccessibilityEnabled(
-                                    MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
+                            if (!isAccessibilityServiceEnabled(
+                                    this@EdgeOverlaySettingsActivity,
+                                    MyAccessibilityService::class.java
                                 )
                             ) {
                                 showAccessibilityPermissionDialog()
@@ -632,7 +650,10 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         )
                     }"
                 )
-                if (MySharePreferencesEdge.getAccessibilityEnabled(
+                if (isAccessibilityServiceEnabled(
+                        this,
+                        MyAccessibilityService::class.java
+                    ) && MySharePreferencesEdge.getAccessibilityEnabled(
                         MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
                     ) && isOnline(this@EdgeOverlaySettingsActivity)
                 ) {
@@ -656,7 +677,11 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                 try {
 
                     if (MySharePreferencesEdge.getAccessibilityEnabled(
-                            MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
+                            MySharePreferencesEdge.ACCESSIBILITY_BROADCAST,
+                            activity
+                        ) && isAccessibilityServiceEnabled(
+                            this,
+                            MyAccessibilityService::class.java
                         ) && binding?.switchDisplay?.isChecked == true
                     ) {
                         drawOverlay = true
@@ -668,10 +693,31 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                             edgeLightingView?.visibility = View.VISIBLE
                         }
                     }
-                    if (!binding!!.switchCharging.isChecked && !MySharePreferencesEdge.getAccessibilityEnabled(
-                            MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                        )
-                    ) {
+                    Log.d(
+                        "whatisIssue", "onCreate:${
+                            (!binding!!.switchCharging.isChecked && !MySharePreferencesEdge.getAccessibilityEnabled(
+                                MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
+                            ) && !isAccessibilityServiceEnabled(
+                                this,
+                                MyAccessibilityService::class.java
+                            )
+                                    )
+                        } "
+                    )
+                    Log.d("whatisIssue", "onCreate:${(!binding!!.switchCharging.isChecked)} ")
+                    Log.d(
+                        "whatisIssue",
+                        "onCreate:${
+                            isAccessibilityServiceEnabled(
+                                this,
+                                MyAccessibilityService::class.java
+                            )
+                        } "
+                    )
+                    Log.d("kyamaslahaiteresath", "onCreate:thirdlastwalaclcikkiyatha${isAccessibilityServiceEnabled(this@EdgeOverlaySettingsActivity,MyAccessibilityService::class.java)}")
+
+                    if (!isAccessibilityServiceEnabled(this, MyAccessibilityService::class.java)) {
+                        Log.d("whatisIssue", "idr b aya hai} ")
                         showAccessibilityPermissionDialog()
                     } else {
                         drawOverlay = true
@@ -729,8 +775,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                     setAllColors()
                 } catch (e: NullPointerException) {
                 }
-            }
-            else {
+            } else {
                 drawOverlay = false
                 MySharePreferencesEdge.putDisplayOverLayBooleanValue(
                     MySharePreferencesEdge.DISPLAY_OVERLAY, false, activity
@@ -906,9 +951,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                 if (b) {
                     Log.d("dffdsfdsfds", "onCreate: ")
 
-                    if (edgeLightingView != null && MySharePreferencesEdge.getAccessibilityEnabled(
-                            MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                        )
+                    if (isAccessibilityServiceEnabled(this@EdgeOverlaySettingsActivity,MyAccessibilityService::class.java)
                     ) {
 
 
@@ -942,9 +985,9 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
 
                     } else {
-                        if (!MySharePreferencesEdge.getAccessibilityEnabled(
-                                MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                            )
+                        Log.d("kyamaslahaiteresath", "onCreate:secondlastwalaclcikkiyatha${isAccessibilityServiceEnabled(this@EdgeOverlaySettingsActivity,MyAccessibilityService::class.java)}")
+
+                        if (!isAccessibilityServiceEnabled(this, MyAccessibilityService::class.java)
                         ) {
                             showAccessibilityPermissionDialog()
                         }
@@ -1008,7 +1051,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                                             notchRadiusBottom
                                         )
                                     }
-                                  setAllColors()
+                                    setAllColors()
                                 } catch (e: NullPointerException) {
                                 }
                             }
@@ -1021,9 +1064,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
         mAlwaysOnDisplayListener = CompoundButton.OnCheckedChangeListener { compoundButton, b ->
             if (b) {
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M && MySharePreferencesEdge.getAccessibilityEnabled(
-                        MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                    )
+                if (isAccessibilityServiceEnabled(this@EdgeOverlaySettingsActivity,MyAccessibilityService::class.java)
                 ) {
                     try {
                         prefs.edit().putBoolean("always_on", true).apply()
@@ -1051,9 +1092,9 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                     } catch (e: NoClassDefFoundError) {
                     }
                 } else {
-                    if (!MySharePreferencesEdge.getAccessibilityEnabled(
-                            MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                        )
+                    Log.d("kyamaslahaiteresath", "onCreate:lastwalaclcikkiyatha${isAccessibilityServiceEnabled(this@EdgeOverlaySettingsActivity,MyAccessibilityService::class.java)}")
+
+                    if (!isAccessibilityServiceEnabled(this, MyAccessibilityService::class.java)
                     ) {
                         showAccessibilityPermissionDialog()
                     }
@@ -1157,6 +1198,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         setBorderSeekbarListner()
         setNotchSeekbarListner()
     }
+
     private fun setColorsAndPreferences(
         color1: Int, color2: Int, color3: Int, color4: Int, color5: Int, color6: Int
     ) {
@@ -1169,6 +1211,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
         EdgeOverlaySettingsActivity.color[5] = color6
 
     }
+
     fun setAllColors() {
         val imageViews = listOf(
             binding!!.imageColor1,
@@ -2241,11 +2284,11 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
     @SuppressLint("WrongConstant")
     fun setNotchSeekbarListner() {
         binding?.switchNotch?.setOnCheckedChangeListener(CheckedChangeListeners(this@EdgeOverlaySettingsActivity))
-    Handler(Looper.getMainLooper()).postDelayed({
-        for (seekbar in notchSeekbars) {
-            seekbar.setOnSeekBarChangeListener(SeekbarChangeListeners("notch"))
-        }
-    },1000)
+        Handler(Looper.getMainLooper()).postDelayed({
+            for (seekbar in notchSeekbars) {
+                seekbar.setOnSeekBarChangeListener(SeekbarChangeListeners("notch"))
+            }
+        }, 1000)
     }
 
     fun setBorderSeekbarListner() {
@@ -2283,55 +2326,53 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
 
     fun showAccessibilityPermissionDialog() {
         try {
-            if (!MySharePreferencesEdge.getAccessibilityEnabled(
-                    MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, activity
-                )
-            ) {
-                var dialog = Dialog(this@EdgeOverlaySettingsActivity)
-                dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
-                dialog.setContentView(R.layout.accessibility_permisssion_dialog)
-                dialog.window!!.setLayout(
-                    ConstraintLayout.LayoutParams.MATCH_PARENT,
-                    ConstraintLayout.LayoutParams.WRAP_CONTENT
-                )
-                dialog.setCancelable(false)
-                dialog.show()
-                dialog.findViewById<TextView>(R.id.later).setOnClickListener {
-                    dialog.dismiss()
-                    try {
-                        if (binding!!.switchDisplay.isChecked) {
-                            binding!!.apply {
-                                switchDisplay.setOnCheckedChangeListener(null)
-                                switchDisplay.isChecked = false
-                                switchDisplay.setOnCheckedChangeListener(mDisplayOverlayListener)
-                            }
 
-                        } else if (binding!!.switchCharging.isChecked) {
-                            binding!!.apply {
-                                switchCharging.setOnCheckedChangeListener(null)
-                                switchCharging.isChecked = false
-                                switchCharging.setOnCheckedChangeListener(
-                                    mShowWhileChargingListener
-                                )
-                            }
-                        } else if (binding!!.swtichAlways.isChecked) {
-                            binding!!.apply {
-                                swtichAlways.setOnCheckedChangeListener(null)
-                                swtichAlways.isChecked = false
-                                swtichAlways.setOnCheckedChangeListener(mShowWhileChargingListener)
-                            }
 
+            var dialog = Dialog(this@EdgeOverlaySettingsActivity)
+            dialog.requestWindowFeature(Window.FEATURE_NO_TITLE)
+            dialog.setContentView(R.layout.accessibility_permisssion_dialog)
+            dialog.window!!.setLayout(
+                ConstraintLayout.LayoutParams.MATCH_PARENT,
+                ConstraintLayout.LayoutParams.WRAP_CONTENT
+            )
+            dialog.setCancelable(false)
+            dialog.show()
+            dialog.findViewById<TextView>(R.id.later).setOnClickListener {
+                dialog.dismiss()
+                try {
+                    if (binding!!.switchDisplay.isChecked) {
+                        binding!!.apply {
+                            switchDisplay.setOnCheckedChangeListener(null)
+                            switchDisplay.isChecked = false
+                            switchDisplay.setOnCheckedChangeListener(mDisplayOverlayListener)
                         }
-                    } catch (e: NullPointerException) {
+
+                    } else if (binding!!.switchCharging.isChecked) {
+                        binding!!.apply {
+                            switchCharging.setOnCheckedChangeListener(null)
+                            switchCharging.isChecked = false
+                            switchCharging.setOnCheckedChangeListener(
+                                mShowWhileChargingListener
+                            )
+                        }
+                    } else if (binding!!.swtichAlways.isChecked) {
+                        binding!!.apply {
+                            swtichAlways.setOnCheckedChangeListener(null)
+                            swtichAlways.isChecked = false
+                            swtichAlways.setOnCheckedChangeListener(mShowWhileChargingListener)
+                        }
+
                     }
-                }
-                dialog.findViewById<TextView>(R.id.yes).setOnClickListener {
-                    dialog.dismiss()
-                    val intent = Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
-                    intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
-                    startActivity(intent)
+                } catch (e: NullPointerException) {
                 }
             }
+            dialog.findViewById<TextView>(R.id.yes).setOnClickListener {
+                dialog.dismiss()
+                val intent = Intent(Settings.ACTION_ACCESSIBILITY_SETTINGS)
+                intent.flags = Intent.FLAG_ACTIVITY_NEW_TASK
+                startActivity(intent)
+            }
+
 
         } catch (e: WindowManager.BadTokenException) {
         }
@@ -2432,7 +2473,7 @@ class EdgeOverlaySettingsActivity : AppCompatActivity() {
                         Log.d("whatisIssue", "onDismissed")
                         isinterstitialvisible = false
                         updateLastAdShownTime()
-                        clicks=0
+                        clicks = 0
 
                     }
 

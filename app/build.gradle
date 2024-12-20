@@ -61,6 +61,12 @@ android {
         viewBinding = true
         buildConfig = true
     }
+    bundle {
+
+        language {
+            enableSplit = false
+        }
+    }
 
     namespace 'com.skytek.edgelighting'
 }

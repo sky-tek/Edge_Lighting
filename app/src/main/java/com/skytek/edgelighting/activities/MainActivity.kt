@@ -28,8 +28,6 @@ import com.google.android.gms.ads.AdSize
 import com.google.android.gms.ads.AdView
 import com.google.android.material.navigation.NavigationView
 import com.google.android.play.core.review.ReviewManagerFactory
-import com.google.firebase.ktx.Firebase
-
 import com.mobi.pixels.adBannerOnDemand.loadOnDemandBannerAd
 import com.mobi.pixels.adInterstitial.AdInterstitialLoadListeners
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
@@ -48,7 +46,6 @@ import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.onboarding.OnBoardingLanguageScreen
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.databinding.ActivityMainBinding
-
 import com.skytek.edgelighting.modelclass.Response
 import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.activitiesAdId
@@ -162,16 +159,13 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks >= AdResources.ElBtnClickCount)}"
             )
-            Log.d(
-                "hfasagifegifgijfvgikefvgif", "${getLastAdShownTime()} && ${isIntervalElapsed()}"
-            )
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
-                val i = Intent(
-                    this@MainActivity, EdgeOverlaySettingsActivity::class.java
-                )
-                loadInterstitialAd(i, "edge")
+
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks >= AdResources.ElBtnClickCount)) {
+
+                loadInterstitialAd("edge")
+
             } else {
                 val i = Intent(
                     this@MainActivity, EdgeOverlaySettingsActivity::class.java
@@ -218,12 +212,13 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
             Log.d(
                 "hfasagifegifgijfvgikefvgif",
-                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)}"
+                "${isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks >= AdResources.ElBtnClickCount)}"
             )
 
-            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks>= AdResources.ElBtnClickCount)) {
-                val i = Intent(this@MainActivity, StaticWallpaperActivity::class.java)
-                loadInterstitialAd(i, "live")
+            if (isOnline(this@MainActivity) && wholeScreenAdShow && wholeInterAdShow && (isIntervalElapsed() || clicks >= AdResources.ElBtnClickCount)) {
+
+                loadInterstitialAd("live")
+
             } else {
                 val i = Intent(this@MainActivity, StaticWallpaperActivity::class.java)
                 startActivity(i)
@@ -235,22 +230,37 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
     }
 
-    private fun loadInterstitialAd(i: Intent, s: String) {
+    private fun loadInterstitialAd( s: String) {
 
         Log.d(
-            "hfasagifegifgijfvgikefvgif", "loadInterstitialAd"
+            "hfasagifegifgijfvgikefvgif", "loadInterstitialAd $s"
         )
+        when (s) {
+            "edge" -> {
+                val i = Intent(
+                    this@MainActivity, EdgeOverlaySettingsActivity::class.java
+                )
+                startActivity(
+                    i
+                )
+            }
+
+            "live" -> {
+                val i = Intent(this@MainActivity, StaticWallpaperActivity::class.java)
+                startActivity(
+                    i
+                )
+            }
+        }
         if (checkContext(this)) {
-            startActivity(
-                i
-            )
+
             Interstitial.show(this, object : AdInterstitialShowListeners {
                 override fun onDismissed() {
                     isinterstitialvisible = false
                     Log.d(
                         "hfasagifegifgijfvgikefvgif", "onDismissed"
                     )
-                    clicks=0
+                    clicks = 0
                     updateLastAdShownTime()
                 }
 
@@ -258,9 +268,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     Log.d(
                         "hfasagifegifgijfvgikefvgif", "onError"
                     )
-                    startActivity(
-                        i
-                    )
+
                     Interstitial.load(
                         this@MainActivity,
                         activitiesAdId,
@@ -279,12 +287,10 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     )
 
 
-
-
                 }
             })
         } else {
-            startActivity(i)
+
         }
 
 
@@ -447,7 +453,8 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
 
                 // Intent to open the Play Store link
                 val intent = Intent(Intent.ACTION_VIEW).apply {
-                    data = Uri.parse("https://play.google.com/store/apps/details?id=com.skytek.edgelighting&pcampaignid=web_share")
+                    data =
+                        Uri.parse("https://play.google.com/store/apps/details?id=com.skytek.edgelighting&pcampaignid=web_share")
                 }
                 // Check if there is an app to handle the intent
                 if (intent.resolveActivity(this.packageManager) != null) {

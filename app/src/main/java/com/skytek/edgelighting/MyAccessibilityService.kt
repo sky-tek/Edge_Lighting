@@ -310,7 +310,13 @@ class MyAccessibilityService : AccessibilityService() {
         MySharePreferencesEdge.putDisplayOverLayBooleanValue(
             MySharePreferencesEdge.DISPLAY_OVERLAY, false, this@MyAccessibilityService
         )
-
+        drawOverlay = false
+        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+            MySharePreferencesEdge.DISPLAY_OVERLAY, false, EdgeOverlaySettingsActivity.activity
+        )
+        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+            MySharePreferencesEdge.SWITCH_CHARGING, false, EdgeOverlaySettingsActivity.activity
+        )
         try {
             if (Build.VERSION.SDK_INT > Build.VERSION_CODES.M) {
                 // Code to run for Android version greater than 6.0 (API level 23)
