@@ -39,6 +39,7 @@ import com.mobi.pixels.enums.NativeAdType
 import com.mobi.pixels.enums.NativeLayoutType
 import com.mobi.pixels.enums.ShimmerColor
 import com.mobi.pixels.firebase.fireEvent
+import com.mobi.pixels.firebase.initializeFirebaseMessaging
 import com.mobi.pixels.isOnline
 import com.skytek.edgelighting.App.Companion.openAd
 import com.skytek.edgelighting.BuildConfig
@@ -110,6 +111,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
             )
         }
         setContentView(binding!!.root)
+   initializeFirebaseMessaging("EL", R.drawable.app_logo)
         window.statusBarColor = ContextCompat.getColor(this, R.color.background)
         binding!!.navView.setNavigationItemSelectedListener(this)
         val toggle = ActionBarDrawerToggle(
