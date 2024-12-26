@@ -228,20 +228,19 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 //            val languagePreferences = getSharedPreferences(LANGUAGE_PREFERENCE_KEY, MODE_PRIVATE)
 //            val languageCode = languagePreferences.getString(LANGUAGE_PREFERENCE_VALUE_KEY, "en")
             Log.d("nekdjhbfiicngib8     8", "setLanguage:${lanCode} ")
-            lifecycleScope.launch {
-                withContext(Dispatchers.IO) {
-                    val appLocale = LocaleListCompat.forLanguageTags(lanCode)
-                    withContext(Dispatchers.Main) {
-                        AppCompatDelegate.setApplicationLocales(appLocale)
-                    }
-                }
-            }
+
+
+            val appLocale = LocaleListCompat.forLanguageTags(lanCode)
+
+            AppCompatDelegate.setApplicationLocales(appLocale)
+
+
         } catch (e: Exception) {
             Log.e("setLanguage", e.message.toString())
         }
     }
 
-//    override fun onDestroy() {
+    //    override fun onDestroy() {
 //        super.onDestroy()
 //        Log.d("whatIsLAnguange", "onDestroy:$selected ")
 //        if (!selected) {
@@ -268,15 +267,16 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 //            }
 //        }
 //    }
-override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
-    super.onActivityResult(requestCode, resultCode, data)
-    if (requestCode == 200 && resultCode == RESULT_CANCELED) {
-        // Make sure the request was successful
-        finishAffinity()
-        exitProcess(0)
+    override fun onActivityResult(requestCode: Int, resultCode: Int, data: Intent?) {
+        super.onActivityResult(requestCode, resultCode, data)
+        if (requestCode == 200 && resultCode == RESULT_CANCELED) {
+            // Make sure the request was successful
+            finishAffinity()
+            exitProcess(0)
 
+        }
     }
-}
+
     companion object {
         const val LANGUAGE_PREFERENCE_KEY = "APP_LANGUAGE_PREFERENCE"
         const val LANGUAGE_PREFERENCE_VALUE_KEY = "LANGUAGE_PREFERENCE_VALUE"

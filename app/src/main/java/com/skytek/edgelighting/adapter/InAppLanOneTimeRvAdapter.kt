@@ -19,7 +19,7 @@ import com.skytek.edgelighting.utils.ConversationLanguage
 class InAppLanOneTimeRvAdapter(
     private val context: Context,
     private var languageList: ArrayList<ConversationLanguage>,
-    val pos:Int,
+    val pos:Int, 
     private val onLanguageItemClick: (Boolean,String,Int,String) -> Unit
 
 
