@@ -160,6 +160,7 @@
                 android:gravity="center"
                 android:text="@string/later"
                 android:layout_weight="4"
+                android:textColor="@color/black"
                 android:background="@drawable/capsule_shape1"/>
 
             <TextView
@@ -171,6 +172,7 @@
                 android:gravity="center"
                 android:text="@string/yes_now"
                 android:layout_weight="4"
+                android:textColor="@color/black"
                 android:background="@drawable/capsule_shape1"/>
 
         </LinearLayout>

@@ -116,6 +116,7 @@ dependencies {
     implementation 'androidx.viewpager2:viewpager2:1.1.0'
 
     implementation 'com.davemorrissey.labs:subsampling-scale-image-view-androidx:3.10.0'
-
+    //custom onBoarding dots
+    implementation("com.tbuonomo:dotsindicator:5.1.0")
 }
 

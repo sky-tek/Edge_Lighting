@@ -290,8 +290,8 @@
     <color name="txt_color">#fbfbf5</color>
     <color name="blue_gradient">#1C2754</color>
     <color name="white_gradient">#00000000</color>
-
-
+    <color name="theme_color">#FFBE00</color>
+    <color name="progressbg">#464545</color>
 
 
 

@@ -1,6 +1,7 @@
 package com.skytek.edgelighting.activities
 
 
+import android.annotation.SuppressLint
 import android.content.Intent
 import android.os.Bundle
 import android.os.CountDownTimer
@@ -13,6 +14,10 @@ import android.util.Log
 import android.widget.ProgressBar
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.google.android.gms.ads.AdListener
+import com.google.android.gms.ads.AdLoader
+import com.google.android.gms.ads.AdRequest
+import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.MobileAds
 import com.google.firebase.Firebase
 import com.google.firebase.remoteconfig.remoteConfig
@@ -21,6 +26,8 @@ import com.mobi.pixels.adBannerOnDemand.loadOnDemandBannerAd
 import com.mobi.pixels.adInterstitial.AdInterstitialLoadListeners
 import com.mobi.pixels.adInterstitial.AdInterstitialShowListeners
 import com.mobi.pixels.adInterstitial.Interstitial
+import com.mobi.pixels.adNativePreload.AdNativePreload
+import com.mobi.pixels.adNativePreload.AdNativePreloadListeners
 import com.mobi.pixels.enums.BannerAdType
 import com.mobi.pixels.firebase.InitializeRemoteConfig
 import com.mobi.pixels.firebase.fireEvent
@@ -33,6 +40,7 @@ import com.skytek.edgelighting.activities.onboarding.OnBoardingLanguageScreen
 import com.skytek.edgelighting.ads.IsShowingOpenAd.isinterstitialvisible
 import com.skytek.edgelighting.ads.OpenAd
 import com.skytek.edgelighting.databinding.ActivitySplashBinding
+import com.skytek.edgelighting.utils.AdResources
 import com.skytek.edgelighting.utils.AdResources.ElBtnClickCount
 import com.skytek.edgelighting.utils.AdResources.ElWallpaperTimeCount
 import com.skytek.edgelighting.utils.AdResources.INTROOnBoardingAdId
@@ -49,6 +57,8 @@ import com.skytek.edgelighting.utils.AdResources.openAppAdId
 import com.skytek.edgelighting.utils.AdResources.openAppAdShow
 import com.skytek.edgelighting.utils.AdResources.permissionOnBoardingAdId
 import com.skytek.edgelighting.utils.AdResources.permissionOnboardingAdShow
+import com.skytek.edgelighting.utils.AdResources.preloadedAd
+import com.skytek.edgelighting.utils.AdResources.preloadedAd2
 import com.skytek.edgelighting.utils.AdResources.settingScreenNativeAdShow
 import com.skytek.edgelighting.utils.AdResources.splashBannerAdId
 import com.skytek.edgelighting.utils.AdResources.splashBannerAdShow
@@ -66,6 +76,7 @@ import kotlinx.coroutines.GlobalScope
 import kotlinx.coroutines.launch
 
 
+@SuppressLint("CustomSplashScreen")
 class SplashActivity : AppCompatActivity() {
 
     private var remainingTime: Long = 20000
@@ -77,7 +88,43 @@ class SplashActivity : AppCompatActivity() {
     var countDownTimer: CountDownTimer? = null
 
     private lateinit var binding: ActivitySplashBinding
+    private fun preloadAd() {
 
+        Log.d("onboardingdebug", "preloading OnBoarding Ad: ")
+        val adLoader = AdLoader.Builder(this, InAppOnBoardingAdId)
+            .forNativeAd { nativeAd ->
+                preloadedAd = nativeAd // Store the preloaded ad
+            }
+            .withAdListener(object : AdListener() {
+                override fun onAdFailedToLoad(adError: LoadAdError) {
+                    // Log or handle the ad loading failure
+                    preloadedAd = null
+
+                }
+            })
+            .build()
+
+        adLoader.loadAd(AdRequest.Builder().build())
+    }
+
+    private fun preloadAd2() {
+
+        Log.d("onboardingdebug", "preloading OnBoarding Ad: ")
+        val adLoader = AdLoader.Builder(this, InAppOnBoardingAdId)
+            .forNativeAd { nativeAd ->
+                preloadedAd2 = nativeAd // Store the preloaded ad
+            }
+            .withAdListener(object : AdListener() {
+                override fun onAdFailedToLoad(adError: LoadAdError) {
+                    // Log or handle the ad loading failure
+                    preloadedAd2 = null
+
+                }
+            })
+            .build()
+
+        adLoader.loadAd(AdRequest.Builder().build())
+    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -156,8 +203,7 @@ class SplashActivity : AppCompatActivity() {
                             nativeAdId = Firebase.remoteConfig.getString("EL_NativeAd")
                             bannerAdId = Firebase.remoteConfig.getString("EL_B_Main")
                             splashBannerAdId = Firebase.remoteConfig.getString("Splash_banner_id")
-                            InAppOnBoardingAdId =
-                                Firebase.remoteConfig.getString("in_app_lan_native_id")
+                            InAppOnBoardingAdId = Firebase.remoteConfig.getString("in_app_lan_native_id")
                             openAppAdId = Firebase.remoteConfig.getString("EL_Open_App_Ad_Id")
                             permissionOnBoardingAdId =
                                 Firebase.remoteConfig.getString("permission_on_boarding_ad_id")
@@ -207,6 +253,11 @@ class SplashActivity : AppCompatActivity() {
                             wallpaperOnboardingAdShow =
                                 Firebase.remoteConfig.getBoolean("wallpaper_onboarding_Screen_Ad_Show")
                             Log.d("getting value here", "All value Are Ready   ")
+                            if (isFirstTime()) {
+                                   preloadAd()
+                                preloadAd2()
+
+                            }
                             if (splashScreenAdShow && wholeScreenAdShow && wholeInterAdShow) {
                                 Log.d("getting value here", "Splash tre and  Are Ready   ")
                                 loadInterstitialAd(splashScreenAdId)
@@ -376,21 +427,13 @@ class SplashActivity : AppCompatActivity() {
             )
         ) {
             Log.d("dsjkdsjkdhskd", "onCreate: if ${isFirstTime()}")
-            if (false) {
-                val intent = Intent(
-                    this@SplashActivity, OnBoardingLanguageScreen::class.java
-                )
-                intent.putExtra("onboardinglan", true)
-                startActivity(
-                    intent
-                )
-            } else {
+
                 startActivity(
                     Intent(
                         this@SplashActivity, RequestPermissionActivity::class.java
                     )
                 )
-            }
+
 
 
         } else {

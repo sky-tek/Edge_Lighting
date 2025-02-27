@@ -311,16 +311,15 @@ fun checkAllImageViews() {
 
     val selectedColors = imageViews
         .filter { it.foreground != null }
-        .map { (it.background as? ColorDrawable)?.color !!}
-
+        .mapNotNull {
+            (it.background as? ColorDrawable)?.color
+        }
 
     if (selectedColors.isEmpty()) {
-
         return
     }
 
     when (selectedColors.size) {
-
         1 -> setColorsAndPreferences(selectedColors[0], selectedColors[0], selectedColors[0], selectedColors[0], selectedColors[0], selectedColors[0])
         2 -> setColorsAndPreferences(selectedColors[0], selectedColors[0], selectedColors[0], selectedColors[1], selectedColors[1], selectedColors[1])
         3 -> setColorsAndPreferences(selectedColors[0], selectedColors[0], selectedColors[1], selectedColors[1], selectedColors[2], selectedColors[2])
@@ -328,10 +327,11 @@ fun checkAllImageViews() {
         5 -> setColorsAndPreferences(selectedColors[0], selectedColors[0], selectedColors[1], selectedColors[2], selectedColors[3], selectedColors[4])
         6 -> setColorsAndPreferences(selectedColors[0], selectedColors[1], selectedColors[2], selectedColors[3], selectedColors[4], selectedColors[5])
         else -> {
-
+            // Handle unexpected cases if necessary
         }
     }
 }
+
 
 
     companion object {

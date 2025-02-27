@@ -296,98 +296,40 @@ class MyAccessibilityService : AccessibilityService() {
     @RequiresApi(Build.VERSION_CODES.N)
     override fun onDestroy() {
         Log.d("whatHappenIsWithService", "onDestroy: Service is off ")
-        // Unregister the receiver to avoid memory leaks
-        phonePermissionReceiver?.let {
-            try {
-                unregisterReceiver(it)
-            } catch (e: IllegalArgumentException) {
-                Log.d("helloNullCheck", "onDestroy: IllegalArgumentException")
+
+        try {
+            phonePermissionReceiver?.let { unregisterReceiver(it) }
+        } catch (e: IllegalArgumentException) {
+            Log.d("helloNullCheck", "onDestroy: Receiver not registered")
+        }
+
+        try {
+            // Save preferences
+            MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+                MySharePreferencesEdge.DISPLAY_OVERLAY, false, applicationContext
+            )
+            MySharePreferencesEdge.putDisplayOverLayBooleanValue(
+                MySharePreferencesEdge.SWITCH_CHARGING, false, applicationContext
+            )
+
+            // Disable service if supported
+            if (Build.VERSION.SDK_INT > Build.VERSION_CODES.M) {
+                instance?.disableSelf()
             }
+
+            // Stop additional services
+            stopService(Intent(this, TimerService::class.java))
+            stopService(Intent(this, WindowService::class.java))
+
+            // Perform cleanup for EdgeOverlaySettingsActivity
+            EdgeOverlaySettingsActivity.activity?.let {
+                AsynchronousTask("setEdgeBorderColor", it).execute("")
+            }
+        } catch (e: NullPointerException) {
+            Log.e("onDestroy", "Error occurred during onDestroy", e)
         }
 
         super.onDestroy()
-        Log.d("wucuved", "onDestroy:${displayOverlay}")
-        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
-            MySharePreferencesEdge.DISPLAY_OVERLAY, false, this@MyAccessibilityService
-        )
-        drawOverlay = false
-        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
-            MySharePreferencesEdge.DISPLAY_OVERLAY, false, EdgeOverlaySettingsActivity.activity
-        )
-        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
-            MySharePreferencesEdge.SWITCH_CHARGING, false, EdgeOverlaySettingsActivity.activity
-        )
-        try {
-            if (Build.VERSION.SDK_INT > Build.VERSION_CODES.M) {
-                // Code to run for Android version greater than 6.0 (API level 23)
-                instance?.disableSelf()
-                if (late?.isThingInitialized == true) {
-                    try {
-                        unregisterReceiver(late?.listenerChangeWindowManager)
-                    } catch (e: IllegalArgumentException) {
-                    }
-                }
-                if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.N) {
-                    MySharePreferencesEdge.setAccessibilityEnabled(
-                        MySharePreferencesEdge.ACCESSIBILITY_BROADCAST, false, this
-                    )
-                    if (binding?.switchDisplay?.isChecked==true) {
-                        drawOverlay = false
-                        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
-                            MySharePreferencesEdge.DISPLAY_OVERLAY, false, this
-                        )
-                    }
-                    if (binding?.switchCharging?.isChecked == true) {
-                        Toast.makeText(applicationContext, "accessibilty off", Toast.LENGTH_SHORT)
-                            .show()
-                        MySharePreferencesEdge.putDisplayOverLayBooleanValue(
-                            MySharePreferencesEdge.SHOW_WHILE_CHARGING, false, this
-                        )
-                        stopService(
-                            Intent(
-                                EdgeOverlaySettingsActivity.activity, TimerService::class.java
-                            )
-                        )
-                        stopService(
-                            Intent(
-                                EdgeOverlaySettingsActivity.activity, WindowService::class.java
-                            )
-                        )
-                        EdgeOverlaySettingsActivity.activity?.let {
-                            AsynchronousTask(
-                                "setEdgeBorderColor", it ).execute("")
-                        }
-
-                    }
-
-                    binding?.apply {
-                        edgeLightView.visibility = View.VISIBLE
-                        edgeLightView.changeType(EdgeOverlaySettingsActivity.type)
-                        edgeLightView.changeColor(EdgeOverlaySettingsActivity.color)
-                        edgeLightView.changeSize(EdgeOverlaySettingsActivity.size)
-                        edgeLightView.changeSpeed(EdgeOverlaySettingsActivity.speed)
-                        edgeLightView.changeBorder(
-                            EdgeOverlaySettingsActivity.cornerTop,
-                            EdgeOverlaySettingsActivity.cornerBottom
-                        )
-                        edgeLightView.changeNotch(
-                            EdgeOverlaySettingsActivity.checkNotch,
-                            EdgeOverlaySettingsActivity.notchTop,
-                            EdgeOverlaySettingsActivity.notchBottom,
-                            EdgeOverlaySettingsActivity.notchHeight,
-                            EdgeOverlaySettingsActivity.notchRadiusTop,
-                            EdgeOverlaySettingsActivity.notchRadiusBottom
-                        )
-                    }
-                }
-            } else {
-                // Code to run for Android version 6.0 (API level 23) or lower
-
-            }
-
-        } catch (e: NullPointerException) {
-            e.printStackTrace()
-        }
     }
 
     @RequiresApi(Build.VERSION_CODES.N)

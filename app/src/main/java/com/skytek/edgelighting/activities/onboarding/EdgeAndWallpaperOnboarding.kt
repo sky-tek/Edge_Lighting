@@ -30,7 +30,7 @@ class EdgeAndWallpaperOnboarding : AppCompatActivity() {
         setContentView(binding.root)
         fireEvent("RV_${BuildConfig.VERSION_CODE}_EDGE_AND_WallPaper_Boarding")
         if (wholeScreenAdShow && wallpaperOnboardingAdShow) {
-            if (NativeToBanner) {
+            if (true) {
                 loadOnDemandNativeAd(
                     this, binding.adContainer, INTROOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
                 ).setBackgroundColor("#1C1C1C").setTextColorButton("#000000")

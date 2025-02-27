@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
+
     <uses-feature
         android:name="android.software.live_wallpaper"
         android:required="true" />
+
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE_SPECIAL_USE" />
     <uses-permission android:name="android.permission.REORDER_TASKS" />
     <uses-permission android:name="android.permission.SET_WALLPAPER" />
@@ -50,7 +52,7 @@
         <activity
             android:name=".activities.onboarding.EdgeAndWallpaperOnboarding"
             android:exported="true"
-            android:screenOrientation="portrait" >
+            android:screenOrientation="portrait">
 
         </activity>
         <activity
@@ -71,8 +73,8 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".activities.onboarding.OnBoardingLanguageScreen"
-            android:screenOrientation="portrait"
-            android:exported="false" />
+            android:exported="false"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activities.LiveWallpaperPreviewActivity"
             android:exported="false"
@@ -107,13 +109,21 @@
             android:screenOrientation="portrait"
             android:theme="@style/AdTheme"
             tools:replace="android:theme" />
-        <activity android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample4Activity"
-            android:screenOrientation="portrait"/>
-        <activity android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingFinishActivity"
-            android:screenOrientation="portrait"/>
-        <activity android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample1Activity"  android:screenOrientation="portrait"/>
-        <activity android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample2Activity"  android:screenOrientation="portrait"/>
-        <activity android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample3Activity"  android:screenOrientation="portrait" />
+        <activity
+            android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample4Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingFinishActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample1Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample2Activity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.thecode.onboardingviewagerexamples.activities.OnboardingExample3Activity"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activities.ExitActivity"
             android:exported="false"
@@ -127,6 +137,10 @@
             android:name="com.google.android.gms.ads.APPLICATION_ID"
             android:value="@string/EL_AppAD_ID" />
 
+        <activity
+            android:name=".activities.onboarding.MainActivityOnBoarding"
+            android:exported="false"
+            android:screenOrientation="portrait" />
         <activity
             android:name=".activities.StartActivity"
             android:exported="false"
@@ -191,7 +205,7 @@
         </service>
         <service
             android:name="com.mobi.pixels.firebase.Messaging"
-            android:exported="false" >
+            android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
@@ -208,12 +222,12 @@
             android:label="@string/app_name" />
         <service
             android:name=".MyAccessibilityService"
-            android:exported="true"
             android:configChanges="orientation|screenSize|locale"
+            android:exported="true"
             android:foregroundServiceType="specialUse"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
             <intent-filter>
-                <action android:name="android.intent.action.CONFIGURATION_CHANGED"/>
+                <action android:name="android.intent.action.CONFIGURATION_CHANGED" />
             </intent-filter>
             <intent-filter>
                 <action android:name="android.accessibilityservice.AccessibilityService" />
@@ -305,16 +319,16 @@
              </intent-filter>
          </service>
         -->
-<!--        <receiver-->
-<!--            android:name=".receiver.IncomingCallReceiver"-->
-<!--            android:exported="true">-->
-<!--            <intent-filter>-->
-<!--                <action android:name="android.intent.action.PHONE_STATE" />-->
-<!--            </intent-filter>-->
-<!--            <intent-filter>-->
-<!--                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />-->
-<!--            </intent-filter>-->
-<!--        </receiver>-->
+        <!--        <receiver-->
+        <!--            android:name=".receiver.IncomingCallReceiver"-->
+        <!--            android:exported="true">-->
+        <!--            <intent-filter>-->
+        <!--                <action android:name="android.intent.action.PHONE_STATE" />-->
+        <!--            </intent-filter>-->
+        <!--            <intent-filter>-->
+        <!--                <action android:name="android.intent.action.NEW_OUTGOING_CALL" />-->
+        <!--            </intent-filter>-->
+        <!--        </receiver>-->
 
         <property
             android:name="android.adservices.AD_SERVICES_CONFIG"

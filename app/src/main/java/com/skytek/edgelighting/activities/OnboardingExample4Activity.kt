@@ -22,6 +22,7 @@ import com.skytek.edgelighting.R
 import com.skytek.edgelighting.activities.MainActivity
 import com.skytek.edgelighting.activities.SliderActivity
 import com.skytek.edgelighting.activities.onboarding.EdgeAndWallpaperOnboarding
+import com.skytek.edgelighting.activities.onboarding.OnBoardingLanguageScreen
 import com.skytek.edgelighting.databinding.ActivityOnboardingExample4Binding
 import com.skytek.edgelighting.utils.AdResources.NativeToBanner
 import com.skytek.edgelighting.utils.AdResources.bannerAdId
@@ -54,7 +55,11 @@ class OnboardingExample4Activity : AppCompatActivity() {
             if (adContainer != null) {
                 if (NativeToBanner) {
                     loadOnDemandNativeAd(
-                        this, adContainer, permissionOnBoardingAdId, NativeAdType.NativeSmall,NativeLayoutType.Layout2
+                        this,
+                        adContainer,
+                        permissionOnBoardingAdId,
+                        NativeAdType.NativeSmall,
+                        NativeLayoutType.Layout2
                     ).setBackgroundColor(resources.getString(R.color.round_background))
                         .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
                         .setTextColorDescription("#ffffff").setButtonColor("#0071EC")
@@ -125,7 +130,14 @@ class OnboardingExample4Activity : AppCompatActivity() {
                 finish()
             } else {
                 markFirstOnboardingAsCompleted()
-                startActivity(Intent(this@OnboardingExample4Activity, MainActivity::class.java))
+                val intent = Intent(
+                    this@OnboardingExample4Activity,
+                    OnBoardingLanguageScreen::class.java
+                )
+                intent.putExtra("onboardinglan", true)
+                startActivity(
+                    intent
+                )
                 finish()
             }
         }

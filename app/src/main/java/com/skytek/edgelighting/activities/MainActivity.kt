@@ -182,20 +182,12 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
         }
 //        getNavigationBarHeight(this@MainActivity)
 //        setBottomMargin(binding!!.adViewContainer, getNavigationBarHeight(this@MainActivity))
-        if (checkInternetConbection(this@MainActivity) && wholeScreenAdShow && mainScreenAdShow && bannerToNative) {
-
-            loadOnDemandBannerAd(
-                this, binding!!.adViewContainer, bannerAdId, BannerAdType.Banner
-
-            ).enableShimmerEffect(true).load()
-
-        } else {
             if (mainScreenAdShow && wholeScreenAdShow) {
                 loadOnDemandNativeAd(
                     this@MainActivity,
                     binding!!.adViewContainer,
                     nativeAdId,
-                    NativeAdType.NativeSmall,
+                    NativeAdType.NativeAdvance,
                     NativeLayoutType.Layout2
                 ).setBackgroundColor("#61C6A2FF").setTextColorButton("#ffffff")
 
@@ -203,7 +195,7 @@ class MainActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelecte
                     .setAdIcon(NativeAdIcon.White).enableShimmerEffect(true)
                     .setShimmerBackgroundColor("#000000").setShimmerColor(ShimmerColor.White).load()
             }
-        }
+
 
 
 

@@ -57,7 +57,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
                     this,
                     binding.adViewContainer,
                     InAppOnBoardingAdId,
-                    NativeAdType.NativeSmall,
+                    NativeAdType.NativeAdvance,
                     NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
@@ -71,7 +71,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
                     this,
                     binding.adViewContainer,
                     nativeAdId,
-                    NativeAdType.NativeSmall,
+                    NativeAdType.NativeAdvance,
                     NativeLayoutType.Layout2
                 ).setBackgroundColor(resources.getString(R.color.round_background))
                     .setTextColorButton("#ffffff").setTextColorTitle("#ffffff")
@@ -114,6 +114,8 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
         binding.dialogSearchBtn.setOnClickListener {
             markOnboardingAsCompleted()
             /*    setLanguage()*/
+            Log.d("svcjSVCsvc", "selected: $selected")
+            Log.d("svcjSVCsvc", "intent.getBooleanExtra(\"onboardinglan\", false): ${intent.getBooleanExtra("onboardinglan", false)}")
             if (selected) {
 
                 fireEvent("RV_${packageInfo?.versionCode}_App_Language_change_to_${lanCode}")
@@ -142,7 +144,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 
                     startActivity(
                         Intent(
-                            this@OnBoardingLanguageScreen, RequestPermissionActivity::class.java
+                            this@OnBoardingLanguageScreen, MainActivityOnBoarding::class.java
                         )
                     )
                     finish()
@@ -164,7 +166,7 @@ class OnBoardingLanguageScreen : AppCompatActivity() {
 
                     startActivity(
                         Intent(
-                            this@OnBoardingLanguageScreen, RequestPermissionActivity::class.java
+                            this@OnBoardingLanguageScreen, MainActivityOnBoarding::class.java
                         )
                     )
                     finish()
