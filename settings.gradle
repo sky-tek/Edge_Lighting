@@ -15,3 +15,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Edge_Lightning_App"
 include ':app'
+include ':ads'

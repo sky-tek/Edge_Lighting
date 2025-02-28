@@ -90,7 +90,7 @@ dependencies {
     implementation "androidx.multidex:multidex:2.0.1"
     implementation("org.greenrobot:eventbus:3.3.1")
     implementation "com.airbnb.android:lottie:5.0.2"
-    implementation 'com.github.Amankhan-mobipixels:Mobipixels:2.2.9'
+
     implementation 'androidx.work:work-runtime-ktx:2.7.1'
     implementation 'androidx.navigation:navigation-fragment-ktx:2.8.5'
     implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.17'
@@ -118,5 +118,6 @@ dependencies {
     implementation 'com.davemorrissey.labs:subsampling-scale-image-view-androidx:3.10.0'
     //custom onBoarding dots
     implementation("com.tbuonomo:dotsindicator:5.1.0")
+    implementation project(':ads')
 }
 
